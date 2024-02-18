@@ -1,0 +1,26 @@
+Original: mirror_10.txt - 2771 bytes
+Compressed: mirror_10.txt.gz - 1375 bytes
+
+Original: mirror_11.txt - 5673 bytes
+Compressed: mirror_11.txt.gz - 2670 bytes
+
+Original: mirror_12.txt - 3072 bytes
+Compressed: mirror_12.txt.gz - 1570 bytes
+
+Original: mirror_13.txt - 5616 bytes
+Compressed: mirror_13.txt.gz - 2539 bytes
+
+Original: mirror_14.txt - 2382 bytes
+Compressed: mirror_14.txt.gz - 1283 bytes
+
+Original: mirror_15.txt - 5641 bytes
+Compressed: mirror_15.txt.gz - 2622 bytes
+
+Original: mirror_16.txt - 5262 bytes
+Compressed: mirror_16.txt.gz - 2391 bytes
+
+Original: mirror_8.txt - 3026 bytes
+Compressed: mirror_8.txt.gz - 1587 bytes
+
+Original: mirror_9.txt - 1495 bytes
+Compressed: mirror_9.txt.gz - 700 bytes
