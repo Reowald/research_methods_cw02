@@ -1,10 +1,12 @@
 import os
 
+#psuedo code that roughly exaplins process
+
 # create a dictionay with linearised values
 def kolmogorov_model_trainer(input_values):
     model = {}
-    for value in input values:
-        linearise_values(value)
+    for value in input input_values:
+        linearise_values(value) # probably linearise big swathes of data points
         model.insert(category, linearise_values)
 
 # create a classifier that can import new data and make a prediction
