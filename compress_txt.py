@@ -3,6 +3,8 @@ import gzip
 import csv
 
 
+# made a change
+
 def compress_text_files(folder_path):
     # Create an output folder for compressed files
     output_folder = os.path.join(folder_path, "compressed")
