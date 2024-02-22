@@ -1,6 +1,6 @@
 import os
 
-#psuedo code that roughly exaplins process
+#psuedo code that roughly explains process
 
 # create a dictionay with linearised values
 def kolmogorov_model_trainer(input_values):
