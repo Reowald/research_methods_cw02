@@ -7,7 +7,7 @@ from sklearn.utils.multiclass import unique_labels
 from sklearn.metrics.pairwise import euclidean_distances
 
 '''THIS FILE IS NOT WORKING CURRENTLY TAKEN DIRECTLY FROM A LAB SESSION FILE FOR DATA MINING - 
-NEEDS TO BE CODING FOR OUR PROJECT'''
+NEEDS TO BE CODED FOR OUR PROJECT'''
 
 # read CSV file in dataframe
 news_data = pd.read_csv('compression_info.csv')
