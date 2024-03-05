@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 pd.plotting.register_matplotlib_converters()
+from sklearn.model_selection import train_test_split
 
 '''An approximation of conditional Kolmogorov complexity'''
 
@@ -63,3 +64,23 @@ plt.show()
 plt.figure(figsize=(8,6))
 sns.boxplot(data=news_data, palette="Set1")
 plt.show()
+
+#KDE PLot
+sns.kdeplot(data=news_data, y='com_ratio', x='kol_com')
+sns.kdeplot(data=news_data['com_ratio'], label="com ratio", fill=True)
+sns.kdeplot(data=news_data['kol_com'], label="com ratio", fill=True)
+
+# Add title and legend
+plt.title("add details")
+plt.show()
+#plt.legend()
+
+#BARPLOT - COUNTPLOT - SCATTERPLOT - BOXPLOT - KDEPLOT
+
+#sns.countplot(x= 'income', data=Adult_data)
+
+#X= Adult_data[COLUMNS]
+#X.head()
+#y = Adult_data.income
+#y.head()
+
