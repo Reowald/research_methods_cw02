@@ -1,0 +1,85 @@
+Flushing the toilet might be a lot grosser than you had expected.
+
+According to scientists, flushing sends out 'toilet plumes' of tiny droplets which spread through the air to every surface of the bathroom.
+
+But can closing the lid keep you safe from this spray?
+
+Unfortunately, scientists from the University of Arizona say it actually makes no difference whether the lid is up or the lid is down.
+
+Instead, regularly cleaning the bowl with disinfectant can eliminate the worst of the bacteria and make flushing safe no matter where the lid is, they say.
+
+Scientists say that the flush can release a plume of aerosolised bacteria and viruses into the air - but is it better to leave the lid open or closed when flushing?
+
+Since the 1950s it has been well known that flushing the toilet leads to an explosion of faecal matter, toilet water, and anything else that might be in the bowl.
+
+But this includes material you can't see, as scientists say that 'toilet plumes' contain droplets so small that they form an invisible aerosol mist.
+
+Previous studies from the University of Colorado have used green light and lasers to reveal that these plumes can fly 4.9 feet above the toilet within eight seconds.
+
+What's even more worrying is that these aerosols can drift on air currents and carry bacteria and viruses around the bathroom, coating any surfaces and people present.
+
+This can lead to the spread of diseases like E. Coli, norovirus, and even Covid 19.
+
+Due to the risk of infection this creates, especially on hospital wards or for the immunocompromised, prevailing wisdom recommends closing the lid to contain the spray.
+
+But as the researchers point out in their paper, this hasn't got any substantial scientific basis.
+
+They say in their paper published in the American Journal of Infection Control: 'The possible benefit of toilet lid closure during flushing for reducing viral contamination of restroom surfaces has not been demonstrated empirically.'
+
+Researchers seeded a toilet with MS2 bacteria, a model for E. Coli, and took samples of the areas surrounding the toilet one minute after flushing
+
+The most contaminated areas of the bathroom after flushing: Toilet Bowl Water Toilet Brush Toilet Seat (top and bottom) Floor surrounding the toilet Bathroom walls Toilet Lid Source: M. Goforth et al., 2024 Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+To find out more, the researchers seeded a public and private toilet with samples of MS2 bacteria as a model for E. Coli.
+
+The toilets were then flushed and, after a minute, samples were taken from various surfaces around the bathroom.
+
+These samples were then transferred to the lab and studied to see how contaminated they had become.
+
+What was surprising was that there was no statistically significant difference between closing the lid or not.
+
+The researchers found that samples taken from around the toilet appeared to have been just as contaminated with MS2 regardless of whether the lid was up or down.
+
+Instead, the researchers found evidence that closing the lid likely changed the trajectory of the plume – down towards the floor rather than straight up in the air.
+
+Overall, the toilet seat was the most contaminated area, on both top and bottom, followed by the floor around the toilet, and the walls to either side.
+
+However, the toilet lid itself appeared to remain oddly clean.
+
+Surprisingly the researchers found that leaving the lid open or closed made no statistically significant difference to the spread of bacteria around the bathroom
+
+READ MORE Aerosol droplets from the loo containing urine, faeces and vomit stay in the air for up to 20 seconds Harpic, the chemical company, used high-speed specialist cameras to capture the explosion of particles from a toilet Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_3 - ->
+
+The researchers wrote: 'Surprisingly, MS2 contamination of the bottom or top of the toilet lid was consistently low, regardless of lid position prior to flushing.'
+
+The public toilets in the study, which don't not have a lid to close, were found to be consistently more contaminated than the domestic toilet.
+
+But the researchers suggest that this is likely due to higher flow of water into the toilet bowl during flushing in public toilets.
+
+But there is still no reason to fear flushing your toilet as the researchers believe there is a solution.
+
+The scientists tested how bacteria were spread during routine toilet cleaning with and without the use of disinfectant.
+
+They found that cleaning with the brush alone spread MS2 bacteria to the brush, toilet brush caddy, and parts of the surrounding area.
+
+But vigorous brushing in addition to adding disinfectant reduced the contamination of the toilet water by 99.99 per cent compared with brushing alone.
+
+Adding Lysol disinfectant to the bowl before flushing also saw statistically significant reductions in the contamination of the brush used to clean the toilet.
+
+While disinfectant didn't stop cleaning from spreading some aerosolised bacteria around the bathroom, it did significantly reduce the amount of bacteria left in the bowl.
+
+But, as this graph shows, adding disinfectant to the toilet bowl while cleaning led to significant reductions in the amount of bacteria in the bowl. It is important to note that the scale on this graph is logarithmic rather than linear so differences may appear less significant than they are in reality
+
+This is important because the researchers note that bacteria can linger in the toilet even after multiple flushes.
+
+If you share a bathroom with someone who has a norovirus, for example, you could become infected with their illness by flushing even if you don't the use the toilet directly after them
+
+Yet, given the significant effect of disinfectant on levels of bacteria in the water, the researchers say that regularly disinfecting the toilet is the best way to minimise this risk.
+
+The use of disinfectant is especially important when a member of the household has a compromised immune system.
+
+Although the researchers note that the levels of contamination found in this study were relatively low, they maintain this shows that flushing is a potential infection route.
+
+They therefore recommend 'regular disinfection of all restroom surfaces following toilet brushing, and/or use of a disinfectant that leaves residual microbicidal activity.
+
+'Particularly when the household is occupied by an individual with an active infection with a virus, such as norovirus, causing acute gastroenteritis.'

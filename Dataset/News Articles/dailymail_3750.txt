@@ -1,0 +1,77 @@
+A top cancer surgeon at Columbia University is under fire for publishing numerous studies with 'suspicious data.'
+
+Dr. Sam S. Yoon recycled images of tumor-stricken mice in a 2021 study from his 2020 research - and the paper was 'quietly' withdrawn this month.
+
+The paper in question claimed to describe a new drug that reduced stomach cancer growth, and the images of the mice were only rotated to seem slightly different.
+
+However, reports claim the 2021 study was just the tip of the iceberg - Yoon has reprocessed work in 26 studies since 2008.
+
+Dr. Sam S. Yoon, who works at the medical center, recycled images of tumor-stricken mice in a 2021 study from his 2020 research - and the paper was 'quietly' withdrawn this month
+
+DailyMail.com has contacted Yoon for comment.
+
+Yoon graduated from Harvard University and went on to the University of California at San Diego to obtain his medical degree.
+
+He currently serves as the chief of the division of surgical oncology at Columbia University in New York City.
+
+According to Columbia University's website, Yoon's laboratory 'has been funded by the National Institutes of Health/National Cancer Institute for 18 years.'
+
+The latest cancer study was withdrawn a few months after being published due to an investigation by the New York Times.
+
+The study, 'PI3K/Akt pathway and Nanog maintain cancer stem cells in sarcomas,' was co-authored with researchers from the Memorial Sloan Kettering Cancer Center, University of Pennsylvania and Fujian Medical University Union Hospital.
+
+The paper in question (left) claimed to describe a new drug that reduced stomach cancer growth and the images of the mice were only rotated to seem slightly different.
+
+The images of the cancer riddled mice used in the 2021 paper first appeared in the 2020 study (pictured)
+
+The images of the cancer riddled mice used in the 2021 paper first appeared in the study, 'ERK1/2-Nanog signaling pathway enhances CD44(+) cancer stem-like cell phenotypes and epithelial-to-mesenchymal transition in head and neck squamous cell carcinomas' - published one year prior.
+
+Both papers discuss potential treatments for stomach cancer and using the same subject images suggests the work is faulty.
+
+The 2021 paper, co-authored by Changhwan Yoon, was published by Elsevier, which did not share an explanation for withdrawing the article.
+
+However, the publisher said: 'The editors determined that the article violated journal publishing ethics guidelines.' The decision could have been to not draw attention to the surgeon who is well-respected in his field.
+
+Elsevier claimed editors had notified the researchers about the removal, but the authors failed to share the news with Memorial Sloan Kettering.
+
+Molecular biologist Sholto David first sounded the alarm on Yoon's work last year after finding the surgeon collaborated with a Rolodex of researchers on the 26 papers that featured the repeating cancer cell and tumor images.
+
+David analyzed each of the papers with the help of AI-powered detection tools to uncover misleading data in the documents.
+
+Harvard Medical Center, University of California - Los Angeles, Howard University and Penn Medicine, are among the top universities in the US and are where many of the researchers involved in Yoon's study are affiliated.
+
+Also on the list are experts from the Mount Sinai Health System, Memorial Sloan Kettering, Georgetown and Duke University.
+
+It is unclear if the other researchers named on the papers were aware of the recycled information.
+
+Other images used different color intensities to appear different from previous publications. The right image was used in a 2021 and the left in 2018. According to David's investigation, many of the repeated cell images match by the papers provide different treatment conditions
+
+David published a blog in November 2023 on For Better Science about his findings and contacted Memorial Sloan Kettering, Columbia and Memorial Sloan Kettering.
+
+However, none of the publications were retracted until this month.
+
+'In total, I have found ten papers published between 2013 and 2021 where these invasion and migration images appear and are labeled as showing a variety of contradicting cell lines and experimental conditions, there are many more overlapping examples between these papers that I have not annotated,' David wrote in his blog.
+
+The articles focused on why certain stomach and soft-tissue cancers reject treatments, and how potential solutions to fight the resistance.
+
+According to David's investigation, many of the repeated cell images match ones from other papers about treatments for different conditions.
+
+A photograph of a tumor first appeared in a 2017 (bottom image) article with a measuring tool along the left side. Then it showed up again three years later, but was rotated to show the ruler underneath the tumor (top image)
+
+Other images used different color intensities to appear different from previous publications.
+
+'There's no reason to have done that unless you weren't doing the work,' David told the New York Times.
+
+A photograph of a tumor first appeared in a 2017 article with a measuring tool along the left side.
+
+Then it showed up again three years later, but was rotated to show the ruler underneath the tumor.
+
+Elisabeth Bik, a microbiologist and image expert, said: 'This is another example where this looks intentionally done.'
+
+Approximately nine articles David found to have repeated data had appeared in Springer Nature, which said it was investigating concerns.
+
+The American Association for Cancer Research claimed the same response after being notified it featured 10 articles under question from Dr. Yoon's lab across four journals.
+
+The delayed responses have sparked fury among the scientific community, with researchers saying the system of policing scientific is 'broken,' according to the New York Times.
+
+'This is typical, sweeping-things-under-the-rug kind of nonsense,' said Dr. Ivan Oransky, co-founder of Retraction Watch, which keeps a database of 47,000-plus retracted papers. 'This is not good for the scientific record, to put it mildly.

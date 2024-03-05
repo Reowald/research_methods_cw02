@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Default rates on mortgages and credit cards increased in the run-up to Christmas and are expected to keep rising, lenders have told the Bank of England, as cash-strapped households “simply run out of road”.
+
+Banks and building societies reported that defaults rose on mortgages and other lending in the fourth quarter of 2023, as the central bank’s decision to hike interest rates 14 times in a row to combat inflation continue to cause pain for homeowners.
+
+With Threadneedle Street’s base rate looking set to remain at 5.25 per cent – its highest since the 2008 financial crisis – for at least several months, lenders believe mortgage and credit card defaults will continue to rise in the first three months of 2024.
+
+Default rates on mortgages and credit cards increased in the run-up to Christmas (PA Archive)
+
+Demand for mortgages from both home buyers and homeowners remortgaging also fell in the fourth quarter of 2023, however both were expected to increase in early 2024.
+
+Default rates were also expected to increase slightly for small and medium-sized businesses in the first quarter of the year, but to be unchanged for large businesses in the first quarter of this year.
+
+“The increase in default rates is concerning and highlights that we are certainly not out of the woods yet,” said Riz Malik, founder and director at R3 Mortgages. “Those who are struggling should speak to their lender or seek advice to see if there are any other options to restructure their debt as early as possible.”
+
+Stephen Perkins, of Yellow Brick Mortgages, warned that the defaults were evidence of “incessant pressure on household finances”, with many households now hitting “breaking point” after cutting back where possible and exhausting all available credit options.
+
+“Rate reductions on mortgages will help some but are coming too late for many,” said Mr Perkins. “These figures will look even worse over the coming months. For many, the mortgage rate reprieve we’re currently in will sadly be too little, too late.”
+
+Demand for mortgages fell in December, lenders said (Getty)
+
+Warning that “many people have simply run out of road”, Michelle Lawson of Lawson Financial said: “There is literally no money left anywhere and households have had so much pressure with increased mortgage costs, inflation-hit shopping and astronomical utility bills. People can only take so much before things start to break.
+
+“Property isn't easy to sell at the moment if there is a downsizing option and this also doesn't come without costs.”
+
+While inflation rose slightly again in December after falling to 3.9 per cent, the Bank of England is now finding itself under growing pressure to lower interest rates and aid those struggling with mortgage costs.
+
+“Since Trussonomics took a sledgehammer to the mortgage market, the pressure on families has been immense,” said Imran Hussain, of Harmony Financial Services.
+
+“Despite the mortgage rate cuts of the past few months, this data shows we are not out of the woods. Any borrowers who are struggling should speak to their lenders immediately.
+
+Additional reporting by PA

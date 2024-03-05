@@ -1,0 +1,107 @@
+Sign up to our free weekly newsletter for insider tips and product reviews from our shopping experts Sign up for our free IndyBest email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyBest email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+About us
+
+Hello and welcome to IndyBest, The Independent’s dedicated shopping advice section. We provide unbiased reviews, product news, deals coverage and expert advice so you can be confident that you’re spending your money wisely. We want every purchase you make – big or small – to be the best for you.
+
+Our editors and writers have years of experience and spend weeks (sometimes months) trialling products in everyday settings, across tech, fashion and beauty, home and garden, and so much more. Testing products in a real-life environment means we can be sure that they perform in the way you, our reader, will be using them (should you be interested in the process, you can read more on how we test everything featured). As consumers and shopping experts, we’d never feature or recommend a product that we wouldn’t spend our money on. So whether you’re seeking advice on the best mattress, cordless vacuum, laptop or wireless earbuds, you’ll find trustworthy, tried and tested reviews on IndyBest.
+
+We are also experts in deal-hunting. The team is passionate about finding you the genuine best discounts all year round, as well as during significant sale events, be that Amazon Prime Day, Black Friday, Boxing Day and the January sales.
+
+If you want to know more about IndyBest, scroll on to meet our amazing team and learn about why you can trust us.
+
+Read more: How the IndyBest team test and review products
+
+Meet the team
+
+To provide our readers with the most valuable and trustworthy reviews, IndyBest works with a wide range of expert freelance writers who specialise in everything from wearable tech and outdoor clothing to sustainable beauty and energy-efficient appliances. Our priority is to find the best reviewer for the product at hand.
+
+The IndyBest team of in-house writers and editors are adept not only at commissioning experts to write reviews, but also at following consumer trends, spotting the best deals, and shopping big sales events. We are obsessive about tracking product launches and news, as well as following celebrity and social media trends. Between us, we have decades of experience working in shopping, commerce, reviews and news at top publications.
+
+The team is also committed to identifying greenwashing and helping our readers know how to shop sustainably. We’re passionate about shopping and dedicated to helping our readers find the best products at the best prices. Below, you can learn a little more about our in-house IndyBest staff.
+
+Eva Waite-Taylor ( The Independent)
+
+Eva Waite-Taylor, Deputy eCommerce Editor
+
+Eva is the deputy eCommerce editor and commissions and edits content on IndyBest. Alongside this, she writes news pieces, reviews and round-ups across fashion, beauty and homeware. She has interviewed celebrities, such as Lucy Siegle, Prue Leith, Bosh! and Julia Quinn to hear their product recommendations.
+
+Email Eva with the latest fashion and beauty news, launches and trends at eva.waite-taylor@independent.co.uk, and follow her on Instagram @evawaitetaylor.
+
+Sarah Young, Assistant eCommerce Editor
+
+Sarah Young (The Independent)
+
+Sarah is the assistant eCommerce editor, in her role she assists with commissioning and editing tried and tested reviews across all of the IndyBest categories. She pulls on her years of experience as a lifestyle writer at The Independent and covers all things homeware, fashion, beauty, food and kids. She joined The Independent’s editorial eCommerce team in 2020 and is a pro at covering shopping events, such as Black Friday and Amazon Prime Day.
+
+Email Sarah at sarah.young@independent.co.uk and follow her on Instagram @sarah_j_jones.
+
+Dasiy Lester (The Independent)
+
+Daisy Lester, Senior eCommerce Writer
+
+Daisy Lester is a senior eCommerce writer for IndyBest and covers product and lifestyle content across the section, with a particular interest in fashion. She joined the team in October 2020 as a production journalist and was promoted to eCommerce writer in March 2022 and senior eCommerce writer in October 2023. Daisy stays abreast of fashion and beauty launches and covers sales events, so she is an expert at digging out the best deals.
+
+Email Daisy at daisy.lester@independent.co.uk and follow her on Twitter @D_aisyl.
+
+Alex Lee (The Independent)
+
+Alex Lee, Tech Writer
+
+Alex Lee specialises in consumer technology and frequently reviews the latest Apple devices, audio gear and games for IndyBest. He is an expert at helping readers find the right tech for their needs. Before joining The Independent, Alex worked at Wired where he wrote features, reviews and analysis pieces on a range of subjects including internet culture, privacy and security, the entertainment and streaming industries, and science and gadgets.
+
+Email Alex at alex.lee@independent.co.uk or find him on Twitter at @1AlexL.
+
+Steve Hogarty (The Independent)
+
+Steve Hogarty, Tech Writer
+
+Steve Hogarty is a tech writer at IndyBest, he covers anything with a chip in it, from phones, laptops, tablets and e-bikes to gaming, smart home and audio hardware. He has more than a decade’s experience in the video games and technology industry and joined IndyBest in 2021. Steve was a regular guest on the TV series Videogame Nation and his previous publications include City AM, the Official Nintendo Magazine, and PC Zone.
+
+Email Steve with tech news and product launches at steve.hogarty@independent.co.uk.
+
+Lois Borny ( The Independent)
+
+Lois Borny, Production Journalist
+
+Lois Borny is a production journalist at IndyBest where she uploads our expert testers’ reviews. Having joined The Independent in March 2021, she now works across product news, reviews and image production. Lois also writes for the section and covers everything from fashion and beauty to home and garden. Lois is particularly passionate about vegan products and sustainability.
+
+Email Lois at lois.borny@independent.co.uk.
+
+Angharad Moran (The Independent)
+
+Angharad Moran, Senior Production Journalist
+
+Angharad Moran is IndyBest’s senior production journalist. She joined The Independent in August 2022, having formerly worked as a production editor at Key Publishing and Immediate Media. Angharad oversees the production of all content on IndyBest and other areas of eCommerce, including product news, reviews and round-ups, and she also works on sales events throughout the year.
+
+David Phelan, Technology Critic
+
+David Phelan (Michael Wharley)
+
+David Phelan has written for The Independent since 1997 and is now the title’s technology critic. Within the role, he interviews major players in the industry, including Tim Cook, but he also writes tech reviews for IndyBest. His speciality areas lie in wearable tech, home entertainment, smart home devices and mobiles. He’s also always the first to know about Apple’s latest launches, with his most recent reviews covering the iPhone 15 and MacBook Pro.
+
+Why you should trust us
+
+Independent
+
+Honest, independent reviews are our main priority. We are committed to bringing our readers non-biased, accurate information and to recommending the best retailers for each product. To this end, we do not let commercial values affect our editorial judgment. While we occasionally run advertisements across the section, this does not impact our product selection, which is a result of rigorous testing. Being independent and unbiased in our reviews and shopping guides is backed up by the weight of The Independent and its values.
+
+Real-life testing
+
+Here at IndyBest, all of our experts test everything in real-life settings. Rather than testing in labs, all products we review are tested by and on the people who use them every day. This enables us to give our readers an honest and realistic review of how a product will perform when they use it themselves. If we don’t think it is worth your money and is not something we’d buy ourselves, it won’t be featured.
+
+Affiliate disclosure
+
+We are open about the fact that in certain instances we make money from the products purchased through our links to brands and retailers’s websites. But we never allow this to influence our product selection, which is a result of real-world testing and expert advice, and our commercial and editorial teams work independently. The revenue we do make helps to fund journalism across The Independent.
+
+Your privacy
+
+At The Independent, we take your privacy seriously, which is why we adhere to a strict privacy policy and cookie policy. Similarly, when it comes to any competitions that we run, there are a number of terms and conditions we abide by.
+
+Contact us
+
+If you have any comments or complaints and want to get in touch, please do so by emailing us at: managingeditor@independent.co.uk
+
+We also want to read your reviews and see photos and videos of the products that you have invested in as a result of our advice. Email indybestcommunity@independent.co.uk or tag us on Instagram @theindybest for a chance to be featured.

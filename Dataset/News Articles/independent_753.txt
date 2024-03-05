@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Alfa Romeo have changed their name ahead of the new Formula 1 season, with the Sauber-works team agreeing a new sponsorship deal with Australian streaming platform Kick.com.
+
+Sauber’s five-year association with Alfa Romeo came to an end at the end of the 2023 season, meaning a name change was always in the works.
+
+Yet with two years to go until German giant Audi officially takes over the team – which has been on the grid since 1993 – Sauber have a new, lengthy official title for the 2024 season.
+
+The team will officially be known as Stake F1 Team Kick Sauber, with the new sponsor securing chassis naming rights.
+
+Next year’s C44 car, therefore, will be known as the Kick Sauber.
+
+Casino and sports betting platform Stake have stayed on as a main sponsor.
+
+"Sauber has always been about innovation, breaking the mould and defying convention," said Sauber team representative Alessandro Alunni Bravi.
+
+"The partnership with Kick.com is the latest and boldest display of the philosophy that drives us.
+
+Valtteri Bottas and Zhou Guanyu will race for the Sauber-works team next year (Getty Images)
+
+“Kick.com is redefining the way live streaming is done and they will adopt the same disruptive approach in the world of Formula One.
+
+"With Kick.com, our goal is to make the next step in finding new and innovative ways to get closer to our fans."
+
+Sauber, like the other nine teams on the grid, have stuck with their driver pairing for the 2024 season, with Valtteri Bottas and Zhou Guanyu team-mates for the third straight year.
+
+The 2024 season, featuring a record 24 races, starts on 2 March with the Bahrain Grand Prix.

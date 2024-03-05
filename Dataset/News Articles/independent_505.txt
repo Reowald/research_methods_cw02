@@ -1,0 +1,63 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The race is on: many Britons are champing at the bit to leave our sceptred isle for some guaranteed sunshine this summer.
+
+Checking your vital paperwork is in order before travelling is essential, but Britain’s departure from the European Union, the introduction of new blue passports and confusion over passport expiry during the coronavirus lockdown period have left many uncertain as to the official requirements in relation to this essential document. We answer the important questions to help you prepare for your next trip away.
+
+How much will a new passport cost?
+
+A standard 34-page adult passport costs £75.50, a 50-page frequent traveller adult passport costs £85.50, a child’s passport (under 16) costs £49, and those born before 2 September 1929 can obtain passports for free. These fees are for online applications only – expect to pay approximately £10 more if you choose to complete a paper application.
+
+I have an ‘old’ burgundy passport with ‘European Union’ written on it. Do I need to apply for a new blue one?
+
+Nope. You can continue to use your burgundy/European Union passport until it expires.
+
+However, don’t forget that, since Brexit, the UK is subject to different passport expiry rules when visiting EU countries. British travellers must have at least three months left to run on their passport on the date they intend to leave the EU, and their passport must be less than 10 years old upon entry to the bloc.
+
+Read our full guide to passport validity when travelling to the EU.
+
+How long will it take to renew my passport?
+
+That depends. A backlog of applications during the pandemic combined with a shortage of staff has resulted in HM Passport Office reporting lengthier wait times than normal.
+
+Travellers are currently advised to allow 10 weeks for their applications to be processed. While some people may receive their travel documents before this point, The Independent has received a number of messages from readers claiming it has taken significantly longer, up to three months in some cases.
+
+I need to travel urgently for compassionate reasons. What should I do?
+
+If you need a passport to travel urgently for medical treatment, because a friend or family member is seriously ill or has died, or for urgent government business, you’re advised to call the Passport Adviceline to fast track your application.
+
+I need a new passport urgently for an upcoming trip. What should I do?
+
+If you have a fast-approaching holiday, you can pay more to speed up the application process.
+
+There are three ways to apply for an urgent passport. As part of the application, you’ll need to attend an appointment at your nearest passport office.
+
+You get your new passport at your appointment. Appointments last up to 30 minutes and the earliest you can get an appointment is two days from when you apply. You can only use Online Premium to renew an adult passport that was issued after 31 December 2001. This service costs £177 (or £187 for a 50-page frequent traveller passport).
+
+To use the Online Premium service you’ll need:
+
+Your old passport
+
+A device that takes digital photos (like a smartphone, tablet or digital camera) and someone to take your photo
+
+A digital photo of yourself
+
+You can also book an appointment and pay over the phone, rather than submitting an online application, if: you cannot use a computer, a smart phone or the internet; and/or you do not have a debit or credit card.
+
+You can use this service to renew an adult or child passport, change your name, make changes to personal details, such as gender, replace a lost or stolen or damaged passport or apply for a first child passport.
+
+You’ll need to get a paper application form from a Post Office, but you must book an appointment online.
+
+You’ll need to take to your appointment:
+
+Two identical printed passport photos
+
+Your completed paper application form
+
+Your supporting documents (read the booklet that comes with the paper form to find out what you need)
+
+Your new passport should be delivered to your home within one week of your appointment. Someone might need to be in to sign for this. This service costs £142 for an adult passport (or £152 for a 50-page frequent traveller passport), and £122 for a child passport (or £132 for a 50 page frequent traveller passport).
+
+If you have any questions, call the Passport Adviceline on 0300 222 0000. This is open from 8am to 8pm, Monday to Friday, and from 9am to 5.30pm on Saturday, Sunday and UK bank holidays.

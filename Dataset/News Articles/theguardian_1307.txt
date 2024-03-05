@@ -1,0 +1,65 @@
+The Era 300 is the second in Sonos’s next-generation line of wifi hi-fis, packing six speakers into one curvaceous box capable of immersing listeners in quality sound.
+
+The speaker costs £449 ($449/A$749) and sits above the new £249 Era 100, competing directly with Apple’s HomePod and other high-end speakers – premium audio at a premium price.
+
+But where the Era 100 is a compact bookshelf speaker, the Era 300 is a different animal. It needs to sit out in the open to allow it to project music outwards from its front, sides and top to fill the room with sound.
+
+The cinched-in design allows a series of speakers to fire up and out to the sides from the back half of the Era 300, projecting sound all around the listener for full stereo and new spatial audio surround sound.
+
+View image in fullscreen Touch-sensitive controls line the top of the speaker, including playback, track skip, mic mute and a volume slider. Photograph: Samuel Gibbs/The Guardian
+
+The speaker connects to your wifi for music, controlled via the Sonos app on your Android or iPhone. It also has Bluetooth 5 for connecting other devices and a USB-C port in the back for plugging in optional £39 Sonos ethernet or £19 line-in adapters if needed. It has microphones for using Sonos’s local voice assistant for playback control and Amazon’s Alexa but not Google’s Assistant.
+
+Specifications
+
+Dimensions: 16 x 26 x 18.5cm
+
+Weigh: 4.5kg
+
+Speakers: four tweeters, two woofers
+
+Connectivity: wifi 6, Bluetooth 5, USB-C, AirPlay 2, Spotify Connect
+
+Engaging, immersive sound
+
+View image in fullscreen The Era 300 has two woofers and four tweeters, including one that fires forward for centre channel, two at a side angle for stereo and one fires up for height. Photograph: Sonos
+
+Feed the Era 300 normal tracks from Spotify, Bluetooth or other services and it will pump out excellent stereo audio from a single box with a nice wide sound. But it will also play Dolby Atmos tracks from either Amazon or Apple Music, producing spatial audio that sounds more like you are inside and surrounded by the music than sitting in front of it.
+
+Sonos isn’t the first to do spatial or 3D audio but the Era 300 produces the most effective example of it I have listened to. It can be a genuinely transformative experience that adds to traditional stereo. Vocals appear to float in front of you, while backing tracks and individual instruments surround you including overhead, all backed by powerful bass that flows over you like waves. It is a similar effect to listening to proper multispeaker surround sound in movies but for music and from a single speaker.
+
+View image in fullscreen The Sonos app on Android or iPhone handles settings and acts as a remote for the speakers, showing when the track is being played in Dolby Atmos. Photograph: Samuel Gibbs/The Guardian
+
+The Era 300 produces the goods but Dolby Atmos music is a bit of a wild west at the moment. Few services support it, and even for those that do the quality of the tracks varies tremendously. It requires artists to properly craft the 3D sound experience. Some have done so, such as Ed Sheeran and the Weeknd. Others have thoroughly let the side down, putting out tracks that sound far worse than their stereo counterparts. Play one of those and you’ll be disappointed.
+
+The good news is normal stereo also sounds fantastic on the Era 300, with detailed highs, punchy mids and full bass deep enough for music. The separation between tones, clarity of vocals and balance of that sound are all top-notch. Sonos does a much better job of making each track sparkle without sounding too processed or clinical as is the case with some competitors. Grunge sounds suitably raw, rap nice and aggressive, classical beautifully subtle and electronica packed with high energy.
+
+I’m not sure many will need more than one Era 300 in each room but you can create a stereo pair, add one of Sonos’s subs for more bass or use them as rear surround speakers with the latest Beam (gen 2) or Arc soundbars.
+
+Like the Era 100, the new speaker supports Sonos’s “quick tune” Trueplay feature on Android and iPhone, which adapts the sound to fit your room. It also supports the more laborious full tuning, which takes about five minutes and requires an iPhone or iPad to perform but only needs to be done once.
+
+Sustainability
+
+View image in fullscreen The Bluetooth pairing button, a switch for manually disconnecting the mics, the USB-C port and power socket are in the back of the speaker. Photograph: Samuel Gibbs/The Guardian
+
+The Era 300 is generally repairable by Sonos. The company commits to a minimum of five years software support for feature updates after it stops selling a product but has a track record of much longer, including bug and security fixes for its legacy products.
+
+The speaker draws about 1.5W when idle and less while sleeping overnight, up to 9-13W at 50% volume and a maximum of 38W at 100% volume. It contains 40% recycled plastic and is designed with disassembly in mind for repair, refurbishment and recycling. Sonos offers trade-in and product recycling, and publishes annual responsibility and sustainability reports.
+
+Price
+
+The Sonos Era 300 comes in black or white costing £449 ($449/A$749).
+
+For comparison, the Ikea Symfonsik line starts at £99, the Era 100 costs £249, the Sonos Five costs £549, the Apple HomePod costs £299, the Amazon Echo Studio costs £219.99 and the Google Nest Audio costs £89.99.
+
+Verdict
+
+The Sonos Era 300 is one of the very best wifi speakers you can buy, producing the sort of sparkling audio that will have you discovering new elements of well-worn tracks.
+
+Its stereo performance is excellent, but it really comes alive if you feed it well-produced Dolby Atmos tracks for spatial audio that fills the room and fully immerses the listener. The trouble is that finding quality Dolby Atmos tracks is tough, with only Amazon and Apple Music offering the technology and with many bad mixes on them.
+
+To sound its best the speaker also needs space around and above it, such as a clear table top or stand and not slotted on to a shelf. Otherwise it is easy to use and set up, supports practically every music service under the sun and will be continually kept up to date for years. It has a choice of voice assistants including Sonos’s own and can be linked and expanded with any of the company’s speakers for multiroom audio.
+
+But it isn’t as easy a recommendation as the Era 100. The Era 300 is a brilliant, future-proofed speaker but it is expensive, and spatial audio is still in its infancy with support lacking from Spotify and most other services – those not already subscribed to the right service may want to wait.
+
+Pros: fantastic stereo and spatial audio, good-looking, easy to set up, wide support for music services, long support life, wifi 6, Bluetooth and line-in options, can be paired up, good optional voice control, Alexa support, recycled materials. Cons: expensive, no Google Assistant support, can’t be placed inside a cabinet or shelf, spatial audio tracks still hit and miss with limited services available.

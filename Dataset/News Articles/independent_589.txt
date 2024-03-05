@@ -1,0 +1,17 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Watch as the United Launch Alliance’s next-generation Vulcan rocket makes its debut flight from Cape Canaveral, Florida, on Monday morning (8 January).
+
+It is the first time that the US has attempted to land something on the moon for fifty years.
+
+Thought to be a competitor for Elon Musk’s SpaceX, the United Launch Alliance rocket successfully launched at 07:18am GMT.
+
+The high-stakes mission is carrying a moon lander built by Astrobotic and a payload of human ashes arranged by space memorial service Celestis.
+
+Remains include those of Star Trek creator Gene Roddenberry and members of the original TV series cast.
+
+The Vulcan rocket is sending up a Moon lander mission called Peregrine and if it touches down safely, it will be the first American craft to make a soft landing on the lunar surface since the Apollo era.
+
+It will also be the very first non-government, commercial venture to do so.

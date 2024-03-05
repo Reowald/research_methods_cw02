@@ -1,0 +1,155 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Its frenetic carnival – taking place in 2024 between 9-17 February – and New Year’s Eve celebrations may be legendary but Rio’s allure goes way beyond these signature events.
+
+This is a city generously blessed by geography and climate, with miles of beachfront, forested mountains and more than its fair share of global icons: from Sugarloaf Mountain and Christ the Redeemer to the great, sandy sweep of Copacabana. This physical diversity is echoed in a diverse population of indigenous, European, Asian and African descent. The result is a city with year-round appeal and a Carioca culture that’s all its own.
+
+If you’re looking for a samba-fuelled break in one of the world’s most exciting cities, here is your ultimate guide, including what to do, where to eat and drink, and the best places to stay.
+
+What to do
+
+Bird’s-eye view
+
+Rio de Janeiro city guide Show all 9 1 / 9 Rio de Janeiro city guide Rio de Janeiro city guide Rio de Janeiro isn't just for carnival Getty Rio de Janeiro city guide Copacabana beach is where to spot Rio's bright young things Getty Images Rio de Janeiro city guide Hop on a cable car to the Sugarloaf mountain Getty Images/iStockphoto Rio de Janeiro city guide The Museum of Tomorrow is worth a visit for the architecture alone Getty Images Rio de Janeiro city guide The Metropolitan Cathedral is a brutalist masterpiece Getty Images Rio de Janeiro city guide The Belmond Copacabana Palace is a Rio icon Belmond Copacabana Palace Rio de Janeiro city guide Havaianas are the quintessential Rio purchase Getty Images Rio de Janeiro city guide Confeitaria Colombo's interiors are as sweet as its baked goods confeitariacolombo Rio de Janeiro city guide When in Rio, drink caipirinhas Getty Images/iStockphoto
+
+Get the lay of the land by taking the cable car up Sugarloaf Mountain. The view from up here takes in Copacabana, Centro and Botafogo’s yacht-filled bay, all under the benevolent gaze of Christ the Redeemer looking down from Corcovado. Soak up the scene from the viewpoints, then follow the footpath along its flank for a break from the crowds.
+
+Hit the beach
+
+Rio’s biggest trump card is its miles of golden sand. The beaches are as much a place for socialising as sunbathing, drawing Cariocas to play ballgames in the tiniest of swimsuits. Choose from family-friendly Copacabana, Arpoador’s lively surfer scene or the tall and tanned on Ipanema. Forgotten something? No worries: an army of traders patrols all day, selling everything from snacks and swimwear to ice-cold beer and panama hats.
+
+Copacabana Beach is where to spot Rio’s bright young things (Getty)
+
+Museums and monuments
+
+Head into historic Centro to discover its energy and architecture. Opulent public buildings and faded, pastel-painted shopfronts stand alongside modernist masterpieces and towering Seventies eyesores. Wander cobbled streets and chaotic markets, then pop into any colonial church to eyeball its interiors. Don’t miss the wonder-filled Art Museum or Santiago Calatrava’s futuristic, waterfront Museum of Tomorrow and its digital exhibits on climate change and sustainability.
+
+The Museum of Tomorrow is worth a visit for the architecture alone (Getty)
+
+Gardeners’ world
+
+Experience Rio’s leafy backdrop with a visit to the Botanical Gardens. Being on the edge of the Tijuca rainforest, it’s filled with wildlife. Look out for marmosets, monkeys, sloths and toucans while strolling down avenues of palms.
+
+Get high
+
+There’s no better way to see the sights than from a helicopter. Vertical Rio offers half-hour sightseeing flights made even more memorable by the fact that its helicopters have no doors. Cruise along the coast and high above Christ the Redeemer for an epic “shoe selfie” (yes, it’s a thing) that will be the envy of Instagram.
+
+Hop on a cable car to Sugarloaf Mountain (Getty/iStock)
+
+Where to stay
+
+The Belmond Copacabana Palace is a Rio icon (Belmond Copacabana Palace)
+
+Music and passion were always the fashion at the Belmond Copacabana Palace. Opened in 1923 on Copacabana Beach, this century-old, 239-room landmark remains Rio’s most elegant address. A recent refurbishment has given all 239 rooms a contemporary update, though its glamorous history is called to mind in the “hall of fame” of former guests (which includes portraits of everyone from Ginger Rogers to Princess Di).
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Down the coast in upmarket Leblon, you’ll find the super-stylish Janeiro Hotel. All of its 51 rooms have at least partial sea views and are big, bright and beautifully decorated with an aesthetic that pairs Scandinavian simplicity with a distinctively tropical slant. Clean lines, pale wood, travertine, linen and palm-tree artworks make it feel supremely stylish, plus there’s a rooftop bar and lap pool exclusively for guests.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Perfectly positioned at the other end of Ipanema is Hotel Arpoador, whose aspect takes in the strand’s full, sandy length. Its 49 compact rooms have tastefully subtle nautical touches and are dressed in a simple palette of white and ocean blue. It’s almost unique in Rio by opening right onto the patterned promenade and offers bicycles to borrow and complimentary rooftop yoga.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Where to eat
+
+It’s worth heading into Centro purely to pig out at Confeitaria Colombo, a patisserie that’s been in business since 1894. Its grand, Art Nouveau interiors, tiled floors and stained glass ceiling create a classy setting in which to indulge in pastries, cakes and custard tarts (or sandwiches and croquettes). There’s also a branch in Copacabana if you don’t fancy leaving the coast.
+
+Confeitaria Colombo’s interiors are as sweet as its baked goods (Confeitaria Colombo)
+
+Eating out in Rio isn’t cheap but Filé do Lira bucks the trend with its traditional platters big enough for two. Go for something like Brazilian beef stew served with rice, beans, fried eggs and plantain, all washed down with a couple of caipirinhas.
+
+The cheapest and most varied way to eat out is in a por quilo restaurant, where buffets of sushi, salads and heartier dishes are sold by weight. They’re commonplace all over the city but Copacabana’s Restaurante Aipo e Aipim is particularly popular.
+
+At the other end of the spectrum is MEE, a high-end, pan-Asian restaurant within the Copacabana Palace. A recipient of one of South America’s first Michelin stars, dining here is a treat: expect dim sum, pork belly buns, pad Thai and exceptional cocktails.
+
+Where to drink
+
+For the best panorama of Copacabana all the way to Sugarloaf Mountain, head to Café 18 do Forte at the historic Copacabana Fort. Sip a craft beer or caipirinha and be sure to peek over the wall to spot sea turtles swimming below.
+
+When in Rio, drink caipirinhas (Getty/iStock)
+
+Soak up more water views at Bar Urca, an informal joint whose scenic setting makes it popular for evening drinks. Join crowds of locals along the sea wall and take in the view towards Christ the Redeemer as the sun sets over Guanabara Bay.
+
+For more in the way of late-night revelry, try Canastra. Located on an Ipanema backstreet, this unpretentious bijou bar is a hit with locals and visitors alike. Squeeze into the crowded ground-floor space or the basement speakeasy, or follow the fun outside onto the street.
+
+Where to shop
+
+Imported goods are heavily taxed in Brazil, so aim for local buys. Havaianas flip-flops are the obvious choice (there’s a flagship store in Ipanema). Find a wider choice of Brazilian brands among more familiar international stores at Shopping Leblon, plus more around the corner at Rio Design Leblon, a smaller-scale mall that’s big on Carioca products, such as Granado Pharmacias’s soaps and colognes. Also look out for local fashion brands Lenny Niemeyer, Handred, Haight and Osklen, plus swimwear from Adriana Degreas.
+
+Havaianas are the quintessential Rio purchase (Getty)
+
+Far more affordable is the Sunday Feira Hippie (Hippie Market) in Ipanema’s General Osório Square. Scores of artisans set up stalls in the shade of sprawling trees to sell handmade ceramics, original artworks, jewellery, souvenirs and quality handicraft items made cleverly from bamboo, leather, wicker, wood and brightly coloured fabrics.
+
+Architectural highlight
+
+Unlike the many classical churches that dot historic Centro, the Metropolitan Cathedral has a Brutalist design that seems at once part Mayan pyramid, part Dalek.
+
+The Metropolitan Cathedral is a Brutalist masterpiece (Getty)
+
+Nuts and bolts
+
+What currency do I need?
+
+Brazilian real.
+
+What language do they speak?
+
+Portuguese.
+
+Should I tip?
+
+A 10 per cent service charge is generally included.
+
+What’s the time difference?
+
+GMT-3.
+
+Average flight time?
+
+Around 12 hours from London.
+
+Public transport
+
+The metro offers a fast, air-conditioned and cheap connection between city and beach.
+
+Best view
+
+Corcovado (the peak topped by Christ the Redeemer) is the highest point in Rio. Anything not visible from up here is basically not worth seeing.
+
+Insider tip
+
+Arpoador – the rocky headland between Copacabana and Ipanema – is the very best spot for watching the sun set behind the twin peaks of Dos Irmãos.

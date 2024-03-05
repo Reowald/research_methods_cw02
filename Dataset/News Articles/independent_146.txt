@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Since our launch in 1986, The Independent has always put international affairs at the heart of its journalism. Whether reporting on the Iraq war, documenting environmental issues in India or charting the highs and lows of US presidents since the Reagan era, the title has applied the same values and principles that shaped its beginnings in London: independence from political pressure or commercial interference, and the fearlessness to report truthfully whatever the consequences.
+
+We are proud to be working with other publishers to bring these values to readers around the world in languages beyond English. Many of these sites are operated in partnership, by licencing our masthead and translating our journalism; and all our associates – and the journalists they employ – adhere to the guiding principles and code of conduct that we hold dear.
+
+Independent Arabia
+
+Independent Arabia editor Adhwan Alahmari
+
+Launched in 2019, Independent Arabia is edited by Adhwan Alahmari and is published by Saudi Research & Marketing Group (SRMG), the largest news publisher in the Middle East. It has readers and journalists across the Arab world, and is run from a newsroom in London.
+
+Independent Persian
+
+Independent Persian editor Camelia Entekhabifard
+
+A sister site of Independent Arabia, Independent Persian has its main newsroom in New York and aims to provide coverage of global affairs and culture to the Iranian diaspora as well as readers in Iran itself. Its editor, Camelia Entekhabifard, is an author and commentator on Middle East affairs for titles including Le Monde Diplomatique, and has also written for The Independent.
+
+Independent Turkish
+
+Independent Turkish editor Muhammad Zahid Gul
+
+Also run by SRMG, Independent Turkish is edited by Muhammad Zahid Gul, a leading analyst and media commentator on politics in Turkey and across the Arab world. It is headquartered in Istanbul.
+
+Independent Urdu
+
+Independent Urdu editor Baker Atyani
+
+Completing the four titles owned and operated by SRMG, Independent Urdu is based in Islamabad. Its editor, Baker Atyani, is a veteran journalist whose specialism in covering conflict zones in Asia led to his kidnap by Philippine militants and detention for 18 months from 2012 to 2013. He was among the last journalists to interview Osama bin Laden.

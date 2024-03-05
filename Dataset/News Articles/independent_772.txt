@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+ChatGPT maker OpenAI says it has disrupted multiple networks of state-backed hackers trying to use the AI chatbot to further their “malicious” activities.
+
+The company said that alongside Microsoft, it had disrupted five groups from China, Iran, North Korea and Russia.
+
+OpenAI said the different state-linked groups had used its AI services to carry out research, translation, find coding errors and run basic coding tasks to support their activities.
+
+The ChatGPT maker said the identified accounts associated with the various groups had been terminated.
+
+“We build AI tools that improve lives and help solve complex challenges, but we know that malicious actors will sometimes try to abuse our tools to harm others, including in furtherance of cyber operations,” OpenAI said.
+
+“Among those malicious actors, state-affiliated groups – which may have access to advanced technology, large financial resources, and skilled personnel – can pose unique risks to the digital ecosystem and human welfare.
+
+“In partnership with Microsoft Threat Intelligence, we have disrupted five state-affiliated actors that sought to use AI services in support of malicious cyber activities.
+
+“The activities of these actors are consistent with previous red team assessments we conducted in partnership with external cybersecurity experts, which found that GPT-4 offers only limited, incremental capabilities for malicious cybersecurity tasks beyond what is already achievable with publicly available, non-AI powered tools.”
+
+During the UK-hosted AI Safety Summit last year, world leaders and tech companies discussed the potential dangers of bad actors using generative AI applications to help assist them in carrying out cyber attacks and other nefarious activities.
+
+The UK’s National Cyber Security Centre (NCSC) has also warned that more amateur and low-skilled hackers were already using generative AI tools to help upskill and create more effective and convincing spam and phishing attacks.
+
+OpenAI noted that several of the groups it has disrupted have been using its services to draft and create content “that could be used in phishing campaigns”.

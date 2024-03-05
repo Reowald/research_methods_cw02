@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have found an unexpected and unexplained signal from outside our galaxy.
+
+The researchers stumbled on the mysterious feature in data from Nasa’s Fermi Gamma-ray Space Telescope while looking for something else entirely, they said.
+
+THIS ARTIST’S CONCEPT SHOWS THE ENTIRE SKY IN GAMMA RAYS WITH MAGENTA CIRCLES ILLUSTRATING THE UNCERTAINTY IN THE DIRECTION FROM WHICH MORE HIGH-ENERGY GAMMA RAYS THAN AVERAGE SEEM TO BE ARRIVING (NASA’S GODDARD SPACE FLIGHT CENTER)
+
+The signal appears to be related to another gamma-ray signal – facing in a similar direction and with nearly the exact same magnitude – which itself has not been explained.
+
+Researchers found the new object when looking for a gamma-ray feature related to the cosmic microwave background, or CMB, the radiation that is left over from the beginning of the universe.
+
+Decades ago, scientists spotted that the CMB is structured so that it is hotter and busier towards the constellation Leo and colder with less microwaves in the opposite direction. Scientists want to understand that structure better because that signal must be removed so that they can see variations in the CMB properly.
+
+In the new research, scientists wanted to see whether that same “dipole” structure could be seen in gamma rays. They did so by using a Nasa space telescope that scans the entire sky throughout the day.
+
+They did find such a dipole structure. But it was somewhere else entirely – in the southern sky, far from where the CMB’s is.
+
+The newly discovered dipole also comes from the same direction as one found in ultrahigh-energy cosmic rays, or UHECRs. Both have similar magnitudes.
+
+Scientists think the two phenomena are probably linked. They are likely coming from the same sources, accounting for their similar structure.
+
+Scientists hope either to find whatever that source is, or come up with a new explanation for why the two features exist.
+
+A paper describing the findings, ‘Probing the Dipole of the Diffuse Gamma-Ray Background’, is published in The Astrophysical Journal Letters.

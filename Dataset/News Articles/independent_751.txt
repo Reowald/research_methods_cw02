@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+McLaren team principal Andrea Stella insists his outfit do not want to create “false expectations” as they look to reduce the gap to Red Bull this year.
+
+The Woking-based team struggled in the first three months of the season before an upgrade package in Austria in July revitalised their season.
+
+Lando Norris went on to secure seven podiums, while rookie driver Oscar Piastri claimed a memorable victory in the sprint race in Qatar.
+
+In the end, McLaren finished fourth in the constructors’ championship – ahead of early frontrunners Aston Martin – but ahead of the 2023 campaign, Stella is keen to keep his feet on the ground, especially given Red Bull’s dominance last year.
+
+“Our philosophy is to be very fair to what we know,” he says. “We don’t have to create false expectations because the reality will come to you in a violent way, and we don’t want to find ourselves in that position.
+
+“At the same time, we don’t want to downplay too much and then find out we weren’t ready to fight at the front, and we didn’t make good decisions based on that.
+
+“We will just stick to the data, be realistic and be honest. That is our philosophy.
+
+“You like to see what kind of progress you are making in the wind tunnel, in the computer simulations, and you know that a certain rate will mean you are two-tenths, half-a-second, seven-tenths better at the start of a season.
+
+“Realistically, we know that if we want to retain our competitiveness going into next season, you need to have half a second in hand, otherwise, you are moving backwards.”
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix. Last year, both McLaren cars failed to finish the opening race in the Gulf.

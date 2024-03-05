@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly nine in 10 (87%) parents would consult their children about a home move, according to a survey.
+
+A fifth (20%) of parents said they would do what their children want, Zoopla found.
+
+The survey was carried out among parents who own a home and have children aged six to 12 years old.
+
+While many children may get upset about the idea at first, for most, it is a positive and beneficial experience when it actually happens Daniel Copley, Zoopla
+
+A third (32%) said that an objection from a child had blocked a potential home move in the past.
+
+But parents could be overthinking it – as a survey among six to 12-year-olds found three-quarters (77%) of children who remember moving in the past said they prefer their new home.
+
+Daniel Copley, a consumer expert at Zoopla said: “Most parents know that routine is important for young children and change can be unsettling – especially something as significant as moving home.
+
+“However, our research shows that many parents could be worrying unnecessarily about moving house – as while many children may get upset about the idea at first, for most, it is a positive and beneficial experience when it actually happens.
+
+“And as a father who has moved home with my own children, this was very much my own experience too.”
+
+The survey was carried out by Mortar Research in December 2023 among more than 1,000 parents of children aged six to 12 who own a home and more than 500 children aged six to 12, across the UK.
+
+Here are Mr Copley’s tips for moving home with children:
+
+1. Be positive when you first raise the topic. Children often mirror parents’ mood and energy. Using language such as: “We have something very exciting to tell you,” is likely to get the moving plans off to a better start.
+
+2. Focus on what will not change. Routine is key for children and the mention of moving may throw up assumptions about moving school or away from their friends. Some children automatically assume moving home means leaving everything – such as furniture and toys behind too.
+
+3. Involve children in the plans. Ask what colour they want to decorate their bedroom. Even asking questions such as: “What room do you think grandma would like to stay in when she visits?” can make them feel like they are part of the move.
+
+4. Put yourself in the mind of your child and consider what will get them excited about a move, for example, if they will have a bigger bedroom or a nice garden they can play football in.
+
+5. Be prepared for tears. Sometimes it is a case of holding your nerve and trusting that you are doing the right thing for them in the long run.

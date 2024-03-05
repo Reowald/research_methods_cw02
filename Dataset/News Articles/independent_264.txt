@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Savings giant NS&I has launched a new issue of its Green Savings Bonds, pruning back the rate on offer.
+
+The new issue pays 2.95% AER (annual equivalent rate) over a three-year term, the Treasury-backed provider said.
+
+The previous issue, which was available until January 30 2024, paid 3.95% AER.
+
+Green Savings Bonds enable savers to help fund green government projects across the UK.
+
+The bonds help to raise funds for green projects as part of the UK Government Green Financing Framework.
+
+You'd need to be a passionate believer in the Government's green projects to settle for as little as 2.95% right now Sarah Coles, Hargreaves Lansdown
+
+Announced in the 2021 spring budget, Green Savings Bonds are a specific policy measure and are distinct from NS&I’s normal activity. Investment in the bonds does not count towards NS&I’s net financing target, which is set by the Treasury each year.
+
+The minimum investment in Green Savings Bonds is £100, with a maximum limit of £100,000 per person for each issue. Investors need to be aged 16 or over to purchase the bonds. The full amount deposited will be held for three years and cannot be withdrawn during this time.
+
+Sarah Coles, head of personal finance at Hargreaves Lansdown said: “NS&I Green Bonds have been hit by harsh pruning, slashing the rate from 3.95% to 2.95%.
+
+“These were always likely to face the business end of a pair of shears as the savings market gradually heads south. However, the decision to cut so soon and so hard is disappointing. It raises the question whether we will see green savings grow, or whether the harsh prune has done too much damage.
+
+“The fundraising target for these bonds is set completely separately to NS&I’s overall funding target, so this change has nothing to do with the fact the organisation is flush at the moment.”
+
+She added: “There’s a real risk that such harsh cuts will severely damage enthusiasm for the product. When you can still get 4.6% on a three-year bond elsewhere, you’d need to be a passionate believer in the Government’s green projects to settle for as little as 2.95% right now.”

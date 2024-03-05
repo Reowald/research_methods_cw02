@@ -1,0 +1,53 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of homeowners in mortgage arrears is continuing to rise as living costs and high interest rates take their toll on households, according to trade association UK Finance.
+
+Some 93,680 homeowner mortgages were in arrears of 2.5% or more of the outstanding balance in the fourth quarter of 2023, marking a 7% jump compared with the previous quarter and 25% higher than the fourth quarter of 2022.
+
+Within the total, 30,750 mortgages were in the most serious arrears band, equating to more than 10% of the balance. This was a 4% increase compared with the previous quarter and 8% higher compared with the same period a year earlier.
+
+In recent months, mortgage rates have been falling, which will help ease the payment shock for the 1.5 million homeowners and 230,000 buy-to-let mortgage holders whose fixed-rate deals are due to end this year, UK Finance said.
+
+The number of mortgage holders in arrears, whilst still low, is continuing to rise as the cost-of-living and high interest rates take their toll on households Eric Leenders, UK Finance
+
+It added that 540 homeowner mortgaged properties were repossessed in the fourth quarter of 2023, which was a 14% fall on the previous quarter.
+
+There were 13,570 buy-to-let mortgages in arrears of 2.5% or more of the outstanding balance in the fourth quarter of 2023, which was 18% higher than in the previous quarter and a 124% jump compared with the fourth quarter of 2022.
+
+Some 500 buy-to-let mortgaged properties were repossessed in the fourth quarter of 2023, 11% higher than in the previous quarter.
+
+UK Finance said that the number of homeowner and buy-to-let mortgages in arrears has risen in line with its mortgage market forecasts.
+
+Higher mortgage payments and wider cost-of-living pressures have eroded people's ability to cope financially Richard Lane, StepChange Debt Charity
+
+Many lenders have signed up to a Mortgage Charter, offering a range of help for borrowers. UK Finance said that anyone who is concerned about their finances should reach out to their lender. Talking to a lender about the options will not impact someone’s credit score, it added.
+
+Across buy-to-let and homeowner mortgaged properties, a total of 1,040 were repossessed in the fourth quarter of 2023. This compares with nearly 2,000 in the fourth quarter of 2019, just before the coronavirus pandemic.
+
+Eric Leenders, managing director of personal finance, UK Finance, said: “The number of mortgage holders in arrears, whilst still low, is continuing to rise as the cost-of-living and high interest rates take their toll on households.
+
+“Importantly, help is available to anyone worried about their finances – please reach out to your lender as soon as possible to discuss the support options available.
+
+“Lenders have teams of trained experts ready to help. Contacting your lender to find out what support is available won’t affect your credit score.”
+
+Research for StepChange Debt Charity found that 44% of mortgage holders surveyed in January were finding it difficult to keep up with bills and credit commitments. This is up from 36% when research was carried out in September 2023.
+
+Just over a fifth (21%) of mortgage holders surveyed have used savings in the past 12 months to ensure they can pay their home loan.
+
+Nearly a quarter (23%) of mortgage holders have used credit in the past 12 months to ensure they could make mortgage payments.
+
+Richard Lane, chief client officer at StepChange Debt Charity, said: “We know from our own clients that people tend to prioritise their mortgage and fall behind in other areas when they’re struggling to make ends meet, so it’s especially worrying to see mortgage arrears creeping up across the UK.
+
+“Higher mortgage payments and wider cost-of-living pressures have eroded people’s ability to cope financially, so it’s not surprising that more are turning to credit or savings to cover essential housing costs.
+
+“However, with no indication of when rates might come down, people risk finding themselves trapped in long-term problem debt as that credit ultimately becomes unsustainable.”
+
+More than 2,000 people were surveyed by YouGov for StepChange.
+
+Nathan Emerson, chief executive at property professionals’ body Propertymark, said: “If the Bank of England meets its own inflation target of 2% earlier than they planned, then they should look to reduce interest rates as soon as they can.
+
+“Mortgage affordability is a critical issue at the moment and Propertymark’s own housing insight report found that many agents are selling below the initial asking price for homes due to mortgages becoming increasingly expensive as a result of higher interest rates and inflation.
+
+“Also, many landlords on variable or tracked rate mortgages are now struggling with rising mortgage costs and increased taxes against a backdrop of increasing legislation, ultimately making renting more expensive and forcing some landlords out of the sector completely.”

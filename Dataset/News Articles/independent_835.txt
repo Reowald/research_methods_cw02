@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+TikTok has been struck by one of its most public and potentially dramatic changes in recent years.
+
+Over the last day, vast numbers of popular songs have disappeared from the platform, including many that have soundtracked some of its biggest recent trends. They include the music of Taylor Swift, Billie Eilish and Harry Styles.
+
+The dramatic, immediate disappearance is all the result of a fallout with Universal Music Group (UMG), one of the world’s biggest labels.
+
+It says that TikTok is not paying a fair rate to use its artists’ songs. But in a public open letter, UMG accused TikTok of letting down its artists in a host of other ways, including not protecting their music from being stolen and their likeness used in AI-generated videos.
+
+TikTok said in response that UMG’s actions were “self-serving”, and pointed to the fact that it had reached agreements with “every other label and publisher”.
+
+What has happened?
+
+The fallout went public when UMG published a statement on its website accusing TikTok of a host of misbehaviour. TikTok has denied many of the claims.
+
+The deal that allowed TikTok to use UMG music was set to expire on 31 January, and the disagreements between the two company appears to have come out of negotiations around a new one that would replace it. No new deal was signed.
+
+That meant that on 1 February, songs by UMG artists began to disappear from the platform. Videos that used the sounds went mute, and instead showed an error message indicating that the sound had been removed because of a copyright issue.
+
+What has UMG said?
+
+The label published a long open letter on its website, announcing that it had not been able to come to a deal and attacking UMG. It was largely focused on how much TikTok pays for plays of music by UMG’s artists, but not solely on that.
+
+It also attacked the company for failing to failing to protect “human artists from the harmful effects of AI” and for keeping TIkTok users safe. It said that it had come to good deals with other platform partners.
+
+It also criticised TikTok for its behaviour during negotiations. It claimed that TikTok “attempted to bully us into accepting a” bad deal, by removing songs from “developing artists” while keeping “audience-driving global stars” on the platform.
+
+What has TikTok said?
+
+It immediately published its own statement, saying that the decision was “sad and disappointing” and that UMG’s narrative was “false”.
+
+“It is sad and disappointing that Universal Music Group has put their own greed above the interests of their artists and songwriters,” TikTok said in a statement. “Despite Universal's false narrative and rhetoric, the fact is they have chosen to walk away from the powerful support of a platform with well over a billion users that serves as a free promotional and discovery vehicle for their talent.
+
+“TikTok has been able to reach 'artist-first' agreements with every other label and publisher. Clearly, Universal's self-serving actions are not in the best interests of artists, songwriters and fans.”
+
+Will it spread?
+
+UMG wrote its statement as an “open letter to the artist and songwriting community” about “why we must call time out on TikTok”. As such, it appears that the company was calling on other rightsholders to take the same decision, presumably with a view to changing the terms.
+
+For now, though, other publishers’ music largely remains on the platform as normal. And there has been no rush of other music labels looking to side with UMG.

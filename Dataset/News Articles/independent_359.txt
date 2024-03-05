@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Max Verstappen revealed his relationship with Christian Horner remains “very good” despite the ongoing investigation into the Red Bull team principal’s conduct.
+
+Horner insists he has the “overwhelming” support of Verstappen and Red Bull as a whole amidst allegations of “inappropriate behaviour” made against him by a female colleague. The Red Bull F1 boss repeatedly denied the accusations when questioned on Thursday.
+
+While Horner and Verstappen refused to comment on the nature of the complaint, the team’s star driver insisted the morale of the team is “better than ever” heading into the new Formula 1 season despite the investigation.
+
+When asked about the morale, Verstappen said at the team’s 2024 car launch on Thursday: “It’s fantastic. It’s been honestly better than ever because I think everyone is enjoying their role.
+
+“Everyone is very proud of what they have achieved and everyone is very much looking forward to the new season when hopefully they’ve built another great car.
+
+“My contact with Christian has been the same as what it has on the first day. Of course when I joined I was a rookie and I was quite young, so I am getting more and more mature now so it has been like normal.”
+
+Questioned further on his relationship with Horner, the Dutchman replied: “Yes very good. We have seen each other quite a few times, in the simulator and there was filming [on Tuesday] then.
+
+“We [have] achieved a lot of things together so that doesn’t change suddenly.”
+
+Verstappen, who won his third title last year with ease after winning 19 out of 22 races, then explained how he will not let the investigation distract him from the job at hand, with the first race just over two weeks away and pre-season testing starting in Bahrain next week.
+
+“I always stay very neutral in everything and I take the emotion out of it,” he said.
+
+Max Verstappen says his relationship with Christian Horner remains ‘very good’ (Getty Images)
+
+“I have a lot of things to do myself when I am at home. Of course we are preparing for F1, but F1 is not the only thing I think about in my life.
+
+“When I am at home I want to spend time with family and friends, I have my own stuff that I am busy with and trying to work on for the coming years.
+
+“So it’s not that I am sitting at home just scrolling through my phone because that is very bad I think when you have a life like that. So for me, there are so many things going on in the background that I am taking care of as well, that also keeps you sane.
+
+“Because if you are constantly thinking about everything that happens in Formula One, for me that’s not a life.”
+
+Verstappen, who also reacted to Lewis Hamilton’s 2025 move to Ferrari, will be the favourite when the season gets underway with the Bahrain Grand Prix on 2 March.

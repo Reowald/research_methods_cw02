@@ -1,0 +1,53 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A private Moon mission that blasted into space on Monday has “no chance” of achieving a soft landing on the moon.
+
+The Peregrine Mission One (PM1), built by US space company Astrobotic and carrying a piece of technology developed by UK scientists, would have been the first private probe to land on the lunar surface.
+
+But barely 30 hours since launch, the company behind the ambitious mission has admitted defeat after the spacecraft developed a propulsion system error.
+
+PM1 blasted into space on Monday but encountered a fuel leak shortly after launch.
+
+The company said there are now 40 hours of propellant (fuel) left before the spacecraft loses power and starts tumbling.
+
+In a statement on X, formerly Twitter, Astrobotic said: “Given the propellant leak, there is, unfortunately, no chance of a soft landing on the Moon.
+
+“However, we do still have enough propellant to continue to operate the vehicle as a spacecraft.
+
+“The team has updated its estimates, and we currently expect to run out of propellant in about 40 hours from now – an improvement from last night’s estimate.
+
+“The team continues to work to find ways to extend Peregrine’s operational life. We are in a stable operating mode and are working on payload and spacecraft tests and checkouts.
+
+“We continue receiving valuable data and proving spaceflight operations for components and software relating to our next lunar lander mission, Griffin.
+
+“Overnight, the team faced another spacecraft pointing issue but continues to persevere.
+
+“The spacecraft started to tilt away from the Sun and reduced its solar power generation.
+
+“The team was able to update the control algorithm and fix this issue. The batteries are at full charge.”
+
+UK scientists who helped to develop a piece of technology for the mission are working around the clock to gather data from the spacecraft before it loses power.
+
+Dr Simeon Barber, who helped develop a key sensor called the Exospheric Mass Spectrometer on an onboard instrument known as the PITMS (Peregrine Ion Trap Mass Spectrometer), told the PA news agency that he and his colleagues “are working shifts to maximise the returns from the exospheric mass spectrometer” as “Peregrine faces a limited lifetime”.
+
+The 1.2-tonne probe – about the size of a garden shed – was launched from Cape Canaveral in Florida, and the aim of the mission was to land on February 23.
+
+But shortly after separating from United Launch Alliance’s Vulcan Centaur rocket, the Astrobotic team found that Peregrine was struggling to achieve a stable position pointing towards the Sun.
+
+It said: “At this time, the goal is to get Peregrine as close to lunar distance as we can before it loses the ability to maintain its Sun-pointing position and subsequently loses power.”
+
+The Exospheric Mass Spectrometer would have been the first instrument on the Moon built in the UK and in Europe.
+
+Its key aim was to analyse the thin lunar atmosphere as well as find out more about how water might be moving around the Moon.
+
+Astrobotic is the first of three US companies to attempt to send a spacecraft to the Moon as part of Nasa’s Commercial Lunar Payload Services initiative.
+
+Two other commercial ventures – Intuitive Machines and Firefly – have planned missions to the lunar surface this year.
+
+A spokesman for the UK Space Agency, which provided £14 million in funding to develop the PITMS instrument through its European Space Agency membership, said: “The Astrobotic team is working hard to get the Peregrine lunar lander as close as possible to the Moon on limited fuel reserves, and we are monitoring the situation.
+
+“Launching into space is inherently challenging, and we want to thank everyone at the Open University and RAL Space who contributed their expertise to the science instrument on board the mission.
+
+“This is the first of a new wave of commercial missions to the lunar surface, so there is plenty more to come in 2024.”

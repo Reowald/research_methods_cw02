@@ -1,0 +1,19 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Christian Horner will face the media on Thursday as an investigation into an allegation of “inappropriate behaviour” against the Red Bull team principal continues.
+
+The embattled boss is due to attend the world champions’ car launch at their Milton Keynes headquarters in what will be his first public appearance since the accusation by a female colleague surfaced at the beginning of last week. Horner, 50, categorically denies the claim.
+
+For now, Horner remains in his role as team principal and was present at a behind-closed-doors Red Bull test at Silverstone on Tuesday ahead of the new season which starts in just over a fortnight.
+
+Red Bull will unveil their new car on Thursday and Horner is expected to address the media – although the PA news agency understands legalities around the process mean that questions relating to the internal investigation will be off-limits.
+
+Last week, Horner was quizzed by a lawyer for eight hours as part of the probe by Red Bull Racing’s parent company Red Bull GmBH.
+
+There had been a strong desire for Horner’s future to be resolved before Thursday’s launch but sources have indicated that he could face further rounds of questioning as he bids to prove his innocence.
+
+Horner has been Red Bull team principal since they entered F1 19 years ago and is the longest-serving boss on the grid.
+
+During that period he has overseen seven drivers’ world championships and six constructors’ titles. Red Bull have dominated the sport in recent seasons and last year won 21 of the 22 races, with Max Verstappen setting a new record for 10 consecutive victories.

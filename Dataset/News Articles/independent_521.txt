@@ -1,0 +1,35 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+An aasteroid that was only discovered last week passed between the Earth and the Moon in a close, but safe, encounter on Monday.
+
+The small car-sized space rock, dubbed 2024 CY1, passed by at nearly a third of the distance between the Earth and the Moon – also known as 1 lunar distance.
+
+It made the close approach at about 121,000km, passing by the planet around 7.24GMT, according to the Virtual Telescope Project.
+
+Measuring only about 4 to 8m in diameter (12 to 30ft), experts said it did not pose any risk to Earth.
+
+The discovery marks the tenth time this year that an asteroid has been observed by astronomers flying past Earth within 1 lunar distance.
+
+It is also the third to happen in February so far.
+
+Last month astronomers detected an asteroid zooming toward the Earth only hours before it entered the planet’s atmosphere.
+
+The space rock, named 2024 BXI, burned up in the skies above Berlin into a harmless fireball, and it was only the eighth time an asteroid was spotted just before it hit the Earth.
+
+Fragments of the rock were also recovered around Berlin by space enthusiasts.
+
+RAW VIDEO: Empire State Building-Sized Asteroid Passes Closer To Earth
+
+Earlier this year, an asteroid about the size of a skyscraper safely zoomed past the Earth at about 1.7 million miles away.
+
+While the rock was classified as “potentially hazardous” due to its size, it passed by much farther away at about 7 times the distance between the planet and the Moon.
+
+So far astronomers have discovered about 25,000 asteroids with the potential to at least wipe out a complete city.
+
+The European Space Agency, however, suspects there could be a million asteroids in the same size range of 30 to 100m near Earth with nearly 99 per cent of them still remaining undiscovered.
+
+Space agencies and governments across the world have been working to spot such potentially hazardous objects and develop ways to protect the Earth from them.
+
+For instance, ESA’s Neomir is an orbiting observatory being developed for launch around 2030 to circle between the Sun and the Earth and work as an early warning system for asteroids.

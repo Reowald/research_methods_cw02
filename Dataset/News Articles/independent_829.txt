@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The UK and more than 35 other nations have signed a new international agreement to take action against “hackers-for-hire” and commercial markets for tools used to carry out targeted cyber attacks.
+
+Deputy Prime Minister Oliver Dowden will lead a two-day conference alongside France that will see countries and businesses discuss how to tackle the commercial market for malicious tools and the threat they pose to international security.
+
+Companies such as Apple, BAE Systems, Google and Microsoft will be at the conference.
+
+According to the UK’s National Cyber Security Centre (NCSC), the commercial cyber intrusion sector is doubling in size every ten years.
+
+It warns that bad actors are using malicious tools to force access to people’s devices, listen to calls, obtain photos and remotely operate device cameras and microphones.
+
+The proliferation of commercially available cyber intrusion tools is an enduring issue, with demand for capability to conduct malicious cyber operations growing all the time Paul Chichester, NCSC
+
+The NCSC estimates that this is happening at scale and thousands of individuals are being targeted globally each year, warning that so-called hackers-for-hire are being used to carry out corporate espionage, and that tools are being accessed by hostile states who threaten UK national security.
+
+“As the threat from malicious use of cyber tools grows, working with like-minded partners is essential to tackle an issue which does not respect borders,” Mr Dowden said.
+
+“I am proud that the UK is building on its existing capabilities and taking action as a world leader on cyber threats and innovation.”
+
+As part of the agreement under the Pall Mall Process, measures to discourage irresponsible behaviour and ways to improve accountability, transparency and oversight within the sector, will be considered.
+
+NCSC director of operations, Paul Chichester, said: “The proliferation of commercially available cyber intrusion tools is an enduring issue, with demand for capability to conduct malicious cyber operations growing all the time.
+
+“It’s powerful to see such a broad community come together to discuss how we can make the commercial intrusion sector work better for security and society.
+
+“We need a thriving global cyber security sector to maintain the integrity of our digital society, and by working together to improve oversight and transparency in how this capability is being developed, sold and used, we can reduce the impact of the threat to us all.”

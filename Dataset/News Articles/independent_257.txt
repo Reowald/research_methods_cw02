@@ -1,0 +1,85 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The annual cost of having a moderate income in retirement has jumped by £8,000, amid rising living costs and expectations that grandparents will be playing a role in supporting other family members, according to a pensions industry body.
+
+The Pensions and Lifetime Savings Association (PLSA) put the annual cost of a moderate retirement income for a single person at £31,300 in 2023/24 – up from £23,300 in 2022/23.
+
+The retirement living standards are calculated by the Centre for Research in Social Policy at Loughborough University on behalf of the PLSA.
+
+In this year's findings, we see the strong effects of rising prices in what's needed to meet the cost of food and energy Professor Matt Padley, Loughborough University
+
+There are three retirement lifestyles that are covered – minimum, moderate and comfortable – and they help give people an idea of what kind of lifestyle they can expect in retirement.
+
+Rising living costs, particularly for food and energy bills, as well as shifting expectations about retirement lifestyles, are behind the increases in retirement costs, the PLSA said.
+
+It said the research highlighted the increasing importance people placed on spending time with family and friends out of the home, as people’s priorities had changed following the coronavirus pandemic.
+
+For example, in-depth discussion groups considered that at the moderate level of retirement, people should be able to have a monthly meal out with their loved ones and help their family members financially with a budget of £1,000, for example to help with grandchildren’s activities. This was considered particularly important in the context of the cost-of-living crisis.
+
+Following the Covid pandemic, this latest research highlights a pronounced need and enthusiasm among the public for shared experiences beyond the confines of their homes, including activities like eating out and holidays Professor Matt Padley, Loughborough University
+
+While costs at the comfortable level of retirement also increased, the rise was less sharp. This also reflected changing expectations. For example, the research groups determined that a couple would need just one small second-hand car rather than two cars, which had featured in previous years.
+
+The triple lock, which is used to uprate the state pension, acts as a crucial safeguard against rising retirement living costs, researchers said.
+
+With a significant 8.5% increase to just over £11,500 per year from April 2024, the state pension remained a substantial foundation of retirement income – and this, alongside improved retirement annuity rates, would help median average earners be able to achieve most aspects of the moderate level, the report said.
+
+Professor Matt Padley, co-director of the Centre for Research in Social Policy at Loughborough University, said: “In this year’s findings, we see the strong effects of rising prices in what’s needed to meet the cost of food and energy.
+
+The cost of living has put enormous pressure on household finances over the last year and, as the research shows, this is no different for retirees Nigel Peaple, Pensions and Lifetime Savings Association
+
+“Following the Covid pandemic, this latest research highlights a pronounced need and enthusiasm among the public for shared experiences beyond the confines of their homes, including activities like eating out and holidays.”
+
+Nigel Peaple, director policy and advocacy, PLSA, said: “The cost of living has put enormous pressure on household finances over the last year and, as the research shows, this is no different for retirees.
+
+“It’s important for workers saving for retirement to remember the standards are not prescriptive targets, they are a tool to help you engage with the type of spending you think you will do in retirement and to help you plan for it.
+
+“It is also worth highlighting that a couple who each has a full entitlement to the state pension will achieve the minimum level, and if each is paid average earnings throughout their working life, they have a good chance of enjoying many aspects of the moderate living standard.
+
+Many pension providers now provide tools and calculators on their online platforms to allow savers to pick and mix elements of each retirement living standard, allowing them to ... tailor the standards to their individual circumstances and preferences Nigel Peaple, Pensions and Lifetime Savings Association
+
+“Working and saving is likely to vary over a lifetime – for example, taking time off to have children – so it is important to adapt workplace pension contributions to make up for periods not saving.
+
+“Many pension providers now provide tools and calculators on their online platforms to allow savers to pick-and-mix elements of each retirement living standard, allowing them to leave out the things they don’t see as part of their life and tailor the standards to their individual circumstances and preferences.”
+
+Sir Steve Webb, a former pensions minister who is now partner at consultants LCP (Lane Clark & Peacock), said the latest estimates “are a wake-up call to Government and the pensions industry alike”.
+
+Without urgent action we are likely to see more and more people facing an unenviable choice between an extended working life or a poor retirement Sir Steve Webb, LCP
+
+He said: “Without urgent action we are likely to see more and more people facing an unenviable choice between an extended working life or a poor retirement.”
+
+Phil Brown, director of policy at People’s Partnership, provider of the People’s Pension, said: “The vast majority of workers have been impacted by the rising cost of living, meaning many might not be going to get the retirement they had hoped for.
+
+“It’s worth remembering that, because of automatic enrolment, more people than ever before are saving into a pension… It’s important that a broad consensus is reached about how we can tackle the issue of undersaving.”
+
+Becky O’Connor, director of public affairs at PensionBee, said: “The steep rise in the amount required to fund a moderate lifestyle is partly a reflection of higher living costs but also partly linked to rising expectations around this ‘average’ standard.
+
+“Emerging priorities such as the ability to eat out more, enjoy more time out with loved ones, and help out family members financially highlights the evolving expectations and desires of the future generation of retirees.
+
+“While the PLSA suggests a new set of life priorities could be down to the experience of Covid, it could also simply be that the financial demands placed on retired people, including by adult children who are themselves struggling to afford a decent lifestyle, are higher than they have ever been.”
+
+Here are the minimum retirement living standards for 2022/23 followed by 2023/24, according to the PLSA. The minimum standards reflect what is needed not just to survive but to live “with dignity”, including social and cultural participation. They include around £95 for a couple’s weekly groceries, a week’s holiday in the UK, eating out about once a month and some affordable leisure activities about twice a week. The minimum standards do not include a budget to run a car:
+
+– Single person – £12,800, £14,400
+
+– Couple – £19,900, £22,400
+
+Here are the moderate retirement living standards for 2022/23 followed by 2023/24, according to the PLSA. The moderate standard, in addition to the minimum lifestyle, provides more financial security and more flexibility. For example, a couple could spend around £100 a week on groceries, £60 a week on eating out, run a small second-hand car, have a week holidaying in Europe and a long weekend break in the UK:
+
+– Single person – £23,300, £31,300
+
+– Couple – £34,000, £43,100
+
+Here are the comfortable retirement living standards for 2022/23 followed by 2023/24, according to the PLSA. At the comfortable standard, retirees can expect to have more luxuries such as regular beauty treatments, theatre trips and two weeks’ holiday in Europe a year. A couple could spend around £130 per week on groceries and £80 a week per couple on meals out:
+
+– Single person – £37,300, £43,100
+
+– Couple – £54,500, £59,000
+
+A Government spokesperson said: “Automatic enrolment has succeeded in transforming pension saving – and we are supporting proposals to expand this even further, enabling millions to save more, earlier.
+
+“We also made the biggest State Pension cash increase in history last year and are delivering a further increase of 8.5% in April, as well as boosting Pension Credit and making more than 11.9 million Pensioner Cost of Living payments to help with essential costs this winter.
+
+“We have also more than halved inflation to help everyone’s money go further while providing on average £3,700 per household in cost of living support – one of the most generous in Europe.”

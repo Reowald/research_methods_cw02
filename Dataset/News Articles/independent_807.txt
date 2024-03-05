@@ -1,0 +1,17 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Elon Musk has bragged about X becoming the world’s most popular app – despite the fact it appears to have done so as the result of two outrages over two much-criticised images depicting celebrities.
+
+In recent days, Mr Musk has posted a range of tweets pointing out that the X app is at the top of the iOS chart for free apps. In one he noted that the app had made the top of the chart, and in another he said that “If I had a dollar for every time the media reported that one of my companies was going to die, I would never need to raise money”.
+
+The app’s popularity appears to have been driven at least in part by the spread of a video, which users claimed showed the singer Drake, apparently half naked and engaged in a sexual act. Drake has not publicly commented on the leak and there is no confirmation the video actually shows him.
+
+Despite the uncertainty, the video has received tens of millions of views, and has been shared widely across the site. X, formerly known as Twitter, has said that it is working hard to remove posts sharing the video, but they nonetheless remain widely available.
+
+A range of phrases such as “Drake video” have been trending across the site this week as users comment on and look to find the clip.
+
+The app’s popular also came just days after X had struggled to be AI-generated, deepfaked images that claimed to be explicit pictures of Taylor Swift. Once again, those videos were widely available, receiving vast amounts of views and shares before they were taken offline.
+
+Since Elon Musk bought what was then Twitter, in 2021, he cut moderation teams along with other staff. The newly renamed X has received significant criticism over its content policies and enforcement since, including censure from the European Union.

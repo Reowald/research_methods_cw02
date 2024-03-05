@@ -1,0 +1,23 @@
+The latest headlines from our reporters across the US sent straight to your inbox each weekday Your briefing on the latest headlines from across the US Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Evening Headlines email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa and private space companies failed to consult with tribal nations over plans to bring human remains to the moon as part of a January lunar launch mission, according to the Navajo Nation.
+
+In a letter to Nasa, Navajo Nation president Buu Nygren asked officials to delay the planned 8 January launch of private space company Astrobotic’s Peregrine lunar lander, which is set to carry payloads from Celestis and Elysium Space, which conduct burials in space.
+
+“It is crucial to emphasize that the moon holds a sacred position in many Indigenous cultures, including ours,” President Nygren wrote in a letter to officials, Native News Online reports. “We view it as a part of our spiritual heritage, an object of reverence and respect. The act of depositing human remains and other materials, which could be perceived as discards in any other location, on the Moon is tantamount to desecration of this sacred space.”
+
+In 1998, Nasa deposited the remains planetary scientist Eugene Shoemaker on the moon, prompting criticism from the tribe.
+
+“The moon is revered, and it regulates life cycles, according to Navajo traditions and stories,” Navajo Nation president Albert wrote to Nasa at the time. “To send something like that over there is sacrilege.”
+
+After the incident, the space agency said it would consult with tribes in the future over such decisions.
+
+In the letter from President Nygren, he said continued plans to bring human remains to the moon violate multiple executive orders on tribal consultation, including one signed by the Biden administration.
+
+The Independent has contacted Nasa, Celestis, Elysium, and Astrobotic for comment.
+
+The Peregrine lunar lander will blast off on 8 January and is set in February to attempt what could be the first lunar landing by a private company.
+
+"If you’ve been following the lunar industry, you understand landing on the Moon’s surface is incredibly difficult. With that said, our team has continuously surpassed expectations and demonstrated incredible ingenuity during flight reviews, spacecraft testing, and major hardware integrations," Astrobotic CEO John Thornton said in a statement from the company ahead of the launch. “We are ready for launch and for landing.”

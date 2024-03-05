@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Collins Aerospace, the company developing new spacesuits for Nasa, has completed a milestone test that promises good fit and functionality of its next-generation suits in microgravity.
+
+The successful completion of the test is an important step toward developing a more advanced spacesuit for continuing operations aboard the International Space Station, Nasa said in a statement on Monday.
+
+The American space agency selected Collins to develop the new suit that can replace the currently used spacesuit – known technically as an extravehicular mobility unit which is worn by astronauts while assembling and maintaining the ISS for over two decades.
+
+Nasa hopes for the new spacesuit design to advance astronauts’ spacewalking capabilities in low Earth orbit with the ISS expected to be operational at least till 2030.
+
+The new suit would incorporate technology that is more efficient and durable and requires less maintenance than the current one used by Nasa astronauts.
+
+Collins Aerospace tests next-gen Nasa spacesuit in weightlessness (Collins Aerospace)
+
+The new spacesuit was tested aboard a commercial microgravity aircraft that provided brief periods of weightlessness.
+
+By conducting a series of roller-coaster-like maneuvers, the pilot created weightless conditions during the flight for about 20 seconds.
+
+This helped engineers and scientists to test spacesuit hardware and conduct experiments in a space-like gravity environment without ever going into space.
+
+These Sacramento Girl Scouts built a ham radio to talk to astronauts on the Space Station
+
+The latest test is one of a series of checkpoints in the project’s lifecycle that Nasa has in place to review the suit.
+
+Collins Aerospace said it would continue to test the spacesuit in a vacuum chamber which has air removed to see how the spacesuit performs in a space-like environment.
+
+The next-gen suit would also be tested at Nasa’s Neutral Buoyancy Laboratory – a 40-foot deep pool at the Johnson Space Center in Houston which simulates a microgravity environment for astronaut spacewalk training.
+
+The suit is one of two being developed by Nasa with hopes to support station maintenance and operations.
+
+“With a new spacesuit, we can address some of the current obsolescence issues with the EMU and take advantage of all the new technologies that are available to us now that weren’t available 50 years ago, such as improved mobility and technological innovations in life support systems,” Nasa said last year.

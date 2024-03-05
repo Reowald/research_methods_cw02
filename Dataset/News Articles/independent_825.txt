@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A student claims to have hacked the Apple Vision Pro headset within a day of its release.
+
+Joseph Ravichandran, a PhD student at Massachusetts Institute of Technology (MIT), shared a security vulnerability of Apple’s visionOS software known as a kernel exploit.
+
+It targets the device’s operating system and could potentially be used to create malware, provide unauthorised access or jailbreak the headset so that anyone could use it.
+
+“The world’s first kernel exploit for Vision Pro – on launch day,” Mr Ravichandran posted on X, formerly Twitter.
+
+“When the device crashes it switches to full passthrough and displays a warning to remove the device in 30 seconds so it can reboot. Pretty cool.”
+
+It is not clear whether Mr Ravichandran has contacted Apple with details of the exploit, though he may be entitled to compensation through the company’s Security Bounty program. The Independent has approached Apple for comment.
+
+Since images of the hack appeared on X, Apple has updated its Vision Pro user guide. In a section titled ‘Unauthorised modification of visionOS’, the tech firm warned against jailbreaking the mixed reality headset, claiming that it could become “permanently inoperable” for the user.
+
+“Unauthorised modifications to vision OS bypass security features and can cause numerous issues such as security vulnerabilities, instability, and shortened battery life to the hacked Apple Vision Pro,” the user guide states.
+
+“Apple strongly cautions against installing any software that modifies visionOS. It is also important to note that unauthorised modification of visionOS is a violation of the visionOS Software License Agreement and because of this, Apple may deny service for an Apple Vision Pro that has any unauthorised software installed.”
+
+Apple warned that hacking the headset could result in disruption of services like iCloud, FaceTime and Apple Pay, while third-party apps that use push notifications could also be impacted.

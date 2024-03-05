@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Disney+ is about to launch its own password sharing crackdown.
+
+The company is introducing new technology that will push people to pay an extra fee, it announced.
+
+The changes will roll out from summer, Disney said during an earnings call.
+
+Later this year, “Disney+ accounts suspected of improper sharing will be presented with new capabilities to allow their borrowers to start their own subscriptions”, said Hugh Johnston, Disney’s chief financial officer, during that call.
+
+“Later this calendar year, account holders who want to allow access to individuals from outside their household will be able to add them to their accounts for an additional fee.”
+
+The feature appears to be similar to Netflix’s recently introduced password sharing crackdown. That also used technology to identify those accounts that appeared to be being shared – and offered people the option to pay an upgrade fee to allow them to continue doing so, or force those people to get their own account.
+
+Other streaming services, such as Hulu, have also looked to introduce new tighter rules on shared accounts. It comes as streaming services look for new ways to grow in a more difficult market.
+
+Disney did not say exactly when the feature would come out, or how it would expand across the world. It also noted that it is not likely to start seeing “notable benefits” from the changes until later in the year.
+
+“While we are still in the early days and don’t expect notable benefits from these paid sharing initiatives until the back half of calendar 2024, we want to reach as large an audience as possible with our outstanding content,” Mr Johnston said. “And we’re looking forward to rolling out this new functionality to improve the overall customer experience and grow our subscriber base.”

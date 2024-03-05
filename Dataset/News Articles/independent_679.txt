@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lando Norris insists he can take the championship fight to Max Verstappen after declaring the Dutchman’s Red Bull team as “beatable”.
+
+McLaren emerged as the closest contender to Red Bull last year following an impressive mid-season turnaround with Norris scoring seven podiums.
+
+The 24-year-old, gearing up for his sixth season on the Formula One grid, last month committed his future to McLaren by signing a contract extension which will keep him with the British team for at least the next three seasons.
+
+Red Bull won all but one of the 22 rounds last season, with Verstappen cruising to his third world title in as many years.
+
+But speaking at McLaren’s car launch on Wednesday, Norris said: “If you were to ask, ‘are Red Bull beatable?’ I am going to have to say ‘yes’.
+
+“We have to believe that because we were very close at times last year and at certain times we did beat them.
+
+“Can we beat them over a season? That is going to be a challenge and very difficult to do because of how well they performed, but I am optimistic.”
+
+Norris and team-mate Oscar Piastri, who impressed in his rookie campaign last season, were provided their first taste of this year’s machine at a Silverstone shakedown test on Wednesday.
+
+McLaren team principal Andrea Stella added: “At the start of the season my expectation of Red Bull is that they will enjoy an advantage.
+
+“I say this because they didn’t develop the car very much last year and I would think it is reasonable to expect that they will have accumulated knowledge and development from last season and bring that to the 2024 car.
+
+“If, and I say if, we continue the development rate from 2023 into 2024, then we can be in a strong position. But whether that is enough to challenge Red Bull and the other top teams who have made improvements, we will find out.”
+
+F1’s sole pre-season test gets under way in Bahrain on February 21, ahead of the opening race, also in the Gulf kingdom, on March 2.

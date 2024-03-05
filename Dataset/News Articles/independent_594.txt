@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The “best chance” for Nasa’s James Webb space telescope to find alien life on other planets would be to look for worlds with less carbon dioxide in their atmospheres compared to their neighbours, a breakthrough new study says.
+
+If a terrestrial planet has substantially less carbon dioxide in its atmosphere compared to other planets in the same system, it could be a sign of liquid water – and possibly life – on its surface, researchers say.
+
+While previous research has proposed other signatures to look out for on other planets as potential signs of life, those features are “challenging, if not impossible, to measure” with current technologies, scientists say.
+
+Looking out for this new “carbon-lite” signal, which is within the sights of the Webb telescope, could help find habitable worlds, according to the study, published last week in the journal Nature Astronomy.
+
+“The Holy Grail in exoplanet science is to look for habitable worlds, and the presence of life, but all the features that have been talked about so far have been beyond the reach of the newest observatories,” Julien de Wit, a co-author of the study from the Massachusetts Institute of Technology (MIT) said in a statement.
+
+“Now we have a way to find out if there’s liquid water on another planet. And it’s something we can get to in the next few years,” Dr de Wit added.
+
+So far, astronomers have detected over 5,200 worlds beyond our solar system.
+
+To narrow down on worlds in the potentially habitable “Goldilocks Zone” with optimum conditions for life, researchers measure a planet’s distance to its star and the time it takes it to complete an orbit.
+
+But with this approach, scientists say there’s no way to directly confirm whether such planets are indeed habitable with liquid water on their surface.
+
+“An idea came to us, by looking at what’s going on with the terrestrial planets in our own system,” Amaury Triaud, another author of the study said.
+
+Major Celestial Events Coming Up in 2024
+
+Comparing Earth with its immediate neighbours in the Solar System, researchers found that our planet is the only one that is currently known to host liquid water with another important distinction being that it has significantly less carbon dioxide in the atmosphere.
+
+“We assume that these planets were created in a similar fashion, and if we see one planet with much less carbon now, it must have gone somewhere,” Dr Triaud says.
+
+“The only process that could remove that much carbon from an atmosphere is a strong water cycle involving oceans of liquid water,” he explained.
+
+Researchers noted the major sustained role played by the Earth’s oceans in absorbing carbon dioxide over hundreds of millions of years of the planet – nearly equal to the amount that persists in Venus’ atmosphere today.
+
+This effect, they say, has left Earth with an atmosphere significantly depleted of carbon dioxide compared to its neighbors.
+
+“On Earth, much of the atmospheric carbon dioxide has been sequestered in seawater and solid rock over geological timescales, which has helped to regulate climate and habitability for billions of years,” study co-author Frieder Klein said.
+
+If such a similar depletion of carbon dioxide were detected in a far-off planet, relative to its neighbors, researchers hope it could be a reliable signal of liquid oceans and life on its surface.
+
+“After reviewing extensively the literature of many fields from biology, to chemistry, and even carbon sequestration in the context of climate change, we believe that indeed if we detect carbon depletion, it has a good chance of being a strong sign of liquid water and/or life,” de Wit added.

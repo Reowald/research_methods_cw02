@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Disney has purchased a $1.5bn stake in Epic Games and announced plans to develop an “expansive” new universe that will “interoperate” the popular multiplayer online game Fortnite.
+
+The universe will include characters from Disney, Pixar, Marvel, Star Wars, Avatar and other Disney-owned franchises.
+
+The announcement was made by Disney CEO Bob Iger, who said in a statement: “Our exciting new relationship with Epic Games will bring together Disney’s beloved brands and franchises with the hugely popular Fortnite in a transformational new games and entertainment universe.
+
+“This marks Disney’s biggest entry ever into the world of games and offers significant opportunities for growth and expansion. We can’t wait for fans to experience the Disney stories and worlds they love in groundbreaking new ways.”
+
+Tim Sweeney, CEO and Founder of Epic Games, added: “Disney was one of the first companies to believe in the potential of bringing their worlds together with ours in Fortnite, and they use Unreal Engine across their portfolio.
+
+“Now we’re collaborating on something entirely new to build a persistent, open and interoperable ecosystem that will bring together the Disney and Fortnite communities.”
+
+‘Fortnite’ characters running towards a crate (Epic Games)
+
+Further details are yet to be announced, including a potential release date.
+
+Disney and Epic already work together in Fortnite, with Marvel and Star Wars skins proving popular in the game, and live events such as the Marvel Nexus War with Galactus bringing in 15.3 million concurrent players.
+
+Iger also announced today that Taylor Swift’s concert film of The Eras Tour is coming to Disney+, with five additional songs.
+
+The film, now titled Taylor Swift: The Eras Tour (Taylor’s Version), will be available to stream from 15 March.
+
+Access unlimited streaming of movies and TV shows with Amazon Prime Video Sign up now for a 30-day free trial Sign up
+
+Access unlimited streaming of movies and TV shows with Amazon Prime Video Sign up now for a 30-day free trial Sign up
+
+Among the bonus songs will be “Cardigan”, from Swift’s 2020 album Folklore, as well as four songs from the show’s acoustic section.
+
+Iger said:“‘The Eras Tour’ has been a true phenomenon that has and continues to thrill fans around the world, and we are very excited to bring this electrifying concert to audiences wherever they are, exclusively on Disney.”
+
+The announcements came as the Walt Disney Co. posted stronger than expected earnings in the October-December quarter, boosted by cost cuts and growing revenue from its theme parks business.
+
+Disney earned $1.91 billion, or $1.04 per share, in the fiscal first quarter. That’s up 49% from $1.28 billion, or 70 cents per share, in the same period a year earlier. Excluding one-time accounting items, the company earned $1.22 per share in the latest quarter.

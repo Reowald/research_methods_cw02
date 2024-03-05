@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lewis Hamilton’s shock move to Ferrari on Thursday saw the Scuderia’s share price skyrocket more than 10 per cent – equating to just under $7billion (£5.48bn) – on Thursday.
+
+Mercedes confirmed late on Thursday that seven-time world champion Hamilton – who has won six of his seven titles with the Silver Arrows – has exercised a break clause in his new two-year contract.
+
+It means Hamilton will replace Carlos Sainz at Ferrari in 2025, with the Spaniard now looking for a new team for next year as Hamilton will partner Charles Leclerc.
+
+Follow LIVE: F1 star explains Ferrari move for 2025 and latest reaction from Toto Wolff
+
+But if there were any doubts about how beneficial Hamilton’s move would be from a financial perspective, they were immediately squashed as Ferrari’s company value soared on the New York Stock Exchange.
+
+Their share price hit a high of $384.00 on Thursday, giving the Scuderia an estimated market capitalisation of $69.12bn, an increase of just under $7bn from close of trading on Wednesday.
+
+This increase won’t solely be down to Hamilton’s move – selling higher-priced cars, good sales in the United States and China, and a rise in personalised features will have also contributed – but it will no doubt have had a big impact.
+
+Hamilton, who will be on a salary around £40m-a-year, is one of the most marketable sportsmen in the world and worked closely as an ambassador with Mercedes’ car brands and major sponsors.
+
+Lewis Hamilton’s move to Ferrari has seen the Scuderia’s share price skyrocket (Getty Images)
+
+According to the Sunday Times Rich List, the 39-year-old has a net worth of £300m.
+
+Hamilton signed a new contract with Mercedes last summer, seemingly keen to extend his partnership with the Silver Arrows long-term.
+
+However, 2024 will be his 12th and final season under Toto Wolff’s leadership as he looks to finish his Mercedes career on a high alongside George Russell.
+
+The first race of the season is in Bahrain on 29 February – 2 March.

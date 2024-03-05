@@ -1,0 +1,25 @@
+Get the free Morning Headlines email for news from our reporters across the world Sign up to our free Morning Headlines email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Morning Headlines email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Powers to ban pavement parking should be extended across England, at least that is the view of a report published by councils last week.
+
+Wheelchair users, older people and parents with pushchairs are among those put at risk by having to navigate around vehicles mounted on kerbs, a study commissioned by the Local Government Association (LGA) warned.
+
+The investigation found some vehicles cause “a complete obstruction to someone walking or wheeling”, meaning they have “no option but to enter the carriageway to continue their journey”.
+
+Currently, London is the only area in England where pavement parking is banned.
+
+RAC head of policy Simon Williams said: “Pavement parking is at best inconvenient and at worst hazardous for pedestrians and those in wheelchairs but in England, there’s still a massive question about if and when controls will ever be introduced.
+
+“Rather than an outright ban, we think it would be more effective if local authorities were given enforcement powers to prevent unnecessary pavement obstructions. This prevents the need for them having to survey all their roads to work out where exemptions need to be made.”
+
+We want to know what you think. Would you welcome a ban on pavement parking across the UK? Or is there a better way to improve road safety on our streets?
+
+If you want to share your opinion then add it in the comments and we’ll highlight the most insightful ones as they come in.
+
+All you have to do is sign up and register your details - then you can then take part in the discussion. You can also sign up by clicking ‘log in’ on the top right-hand corner of the screen.
+
+Make sure you adhere to our community guidelines , which can be found here . For a full guide on how to comment click here.
+
+Join the conversation with other Independent readers below.

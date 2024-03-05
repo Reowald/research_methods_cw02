@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Hackers have infected millions of smart toothbrushes with malware in order to carry out a massive cyber attack against a Swiss company, according to reports.
+
+The internet-connected toothbrushes were linked together in something known as a botnet in order to perform a distributed denial of service (DDoS) attack, which overloads websites and servers with huge amounts of web traffic.
+
+The website of the Swiss firm was knocked offline as a result of the attack, according to local newspaper Aargauer Zeitung, who first reported the incident. The paper cited cyber security firm Fortinet, who The Independent has reached out to for further information.
+
+The company targeted in the attack, which was not named, reportedly lost millions of euros of business while its site was down.
+
+Fortinet warned of the dangers of smart devices, which can include web cams, baby monitors, doorbells and domestic appliances.
+
+“Every device that is connected to the Internet is a potential target – or can be misused for an attack,” said Stefan Züger, head of system technology at Fortinet Switzerland. Mr Züger advised owners of smart technologies to take measures to protect themselves.
+
+“Otherwise, sooner or later you will become a victim – or your own device will be misused for attacks,” he said.
+
+Some cyber security researchers have questioned the report, doubting that such a large number of toothbrushes could be compromised.
+
+The growing trend of internet-connected and AI-enabled devices was on display at the CES tech conference in Las Vegas last month, with everything from pillows to mirrors now embedded with the technology.
+
+The continued rise in popularity of such devices has coincided with fresh security concerns about the risks they may pose if protections are not put in place.
+
+A recent report from network performance firm Netscout noted an “unprecedented growth” in malicious botnets, with activity doubling in January.
+
+“These consistently elevated levels indicate a new weaponization of the cloud against the global internet... [and] confirms that a dangerous new wave of cybercrime is underway,” the report stated.
+
+“This battle is just beginning and the adversary is performing reconnaissance to uncover areas to exploit.”

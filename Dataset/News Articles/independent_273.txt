@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of mortgage approvals made to home buyers hit a six-month high in December, according to Bank of England figures.
+
+Some 50,459 mortgages were approved for house purchase in December, marking the highest total since 53,953 approvals in June 2023.
+
+The “effective” interest rate – the actual interest paid – on newly-drawn mortgages fell from 5.34% in November to 5.28% in December, the first drop since November 2021.
+
+The housing market is likely to stabilise Thomas Pugh, RSM UK
+
+Sarah Coles, head of personal finance at Hargreaves Lansdown, said: “We can celebrate approvals pushing through 50,000, and there are some signs that January has seen another bounce, but we’re still a long way from a healthy market.
+
+“Approvals have to be seen in the context of the fact that, excluding the start of the pandemic, we had been used to approvals of over 60,000 a month for the best part of a decade, and we’re still well short of this.”
+
+Thomas Pugh, economist at audit, tax and consulting firm RSM UK, said the increase in mortgage approvals for house purchase “suggests that life may be starting to return to the housing market and that, if house prices haven’t quite reached their nadir, they’re probably not far off it.
+
+“Indeed, now that attention has firmly turned to when interest rates will start to fall, mortgage rates have started to drop.
+
+“The effective interest rate on new mortgages in December fell for the first time since November 2021. As a result, the housing market is likely to stabilise, and prices will probably start to rise from quarter two, supported by an increase in real incomes.
+
+“A gradual rebound in housing transactions will also support an economic recovery later this year.”
+
+The focus does now seem to be on reducing debts, saving more, and being careful about taking on new financial obligations Charlotte Nixon, Quilter
+
+Samuel Tombs, chief UK economist at Pantheon Macroeconomics, said: “Households managed their finances cautiously towards the end of 2023, but they likely will be willing to borrow more this year, now that mortgage rates have fallen and the outlook for growth in real disposable income has improved.”
+
+Overall households’ deposits with banks and building societies, as well as NS&I accounts, grew by £6.0 billion in December. This is more than the average monthly rate of £4.2 billion over the past six months, the Bank’s Money and Credit report said.
+
+Charlotte Nixon, a mortgage expert at wealth manager Quilter, said: “Overall, these figures reflect a cautious and conservative approach by individuals in managing their finances during the cost-of-living crisis but some life does seem to be being breathed back into the housing market.
+
+“The focus does now seem to be on reducing debts, saving more, and being careful about taking on new financial obligations.”
+
+Net consumer credit borrowing fell to £1.2 billion in December, from £2.1 billion in November. This was mainly driven by lower borrowing through credit cards, the report said.
+
+While it’s encouraging to see consumer borrowing fall ... the fact remains there are still millions of people struggling to meet the most essential of financial commitments and they are turning to borrowing as a result Richard Lane, StepChange Debt Charity
+
+Richard Lane, chief client officer at StepChange Debt Charity, said: “While it’s encouraging to see consumer borrowing fall – particularly in December when Christmas spending is at its peak – the fact remains there are still millions of people struggling to meet the most essential of financial commitments and they are turning to borrowing as a result.
+
+“Our research has found that one in eight people has borrowed to keep up with essential payments in the past 12 months, and, with everyday costs like energy bills and groceries still soaring, we can expect to see more and more people turn to borrowing to make ends meet.”

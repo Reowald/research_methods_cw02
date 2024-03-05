@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Researchers have calculated that a new renewable energy concept could reduce the payback period for solar panels to less than five years.
+
+A team from the University of Lisboa and the Military Academy in Portugal worked out that building solar farms alongside “shadow-friendly” crops through a system known as agrivoltaics, or Agri-PV, could help supercharge the transition to renewable energy sources.
+
+The researchers said Agri-PV created a “union between agricultural and energy productions” that would also generate more value from the land than solar farms or agricultural production alone.
+
+Combining solar panels with ‘shadow-friendly’ crops can significantly increase a land’s production potential, researchers say (iStock/ Getty images)
+
+The concept is also boosted by the decreasing cost of solar panels in recent years, combined with population growth that requires new solutions for both food production and energy generation.
+
+“These projects, besides the fact they increase the production of green energy and reduce the consumption of non-renewable energy sources, also decrease the amount of CO2 released to the atmosphere,” the researchers noted.
+
+“The projects’ payback periods are around four-to-five years and it is concluded that Agri-PV is worth more than only PV or only agriculture productions.”
+
+The findings were detailed in a paper, titled ‘Agri-PV in Portugal: How to combine agriculture and photovoltaic production’, published in the journal Energy for Sustainable Development.
+
+“The Agri-PV concept can be applied in multiple types of agriculture such as beekeeping, greenhouses, livestock and horticulture,” the paper noted.
+
+“For each type of agriculture, the implementation of the Agri-PV solution will be different in order to have the most efficient solution possible, energy-wise and also food-wise.”
+
+Several countries are already exploring the potential of agrivoltaic systems, with China, Germany, Japan and the US among those investing in the technology. Trials of agrivoltaic farming in South Korea have already yielded broccoli crops.
+
+A 2022 study into the project found that the quality and taste of the broccoli was not any lower than the vegetable grown in the traditional way.
+
+Other potential crops that could be used in such systems include carrots, radishes, lettuce, tomatoes and potatoes, while berries like strawberries, blueberries and raspberries could also work well.

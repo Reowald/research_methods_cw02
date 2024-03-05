@@ -1,0 +1,19 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Rafael Nadal has withdrawn from next week’s Qatar Open after announcing he is “not ready to compete”.
+
+The 22-time grand slam singles winner, who missed the Australian Open due to a hip injury, had been hoping to feature in the ATP 250 event in Doha.
+
+But the 37-year-old will now target next month’s BNP Paribas Open at Indian Wells for his return to competitive action.
+
+Nadal posted on his social media: “I would have loved to play in Doha, where the tournament team, as well as the amazing Qatar fans have always supported me greatly.
+
+“Unfortunately I am not ready to compete and I won’t be able to come to Doha where I really wanted to be and play again after that unforgettable win in 2014.
+
+“I will focus on keep working to be ready for the exhibition in Las Vegas and the amazing Indian Wells tournament.”
+
+Nadal made his comeback at the Brisbane International in January after spending a year on the sidelines due to a long-term hip problem.
+
+The Spaniard sustained a muscle tear near his hip in his quarter-final defeat to Jordan Thompson in Brisbane, but scans revealed it was not in the same area.

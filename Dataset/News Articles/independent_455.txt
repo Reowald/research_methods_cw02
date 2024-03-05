@@ -1,0 +1,241 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A great British break is wonderful for many reasons – rambling greenery, blustery coast walks, Enid Blyton-esque villages, and delightfully creaky old pubs. But when many of us dash off for a weekend in the country, we do it with one thing on our mind: food.
+
+Think the English aren’t great at food and drink? Think again. From supple, salty oysters served up on the Kent coast; to New Forest asparagus dipped into a smoky, black garlic mayonnaise; to Devon crab wrapped in fresh ravioli and sprinkled with ginger and grapefruit, or to the English sparkling wine poured into glinting flutes all over the country.
+
+For a getaway that isn’t just a simple sleepover but a veritable feast, this is your ultimate hit list – from grand manors with Michelin-starred menus to character-packed inns with rooms serving up pub faves with a posh twist. Go with an appetite and leave with a big smile on your face.
+
+Food at HH & Co restaurant, Lime Wood, New Forest (Lime Wood)
+
+The forest favourite: Lime Wood, New Forest, Hampshire
+
+For starters
+
+There are fewer lovelier English escapes than the New Forest – a sprawling former royal hunting ground close to the coast, with countless walking trails, grazing wild ponies and heather-topped heathlands. For food fans, its crowning glory is Lime Wood – a building with the bones of a stately home and the grounds of a country pile, but the restaurants and bar of a five-star city hotel.
+
+It’s elegant, playful and packed with well-heeled Country Living details: a boot room with wellies to borrow for tramping about the forest, fireplaces in suites to thaw cold toes, and English country garden scents filling its modern, light-filled Herb House spa (where treatments are inspired by all things green and relaxing, from rosemary to lavender and even cannabis).
+
+Dishy digs
+
+Rooms in a range of sizes are decked out in muted, tasteful Farrow & Ball shades, perked up with gently chintzy cushions and curtains. Forest Hideaway Suites are spread over two floors, with their own living room and terrace, for real home-from-home getaways.
+
+Forest Cottages have enough room for four guests – great for families or group celebrations – plus earthy wood and slate decor, and rustic kitchens of their own.
+
+Peak escapism is in the Lake Cabin, sleeping two and perched on stilts at the lakeside, with its own metallic freestanding tub. Large windows, filled with sun through forest leaves, feel every bit as soothing as the spa.
+
+Must-eat moment
+
+Dinner at HH & Co – that’s Hartnett and Holder, as in TV’s Angela Hartnett and Luke Holder – is why you book a room here. The order of the day is rustic-luxe Italian fare with a British-ingredients slant – think fresh spaghetti with Cornish lobster; pork loin with artichoke, caramelised garlic and salsa verde; or buttery gnocchi with rabbit, garden peas and parmesan.
+
+The comfy, leather-upholstered dining room has a baked-in special-occasion feel with a gentleman’s-club sophistication – cheery waiters will joke with you as they decant your wine or perform tableside carvings. And don’t miss a cocktail in the tranquil courtyard bar.
+
+Details: Doubles from £405, room only
+
+Book now
+
+The mega fabulous breakfast spread at the Double Red Duke (Double Red Duke)
+
+The gourmet inn: The Double Red Duke, Cotswolds
+
+For starters
+
+This fairy-tale pub, with its high chimneys and vine-smothered walls, has gained a fanbase of influencers and city fashionistas in the past couple of years, having opened in spring 2021. A 30-minute drive from Oxford Station, it’s pure children’s book illustration outside, but inside it’s a swinging, stylish den of modern British cuisine, glam interiors and live music.
+
+Coral-coloured velvet sofas and sage armchairs line the exposed-brick pub walls, with a skylight-illuminated garden room and two idyllic beer gardens – we recommend aperitifs under candy-striped parasols in the front garden, and secluded nightcaps out back. Every last Sunday of the month sees a raucous live-music night that packs out the bar.
+
+Dishy digs
+
+The bones of this 17th-century, Cotswold-stone coaching inn are so quaint that the team has played with bold, modern furnishings to great effect. Our room has hefty wood beams, a freestanding bathtub, antique wardrobe and a second hideaway bed. Others have welly-green bathtubs, teal-velvet headboards or bold floral feature walls.
+
+Lashings of crimson run a cheeky theme through this extrovert home of the “Duke”, who you suspect might be a bit of a party animal. Toiletries are provided by 100 Acres – a Cotswold brand, scented with geranium, lavender, camomile and linden flower.
+
+Must-eat moments
+
+All the fish, meat and veg here are grilled over coal flames, so, try a steak, charred fish fillet or the hispi cabbage (dripping with fresh mint butter) to make the most of that specialist smoky flavour. Just as delightful are shallot-sprinkled oysters and heart-shaped mini flatbreads smudged with nduja and honey. These folks know their food, so take the staff’s steer on the best fish combinations, as well as wine pairings. If you’re not a dessert person, the plump homemade salted caramel chocs are the perfect mini sugar fix.
+
+Breakfast is a bar-buffet of doorstop-thick breads, oven-warm pastries, homemade jams and soft-boiled eggs, or fancier takes on the fry-up.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+One of The Culpeper’s five bedrooms (The Culpeper)
+
+The capital idea: The Culpeper Bedrooms, London
+
+For starters
+
+An East End pub dating back to the 1880s and featured in Jack the Ripper lore, The Culpeper reinvented itself in the mid 2010s as a foodie destination. With a relaxed but sophisticated pub downstairs, a bijou, brick-walled restaurant on level one, and a dainty rooftop trimmed with beds of herbs and veg, it’s a little wonderland less than a 10-minute walk from London’s Liverpool Street station. You’re close to Shoreditch for dinners out, Spitalfields for street food and characterful market trinkets, and the city for flashy cocktails in skyscrapers.
+
+Dishy digs
+
+The rooms here are affordable for a reason – they’re snug, with distressed, pared-back walls and spare but hip styling. Some have ornamental fireplaces, egg-shaped string chairs draped with sheepskin throws, woven pouffes and oversized wicker lampshades. You’re in central London, so a bit of noise outside is fair game, but the soundproofing is pretty decent, with an extra window layer to shut out the sirens. Amenities are basic (TV, clothing rail), but bathrooms are cute with bright tiling and good showers.
+
+A perfectly pleasant base to pile back to after a foodie night on the town – staff are also beyond friendly and helpful, so ask them for their top local haunts.
+
+Must-eat moment
+
+Dinner here feels as sophisticated as a European bistro, but with firmly British ingredients – expect a tightly curated line-up of three to four starters, mains and puds. We delved into fresh puff pastry topped with grilled goat’s cheese and heritage tomatoes; melty beef osso bucco with sunshine-bright saffron risotto; and whole grilled plaice with creamy beans and crisp, buttery girolles.
+
+Aperitifs and spritzes start things off on a celebratory note, and – weather permitting – dessert and drinks can be enjoyed on the lightbulb-strung rooftop, with garden shoots all around you and the space-age Gherkin, Walkie Talkie and neighbours huddled against the skyline in front.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Le Manoir’s 15th-century manor house is the stuff of fairy tales (Le Manoir aux Quat’Saisons)
+
+The once in a lifetime: Le Manoir aux Quat’Saisons, Oxfordshire
+
+For starters
+
+If you haven’t heard of Le Manoir, chances are you’re not that into your food. This is the cult favourite, creme de la creme fine-dining hotel headed up by chef Raymond Blanc, set in a 15th-century Oxfordshire manor so dainty you feel you’ve stumbled into a Beatrix Potter book. It has two Michelin stars and one “green Michelin star” for its sustainability efforts.
+
+Arrive and you’re greeted with a glass of English sparkling wine overlooking the croquet green. Between meals, you might weave around the lavender and allium-trimmed gardens, each herb and vegetable neatly labelled, like a mini Kew. Or you could take a world-class chef-skills course or gardening workshop in the flash cooking school and pretty greenhouses.
+
+Dishy digs
+
+Everything at Le Manoir smells edible, from the garden trails to the soaps in your bathroom. Rooms and suites each have a striking character: one is decked out entirely in white and grey Toile de Jouy print; others have rustic creamy walls and chunky wood beams. You could request a Botticelli-themed bathroom or the sexy red and black Rouge et Noir suite. Most modern-minimalist are the L’Orangerie and Blanc de Blanc suites, while those there for the South of France vibes should opt for the Provence room. Expensive marble bathrooms, tree-shaded private terraces, fireplaces, thick coffee-table books and fresh flowers all add lashings of luxury.
+
+Must-eat moment
+
+It’s worth dressing up for dinner here, in the hopes your outfit will be as dazzling as the plates of garden-fresh treats. All are artfully drizzled and dolloped with flavour-packed jus and sauces, with some mind-expanding flavour pairings: expect to see garden salads scattered with edible flowers, zesty fruit sorbets, juicy nuggets of lobster, and velvety portions of lamb grace your delicate ceramic dishes.
+
+Unsurprisingly, your bill will be extravagant: a six-course lunch costs £205, while a seven-course dinner is £230. Just as unsurprisingly, you’ll have access to some rare, fine wines and champagnes, and everything will be unforgettably delicious, even the creative veggie and vegan menu. This is the spendy one – but if you’re a hardcore Blanc or fine-dining fan, it’s worth the splurge.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Le Manoir aux Quat'Saisons, A Belmond Hotel, Oxfordshire here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Decadent dinners at The Rose, Deal (The Rose, Deal)
+
+The great-value hideaway: The Rose, Deal, Kent
+
+For starters
+
+Deal may not be on your radar, but – along with its neighbours, Margate and Whitstable – it’s part of a wider coastal “Kent-aissaince”, wherein the county’s formerly run-down seaside towns are being rejuvenated to attract weekend hipsters. Deal is less in your face, more quietly nautical and genteel than Margate, with a long, shingly seafront you can wander for miles.
+
+Bang on its high street, The Rose is a beloved 200-year-old pub reimagined as a trendy B&B by owners Christopher Hicks and Alex Bagner. As well as trimming it with eyecatching, Instagram-ready decor, they’ve designed a menu miles above the usual pub fare.
+
+Dishy digs
+
+The Rose’s communal bar and petite bedrooms are colourful and charismatic – ours had candy-pink and teal accents, plus a kitsch pink dresser clearly rescued from a flea market, a plush Maximalist headboard and vintage books on the fireplace. Upcycled furniture and bold prints abound. Other rooms have lashings of sunshine yellow or shell pink, and there’s a whimsical drinks trolley in the hallway with a decanter of brandy for guests. See those earplugs in the bathroom? Take the hint – the church next door chimes every hour, on the hour, all night long.
+
+Must-eat moments
+
+Hotel guests get free breakfast served on chintzy china, but dinner is a must-do, too. At cocktail o’clock, Martinis are given an English twist with Kentish Chapel Down gin; starters might traverse Maldon oysters, local crab and asparagus from nearby Sevenscore farm. Comfort food lovers will adore posh twists on burgers and mac and cheese. But if you’ve come for the produce, look out for the meat and fish mains: pan-roasted hake with wild garlic and rainbow chard, say, or grilled pork chop with heritage tomatoes. Veggies are well catered for too.
+
+It’s as good as any swish dinner in hip East London – but with the bonus of sea frothing just metres away. It’s affordable, too – mains typically cost less than £25.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+A stylish Spa Lodge at Gilpin Hotel & Lake House (The Gilpin)
+
+The spicy spa star: Gilpin Hotel & Lake House, Lake District
+
+For starters
+
+A glamorous, spa-focused set of lodges near the gateway to the Lake District, Gilpin’s rooms centre around a cute, whitewashed main cottage. Here, you’ll find Michelin starred Source, along with two other Michelin listed restaurants, plus a serene garden terrace and plush cocktail lounge.
+
+This place straddles the ground between five-star and quirky – a troupe of llamas and alpacas peer in at you from their adjoining field, while a trio of pigs snuffle around their pen near the terrace. You can have super-luxe spa treatments in your room, or lace up your walking boots and head out to see the beautiful lakes on foot.
+
+Dishy digs
+
+As well as classic, English-rose doubles in the main building, there are a handful of glamorous wood-clad cabins spread across the estate, many of them with plenty of space and absolute privacy. The Spa Suites have huge, fizzing hot tubs built into generous outdoor decks, with views across the emerald countryside, while the open-plan garden suites have fireplaces, outdoor hot tubs and zesty modern decor. Both Spa Lodges and Suites become DIY spas at the drop of a hat, with steam rooms and saunas you can heat up yourself, plus massage table, Japanese massage chair and jet-equipped hot tubs.
+
+Dine at one of the Gilpin’s three top-rated restaurants (Gilpin Hotel & Lake House)
+
+Must-eat moment
+
+Head to Source for a tasting menu of intriguing flavours and eye-widening textures. Sample dishes such as lobster, lettuce and peanut bisque; and local lamb with sheep’s yoghurt and broad beans. Vegans, meanwhile, will love the plant-based tasting menu.
+
+If you’re staying on for lunch or another night, pan-Asian second restaurant Spice is only marginally less fabulous, with more approachable, hearty seafood curries and desserts laced with coconut, cardamom or mango. Meanwhile, the Knipe Grill caters for those who love food cooked over the coals.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Gilpin Hotel & Lake House here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Avanti West Coast has trains to Oxenholme and Penrith in the Lake District, from London, Edinburgh, Glasgow and more.
+
+Lympstone Manor, near Exeter (Lympstone Manor)
+
+The coastal classic: Lympstone Manor, Devon
+
+For starters
+
+A wedding cake mansion by the sea, set in its own vineyards, this is a stylish seaside stay worth the drive into deepest Devon. Built in a serene, sloping setting facing the glimmering Exe estuary, Lympstone has the looks of a stately home, with none of the fustiness. Instead, it has wall-to-wall modern luxury: a heated pool cut into a slick wooden deck, an outdoor barbecue area for convivial guest mingles, a wine-tasting room and member’s club.
+
+In terms of atmosphere, it’s elegant, serene and reasonably formal – best suited to adult guests and special occasions. Owned by celebrity chef Michael Caines, it’s a magnet for fine-dining fans who come to see the man himself and taste his gallery-worthy creations.
+
+Dishy digs
+
+There’s a choice of grand, modern-styled bedrooms in the main house, or more-relaxed and family-friendly shepherd’s huts at the far end of the property’s vineyard. While the former are gorgeously decorated in slate greys, powder blues and rich creams – each is themed on a different sea bird – the latter are no less luxurious, with several shepherd’s huts equipped with outdoor bathtubs or woodfired hot tubs on a scenic deck, as well as king-sized beds, kitchenettes, rich blankets and woodburners. The huts are also dog-friendly for those travelling with a four-legged friend.
+
+Must-eat moments
+
+You’d be mad to come all this way without a booking for Caines’s Michelin-starred restaurant, which is open for lunch and dinner. You’ll be seated in one of three intimate and luxurious dining rooms, each facing the vines and river (if you’re staying for more than one meal, it also means you can have a change of setting for each).
+
+A three-course lunch menu starts from £75pp, and might feature such treats as tartlet of Lyme Bay lobster and roasted quail with salt-baked celeriac.
+
+An eight-course dinner menu starring the best produce of the county costs £225, while the estate’s first homemade wine, an aromatic, berry-packed Pinot Noir, is a must-try available by the glass. Just passing through? Taste a little of Lympstone’s luxury by booking its glam, Devonshire-inspired afternoon tea.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Lympstone Manor Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our UK hotel reviews:
+
+Read more about UK travel:

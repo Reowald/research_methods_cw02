@@ -1,0 +1,77 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The original PS3 release of The Last of Us is arguably one of the greatest games ever made, and has managed to transcend the cultural barrier that few action-adventure games do in mainstream media, so much so that HBO is banking on one of its next big original shows on the property.
+
+So, when recreating a near-decade old game from the ground up – while simultaneously trying to stay true to what made it great, it’s easy to remember the source material through rose-tinted shades and question how much of an improvement this latest remaster has made, especially when a PS4 remaster already exists – and is available for free with every PS Plus subscription (£15.99, Playstation.com).
+
+So what sets the appeal of a remake, titled Part I, apart and why does US video game developer Naughty Dog see fit to charge £69.99 for it? Yes, there are some much noted improvements, as well as an entire raft of extras, but only for the most ardent flag-bearers to potentially sink their teeth into, much like the Clickers that shamble through TLOU’s ruinous yet breathtaking landscape.
+
+By using the cast’s original motion capture to act as an anchor for the game’s cinematic scope, Part I is able to add new levels of detail, such as a single tear rolling down the cheek, to the glimmer of Joel’s eyes through a thousand-yard stare. But make no mistake, this is an idealised version of the original – a technical feat in itself.
+
+The Last of Us is one of those controversial titles that people either love or hate for numerous reasons. Character-driven storytelling supported by tight mechanics and thoughtful environmental design contrasts with its “jarring” ending and segue into Part II’s shocking introduction. But, in our eyes, it’s still a masterpiece of the medium. Will Part I change anyone’s mind about it if they feel differently? Absolutely not.
+
+But what Part I does represent is a premium package of a title that is regularly cited as an all-time great. Despite that, there’s only a handful of cases in which Part I could be recommended: if you have never played it before or you want to re-experience it off the back of The Last of Us Part II.
+
+How we tested
+
+Our playthrough of The Last of Us Part I is based on a digital PS5 version of the game, where we were able to play through the main story as well as its additional content, Left Behind. We also used the opportunity to make use of its heavily advertised PS5 features, such as dualsense support, 3D audio and faster loading times.
+
+There are also a number of accessibility features that have been added and, while we have made an effort to see how effective they are at making the game more inclusive, the reviewer does not identify as someone with a visual or hearing impairment.
+
+‘The Last of Us Part I’: £69.99, Playstation.com
+
+(Playstation)
+
+Rating: 8/10
+
+8/10 Platforms: PS5
+
+PS5 Publisher: PlayStation Studios
+
+PlayStation Studios Release date: 2 September
+
+2 September Age rating: 18+
+
+Review
+
+From The Last of Us’s devastating opening minutes, the graphical improvements in Part I are immediately apparent in comparison with its older versions, with detailed lighting and shading helping to capture the essence of a world on the brink of collapse.
+
+Despite its bleak story and setting, TLOU has always been vibrant in its presentation, but after spending enough time comparing frames side-by-side from their original cutscenes, it’s more evident how the PS3 version’s colourful backdrop was compensated by a colourful “bloom” to make its foliage stand out. Here, the overgrown backdrop is just as visually remarkable, yet it just sits on the cusp of photorealism, at least out of the foreground.
+
+In detail, its more-destructive elements are more apparent. Glass shatters with force in gunfights but also crumbles with delicacy as Joel vaults a window, leaving remnants scattered underfoot with a gentle crunch that can be audibly heard as well as felt in the dualsense controller.
+
+The dualsense controller is put to good use (Naughty Dog)
+
+Part I’s attention to detail is helped in some parts by the game’s original level design that gently funnelled players through tight spaces when compared to Part II’s open-ended segments, so it’s good to see Naughty Dog make use of that space to expand on its existing area, rather than simply enlarging it.
+
+With character animations, cutscenes help to establish the improvements to facial animations. Supporting characters such as Tess, Sam, and Henry have had major changes made to their appearance while still retaining the same performances of their actors, while Ellie, as one of the protagonists, has more noticeably been redefined, aligning more with her appearance in the sequel.
+
+Much like The Last of Us Part II, Part I has included a number of accessibility features. Most notably high contrast modes as well as customisable HUDs and even audio described cutscenes – supposedly a first for a videogame of this scale.
+
+Explosives and other destructive elements have more detail (Naughty Dog)
+
+One of the most interesting features to be added is the ability to play dialogue through the dualsense controller, which can be used to “feel” the delivery of each line, whether it’s a sharp whisper or a sudden angry outburst. It’s quite impressive as a practical use for the PlayStation 5’s hardware, which clearly shows a lot of thought has gone into making the experience as accessible as possible for everyone.
+
+As well as accessibility, the dualsense has also been put to good use with other in-game features. One particular example was being able to feel the tumblers of the game’s numerous safe locks with enough sensitivity that it could be opened successfully without looking at the screen. As you would expect from a PlayStation Studios title, it’s an excellent showcase for its own tech that can tangibly improve the experience.
+
+The same can be said for 3D audio support. When playing with compatible headphones, having a surround sound experience is noticeably more beneficial and gives players a sense of the space around them. The Last of Us’s worst enemies, Stalkers, have a tendency to scuttle around and pounce on players from behind. Being able to accurately pick out their position in a pitch-black space made a lot of difference.
+
+Facial Animations have much more detail (Naughty Dog)
+
+In terms of how Part I plays, the promise of improved mechanics may have left fans with the impression that it would take a page out of Part II’s book in terms of manoeuvrability, speed and brutality but the most notable changes are in its user interface and menu systems. Items are laid out in a more intuitive way and quickly swapping between items is much less cumbersome as a result.
+
+While it may seem like a missed opportunity to have Joel sprinting around, jumping prone while lighting molotovs, it does make more sense for his character (who is in his 40s at this point) to be less agile than a teenage Ellie was in Part II. His stealthy approaches, attacks and movements all carry a deliberate weight to them, which feels more appropriate.
+
+Part I also has a number of hidden extras that can be unlocked by collecting points for completing chapters, finding hidden collectibles and playing on higher difficulties. Some of these extras include concept art from both the original game as well as this remake, cosmetic upgrades as well as gaming commentary and even podcast episodes.
+
+However, many of these extras are unavailable to players until they are able to finish the main story. It would have been nice to access some of these “behind the scenes” features earlier on as part of the experience, as quite likely this would be many people’s third time playing this game from beginning to end.
+
+Verdict: ‘The Last of Us Part I’
+
+The Last of Us is (and always was) a masterpiece and Part Iis unquestionably the best version of it yet, but that may not be enough for anyone hoping for a complete reinvention of the formula from the ground up.
+
+Part I adds just enough to warrant its remake for the latest hardware, which elevates it to the same level of The Last of Us Part II in smart design choices, flexibility and technical prowess even if it’s still the third time we’ve made this journey before.
+
+If Naughty Dog’s original PS3 version was the critically acclaimed theatrical release, then Part I is the Criterion 4K remaster complete with commentary and behind-the-scenes footage.

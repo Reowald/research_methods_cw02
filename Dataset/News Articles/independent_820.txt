@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have figured out how to extend the range and lifespan of electric car batteries by making a simple adjustment to the vehicle’s software.
+
+A team from Stanford University in the US discovered the low-cost solution after resting a next-generation lithium metal battery for several hours after it had drained.
+
+“We were looking for the easiest, cheapest, and fastest way to improve lithium metal cycling life,” said study co-lead Wenbo Zhang.
+
+“We discovered that by resting the battery in the discharged state, lost capacity can be recovered and cycle life increased. These improvements can be realised just by reprogramming the battery management software, with no additional cost or changes needed for equipment, materials, or production flow.”
+
+Lithium metal batteries hold the potential to provide twice the range of conventional lithium-ion batteries, however until now they have lost capacity too quickly to make them practical for commercial use.
+
+The Stanford researchers discovered that the degradation occurred while the battery was in an idle state, however it could be reversed by simply letting it rest while fully discharged.
+
+“We found that if the battery rests in the discharged state for just one hour, some of the SEI matrix [decomposed electrolyte] surrounding the dead lithium dissolves away. So when you recharge the battery, the dead lithium will reconnect with the anode, because there’s less solid mass getting in the way,” said PhD student Philaphon Sayavong, who co-led the research.
+
+“A car equipped with a lithium metal battery would have twice the range of a lithium-ion vehicle of equal size – 600 miles per charge versus 300 miles, for example. In EVs, the goal is to keep the battery as lightweight as possible while extending the vehicle range.”
+
+The research was published on Wednesday in the scientific journal Nature, in a study titled ‘Recovery of Isolated Lithium Through Discharged State Calendar Aging’.

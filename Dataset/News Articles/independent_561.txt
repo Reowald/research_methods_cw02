@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A new artificial intelligence system has identified dozens of new cave entrances on Mars from surface images of the Red Planet, some of which may provide shelter for future human explorers, scientists say.
+
+While the Martian surface is inhospitable, a few metres below the surface could be a little more habitable, researchers say.
+
+A growing body of studies suggests cave entrances could be places to explore on Mars as potential shelters for future astronauts.
+
+Researchers from Durham University in the UK trained a machine learning algorithm to identify potential cave entrances (PCEs) from images of the Martian surface.
+
+Caves formed on Mars from the collapse of ancient lava tubes, and these geological structures could be key to the future exploration of the Red Planet.
+
+These structures form as the outer surface of flowing lava on ancient Mars cooled and solidified, while the interior molten lava flowed out, leaving the tube structure behind.
+
+Such caves may not only provide shelter for future explorers, but could also be potential hotspots to find signs of microbial life on Mars.
+
+Scientists suspect many such tubes may be interconnected beneath the Martian surface.
+
+NASA Just Successfully Tested Its New Rocket Engine That Could Help Humans Set Foot on Mars
+
+The new AI system, called CaveFinder, could identify 61 such cave entrances by analysing images in four different regions on Mars.
+
+These findings mark a new approach to finding caves on Mars, a process that was mostly done by manually reviewing satellite images in the past.
+
+For instance, one of the largest known databases of cave locations on Mars is a manual review called the Mars Global Candidate Cave Catalogue (MGC3), which contains the coordinates of over 1,000 identified Martian PCEs.
+
+However, such manual analysis of satellite images to pinpoint Martian caves can be inefficient “due to the time constraints associated with reviewing such a large dataset,” scientists say.
+
+“Manual review of satellite imagery for Martian cave detection is far from efficient on a planet-wide scale,” they wrote in the study, published recently in the journal Icarus.
+
+“Machine learning presents an intriguing solution to this problem, reducing the dataset to only include imagery computationally determined to contain a PCE,” researchers added.
+
+In the new study, researchers trained the machine learning algorithm by having it assess images in the MGC3 catalog of caves from the Tharsis and Elysium regions on Mars – home to a large number of volcanoes.
+
+While the AI system is still not “appropriate” for detection of caves on Mars on a planet-wide scale, scientists say it may be effective in flagging potential caves in smaller regions already known to contain PCEs.
+
+“Overall, this survey’s findings indicate that, with these additions, machine learning has a great potential to advance remote cave detection, which is key to future Martian exploration,” researchers concluded.

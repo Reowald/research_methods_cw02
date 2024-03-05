@@ -1,0 +1,27 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Top seed Iga Swiatek overcame a gritty challenge by world number four Elena Rybakina to take home the Qatar Open title for the third straight year with a 7-6(8) 6-2 victory in Saturday’s final.
+
+The 22-year-old Pole, who raced to her 12th consecutive match win in Doha, became the first player to capture a singles title at an event in three successive years since Serena Williams triumphed in Miami from 2013-15.
+
+The win also improved her head-to-head record over Rybakina to 3-2, having lost on all three occasions last year.
+
+Swiatek endured a slow start as she went 4-1 down in a roller-coaster opening set before the four-times Grand Slam champion slowly found her groove to level things up at 4-4.
+
+After the set went into a tiebreaker, the momentum swung back and forth before Swiatek wrapped up the 90-minute-long set with a well-executed backhand winner.
+
+“It was really long, I wasn’t expecting that. It was really tough,” Swiatek said while describing the marathon first set.
+
+“I came here and was pretty stressed... I felt the expectations. I wanted to do everything step-by-step, as I always do, and it worked... I’m really happy. I’m really proud of myself.
+
+“Congrats to Elena for a great tournament and to her team. We have already played so many tough matches that I think it’s going to be great if we continue, have fun and give a nice experience to the fans.”
+
+Rybakina had taken a medical timeout after hitting her own leg during the opening set and that seemed to hamper the 24-year-old Kazakh as Swiatek wasted no time to take the second set and secure her first WTA 1000 title of the year.
+
+Despite her defeat, Rybakina said she had many positives to take from her second final in as many weeks, having won the Abu Dhabi Open last Sunday.
+
+“It’s been a great last two weeks ... I didn’t expect to see so much support. It really helps, especially when it’s such tough matches,” Rybakina said.
+
+Reuters

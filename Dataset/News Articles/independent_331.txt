@@ -1,0 +1,55 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Josh Kerr has been named in Great Britain and Northern Ireland’s team for the World Athletics Indoor Championships in Glasgow 24, UK Athletics has announced.
+
+The 1,500m world champion will run in the men’s 3,000m, having produced a stunning world best over two miles earlier this month, and Kerr will be joined by Olympic silver medallist Laura Muir to compete in front of a home crowd next month, with Scotland hosting the championships for the first time.
+
+The team, set to compete from 1-3 March, has been selected to “optimise medal success and the number of top eight placings”.
+
+Molly Caudery, having just cleared a world lead of 4.85m in the pole vault at the Microplus UK Athletics Indoor Championships in Birmingham last weekend, is also on the team and will hope to continue her momentum.
+
+Kilbarchan’s Jemma Reekie runs in the women’s 800m, while Georgia Bell earns a first senior call-up to run in the 1500m.
+
+Paula Dunn, Olympic Head Coach, said: “We are pleased to be announcing such a strong team for World Athletics Indoor Championships Glasgow 24, and I am looking forward to seeing how the team perform on the world stage. We had a thrilling National Championships where athletes secured their places for the Team in Scotland, and it was fantastic to see a number of athletes stepping up when it counted.
+
+“This is a really exciting squad that includes global medallists as well as athletes who will be hoping to make an impact on the world stage for the first time. Once World Athletics have finalised the final Road to Glasgow rankings later this week, those athletes who have the required ranking and have met the UKA requirements outlined in the selection policy will be announced, and we look forward to confirming our home championship team for next month.”
+
+Great Britain and Northern Ireland team for the World Athletics Indoor Championships
+
+Women
+
+Georgia Bell (Trevor Painter, Belgrave) – 1500m
+
+Isabelle Boffey (Luke Gunn, Enfield and Haringey) – 800m
+
+Molly Caudery (Scott Simpson, Thames Valley) – Pole Vault
+
+Morgan Lake (Robbie Grabarz, Windsor Slough Eton & Hounslow) – High Jump
+
+Laura Muir (Steve Vernon, Dundee Hawkhill) – 3000m
+
+Laviai Nielsen (Tony Lester, Enfield and Haringey) – 400m
+
+Jemma Reekie (Jon Bigg, Kilbarchan) – 800m
+
+Cindy Sember (Chris Johnson, Woodford Green Essex Ladies) – 60m Hurdles
+
+Revee Walcott-Nolan (Thomas Dreißigacker, Luton) – 1500m
+
+4x400m: Hannah Brier (Matt Elias, Swansea), Hannah Kelly (Les Hall, Bolton), Jessie Knight (Marina Armstrong, Windsor Slough Eton & Hounslow), Laviai Nielsen (Tony Lester, Enfield and Haringey), Lina Nielsen (Tony Lester, Shaftesbury Barnet) and Ama Pipi (Linford Christie; Enfield & Haringey)
+
+Men
+
+Jeremiah Azu (Marco Airale, Cardiff) – 60m
+
+Callum Elson (Nick Aguila, Cambridge & Coleridge) – 1500m
+
+Adam Fogg (Cory Leslie, Coventry) – 1500m
+
+Josh Kerr (Danny Mackey, Edinburgh) – 3000m
+
+David King (Tim O’Neil, City of Plymouth) – 60m Hurdles
+
+Tade Ojora (Joanna Hayes, Windsor Slough Eton and Hounslow) – 60m Hurdles

@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Britain’s biggest building society has said it will offer safe spaces to people experiencing domestic abuse.
+
+Nationwide Building Society said it will offer safe spaces to people experiencing domestic abuse at more than 400 branches across the UK.
+
+The society pledged last year that everywhere it has a branch, it will still be there until at least 2026.
+
+Safe spaces, launched by domestic abuse charity Hestia as part of the UK Says No More campaign, are designated locations which anyone experiencing domestic abuse can use.
+
+We're delighted to be partnering with Nationwide, whose support will make a real difference for victims across the UK Patrick Ryan, Hestia
+
+Upon asking a member of staff to use their safe space, people will be able to use a private room to help them deal with the issue. They can have access to a phone if they need one, and the chance to discreetly contact family, friends or specialist support.
+
+Nationwide said branch staff have received specialised training to help spot signs of domestic abuse and offer support to those affected, including helping them manage their finances, providing access to a specialist support team and other resources.
+
+Mandy Beech, director of retail services at Nationwide, said: “We hope that by rolling out safe spaces across over 400 of our branches and training all our branch colleagues, we are helping make a difference by giving people somewhere to go and access support safely.”
+
+Patrick Ryan, chief executive of Hestia, said: “We’re delighted to be partnering with Nationwide, whose support will make a real difference for victims across the UK.
+
+“Staff across more than 600 branches have participated in our domestic abuse awareness training.
+
+“Having a safe route to access support is a lifeline for victims of domestic abuse.
+
+“That’s why we launched safe spaces in everyday places like banks and pharmacies – to provide a safe way to access specialist help and advice, or to call a loved one.”
+
+HSBC UK, which already operates safe spaces, recently reported that the bank has seen an increase in their use during the winter months.
+
+The bank joined Hestia’s safe spaces scheme in April 2022, and said that since then more than 200 people have used a HSBC UK safe space.
+
+HSBC UK has said it experiences an average of two customer calls per day mentioning domestic or financial abuse.
+
+TSB joined the scheme in May 2021 and it also offers an emergency flee fund, making a payment of between £50 to £500, depending on individual needs, to support domestic abuse survivors.

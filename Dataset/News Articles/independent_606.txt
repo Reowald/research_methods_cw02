@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The moon is in a new epoch, researchers have said: the lunar Anthropocene.
+
+Humans have changed and plan to change the lunar surface to such a degree that it should be considered a new era for the satellite, researchers have said.
+
+What’s more, we intend to shape the moon’s environment even more in the years to come, with spacecraft returning to the surface and taking humanity there once again.
+
+Researchers say that officially recognising the changes that humanity has made would be an important way of making clear that the lunar surface is not unchanging and that humanity has changed it substantially.
+
+The argument for the moon’s new epoch is published in a comment article in Nature Geoscience. Researchers say that it may be considered to have begun in 1959, when Russia’s Luna 2 spacecraft became the first to ever land on the lunar surface.
+
+“The idea is much the same as the discussion of the Anthropocene on Earth – the exploration of how much humans have impacted our planet,” said lead author Justin Holcomb, a geological researcher at the University of Kansas. “The consensus is on Earth the Anthropocene began at some point in the past, whether hundreds of thousands of years ago or in the 1950s.
+
+“Similarly, on the moon, we argue the Lunar Anthropocene already has commenced, but we want to prevent massive damage or a delay of its recognition until we can measure a significant lunar halo caused by human activities, which would be too late.”
+
+Humanity has already left behind a host of detritus on the lunar surface. As well as the golf balls and flags that were famously dropped there on the first landing, it also includes human excrement and other litter.
+
+What’s more, humanity is working to change the surface of the moon, as people prepare to dig into it and even live there.
+
+“Cultural processes are starting to outstrip the natural background of geological processes on the moon,” Holcomb said. “These processes involve moving sediments, which we refer to as ‘regolith,’ on the moon. Typically, these processes include meteoroid impacts and mass movement events, among others. However, when we consider the impact of rovers, landers and human movement, they significantly disturb the regolith.
+
+“In the context of the new space race, the lunar landscape will be entirely different in 50 years. Multiple countries will be present, leading to numerous challenges. Our goal is to dispel the lunar-static myth and emphasise the importance of our impact, not only in the past but ongoing and in the future. We aim to initiate discussions about our impact on the lunar surface before it’s too late.”

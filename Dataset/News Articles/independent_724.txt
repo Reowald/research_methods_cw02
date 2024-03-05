@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lando Norris has signed a new ‘multi-year’ contract with McLaren, the team have announced.
+
+The 24-year-old had previously committed until the end of the 2025 Formula One season but the new, unspecified deal will take his association with the team, which began six years ago, beyond that.
+
+McLaren will hope the news ends speculation linking Norris, one of the most highly rated drivers on the grid, with a move to Red Bull.
+
+Rumours he could leave McLaren gathered pace after a slow start to 2023 but results improved and the season became his most successful to date.
+
+He finished sixth in the world championship after recording six second-placed finishes and the turnaround convinced him to stay.
+
+Having now started 104 races and earned 13 podium finishes, his next challenge is to secure a win and he feels he is in the right place to do that.
+
+Norris said: “Considering we were able to do what we did last year, considering it’s a team that I’ve been with from the beginning, it’s a team that I want to continue my story with in terms of reaching my goal of winning races and winning championships.
+
+“McLaren is the team that I want to do it with. They’re the ones who brought me into Formula One and gave me this opportunity.
+
+“So, in some ways, I feel like I owe it to them and I’m just very much part of the family and very much enjoying where I am. I don’t want to join a different team and not enjoy it.
+
+“I’m excited to be part of that family, especially on the trajectory that we’re on.”
+
+Despite Red Bull currently being the dominant force in the sport, Norris insists that a change of team was not something he seriously considered.
+
+He said: “Really nothing from any other side was convincing enough to ever want to make me even have a proper look at another team.
+
+“As much as I do want to just be in a team that’s the quickest one, there’s also that element of ‘I’m also here because I love racing and I love to have fun and enjoy all of that’.
+
+“Really, for me, that’s my number one thing. I’m doing what I love and I want to be with a team that I love and enjoy every moment with.
+
+“There’s not many things that can be guaranteed or assured of with any team. So it comes back to, where will I be happiest and where am I most confident that I can actually achieve a world championship?
+
+“In the beginning of last year, maybe it wouldn’t have been McLaren but now I think I’m more confident than ever in saying it’s going to be.”
+
+With team-mate Oscar Piastri having signed a contract extension in September, McLaren’s line-up is now confirmed until at least the end of 2026.
+
+The lack of detail concerning the term of Norris’ contract could lead to speculation over whether an exit clause exists but the team have no intention of elaborating.
+
+Chief executive Zak Brown said: “Sometimes you discuss it, sometimes you don’t. We see no reason to advertise any details of anybody’s contract.”

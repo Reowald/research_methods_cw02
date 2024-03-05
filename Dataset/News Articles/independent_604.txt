@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Japan’s Jaxaspace agency is reportedly planning tests to repurpose its Hayabusa2 spacecraft to prove it can intercept and deflect an Earth-bound fast-moving asteroid.
+
+Launched in 2014, the Hayabusa2 spacecraft touched down twice on the asteroid 1999 JU3 – also called Ryugu – over 300 million km (900 million miles) away from the Earth in 2018.
+
+Surveying the space rock for about 18 months, the spacecraft also fired pellets onto the asteroid’s surface and collected samples that were thrown up, which were then sent across in a capsule to be deposited in the Australian Outback in 2020.
+
+Scientists continue to study samples delivered by the spacecraft to gain insights into its composition.
+
+Meanwhile, Hayabusa2 is currently on its extended mission till 2026 to the asteroid 2001 CC21, which has a diameter of around 500m and is over 12 million km (8 million miles) away from the Earth.
+
+Then in 2031, Hayabusa2 is slated to fly close to the small school bus-sized fast-spinning asteroid 1998 KY26 whose orbit crosses that of the Earth, according to Jaxa.
+
+“The ‘small and fast’ attribute creates a very special physical environment near the asteroid’s surface, as the centrifugal force due to the rotation exceeds the gravity of the asteroid,” Jaxa said, according to SCMP.
+
+Jaxa hopes to study this asteroid as space rocks of such size collide with the Earth every 100 to 1,000 years, and may cause significant damage.
+
+In both these flyby missions, Jaxa hopes the tests would demonstrate the kind of technology equivalent to the one needed to collide a spacecraft into an asteroid.
+
+“This kind of technology is equivalent to that needed to collide a spacecraft into an asteroid in order to adjust its orbit, which makes the flyby mission one that can also contribute to planetary defense,” the Japanese space agency said in a statement.
+
+This would be particularly challenging as Hayabusa2 was originally built for asteroid rendezvous, and not for flyby missions, which involve observing asteroids passing by at high relative speeds from a distance.
+
+For instance, in the 2026 mission, the 2001 CC21 asteroid and Hayabusa2 will pass each other at an ultra-high speed of 5 km/s (18,000 km/h), Jaxa said.
+
+NASA DART mission crashes into asteroid
+
+Nasa has already demonstrated that colliding an asteroid with a spacecraft can alter the space rock’s trajectory.
+
+The Dart, or Double Asteroid Redirection Test, launched in November 2021 spent months traveling to target the asteroid Dimorphos and slammed into it at 14,400 miles per hour in September last year.
+
+Nasa’s test has revealed the potential for the kinetic impact method to one day divert asteroids that threaten Earth.
+
+Astronomers are also exploring ways to detonate nuclear devices on asteroids to take them away from a collision course with Earth.
+
+Jaxa’s upcoming attempt can add to these experiments to contribute to planetary defense.

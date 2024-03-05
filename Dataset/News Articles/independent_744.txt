@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Alex Albon has opened up on his difficult season-and-a-half stint at Red Bull before he lost his seat at the team and spot in Formula 1.
+
+The British-Thai driver was promoted to the senior team from Toro Rosso midway through the 2019 F1 campaign, replacing Pierre Gasly.
+
+Despite recording two podiums, Albon struggled in the 18 months he spent as Max Verstappen’s team-mate, and was dropped ahead of the 2021 campaign for Sergio Perez.
+
+That left Albon without a drive for 2021, before he moved to Williams in 2022. Now, he has divulged the specifics of how he wasn’t quite prepared for the challenge a seat at Red Bull represented.
+
+“Truthfully, for me especially, the biggest thing to get used to was everything around it,” he explained, on the High Performance Podcast. “Once you’re in that top team, the spotlight gets put on you far, far more than what it was like at Toro Rosso.
+
+“The first race that I went to, it was in Belgium, and the attention around this whole seat swap was massive and every mistake, everything you do, gets criticised. It’s quite a hot seat – the seat that I was in, it’s been moved around a fair bit – so that was one of the main things.
+
+“I struggled with the media attention to begin with. I also didn’t have a manager, I didn’t have anyone around me. So in terms of my personal support, I had my family but I was just going about it alone. I’d go to the racetrack by myself – I had my trainer to be fair, but it was just us two going around.
+
+Alex Albon admits he wasn’t prepared for what the Red Bull seat would entail (Getty Images)
+
+“There are literally 30 or 40 different things you can do to solve one problem [with the car] and I had no knowledge really. I didn’t have experience, I never went through these problems before, and I was underprepared really.
+
+“I just didn’t have that general racing experience, but life experience too.”
+
+Now though, Albon has a stable base as the No 1 driver at Williams, scoring 27 points last season, and he has even been linked with a return to Red Bull.
+
+The 2024 F1 season starts on Saturday 2 March with the Bahrain Grand Prix.

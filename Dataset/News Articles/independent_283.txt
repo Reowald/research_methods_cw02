@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+February is the best month to list a home on average, with homes listed during the month typically finding a buyer the quickest, as well as being most likely to be marked sold subject to contract, according to analysis by a property website.
+
+On average, homes listed in February have taken 51 days to find a buyer – just ahead of an average of 52 days for homes listed in March, according to Rightmove.
+
+Around two-thirds (66.4%) of homes listed in February have gone on to find a buyer, again just pipping March at 66.3%.
+
+For those who are able to be a bit more flexible about when they decide to sell, the data shows typically the start of the year has been particularly strong Tim Bannister, Rightmove
+
+The analysis looked at millions of properties listed for sale since 2012 and the trends linked to the month of listing, excluding 2020 due to the distorting impacts of the coronavirus pandemic.
+
+At the other end of the spectrum, October was found to the the least advantageous time of year to list a home.
+
+Homes listed in October have taken an average of 63 days to find a buyer, and 63.6% of homes listed during that month have gone on to find a buyer.
+
+Tim Bannister, Rightmove’s property expert said: “The best time to get moving is the time that’s right for you – we can’t always plan or predict when a life move is needed. However, for those who are able to be a bit more flexible about when they decide to sell, the data shows typically the start of the year has been particularly strong.
+
+“It’s also when we’ve historically seen the most buyers sending inquiries to agents, so it’s a great time for those looking to sell to make sure they are listed, their marketing is strong and they’re pricing attractively enough against other sellers.”

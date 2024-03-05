@@ -1,0 +1,29 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+England’s prospects of reclaiming the Calcutta Cup from Scotland have been dealt a blow after scrum-half Alex Mitchell was ruled out of the Murrayfield showdown with a knee problem.
+
+The Rugby Football Union confirmed that Mitchell will miss the pivotal Six Nations round three game because of an injury that requires further investigation before a date for his return can be set.
+
+Harry Randall has been named as the replacement in Steve Borthwick’s 36-man training squad with Danny Care and Ben Spencer competing to fill the void in the number nine jersey in Edinburgh.
+
+Mitchell has established himself as England’s first choice scrum-half since forcing his way into the squad for last autumn’s World Cup despite being dropped early in the build-up campaign.
+
+He started the semi-final defeat by South Africa and retained Borthwick’s approval for the victories over Italy and Wales that have opened the Six Nations.
+
+In both matches he was given more license to play the running game that has seen him unpick defences for Northampton and possibly more than any other player he stood to benefit from England’s greater intent in attack.
+
+Alex Mitchell will miss out on the trip to Scotland (Adam Davy/PA) (PA Wire)
+
+While Borthwick will be drawing up a contingency plan at half-back with Marcus Smith continuing to be sidelined by calf damage, he is at least seen his midfield options increase.
+
+Ollie Lawrence sat out the first two rounds of the Championship because of a hip injury but has been passed fit to resume full training this week.
+
+It places Fraser Dingwall’s ongoing presence at inside centre in doubt with Lawrence and Manu Tuilagi offering greater ball-carrying muscle, even if they are short of game time.
+
+Lawrence has been missing since late January with an injury sustained on Bath duty while Tuilagi has been out since December because of a groin issue.
+
+Dingwall has made a solid if unspectacular start to his Test career and Borthwick must decide whether to risk the superior game-breaking ability of his rivals against Scotland as they continue their way back to fitness.
+
+Borthwick names his team on Thursday knowing England have lost their last three matches against Scotland, who start as favourites.

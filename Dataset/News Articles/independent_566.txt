@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A Japanese startup has unveiled a plan to shoot down space junk using lasers developed for nuclear fusion power.
+
+Osaka-based EX-Fusion is taking a novel ground-based approach to dealing with the issue of debris in Earth’s orbit after developing one of the world’s most powerful lasers for the next-generation power source.
+
+The diode-pumped solid-state (DPSS) laser was built to blast a hydrogen fuel pellet with a high-powered beam in order to trigger a fusion reaction – the same process that naturally occurs within the Sun.
+
+The startup realised the same technology could be used to knock a piece of space debris out of orbit without sending lasers up to space.
+
+“The power of a laser for destroying space junk is an order of magnitude lower than for nuclear fusion, but they share technical challenges such as controlling them via special mirrors,” EX-Fusion chief executive Kazuki Matsuo told Nikkei Asia.
+
+The startup has already signed a memorandum of understanding with Australian contractor EOS Space Systems, which tracks space junk from an observatory near Canberra.
+
+Ex-Fusion will initially target small space debris measuring less than 10cm, which has previously been impossible to impact using ground-based lasers.
+
+The beam will be used to slow down the debris until its orbit speed drops enough for it to fall and burn up in the Earth’s atmosphere.
+
+There are an estimated 100 trillion pieces of old satellites currently circling the planet, with experts warning that the accumulating debris could damage active satellites, hinder astronomical observations, or even prevent rockets from launching into space.
+
+Last year, aerospace and satellite companies called on governments around the world to adopt a “highway code” to tackle the issue.
+
+The Space Safety Coalition (SSC) said action needed to be taken in order to prevent catastrophe, with 27 signatories urging regulators to implement a rules-of-the-road-style guidebook for satellite operators to adhere to.
+
+An international team of scientists also separately called for a legally-binding treaty to reduce the amount of space debris in Earth’s orbit.
+
+Writing in the journal Science last March, Dr Imogen Napper from the University of Plymouth argued that space junk should be treated in a similar manner to that of plastic pollution in the oceans.
+
+“Taking into consideration what we have learnt from the high seas, we can avoid making the same mistakes and work collectively to prevent a tragedy of the commons in space,” she wrote.
+
+“Without a global agreement, we could find ourselves on a similar path.”

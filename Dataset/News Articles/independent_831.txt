@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Apple’s Vision Pro has finally been released – allowing the public to wear it in a variety of inappropriate scenarios.
+
+The headset was released in Friday and has quickly made its way into the real world. Users have been spotted wearing it to walk around, ride public transport and skateboard.
+
+That is despite warnings from Apple that it should never be used in any “situations requiring attention to safety”.
+
+Despite those warnings, a variety of videos have shown people wearing the headset to travel around busy streets and more.
+
+Just a day after it was launched, for example, the YouTuber Casey Neistat filmed a video in which he used the headset on a trip around New York City, which included him skateboarding down busy Manhattan streets. He suggested the Vision Pro could be useful when waiting for a train, for instance.
+
+Another video appeared to show a man driving down a busy highway, in a Tesla, while wearing the headset.
+
+And one even showed someone in London, where the headset has not yet been released. (Though it is possible to import a Vision Pro and use it in the UK, Apple has warned owners that it could compromise the experience using it.)
+
+Some videos appeared to be satirical but quickly captured the imagination of people horrified by the potential uses of the headset in the wild. One showed someone leaving Tesla’s new Cybertruck, for instance, and seeming to bat away virtual objects.
+
+The Vision Pro appears not to be built to use while moving around a lot outside. The windows that appear as virtual objects within the headset can easily get lost when moving, and if there is too much movement then the headset warns it is unable to track its wearer around the space they are in.
+
+Apple has a page titled “Important safety information for Apple Vision Pro” on its website, in which it lists a host of possible dangers in using the headset. Alongside warnings about medical conditions and potential discomfort, it includes one passage under the heading “surroundings”.
+
+“Always remain aware of your environment and body posture during use. Apple Vision Pro is designed for use in controlled areas that are safe, on a level surface,” the page reads. “Do not use it around stairs, balconies, railings, glass, mirrors, sharp objects, sources of excessive heat, windows, or other hazards.
+
+“Never use Apple Vision Pro while operating a moving vehicle, bicycle, heavy machinery, or in any other situations requiring attention to safety. Using the device in low light conditions may increase the risk of collision with objects in your environment.”
+
+It also warns people about wearing the headset while doing “High-consequence activities”. “Apple Vision Pro is not intended for use where the failure of the device could lead to death, personal injury, or severe environmental damage,” the page warns.
+
+The company does offer a special “Travel Mode” that is built specifically for use on planes, and which again carries a warning not to use in situations that require “attention to safety”. That travel mode simply stabilises the content so that the headset can be used during flights.

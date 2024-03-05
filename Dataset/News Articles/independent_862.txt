@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The UK is likely to experience the hottest day yet of 2023 on Sunday with temperatures expected to reach about 26C as some parts of the country may get hotter than Istanbul.
+
+The country registered its previous highest temperature so far this year at 25.1C in Porthmadog on Tuesday.
+
+Forecasters say this record could be broken on Sunday with dry weather expected to continue into the upcoming week.
+
+The high on Saturday was 23.9C, registered in Porthmadog, and temperatures may be slightly higher on Sunday.
+
+Rachel Ayers, a meteorologist from the Met Office, said people could expect 24C or 25C in warmer parts of the country.
+
+Some areas in the west may even experience a high of 26C, according to the meteorologist.
+
+In these sheltered areas, a breeze across the south, especially the English Channel coasts is expected to affect temperatures.
+
+Eastern coasts are expected to be cooler than these regions, forecasters said.
+
+Sunday temperatures in these areas could be around 15C or 16C, Ms Ayers said.
+
+Inland areas are expected to be warmer and likely to see highs of 18C to 20C, according to the Met Office meteorologist.
+
+Temperatures may soar both in the north and south.
+
+For instance, Glasgow and Bude are expected to reach 23C this weekend while Istanbul in Turkey is forecasted to experience a relatively cooler 22C.
+
+“There will be plenty of dry, fine and sunny weather through the weekend in the UK with high pressure still in charge, seeing some warmer temperatures, possibly seeing low-20s especially in the west,” meteorologist Stephen Dixon said.
+
+“Areas further east have been seeing more prolonged cloud, generally in the mid or low teens and that’s going to continue for the eastern areas,” Mr Dixon said.
+
+For the rest of June, the Met Office forecasts for the UK suggest the weather is likely to continue to be dry.
+
+“There is a chance of isolated showers, mostly over high ground, in the early part of the period, with a small, but increasing, risk of rain or showers, perhaps thundery, over parts of southern and south-eastern England and Wales as the period progresses,” the Met Office’s forecast from Tuesday noted.

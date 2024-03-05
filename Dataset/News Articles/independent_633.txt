@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Logitech has the answer for anyone wanting better audio for their Meta quest 2 virtual reality headset, and it’s called the chorus.
+
+Designed specifically to be attached to the quest 2 – which is currently our favourite VR headset – the Logitech chorus slides onto each side of the headset, and the speakers swivel to help them fit neatly onto your ears.
+
+Unlike most headphones and gaming headsets, the chorus has an open-back design to its speakers. This means they lack much in the way of noise cancelling, so the wearer can still hear their actual environment as well as whatever they are playing or experiencing in virtual reality.
+
+Logitech has priced the chorus at £89.99 and it is available to pre-order now from the manufacturer’s own website. However, there isn’t yet a release date for the headset, but we have reached out to Logitech to find out and will update this article when we get a response.
+
+Want to know more about the chorus earphones? Keep reading this article to find out.
+
+Logitech chorus : £89.99, Logitech.com
+
+(Logitech)
+
+Dimensions : 22.2cm x 16.5cm x 6.4cm
+
+: 22.2cm x 16.5cm x 6.4cm Weight : 162g
+
+: 162g Connectivity : USB-C with pass-through
+
+: USB-C with pass-through Speaker design: Open-back with BMR drivers
+
+This is an interesting move from Logitech. With the chorus, the company pretty much has the market to itself when it comes to headphones designed specifically to fit the Meta quest 2 headset – which is the best-selling VR headset of the moment, and our current favourite. So, while any headphones can be plugged into the 3.5mm jack and worn over the top, the chorus looks to provide a neater and more integrated solution.
+
+As well as providing good sound, Logitech says it focused on ensuring VR users stay cool while using the headset and chorus headphones for extended periods of time. On a similar note, the open-back design should help VR fans hear their surroundings, as well as whatever game or experience they are taking part in – handy for hearing the doorbell or your phone while immersed in a virtual world.
+
+Logitech senior manager Matt Green said the chorus is the result of “years of feedback from developers, gamers and the VR community”, adding that the headset combines “realistic audio that gamers want with the comfort and convenience that people need”.
+
+Intended to be permanently attached to the quest 2 headset, the Logitech chorus uses USB-C with pass-through technology, while the headset’s charger plugs into the chorus, therefore powering both devices with one cable and one wall plug.
+
+You can pre-order the headset from the Logitech website now for £89.99, but we are still waiting to hear back from the Swiss firm regarding an exact release date. Watch this space.
+
+Pre-order now
+
+Prefer to drown out distractions? Take a look at our round-up of the best noise-cancelling headphones

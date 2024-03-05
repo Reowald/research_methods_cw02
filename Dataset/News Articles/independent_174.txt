@@ -1,0 +1,31 @@
+Sign up for the View from Westminster email for expert analysis straight to your inbox Get our free View from Westminster email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+View from Westminster email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Harvey Weinstein’s legal team headed to the New York State Court of Appeals yesterday in a continued effort to get his 2020 conviction overturned. For those who might need a refresher: Weinstein was found guilty in February 2020 of a criminal sex act and of third-degree rape, and was sentenced to 23 years in prison the following month. That was the end of a landmark trial in the #MeToo movement.
+
+As soon as the verdict was read, Weinstein’s legal team announced its intention to challenge it. “As sure as I’m a bald man, we will be appealing,” his lawyer Arthur Aidala said at the time. On Wednesday, Aidala — still bald — did just that.
+
+He was the lawyer on hand to argue Weinstein’s case at the Court of Appeals, which is the highest court in the state. (New York does have a “Supreme Court”, but — unlike every other state Supreme Court across the US — it’s an intermediate court, not the top one.) This means that as far as state law is concerned, this is Weinstein’s final avenue to get his conviction thrown out. It also means that his conviction has previously been affirmed by a lower court.
+
+On Wednesday, Aidala used the same arguments as the ones that previously failed to sway the lower court. He argued that Weinstein was denied a fair trial for two main reasons.
+
+First, Aidala argued that Judge James Burke, who presided over Weinstein’s trial, allowed the prosecution to use evidence (including testimony) pertaining to “prior bad acts”. Prior bad acts, in the legal field, means behavior that doesn’t concern the charges on which someone is being tried. In Weinstein’s case, this meant, for example, the prosecution mentioning a fight he had with his brother, or an incident in which he allegedly became irate and flipped a table — both incidents being unrelated to the charges on which he was ultimately convicted.
+
+Prior bad acts evidence is admissible under certain rules, which can vary depending on the state, but which are usually pretty stringent. But then again, judges typically have a high degree of discretion over how proceedings should go — and that includes what type of evidence to allow.
+
+Aidala brought up the fact that the prosecution would have been allowed, had Weinstein taken the stand, to question him over his prior conduct, even if it were unrelated to the charges at hand. This, presumably, would have discouraged Weinstein from taking the stand — which he indeed did not do. That argument seemed to land with at least one of the judges yesterday, but it’s not watertight. Yes, people have a right to speak in their own defense — and Weinstein remained free to do so. But in practice, criminal defendants (such as Weinstein) rarely, if ever, take the stand in their own trial; doing so is generally considered to be a terrible idea. That’s because any time a witness testifies, they open themselves up to cross-examination. If someone speaks in their own defense, for example, they will then be questioned directly by the prosecution — and most defendants do not handle that well. Most lawyers, in turn, advise their clients to refrain from taking the stand.
+
+Secondly, Aidala argued that Judge Burke erred in allowing a woman to remain on the jury, even though she has written a novel about predatory older men. Again, it’s worth noting that both of these arguments were previously presented to a lower appeals court — and failed to sway it.
+
+But of course, the Court of Appeals is under no obligation to follow the previous court’s lead. So far, it appears “torn” (to borrow The AP’s parlance) over whether it might grant Weinstein’s appeal.
+
+The strongest argument to bolster Weinstein’s appeal is certainly the issue of the prior bad act witnesses, which have a history of catching the attention of appellate judges. They were part of Bill Cosby’s own appeal process after he was convicted of sexual assault in 2018 in Pennsylvania.
+
+Cosby’s conviction stemmed from charges that he had drugged and assaulted Andrea Constand, a Temple University sports administrator, in 2004. (Constand is one of more than 60 women have accused Cosby of sexual misconduct ranging from harassment to rape.) Cosby was sentenced to three to 10 years in prison, which he had begun serving when Pennsylvania’s highest court vacated his conviction and sentence and ruled that he should be released.
+
+However — and this, for Weinstein’s legal strategy, is a significant “however” — Cosby’s release, in the end, had nothing to do with prior bad act witnesses. In its decision, the Supreme Court of Pennsylvania turned its attention to another issue — that of whether a previous immunity agreement meant that Cosby should not have been prosecuted at all. It ended up focusing solely on this question (and found that Cosby, indeed, was protected by that immunity agreement) and ruled the question of the prior bad act witnesses “moot”.
+
+Weinstein’s appeal strategy, so far, has not presented a similar argument. And while the Court of Appeals judges may decide to hear him out, they appear to be divided at best.
+
+Even if Weinstein’s appeal in New York is successful, that won’t mark the end of his legal troubles. After his conviction in New York, Weinstein was found guilty in Los Angeles of forcible rape, forcible oral copulation, and penetration with a foreign object — and sentenced to 16 years in that case. Weinstein has indicated that he will appeal that conviction, too; in fact, he retained Cosby’s attorney to that end last year. In the meantime, he will remain behind bars — and with each failed petition, his legal options will dwindle.

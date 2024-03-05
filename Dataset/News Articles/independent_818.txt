@@ -1,0 +1,131 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+In the nightclubs and hacker houses of San Francisco, a battle is under way for the future of humanity.
+
+In one corner are the champions of progress, charging headlong towards a utopian future of technological godhood. Against them are the forces of doom and despair, who would condemn our species to slow death by stagnation. So: whose side are you on?
+
+That's the recruitment pitch for a rapidly-prototyped philosophical movement that has been making waves in Silicon Valley over the past year, known as Effective Accelerationism (or E/Acc for short).
+
+As artificial intelligence advances at breakneck pace, threatening massive economic disruption and prompting hearings in Congress about the possibility of "human extinction", E/Acc offers a counter-intuitive message: Don't stop. Don't even slow down. Speed up.
+
+Last December this tension between growth and safety exploded into corporate warfare when the non-profit foundation in control of OpenAI – the company behind ChatGPT – attempted to fire its longtime chief executive and co-founder Sam Altman.
+
+While the board members’ exact reasons remain mysterious, an inside source tells The Independent that they feared Altman was making it impossible for them to supervise the company and direct it towards social good – which was the goal of putting a non-profit in charge to begin with.
+
+For some, E/Acc is simply about opposing burdensome regulation and pushing back against AI "doomers" who advocate sharp curbs on AI development in order to prevent a machine apocalypse.
+
+"What E/Acc really means is that progress can only be cured by more progress," Nick Davidov, an AI-focused venture capitalist, tells The Independent. "We just need to help society accelerate, and then the additional value this generates will help us find the resources to fix the bad things that happen because of the progress."
+
+For others, the movement has a grander, even spiritual purpose: to help our species embrace an interstellar destiny dictated by the most basic laws of physics.
+
+"E/Acc is [about] realising that our role as builders of AI is literally in line with, or emerges directly from, the fundamental thermodynamic will of the universe," says Rohan Pandey, an AI research engineer who recently organised an E/Acc gathering with about 65 attendees, including well-known start-up founders and investors.
+
+Prolific venture capitalist Marc Andreessen is an unabashed fan, as is fellow investor Garry Tan, and the hundreds of people who flocked to an exclusive E/Acc-themed club night in November (with a DJ set by Grimes). Martin Shkreli, the convicted fraudster and sometime "Pharma Bro" turned medical AI entrepreneur, is also a supporter.
+
+E/Acc represents a growing sectarian split within the still relatively young AI industry, which is highly concentrated in the San Francisco Bay Area. But the debate exposes a deeper conflict relevant to all regardless of location: who will control and benefit from the next wave of AI?
+
+'Acceleration or death'
+
+When Malcolm Collins first heard about E/Acc, it sounded right up his alley. As a leader of the similarly future-focused pronatalist movement , who often extols the benefits of AI, he was eager to make new allies.
+
+"What I found is that it’s not a movement in the way I thought it was," Collins tells The Independent. "They don’t seem to have conferences, meetings, foundations, anything like that."
+
+Instead, there was only an ever-expanding cloud of memes and blog posts heavy with cyberpunk technobabble – and a loose network of people who had chosen to fly the E/Acc flag.
+
+At the centre was a pseudonymous blogger then known only as Beff Jezos, described by the E/Acc Wki as "the primary leader of the leaderless movement," who began sketching out the philosophy in summer 2022. Last month Forbes unmasked Jezos as a quantum computing engineer named Guillaume Verdon from Canada.
+
+The second law of thermodynamics tells us that all energy within a closed system will eventually spread out into a state of useless equilibrium. One physicist, Jeremy England, has proposed that the cosmos is inherently biased towards forms of matter that hasten this process – such as life, which relentlessly replicates itself to consume all available energy.
+
+E/Acc extrapolates this novel but contested theory to claim that maximising our energy consumption is the supreme purpose of our existence . The universe, sometimes personified as "the thermodynamic god", wants us to conquer the stars and turn them into vast power plants, and all human history has been a stepping stone towards that cosmic destiny.
+
+To keep going we must unleash ever more powerful forms of intelligence, starting with capitalism – "the most powerful form of information technology known to man", according to Verdon – and then artificial general intelligence (AGI), capable of matching or surpassing humans at any task.
+
+Trying to delay or control this process would doom humanity to live out its days on one fragile planet. "Acceleration or death are the only two options. Don’t be on the side of death," wrote Verdon.
+
+This mix of mysticism and hypercapitalist libertarianism proved catnip for many in the industry. In October it won the endorsement of Andreessen, who declared : "There is no material problem, whether created by nature or technology, that cannot be solved with more technology… deaths that were preventable by AI that was prevented from existing [are] a form of murder."
+
+(Reena Ratan for The Independent / Getty)
+
+Not every E/Acc supporter vibes with the theology. "For me, E/Acc is about: how do we solve dilemmas that we have at hand, here and now?" says Davidov.
+
+Verdon, though, regards E/Acc as a “meta-religion”, and it’s that aspect that appealed to Pandey when he first encountered it last May or June. "Its ethical system... was very much in line with the utility function that I go about optimising in my life," he says.
+
+In November, supporters danced beneath giant banners reading "ACCELERATE OR DIE" and "COME AND TAKE IT" at a rave co-sponsored by Verdon’s company, Extropic. (Grimes, the pop star, said she “deeply disagree[s]” with the movement’s ideas but wanted to DJ in “enemy territory” to promote healthy discussion.) There is even a merchandise store, touting hoodies emblazoned with a stylised graph showing exponential increase.
+
+The us-vs-them rhetoric has alienated some AI builders, with one businessman branding E/Acc "a cult" . Others have criticised the founder’s stated comfort with the possibility of biological humans being replaced by machines (though Pandey argues that this would be evolution rather than "extinction").
+
+But E/Acc is a deliberately fragmented philosophy, and supporters see no need to agree on every point. Far more important is what they are against.
+
+Rise of the doomers?
+
+On the evening of Friday 17 November, eight hours after OpenAI fired Altman, a young AI entrepreneur named Christian Lewis posted a defiant message to his followers on X (formerly known as Twitter).
+
+"We really are at war now. This is the doomer terrorist opening salvo," Lewis said.
+
+Lewis was one of many E/Acc supporters who interpreted OpenAI’s failed coup as, in the words of Slate journalist Nitish Pahwa , the AI equivalent of the "shot heard ‘round the world" . "E/Acc!" tweeted Marc Andreessen. "The doomers won," wrote the Elon Musk fan account Whole Mars Catalogue. "No one will trust doomers ever again," said Verdon.
+
+"Doomerism", together with "deccelerationism", is the name E/Accers give to a sentiment that has become inescapable in AI circles since the explosive launch of ChatGPT at the end of 2022.
+
+Machine learning, the technology that underpins ChatGPT, dates back to the 1950s and has been in regular use by various industries for more than a decade. Many experts dispute that this type of AI could ever evolve into AGI, and some argue that apocalyptic predictions are merely a roundabout form of hype.
+
+Nevertheless, the astonishing sophistication of ChatGPT’s output made many AI developers increase their estimate of the probability that AI will destroy humanity – known as their "p(doom)".
+
+Protesters calling on AI companies to "hit pause" have become a regular sight in San Francisco. British prime minister Rishi Sunak has begun warning that AI could lead to human extinction . One influential philosopher of AI, Eliezer Yudkowsky, has even called for a worldwide ban on complex AI development to be enforced by military action – arguing that even a nuclear war would be less dangerous than uncontrolled hyperintelligence.
+
+"I think we’re absolutely facing an extinction threat from the way we’re handling AI,” says Andrew Critch, chief executive of the AI safety research firm Encultured.AI and a former fellow at Yudkowsky’s Machine Intelligence Research Institute (MIRI). “And I think a lot of people in the E/Acc group either don’t believe that, or think that it’s okay."
+
+Much of this doomerism is associated with the Effective Altruist (EA) movement, on which E/Acc’s name is a pun, and the broader "rationalist" subculture. Rationalists such as Yudkowsky have long believed that work done on "aligning" AI with human values today could mean the difference between utopia and annihilation tomorrow, which drew many into the industry.
+
+Buoyed by donations from like-minded billionaires such as Sam Bankman-Fried , and clustering together in group houses and dedicated social functions, EAs have achieved influence in Silicon Valley , Washington DC , and beyond .
+
+"It really is an ecosystem, with billions and billions of dollars, that has been incredibly successful at infiltrating Silicon Valley and spreading this worldview," says Émile P Torres, a philosopher and former rationalist who studies the movement.
+
+In truth, Torres argues, EA and E/Acc are kindred ideologies: both preoccupied with sci-fi prognostications, and sharing a utilitarian zeal for maximising "value". Still, E/Accers talk about EA with real venom, and Verdon, aka Jezos, has repeatedly branded it a "death cult".
+
+"I view E/Acc as a response to the moral judgemental-ness of EAs," says Dan Hendrycks, director of the Centre for AI Safety. "This is a balm for researchers who are getting paid obscene amounts of money to automate away lots of people[‘s jobs]... it makes them feel good about themselves, by telling themselves a cosmic story about how they’re a hero in it."
+
+The technocapital machine
+
+OpenAI was founded in 2015 with a noble yet paradoxical ambition: to ensure that future AGI would "benefit humanity as a whole" by being the first company to build it.
+
+With $1bn in donations from Elon Musk, Peter Thiel, and other Big Tech luminaries, it hoped to be "unconstrained by a need to generate financial return". Its charter , published in 2018, declared that "our primary fiduciary duty is to humanity".
+
+But over the years, OpenAI has behaved more and more like a traditional tech company. In 2019, driven by the eye-watering cost of training large AI systems, it created its for-profit arm to attract more investors, and reports since then indicate that it has become ever more secretive and competitive as it seeks to maintain its edge. This year, it relaxed a longstanding ban on military uses of its technology.
+
+This is what E/Acc’s core thinkers, borrowing a term from Nick Land, call "the technocapital machine". It is the same engine that produced Facebook, Amazon, and Google: one that systematically pushes companies to prioritise profit above all else.
+
+Verdon and Andreessen would say that is a good thing. They follow in the tradition of free-market thinkers such as Ayn Rand and Friedrich Hayek, rejecting not just EA-flavoured doomerism but all attempts to restrain AI.
+
+Altman’s position on this E/Acc v EA spectrum has long been a matter of speculation. He is a confessed "prepper" who spent last year jetting around the world warning politicians about the "existential" danger of AI. Yet he has also pushed to commercialise OpenAI’s products, while publicly flirting with Verdon’s ideas.
+
+And so, when OpenAI board members with ties to the EA movement attempted to depose Altman, it wasn’t just E/Accers who interpreted their move as an attempt to hit the brakes on AGI.
+
+Subsequent reporting has revealed a more complex picture. Workers had accused Altman of dishonest and sometimes "psychologically abusive" behaviour, with one former OpenAI employee publicly describing him as "deceptive" and "manipulative".
+
+Altman has said that he never attempted to manipulate the board, although he admitted he had sometimes been “ham-fisted” in his conflicts with them. He also said that he welcomes an independent investigation into what happened.
+
+Speaking to The Independent, a person familiar with the board’s thinking says that existential risk played little role in their decision. Rather, their primary concern was that Altman was centralising power within the company and insulating himself from oversight – jeopardising a host of more conventional principles such as making sure OpenAI’s technology does not exacerbate injustice.
+
+In this light, what happened at OpenAI was less a duel between two arcane philosophies than a test of whether even a company specifically set up to resist this machine could continue doing so once the industry grew big enough.
+
+"Corporate power has shown that the major events in AI development will be best approximated by competitive pressures and racing dynamics," says Hendrycks. "Other intentions, other ideologies, don’t really matter that much. The players in the arena will align not with human values but with the continued evolution of this technocapital system."
+
+That is an alarming prospect not only to those concerned with "existential risk" – which includes 75 per cent of Americans, according to one poll – but to the wide range of scholars and activists who reject the rationalist preoccupation with extinction scenarios.
+
+"The debate between [EA and E/Acc] is a family dispute," argues Torres. "What’s missing is all of the questions that AI ethicists are asking about algorithmic bias, discrimination, the environmental impact of [AI systems], and so on."
+
+AI systems currently deployed by Big Tech have long been accused of harming society, from social media algorithms that choose what billions of people see on their feeds to risk scoring software that tells judges how likely a criminal is to reoffend .
+
+Meanwhile, ‘generative’ AI such as ChatGPT already appears to be costing jobs and empowering scammers and spammers . It is plagued by "hallucinations" and created by ingesting vast quantities of copyrighted work without compensation or permission.
+
+Historically, some doomers saw these issues as inconsequential compared to the risk of extinction. But both Critch and Hendrycks emphatically reject that logic, arguing that finding equitable solutions to shorter-term problems is a crucial prelude to addressing long-term ones.
+
+"The fairness that should be used to control the impact of AI [now] should also be controlling the catastrophic impacts of AI," says Critch. "If it poses a risk to society, there should be a diversely representative set of people who get to say no to that before it happens."
+
+Even Davidov, while broadly pro-acceleration, is worried about the short-term job loss AI will cause, especially in countries such as Pakistan or Indonesia where clerical work outsourced by the first world is a significant chunk of the economy.
+
+None of which is likely to dim the ardour of both E/Accers and doomers who believe that all prior political issues will soon be rendered moot.
+
+"The difference is, these two camps believe that we are going to create God within the next 20 years," observes Noah, a 24-year-old machine learning scientist at a major tech company in San Francisco. "And if you believe that, then that totally shifts the way you think about something like climate change."

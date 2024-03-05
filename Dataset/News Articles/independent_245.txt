@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Taxpayers are being warned about bogus tax refund offers.
+
+People who completed their tax return for the 2022-23 tax year by the January 31 deadline may be taken in by an email, phone call or text message offering a tax rebate, HM Revenue and Customs (HMRC) warned.
+
+Phishing scams are designed to use personal details for selling on to criminals, or to access people’s bank accounts.
+
+A tax form (PA Archive)
+
+They copy the design and branding of genuine websites so criminals can trick people into giving away their personal details. This information is then used to access people’s bank accounts or is sold on.
+
+HMRC responded to 207,800 referrals from the public of suspicious contact in the year to January – up 14% from those reported for the previous 12 months. Thousands of referrals offered bogus tax rebates.
+
+In the year to January, HMRC also reported 26,443 malicious web pages to internet service providers to be taken down. This was a 29% increase compared with those referred by HMRC for removal the previous year.
+
+The revenue body said it will not email, text or phone a customer to tell them that they are due a refund or ask them to request a refund.
+
+People receive repayments into their chosen bank account, and can see any transactions in their online HMRC account and in the HMRC app.
+
+People can forward suspicious emails to phishing@hmrc.gov.uk and report tax scam phone calls to HMRC on gov.uk.
+
+They can forward suspicious texts claiming to be from HMRC to 60599.
+
+Kelly Paterson, HMRC’s chief security officer, said: “With the deadline for tax returns behind us, criminals will now try to trick people with fake offers of tax rebates.
+
+“Scammers will attempt to dupe people by email, phone or texts that mimic government messages to make them appear authentic.
+
+“Don’t rush into anything, take your time and check HMRC scams advice on gov.uk.”

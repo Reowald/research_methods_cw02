@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Netflix has announced that a Squid Game video game is in development.
+
+In a statement announcing the streaming service’s upcoming video game slate, Netflix described the project as “a game set in the universe of Squid Game, in which you can compete with other players in games from the hit series”.
+
+A release date has yet to be confirmed.
+
+Netflix’s gaming services have so far launched 40 games that are available to Netflix subscribers on the App Store, Google Play and in the Netflix mobile app.
+
+Tomorrow (14 December) will see Rockstar Games’ Grand Theft Auto: The Trilogy – The Definitive Edition arrive on the platform.
+
+Existing titles available on the service include Football Manager 24 Mobile, Storyteller and Netflix Stories: Love is Blind, an interactive fiction game based on the dating series.
+
+‘Squid Game: The Challenge’ is currently available to stream (Netflix)
+
+Among the games Netflix plans to launch in 2024 is Cozy Grove: Camp Spirit, the sequel to Spry Fox’s beloved life-sim game Cozy Grove. As a Spirit Scout on a haunted island, you’ll be given the chance to befriend and assist an unusual assortment of troubled ghostly bears in this heartwarming adventure.
+
+Also set to debut in 2024 are FashionVerse, a photo-realistic fashion design game, and Game Dev Tycoon, a sim game that allows you to start your own video game development company in the Eighties. Exclusive to the Netflix edition, this new version of the game will allow you to develop games based on existing films and TV series.
+
+Sonic Mania Plus will also be available on Netflix in the new year, marking its debut on mobile. The game bills itself as the ultimate celebration of the Sonic universe, with the ability to play as the explosively fast Sonic, soar as Tails, or power through tough obstacles with Knuckles’ brute strength.
+
+Last week, game show Squid Game: The Challenge crowned the winner of its $4.56m jackpot in a dramatic finale.
+
+Mai Whelan beat out Phillip Cain and Samuel Wells to win the biggest cash jackpot in TV history.
+
+You can read all about the three finalists here.
+
+Based on the original 2021 South Korean drama, Squid Game: The Challenge saw 456 contestants compete in a series of games and tests, including the infamous “red light, green light” race.
+
+Though the drama series saw each contestant get shot dead at the moment of elimination, losing participants in the real-life challenge simply left the show, but often with dramatic “deaths” for entertainment purposes.
+
+The show has already been renewed for a second season. Here’s how to apply.

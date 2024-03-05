@@ -1,0 +1,165 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Though tourists jet off to Spain in their millions in the summer, far fewer will consider this part of the Mediterranean for a winter holiday.
+
+Destinations in the Caribbean, South America or Asia may steal the headlines when it comes to winter sun, but Spain’s balmy weather and the absence of summer crowds makes it the short-haul choice for those in the know.
+
+The country’s southern provinces see temperatures that hover around 20C at certain points throughout winter. Perennial Andalusian favourites like Seville are still sundrenched from December through to March, with lower temperatures allowing opportunities to explore without the threat of sweltering weather ruining your plans.
+
+Even on the eastern coasts, destinations including Valencia offer opportunities for walks on the beach from Christmas Eve until spring. The Canary Islands, famed for winter temperatures in the mid-20s, may be Spain’s most revered winter sun destination, but read on below for a selection of the others.
+
+Tenerife
+
+Tenerife has seen temperatures as high as 30C in December (Getty Images/iStockphoto)
+
+The Canary Islands are the capital of winter sun in Spain, and none of them are more visited than Tenerife. Though a well-documented summer destination, this island receives six hours of sunshine per day between December and February, and temperature averages in these months stand at around 18C (with average highs around 22C).
+
+Many of the island’s highlights are natural sites. It is home to the highest peak in Spain, Mount Teide, an active volcano that towers over the national park of the same name. While a cable car can get you to the top, there are plenty of hiking routes among the red rock and rugged terrain.
+
+If exploring doesn’t appeal, don’t fret – the weather is still good enough to spend the day on the beach too, whether you’re looking for water sports in the coastal resorts of the Costa Adeje or exploration in the capital, Santa Cruz, before lying on Playa Teresitas.
+
+Where to stay
+
+For the ultimate child-free luxury and relaxation, head to the western coast for Red Level at Gran Melia Palacio de Isora. This is a private section of the wider Gran Melia Palacio, and every room has a private terrace and views. There’s a pool, hot tubs and plenty of peace and quiet.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on Spain travel:
+
+Valencia
+
+Valencia’s winter climate is balmy, hovering in the mid-teens (Getty Images)
+
+Though cooler than other destinations on this list, Valencia offers pleasant temperatures and plenty of sunshine in the winter months. It is not uncommon to see locals at the beach from December to February, though many stay away from the water despite temperatures around 17C.
+
+This is a city that thrives in winter, as many of its best sights and most popular activities suit slightly lower temperatures. A cycle along the five-or-so miles of the Turia Park is practically a rite of passage, and at the end of the route lies the City of Arts and Sciences, one of Spain’s modern marvels and the site of avant-garde buildings, verdant gardens and Europe’s largest aquarium.
+
+Whether you’re strolling around Ruzafa and Carmen or enjoying some alfresco New Year’s Eve drinks, the temperature is never too hot and rarely too cold. Beach areas may be more suited to promenade strolls rather than afternoon swims, but there’s something extremely satisfying about having lunch on the sands while your friends in the UK are clearing snow from their drives.
+
+Where to stay
+
+The Vincci Palace is one of the best-located hotels in the city, sitting right between the main squares and within easy walking distance of most landmarks. Inside, it’s a classy mix of modern interiors and old-fashioned flair, from the building’s remaining period features to the art deco touches in the bar area.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Seville
+
+Seville is the warmest city in continental Europe (Getty Images/iStockphoto)
+
+The Andalusian capital is famed for its year-round high temperatures, and while average summer highs of 36C are enough to deter would-be visitors, winter highs of between 16 and 18C are far more welcoming.
+
+A city break in Seville offers an impressively deep range of culture, history and landmarks, from evening flamenco shows to cruises along the Guadalquivir River. Several of the highlights – including the Old Town, cathedral, GeraldoTower, Moorish Alcazar and Casa de Pilatos – are within an easy walking distance of each other.
+
+On a separate day, make your way to the Maria Luisa park and the Plaza de Espana, where you can enjoy a relaxed stroll and a short rowboat trip on the canal before admiring the national pavilions that remain around the park, built for the 1929 Ibero-American Expo.
+
+Where to stay
+
+The eccentric Hotel Amadeus provides a comfortable stay near the historic centre, less than half a mile from Seville’s main attractions. With a rooftop pool, cosy outdoor and indoor eating areas, characterful period features and plenty of musical touches – including three pianos and a 16th-century harp – this hotel makes for a unique stay in the historic centre.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Nerja
+
+Nerja is a popular tourist town around an hour from Malaga (Getty Images)
+
+A smaller alternative to Malaga, Nerja lies around 30 miles to the east, perched on a section of cliffs that overlook the Alboran Sea. The town begins on the shores of Salon and Calahonda, rising steadily up through a sea of white-washed, low-lying buildings and palm-tree filled gardens.
+
+Within the narrow, cobbled streets, a plethora of independent shops, affordable-yet-quality restaurants and attractive plazas await, while just above the beach sits the Balcon de Europa, an impressive viewpoint that gives sweeping sea views. One of the town’s most visited sites is its extensive network of caves, which stretch for over three miles and are daubed in paintings that are thought to date back 40,000 years.
+
+Where to stay
+
+The Hotel Balcon de Europa is built into the rock face in one of the best areas of Nerja for tourists. The hotel offers comfortable, modern rooms, direct beach access and some of the best views in town.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Lanzarote
+
+Average highs remain around 21C in Lanzarote during the winter months (Getty Images)
+
+When competing alongside Gran Canaria for the second Canary recommendation on this list, Lanzarote comes out on top due to its amazing natural sites and charming capital. The main city of Arrecife may be smaller than Las Palmas, but its city-side beaches, colonial architecture and lively nightlife make it a worthy competitor.
+
+At the Timanfaya National Park, the sea of red rock and volcanic soil appears almost extra-terrestrial and guided hikes or bus tours are the only ways to explore. Alongside the beaches and the Hervideros cliffs, the Jameos del Agua, an oasis-like landscape that contains a cave network and cultural centre, is the other must-see.
+
+Where to stay
+
+The Secrets Lanzarote Resort is a vast, 335-room complex with four outdoors pools, six restaurants and various sports facilities, alongside an extensive spa offering everything from a hairdresser to lava and aloe vera treatments.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Malaga
+
+Malaga is the main city in the Costa del Sol (Getty Images/iStockphoto)
+
+Andalusia’s primary seaside destination is also a great alternative to Seville for a dose of winter sun. Average highs hit 18C, and though the sea may be too cold for most, both the port and the long stretch of city beach, which includes Malagueta and Caleta, are great places to walk, cycle or have a laid-back afternoon meal. The historic centre demands an afternoon spent wandering its wide boulevards, narrow alleys and churro cafes, while the Concepcion botanical gardens or Gibralfaro Castle offer some of the best views.
+
+Art-lovers will enjoy the Thyssen Carmen Museum, which showcases a host of 19th-century Spanish art, while the birthplace of Picasso also has a fantastic museum containing over 200 of his works (part of which lies within the house the famed artist was born in). The Alcazaba, Malaga’s answer to Granada’s Alhambra, is the architectural highlight, where stone palaces with horseshoe arches contain gardens and courtyards lined with orange and palm trees.
+
+Where to stay
+
+The Only YOU chain has several luxurious hotels around Spain, and its Malaga residence stands out partly due to its marvellous eighth-floor terrace, which features sweeping views towards the Gibralfaro Castle. Inside, a series of on-trend rooms is paired with chic interiors areas like those of the Carmen restaurant.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read our reviews of the best Spain hotels

@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Grand Theft Auto V turned ten years old in September and since then news on a sequel had been extremely scarce. There was a footage leak back in August 2022 but there was nothing publicly until November 2023.
+
+On Wednesday 8 November, Rockstar publicly announced it will be celebrating 25 years as a game developer in December 2023 and also dropping a new trailer for the GTA sequel.
+
+When was the trailer for GTA VI released?
+
+The first trailer was set to be released at 9am ET on 5 December 2023. However, it leaked a day early on December 4 so Rockstar officially dropped it early.
+
+Grand Theft Auto VI Trailer
+
+What do we know?
+
+In a statement posted to X/Twitter, Rockstar wrote ‘Without you, none of this would be possible, and we are so grateful to all of you for sharing this journey with us.’
+
+The statement continues: ‘In 1998, Rockstar Games was founded on the idea that video games could come to be as essential to culture as any other form of entertainment…’
+
+Then buried among the sincere statement was this lowkey info drop:
+
+‘We are very excited to let you know that in early December, we will release the first trailer for the next Grand Theft Auto. We look forward to many more years of sharing these experiences with all of you.’
+
+We also know it will once again be returning to Vice City, the location of 2002’s much cherished GTA: Vice City, which was set in the 1980s.
+
+We also know the map this time will be much bigger, and Vice City will be set within the fictional state of Leonida, a proxy for Florida.
+
+What do we not know?
+
+We have no info on time-frame other than 2025. Based on the previous GTA rollout over 10 years ago, we got our first look at the game in late 2011 and it launched just under two years later in September 2013.
+
+GTA V also missed its originally projected Q2 release date, which led to the eventual September release.
+
+The game before that, GTA 4, was released in March 2008.
+
+When will GTA 6 be released?
+
+GTA VI will be released in 2025 for Xbox Series X/S and PS5. As yet there is no news on a PC/Steam release.

@@ -1,0 +1,117 @@
+Sign up to our free weekly newsletter for insider tips and product reviews from our shopping experts Sign up for our free IndyBest email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyBest email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+IndyBest is The Independent’s dedicated shopping section where you will find news and unbiased reviews on the latest product releases, as well as deals coverage and expert advice. Our mission is simple: to make sure that every purchase you make – big or small – is the best one for you.
+
+Our team of trusted editors and writers understand how difficult it can be to navigate the digital high street, which is why we’re so committed to providing you with the best product-buying information possible. We pride ourselves on our independence and no-nonsense reviews, which can sometimes involve weeks, or even months, of rigorous, real-world testing.
+
+Covering fashion and beauty, home and garden, tech and so much more, we choose to test all of our products in everyday settings over labs, because that’s where you, our reader, will be using them. Just like you, our team want top-of-the-line products that actually work, so you can rest assured that we’d never recommend something that we wouldn’t be willing to buy ourselves. So whether you’re spending your hard-earned money on the best mattress, cordless vacuum, laptop or air fryer, you’ll find trustworthy, tried and tested reviews on IndyBest.
+
+If you want to learn more about the team, head over to the IndyBest about us page. But if it’s our testing process you’re interested in, keep scrolling to go behind the scenes of our comprehensive process. From our five-star scoring system and the distinguished Best Buy badge to our in-depth criteria, here’s why you can trust us and our reviews.
+
+Our five-star scoring system
+
+You’ll notice that within each of our reviews, we provide a star rating out of five for every product that’s featured. IndyBest does this to provide a brief overview of how we rate the product and keep things simple: the more stars, the better. However, we’d always recommend reading the full review to get a proper understanding of how it performs before you buy it.
+
+Products are rated on several criteria and, while these can vary depending on the product type, here’s a general guide to what we take into consideration:
+
+Design - How does the product look and feel? Is it well-built and how is it packaged? For services, we subscribe, test and use them ourselves.
+
+- How does the product look and feel? Is it well-built and how is it packaged? For services, we subscribe, test and use them ourselves. Performance – Does the product perform as well as it should under specific conditions?
+
+– Does the product perform as well as it should under specific conditions? Value – Is the product good value for money? Is there a better option at a more affordable cost?
+
+– Is the product good value for money? Is there a better option at a more affordable cost? Usability – How easy is it to use?
+
+Best Buy
+
+(The Independent/Steve Hogarty)
+
+The best product within a review is awarded the IndyBest Best Buy logo. This means that it’s a high scorer in our tests and comes highly recommended. Before you buy though, make sure to read the full review, so you can be sure it’s the right product for you.
+
+How we test
+
+Here at IndyBest, we aim to provide an unbiased and independent review of every product that we feature. How we test depends on what is being reviewed, but what remains the same is that it’s always conducted in a real-world setting. Here’s more on just how thoroughly we test different types of products.
+
+Mattresses
+
+When testing products for our guide to the best mattresses, we make sure that our experts sleep on each one for a minimum of two weeks, but the testing period is usually much longer. Our reviewer will take into account everything from overall comfort and thickness to movability, breathability, motion transfer and edge support.
+
+The ease of delivery and setup is also taken into consideration, as well as whether the mattress comes with a trial period, the length of warranty and return policies, as well as its construction and materials.
+
+Home and garden
+
+The dehumidifiers that were put to the test (The Independent)
+
+From white goods to small kitchen appliances, power tools, furniture and home accessories, the IndyBest home and garden section is brimming with products that have been put to the test in the homes of our expert writers.
+
+For example, countertop kitchen appliances, such as slow cookers, are always tested with home cooks in mind, with our tester considering how well a product works, how easy it is to use and clean, whether is it worth the money and, most important, how the results taste. Similarly, a round-up such as best dehumidifiers, requires the reviewer to pay attention to energy efficiency, noise levels and how easy they are to move. Our testers have even been known to apply stains to their own carpets to portray the challenges of a real home and to evaluate the cleaning performance of products such as spot cleaners.
+
+Fashion and beauty
+
+Covering women’s and menswear, as well as the latest beauty launches across make-up, skincare and hair, the IndyBest’s fashion and beauty section is where you’ll find our pick of the best products that are worth spending your hard-earned money on. When it comes to fashion, garments are assessed on initial design, fit and cost, with further testing including repeated laundering to review shrinkage and after-wash appearance. While footwear requires our testers to take shoes for a spin on daily walks to assess comfort levels and durability.
+
+A selection of the best at-home chemical peels that were reviewed (The Independent)
+
+Beauty products are put through similarly stringent testing, whether it’s for the best moisturisers, SPFs, lipsticks or shampoos. Our testers want to find you products that actually work and are a pleasure to use, so they will track things like consistency, staying power, fragrance and any changes in skin or hair, such as pore size or frizz-reduction. Beauty gadgets are also assessed to ensure they are effective and safe to use.
+
+Tech
+
+An expansive category that includes everything from mobile phones and TVs to laptops, cameras, speakers and streaming services, there is much to consider when it comes to rating the latest innovations in technology. No matter what we’re evaluating, our team of tech heads will always be transparent, taking into consideration cost, usability, design and performance. Through hands-on testing, our reviewer will assess criteria such as speed and picture or audio quality, as well as how easy a product was to set up, how it feels to hold and its capabilities, and how these compare to similar gadgets.
+
+We also test things you can buy that aren’t necessarily physical, such as virtual private networks (VPNs). For these, we look at elements such as pricing, content and ease of use, as well as privacy, data leaks and value.
+
+Sport and fitness
+
+The best women’s running shoes that were put through their paces (The Independent )
+
+We’ve got a team of fitness fanatics on hand to test and trial the very latest sports equipment. Importantly, our writers test everything in the same environment that you’ll be using them. When assessing the best women’s running shoes, for example, our tester ran at least 10K in each shoe and assessed whether they delivered on comfort, cushioning, energy return, durability and stability. While Fitbits were tested over a month-long period and were worn day and night – just like a regular user would. Health benefits, connection consistency, ease of use, water resistance and comfort were all considered.
+
+Kids and parenting
+
+Our parenting experts are on hand to evaluate products for caregivers, babies and kids of all ages from the best cribs to toys, strollers, trainers and beyond. Perhaps most importantly, our reviewers test children’s products on their safety, which includes checking durability, as well as materials used and age suitability. Products are always assessed by a parent or child in a real-life scenario to make sure they’ll fit the bill with ease of use, performance, and, of course, kid-appeal taking into consideration.
+
+When it comes to testing toys, our testers look for products that are not only appealing but also serve to engage young minds and help encourage new skills, while products aimed at parents are evaluated on their innovation, versatility and ability to help ease the load.
+
+FAQs
+
+Do you take payment from brands or retailers to be featured in reviews and shopping guides?
+
+No, IndyBest does not take payment from brands or retailers to be featured. In some cases, we do make a commission if you choose to buy based on our recommendation; this helps to fund The Independent’s journalism.
+
+Do you pay for the products that you feature?
+
+No, the products are sent to our reviewers by brands and retailers for testing. If we do not think that it is worth your money, it won’t be included.
+
+How often do you update content?
+
+We like to keep our content updated regularly to make sure that prices and links are correct. Similarly, a large proportion of our reviews are rewritten once a year to make sure that they are as current as possible.
+
+How many hours do you spend researching and testing?
+
+The amount of time spent testing and researching depends on what is being reviewed. For our best mattress guide, instead of lying on each one for 10 minutes, our expert slept on different models every night for four months, which is around 1,000 hours of testing. Whereas for our best hooded blankets review, these were assessed over a two-week period, with our tester considering quality, warmth, eco-credentials, value for money and design.
+
+Why you should trust us
+
+Independent
+
+Honest, independent reviews are our main priority. We are committed to bringing our readers non-biased, accurate information and to recommending the best retailers for each product. To this end, we do not let commercial values affect our editorial judgment. While we occasionally run advertisements across the section, this does not impact our product selection, which is a result of rigorous testing. Being independent and unbiased in our reviews and shopping guides is backed up by the weight of The Independent and its values.
+
+Real-life testing
+
+Here at IndyBest, all of our experts test everything in real-life settings. Rather than testing in labs, all products we review are tested by and on the people who use them every day. This enables us to give our readers an honest and realistic review of how a product will perform when they use it themselves. If we don’t think it is worth your money and is not something we’d buy ourselves, it won’t be featured.
+
+Affiliate disclosure
+
+We are open about the fact that in certain instances we make money from the products purchased through our links to brands and retailers’s websites. But we never allow this to influence our product selection, which is a result of real-world testing and expert advice, and our commercial and editorial teams work independently. The revenue we do make helps to fund journalism across The Independent.
+
+Your privacy
+
+At The Independent, we take your privacy seriously, which is why we adhere to a strict privacy policy and cookie policy. Similarly, when it comes to any competitions that we run, there are a number of terms and conditions we abide by.
+
+Contact us
+
+If you have any comments or complaints and want to get in touch, please do so by emailing us at: managingeditor@independent.co.uk
+
+We also want to read your reviews and see photos and videos of the products that you have invested in as a result of our advice. Email indybestcommunity@independent.co.uk or tag us on Instagram @theindybest for a chance to be featured.

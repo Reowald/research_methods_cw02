@@ -1,0 +1,79 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+In a nutshell: With clean, contemporary rooms, the recently renovated four-star Meliá White House is ideally located next to Regent’s Park.
+
+The neighbourhood
+
+This hotel is right on the corner of Regent’s Park, a five-minute walk from Warren Street Tube station on the Northern Line in central London (and with plenty of regular buses in the area). Well placed for taking the kids to London Zoo or heading to the Wellcome Collection museum for an exhibition, the hotel’s location is also ideal if you want to escape the city streets and enjoy a stroll or picnic in the park.
+
+The look
+
+The Level lounge area has touches of Scandi design (Meliá White House)
+
+Originally constructed as apartment buildings in 1936, there is a definite Art Deco energy to the exterior of the hotel with the use of straight lines and symmetry to the windows. Step through the main doors, however, and the lobby (complete with warm welcome from friendly door staff) is far more in keeping with a high-end hotel. The marbled floors and wood touches at the front desk feel very luxurious, but there is a slightly jarring mix of vintage and super-modern furniture, depending on which part of the hotel you’re in.
+
+The vibe
+
+Overall, the atmosphere was relaxed and inviting. Sipping sparkling wine in the newly renovated contemporary lounge area was a treat and from check in to check out, staff were very attentive, polite and unobtrusive. There were plenty of wait staff to take our breakfast orders and staff on hand for general enquiries.
+
+Bed and bath
+
+The Level Premium room at Meliá White House (Samuel Mathewson)
+
+The Level Premium room – a mid-range room with a king size bed and city view – was pristine and modern, with plenty of warm wood. Quirky artwork added to an eclectic vintage-meets-contemporary design scheme, which is harmonious in the bedrooms, despite being jarring in some other areas of the hotel.
+
+There is a small fridge and fully stocked tea and coffee station. Early check in and late check out can be requested (standard check-out time is 12pm).
+
+Food and drink
+
+Guests can head to the Arado restaurant and 35 Bar and Lounge to enjoy a meal or a tipple throughout the day. Those staying in the hotel’s Level rooms have exclusive access to the Level lounge area, which is bright and open with light wood and Scandinavian-style furniture. There is complimentary tapas, snacks and drinks all day. The tapas consists of a buffet that is quite limited: a mix of spring rolls, fried chicken bites with aioli, cheese and charcuterie. Plus, there is a station for scones with jam and cream. Self-serve sparkling white and rosé wines are included, along with spirits to make your own screwdrivers, gin and tonics or a glass of whisky.
+
+Breakfast is served buffet-style in the Level lounge, and guests can also eat in the Arado restaurant or 35 Bar and Lounge. You can build your own English breakfast, or have fruit and yoghurt, cereals and continental options. Plus, a glass of bubbles for a champagne breakfast. Freshly made smoothies are also on offer. The sheer variety at breakfast was a highlight.
+
+Facilities
+
+There is a gym that guests can use 24 hours a day, and the Level, which includes the lounge where tapas and drinks are served in the evening.
+
+The lifts up to the rooms require use of a touchpad screen, which was slightly confusing at first as it was at a location nearby.
+
+Nuts and bolts
+
+Freebies: Tea and coffee in room, breakfast is included in the price of a double room. The Level rooms and suites include turndown service, pillow menu, bathrobe and slippers, newspaper service, daily ironing of one garment and a bottle of water each day.
+
+A stay in one of The Level rooms allows access to The Level lounge with unlimited free pastries and soft drinks, daily breakfast and tapas with alcoholic beverages in the evenings.
+
+Wi-Fi: Free
+
+Extra charges: Room service, minibar
+
+Disability access: Wheelchair access, reduced mobility rooms available
+
+Pet policy: No pets allowed
+
+Bottom line
+
+Best thing: Perfect London location and champagne breakfast
+
+Worst thing: Variety of tapas in the Level lounge could be better
+
+Perfect for: Convenient city stay
+
+Not right for: Fastidious interior design fans
+
+Instagram from: The Level lounge, while sipping sparkling rosé wine
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our London hotel reviews:

@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A new material could transform batteries, the researchers who found it say.
+
+It could lead to batteries based on new technology that could improve both their energy capacity and their safety, scientist say. That in turn could have dramatic consequences for the vehicles and other electronic devices that rely on batteriesfr power.
+
+Today’s lithium ion batteries of the kind used in everything from phones to cars rely on liquid electrolytes. Those electrolytes are a key part of the architecture of the batteries.
+
+But now scientists say they have found a solid material that could do the same job of rapidly conducting lithium ions. There are very few solid materials that are able to conduct enough to replace liquid electrolytes.
+
+What’s more, the material is made up of non-toxic earth-abundant elements, meaning that it could avoid the ethical and environmental problems that have come to be associated with some battery technologies.
+
+The new material was found by researchers at the University of Liverpool, using a combination of artificial intelligence as well as more traditional chemistry. Similar work could both improve the new material – as well as lead to the discover of more, the researchers say.
+
+“This research demonstrates the design and discovery of a material that is both new and functional. The structure of this material changes previous understanding of what a high-performance solid-state electrolyte looks like,” said Matt Rosseinsky, from the University of Liverpool’s Department of Chemistry.
+
+“Specifically, solids with many different environments for the mobile ions can perform very well, not just the small number of solids where there is a very narrow range of ionic environments. This dramatically opens up the chemical space available for further discoveries.
+
+The work is reported in a new paper, ‘Superionic lithium transport via multiple coordination environments defined by two anion packing’, published in the journal Science.

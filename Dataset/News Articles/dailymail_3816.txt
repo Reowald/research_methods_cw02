@@ -1,0 +1,73 @@
+Joe Biden's bizarre move to join TikTok just months after banning his staff from the social media app could allow China to spy on his presidential campaign.
+
+A cybersecurity expert told DailyMail.com that state-sponsored cyber attackers could potentially steal data from the president's campaign through backdoor channels set up by its parent company.
+
+Biden's campaign has not provided any details about how it plans to prevent TikTok's parent company from exposing voter information to the Chinese government.
+
+As of June 2023, Biden banned nearly 4 million federal government employees from installing the app on government-owned devices.
+
+Citing data security concerns, politicians on both sides of the political aisle have supported banning the app altogether.
+
+Joe Biden's campaign joined TikTok less than a year after his administration banned federal employees from downloading the app on government devices, over concerns that the Chinese government could access sensitive data through backdoors
+
+'If the device used for content creation is connected to the campaign's network, state-sponsored attackers could use the app to spy on other network traffic including private emails, online meetings, and other sensitive communications,' John Wilson, senior threat research fellow at cybersecurity firm Fortra, told DailyMail.com.
+
+'The app could be recording audio, video, GPS locations, and a slew of other valuable intel,' Wilson added.
+
+In Joe Biden's first TikTok, he answered a series of this-or-that questions, including 'Trump or Biden?' He replied, 'Are you kidding?'
+
+TikTok is owned by Chinese company ByteDance, and Chinese law requires companies in the country to share user data with the government.
+
+US politicians have voiced fears that the Chinese government could force ByteDance to divulge loads of data that it has collected from US users.
+
+This was one of the main reasons the Biden administration banned the app in federal agencies, with some exceptions for law enforcement and national security purposes. It's also the point that his political opponents are skewering him on following the Sunday announcement.
+
+In 2020 and 2022, the app was used to spread misinformation, a major concern in a presidential election year.
+
+The FBI and the Federal Communications Commission have warned that a huge range of app users' data are vulnerable - biometric information, location data, and browsing history.
+
+In 2022 the company admitted it had been spying on reporters through location data.
+
+The app can also use invasive tracking measures, including harvesting users' phone contacts; this feature seems to remain partly active even if the app is denied permission to access your contacts, as it continues to recommend users whose phone numbers are in your phone.
+
+TikTok CEO Shou Zi Chew faced a barrage of questions about tech companies' failure to protect young social media users during a January hearing of the US Senate Committee on the Judiciary on Big Tech and the Online Child Sexual Exploitation Crisis
+
+And if the President of the United States of America were giving up his mobile phone data to a foreign government, that would raise national security concerns.
+
+Crucially, Joe Biden himself is not on TikTok, and the Secret Service has extremely strict rules about how the US president is allowed to use a mobile phone.
+
+Rather, the account belongs to the official rapid response department for the Biden-Harris campaign.
+
+Last year, sources inside the campaign had said that the campaign would not join TikTok, due to security concerns.
+
+[[Clearly that has changed. ]] duh! bit obvious. can we add insight instead? like... how many millions of amerians under the age of 25 are on tiktok? how many use tiktok for their main source of news etc. shows the impetus to get on the app
+
+'We are taking advanced safety precautions around our devices and incorporating a sophisticated security protocol to ensure security,' Biden campaign advisers said in a statement.
+
+But the campaign has not elaborated on this strategy or clarified which devices will be logged into the account. Nor did the campaign clarify whether it is campaign data or voter data that they will aim to protect.
+
+Beyond the federal ban, TikTok has been under investigation by the Committee on Foreign Investment in the United States (CFIUS) for several years.
+
+'The campaign's presence is independent and apart from the ongoing CFIUS review,' campaign representatives said.
+
+Experts have predicted that this election season will see unprecedented levels of sophisticated digital fraud undermining the campaign, including deepfake videos and AI-driven personalized disinformation.
+
+Amid these concerns, the Biden campaign's move is drawing fire from all sides.
+
+ByteDance has already gotten in hot water for improper data use, including a $368 million fine from the European Union in September for failing to protect children who use the app. NO SPYING LAWSUITS?
+
+And almost 60 percent of Americans see TikTok as a major or minor threat to national security in the US, according to a Pew Research Center poll.
+
+Officials in the federal government have made it clear that even though Biden's campaign is on the app, that does not mean it is considered secure.
+
+'Nothing's changed about the national security concerns, from the NSC's perspective, about the use of TikTok on government devices,' said National Security Council spokesperson John Kirby in a press conference. 'That policy is still in place.'
+
+Kirby would not clarify whether the White House and campaign had been in communication about the decision to launch the social media account, and he referred questions to the campaign.
+
+'I don't want to get into too much of the national security, technical reasons behind that, but it does have to do with concerns about the preservation of data and the potential misuse of that data and privacy information by foreign actors,' he said.
+
+All of this said, cybersecurity experts have long been skeptical about whether TikTok's cybersecurity issues are any worse than those of US-based companies like Meta, which also employs invasive tracking methods and has been used to spread election misinformation.
+
+There are some simple steps that can be taken to ensure that the Biden campaign's TikTok account doesn't expose sensitive data, said Wilson.
+
+'I would strongly recommend the campaign use a dedicated device for content creation,' he said. 'That device should be powered down when not in use, and never used for any other purpose. '

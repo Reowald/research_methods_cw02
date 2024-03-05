@@ -1,0 +1,51 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+An 83-year-old woman was duped out of more than £20,000 by a romance scammer she met while playing Scrabble online, police said.
+
+The victim, from Oldham, Greater Manchester, fell for the fraudster, who posed as a 60-year-old American millionaire widower and said he would visit the UK to give her a second chance of love after her husband died a few years earlier.
+
+The conman built a connection with the pensioner through the word game before he suggested they move the chat to an external platform where the relationship became more intense and requests for money began.
+
+On one occasion he claimed his daughter urgently needed an operation to save her leg and that he did not have access to his bank card to pay a surgeon.
+
+Another time, the fraudster said he needed cash to pay his bail after he was arrested in Istanbul, Turkey, on returning from a business trip, and even emailed a fake letter purporting to be from the United Nations, which stated he was a prisoner.
+
+The woman sent more than £20,000 over an 18-month period before she suspected she had become a victim of fraud and told her brother, who went on to report the matter to Action Fraud following advice from Greater Manchester Police (GMP).
+
+Neither the woman nor her brother are being identified by police.
+
+The woman’s brother said: “The scammers are very clever. They target things like online Scrabble because they know this is a place where they’ll find older women with a bit of money.
+
+“And it always goes the same way – where the scammer starts off by building a relationship and then claims they haven’t got access to their bank card and need a bit of money and will pay you back.
+
+“We knew my sister’s behaviour had changed but we found out something was seriously wrong when she came to my wife and I for help. She said ‘I’ve been a fool, I’ve just been to the bank and I’ve been sending money to someone abroad’.
+
+“There have been many different scams in total that we know of targeting my sister, but I think it’s either all the same person or a group of scammers who are based somewhere in Nigeria.”
+
+“She would ask to speak to him on the phone and there was always an excuse as to why he was unavailable. He’d say ‘Babe, I’m travelling’ or ‘Babe, I’m doing this… I’ll catch you later’.
+
+“And he’d never use her name. It was always ‘Babe’, ‘Sweetie’, ‘Queen’ or ‘Hunny’, because they have so many on the go that they don’t want to risk using the wrong name.”
+
+It makes me really angry because they’ve deliberately targeted someone who is elderly and vulnerable Romance fraud victim's brother
+
+The victim’s brother now has power of attorney and supports her bank in investigating suspicious transactions, police said.
+
+The scammer, or scammers, have yet to be uncovered.
+
+He went on: “Everyone should be suspicious if someone they don’t know contacts them online.
+
+“I dread to think what could have happened if my wife and I weren’t there for my sister. The scammers could have drained her account and left her with nothing.
+
+“The photos and videos that she received seemed genuine but I found out how to do a reverse image search and was able to show her they were all fake.
+
+Everyone should be vigilant online, and I want to emphasise that if it sounds too good to be true, it probably is Detective Sergeant Stacey Shannon
+
+“It makes me really angry because they’ve deliberately targeted someone who is elderly and vulnerable. But I hope that by speaking out this will help protect other victims.”
+
+Detective Sergeant Stacey Shannon, of GMP’s economic crime unit, said: “My staff met (the brother) in December last year as he was giving a talk at a bank and directed him to report to Action Fraud.
+
+“Unfortunately, his story is far from unique and there are many people who fall victim to such scams. I hope his experience will help other victims realise what is happening to them and encourage them to make a report.
+
+“Everyone should be vigilant online, and I want to emphasise that if it sounds too good to be true, it probably is.”

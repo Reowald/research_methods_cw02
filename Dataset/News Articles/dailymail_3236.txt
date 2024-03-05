@@ -1,0 +1,87 @@
+It also shows which jobs received the highest and lowest pay rises in 2023
+
+Our tool uses ONS data to reveal average salary for each profession
+
+Whether you're at the start of your career, mulling a career change, or thinking about asking for a pay rise, understanding what others get paid helps.
+
+But how much do you know about the average salary for different professions?
+
+You can use our interactive tool below to search for your occupation and see average salaries, plus the biggest and smallest pay rises last year.
+
+What does the average head teacher earn, are all chief executives on million-pound plus salaries, and how big a pay rise did travel agents typically get last year?
+
+Figures from the Office of National Statistics shed light on average pay across UK occupations, as well as revealing which jobs bagged the biggest pay rises in 2023.
+
+In many cases you can also see what the top 10 per cent and bottom 10 per cent of earners in specific roles get paid.
+
+Enter the occupation you are looking for in the search box and you can reorder the columns to biggest to smallest and vice versa by clicking on them at the top.
+
+USE THE INTERACTIVE TOOL HERE
+
+Your browser does not support iframes.
+
+What you need to know about the salary figures
+
+The figures in our table are for full-time earnings and come from the ONS's Annual Survey of Hours and Earnings report for 2023. This is the official and comprehensive look at earnings across all occupations and it gives two average figures, the mean and the median.
+
+The mean is if you take all the salaries for that occupation and add them together then divide them by the number of jobs to get an average figure.
+
+The median is if you line up all the earners for that job in a row, from lowest to highest, and then take the middle figure for your average.
+
+The ONS's preferred way to measure the average is to use the median salary, which gives a better picture of the average individual's income - it is less likely to be skewed by a few very high or very low earners.
+
+We have ordered our table on median salaries, but also provided the mean and the average annual change for the mean, as this is the most comprehensive data. Where possible we have also included the average for the top 10 per cent of earners and the bottom 10 per cent of earners in each role.
+
+We analyse what each sector pays their employee on average per year and which jobs saw the best, and worst, pay rises in 2023.
+
+Where possible we have included the top 10 per cent and bottom 10 per cent of earners figures, but there are a number of occupations where this information is missing in the ONS stats.
+
+What are the best paid jobs?
+
+Unsurprisingly, chief executives and senior officials top the list of the UK's best paid full-time jobs, earning £84,131 on average.
+
+To many that will seem low though. Aren't all chief executives on million-pound plus salaries?
+
+Not quite. Firstly, because the figures are for chief executives and senior officials, not just CEOs; and secondly, because the data covers chief executives right across the range of Britain's companies, from those where the staff could be counted on two hands, to those where employees number in the tens or low hundreds, right through to big firms that employ thousands.
+
+This £84,131 median average marks a fraction of what FTSE 100 chief executives earn though, with the country's top bosses taking home £3.81million per year on average (excluding pension payments), according to the High Pay Centre. Executives at companies listed on the FTSE 350 earn £1.32million on average.
+
+Those high earners drag up the mean average for chief executives and senior officials to more than £120,000 - and note, bonuses are not included.
+
+Marketing, sales and advertising directors follow closely behind chief executives with a gross full-time salary of £83,015 while IT directors are earning £80,000 as the median average.
+
+Public relations and communications directors fare well, earning £79,886, while head teachers were also among the best earners too, earning £66,014 per year.
+
+But figures from the Department of Education show this can vary widely. The minimum headteacher salary in England, excluding London, is £53,380 while the maximum is £131,046. In inner London this rises to £62,304 and £139,891 respectively.
+
+By comparison, the average salary for teaching professionals is £41,800, according to the ONS.
+
+At the other end of the scale, leisure and theme park attendants earned just £17,860 in a full-time role, followed by bar staff, waiters and waitresses, and supermarket workers.
+
+Hospitality workers are often paid very little and are often younger, meaning they often fall into the lower bracket of the minimum wage.
+
+The National Minimum Wage for 18- to 20-year-olds is £7.49 while those aged 21 and 22 earn £10.18 an hour. The National Living Wage, for those aged 23 and over, is £10.42, which equates to about £21,700 a year on a 40-hour week.
+
+Which jobs had the biggest pay rises in 2023?
+
+Figures from the ONS in January revealed that growth in regular earnings, excluding bonuses, was 6.6 per cent in September to November 2023, while annual growth in average total earnings, including bonuses, was 6.5 per cent over the same period.
+
+Some occupations got a lot more than that, according to the ONS figures.
+
+It was a strong year for clothes and accessory designers who received a 29.3 per cent pay rise over the course of 2023 to earn an average salary of £40,503.
+
+Employees working in travel also saw bumper pay rises, with travel agents and air travel assistants seeing incomes go up by 20.5 and 16.5 per cent, respectively.
+
+Aircraft maintenance and related trades also earned 22.2 per cent more than the previous year.
+
+Despite difficulties within the hospitality industry, pub owners and managers took home 18.2 per cent more in 2023 - although their average salary of £33,477 remains on the lower end of the scale.
+
+Bar staff didn't see a similar increaase, with supervisors seeing a 6.9 per cent rise in their take-home pay.
+
+Clinical psychologists saw the largest pay cut of 12.5 per cent to £36,315, while sports coaches and officials saw their pay down 10.6 per cent on average to £23,206.
+
+Delivery operatives also saw a 10 per cent fall in their pay to £22,193, meaning they are among the lowest paid employees in the UK.
+
+Work in healthcare saw similar falls, with health and social services managers and directors facing a cut of 8.8 per cent to £26,313 while children's nurses saw a fall of 7.8 per cent to £34,024.
+
+Building technicians, librarians, and tax experts also all saw their pay fall behind inflation, meaning they lost money in real terms.

@@ -1,0 +1,143 @@
+We use eight measures of performance, covering all stages of the student lifecycle, to put together a league table for 66 subjects. We regard each provider of a subject as a department and ask each provider to tell us which of their students count within each department. Our intention is to indicate how likely each department is to deliver a positive all-round experience to future students and, in order to assess this, we refer to how past students in the department have fared. We quantify the resources and staff contact that have been dedicated to past students, we look at the standards of entry and the likelihood that students will be supported to continue their studies, before looking at how likely students are to be satisfied, to exceed expectations of success and to have positive outcomes after completing the course. Bringing these measures together, we get an overall score for each department and rank departments against this.
+
+For comparability, the data we use focuses on full-time first-degree students. For those prospective undergraduates who have not decided which subject they wish to study, but who still want to know where institutions rank in relation to one another, the Guardian scores have been averaged for each institution across all subjects to generate an institution-level table.
+
+Changes in 2024
+
+The structure and methodology of the rankings has remained broadly constant since 2008 and, after a major review of subjects last year, the latest edition has only one major change.
+
+National student survey – overall satisfaction
+
+The only major change to this year’s methodology has been the discontinuation of the overall course satisfaction metric. In previous editions this measure carried a 4% weighting and was derived from final core question of the national student survey. The review of the national student survey led to the question being discontinued for providers in England and, under plans to use the new survey that was conducted in 2023, the decision was taken to remove the measure from the Guardian University Guide and afford the other metrics that are derived from the NSS – satisfaction with teaching and satisfaction with feedback – an extra 2% each.
+
+In the event, 2023 results were published too late to be used in this year’s edition of the University guide and 2022 results were used instead. The decision to drop the overall course satisfaction metric was retained.
+
+National student survey – satisfaction with feedback and teaching
+
+As mentioned above, each of these measures had their weighting increased from 8% to 10% and 2022 results were used alone. This entailed a different approach to recent years, when results had been aggregated over two years with a minimum total population of 23 respondents. This year the threshold is 15 respondents in 2022 for 2022 results to be used alone or 10-14 2022 respondents to trigger a two-year average across 2021 and 2022.
+
+Expenditure
+
+The spend per student metric depends on information about how much each university spends on academic services and on subject delivery. In 2022, data from 2019/20 was used due to the delay to the release of data from 2020/21. 2023 has seen the timely release of 2021/22 data and so this was used, as per the normal schedule. Where it is necessary to refer to 2-year averages, 2020/21 data was used for the earlier year.
+
+Value added and continuation
+
+Both of these metrics operate by assigning each student a probability of a successful outcome and then comparing observed outcomes to these expectations. An error in the data used last year resulted in the effects of BTec qualifications relative to other types of entry qualification not being factored into the setting of expectations. This was corrected in the new edition.
+
+Details of each metric
+
+Entry standards
+
+This measure seeks to approximate the aptitude of fellow students with whom a prospective student can expect to study and reports the observed average grades of students joining the department – not the conditions of admission to the course that may be advertised. Average tariffs are determined by taking the total tariff points of first-year, first-degree, full-time entrants who were aged under 21 at the start of their course, if the qualifications that they entered with could all be expressed using the tariff system devised by Ucas. There must be more than seven students in any meaningful average and only students entering year one of a course (not a foundation year) with certain types of qualification are included.
+
+This metric contributes 15% to the total score of a department (24% for medical subjects) and refers to those who entered the department in 2021/22.
+
+Student-staff ratios
+
+Student-staff ratios seek to approximate the levels of staff contact that a student can expect to receive by dividing the volume of students who are taking modules in a subject by the volume of staff who are available to teach it. Thus a low ratio is treated positively – it indicates that more staff contact could be anticipated.
+
+Staff and students are reported on a “full-time equivalent” basis and research-only staff are excluded from the staff volume. Students on placement or on a course that is franchised to another provider have their volume discounted accordingly.
+
+At least 28 students and three staff (both FTE) must be present in an SSR calculation using 2021/22 data alone. Smaller departments that had at least seven student and two staff FTE in 2021/22, and at least 30 student FTE in total across 2020/21 and 2021/22, have a two-year average calculated.
+
+This metric contributes 15% to the total score of a department (24% for medical subjects). It is released at HESA cost centre level, and we map each cost centre to one or more of our subjects.
+
+Expenditure per student
+
+In order to approximate the level of resources that a student could expect to have dedicated to their provision, we look at the total expenditure in each subject area and divide it by the volume of students taking the subject. We exclude academic staff costs as the benefits of high staff volumes are already captured by the student-staff ratios but recognise that many costs of delivery are centralised: we add the amount of money each provider has spent for students on academic services such as libraries and computing facilities for each student, over the past two years.
+
+This metric is expressed as points/10 and contributes 5% to the total score of a department (10% for medical subjects).
+
+Continuation
+
+Taking a degree-level course is a positive experience for most students but is not suited to everybody and some students struggle and discontinue their studies. Providers can do a lot to support their students – they might promote engagement with studies and with the broader higher education experience or offer dedicated support when students face an obstacle – and this measure captures how successful each department is in achieving this. We look at the proportion of students who continue their studies beyond the first year and measure the extent to which this exceeds expectations based on entry qualifications.
+
+To achieve this, we take all first-year students on full-time first-degree courses that are scheduled to take longer than a year to complete and look ahead to the first of December in the following academic year to observe the proportion who are still active in higher education. This proportion is viewed positively, regardless of whether the student has switched course, transferred to a different provider, or been required to repeat their first year – only those who become inactive in the UK’s HE system are counted negatively. To take the effect of entry qualifications into account we create an index score for each student who has a positive outcome, using their expectation of continuation up to a maximum of 97%. To calculate the score there must have been 25 entrants in the most recent cohort and 50 across the last two or three years.
+
+This index score, aggregated across the last two or three years, contributes 15% to the total score of non-medical departments and 10% to those of the medical subjects. However, it is the percentage score – also averaged over two or three years – that is displayed.
+
+Student satisfaction
+
+Until the changes of 2023, the national student survey asks final year students for the extent to which they agree with 27 positive statements about their academic experience of the course and support that they received. Responses were on a five-point Likert scale (1 definitely disagree to 5 definitely agree) and we take the responses from full-time first-degree students registered at the provider to produce two statistics: a satisfaction rate and an average response. The satisfaction rate looks across the questions concerned and reports the proportion of responses that were “definitely agree” or “mostly agree” while the average response gives the average Likert score between one and five that was observed in the responses to those questions.
+
+To assess the teaching quality that a student can expect to experience we took responses from the 2022 NSS survey and aggregated them for the following questions:
+
+Staff are good at explaining things.
+
+Staff have made the subject interesting.
+
+The course is intellectually stimulating.
+
+My course has challenged me to achieve my best work.
+
+The satisfaction rate for each provider is displayed, and the average response is used with a 10% weighting (16% for medical subjects).
+
+To assess the likelihood that a student will be satisfied with assessment procedures and the feedback they receive we took responses from the 2022 NSS survey and aggregated them for the following questions:
+
+The criteria used in marking have been clear in advance.
+
+Marking and assessment has been fair.
+
+Feedback on my work has been timely.
+
+I have received helpful comments on my work.
+
+The overall satisfaction rate for each provider is displayed, and the average response is used with a 10% weighting.
+
+Data was released at the CAH (common aggregation hierarchy) levels of aggregation and we used details of how these map to HECOS (Higher Education classification of subjects) to weight and aggregate results for each of our 66 subjects, prioritising results from the most granular level. Our aggregation rules required that there were 15 or more respondents to the 2022 survey. In order to avoid the exclusion of smaller departments, if there were only 10-14 respondents in 2022 but 23 or more across 2021 and 2022 then we used a two-year average across those years.
+
+Value added
+
+In order to assess the extent to which each department will support its students towards achieving good grades, we use value added scores to track students from enrolment to graduation. A student’s chances of getting a good classification of degree (a first or a 2:1) are already affected by the qualifications that they start with so our scores take this into account and report the extent to which a student exceeded expectations.
+
+Each full-time student is given a probability of achieving a first or 2:1, based on the qualifications that they enter with or, if they have vague entry qualifications, the total percentage of good degrees expected for the student in their department. If they manage to earn a good degree, then they score points that reflect how difficult it was to do so (in fact, they score the reciprocal of the probability of getting a first or 2:1). Otherwise they score zero. Students completing an integrated master’s award are always regarded as having a positive outcome.
+
+At least 30 students must be in a subject for a meaningful value-added score to be calculated using the most recent year of data alone. If there are more than 15 students in both the most recent year and the preceding year, then a two-year average is calculated.
+
+This metric is expressed as points/10 and contributes 15% to the total score of a department but is not used for medical subjects.
+
+Career prospects
+
+Using results from the Graduate outcomes survey for the graduating cohorts of 2019/20 and 2020/21, we seek to assess the extent to which students have taken a positive first step in the 15 months after graduation, in anticipation that similar patterns will repeat for future cohorts. We value students who enter graduate-level occupations (approximated by SOC groups 1-3: professional, managerial and AMP; technical occupations) and students who go on to further study at a professional or HE level and treat these students as positive.
+
+Students report one or more activities, and for each of these give more detail. If students are self-employed or working for an employer, we treat them as positive if the occupation is in SOC group 1-3, if they have either finished a course or are presently taking one then we look at the level and treat them positively accordingly. Students who have no activity that is regarded positively, but who either reported that they were unable to work, or only partially completed the survey leaving details of an activity incomplete, are excluded from the metric.
+
+The metric refers only to students who graduated from full-time first-degree courses and we only use results if at least 15 students in a department responded in each of the two years or if at least 22.5 students responded in the most recent year. Partial responses are used if the respondent provided details for any of the activities that they reported undertaking. We exclude the responses if, for an activity, we are unable to determine if it should be treated as a positive outcome.
+
+We have always avoided averaging results across years for this metric because the national economic environment that leavers find themselves in can have such a big effect on employment and this is especially true when a pandemic affects the economy. Unfortunately, response rates for the graduate outcomes survey are not high enough to maintain this stance. We therefore average the career prospects statistics across the two years in an unweighted manner, in order to avoid any advantage or disadvantage for a department that had a higher response for a cohort in which economic conditions were better/worse. In situations where only the most recent year of data meets the threshold for usage we have applied the year-on-year sector difference observed for the subject concerned in order to simulate what a two-year average might have looked like given changing economic conditions.
+
+This metric is worth 15% of the total score in all the non-medical subjects.
+
+Using metric results
+
+First of all, we determine if a department has enough data to support a ranking. Often individual metrics are missing and we seek to keep the department in the rankings where we can. An institution can only be included in the table if the weighting value of any indicators that are missing add up to 40% or less, and if the institution’s relevant department teaches at least 35 full-time first degree students. There must also be at least 25 students (FTE) in the relevant cost centre.
+
+For those institutions that qualify for inclusion in the subject table, each score is compared to the average score achieved by the other institutions that qualify, using standard deviations to gain a normal distribution of standardised scores (S-scores). The standardised score for student: staff ratios is negative, to reflect that low ratios are regarded as better. We cap certain S-scores – extremely high NSS, expenditure and SSR figures – at three standard deviations. This is to prevent a valid but extreme value from exerting an influence that far exceeds that of all other measures.
+
+For metrics in subjects where there are very few datapoints we refer to the distribution of scores observed for a higher aggregation of subjects (CAH1). We also set a minimum standard deviation for each metric and make adjustments to the mean tariff that is referenced by departments with students who entered with Scottish highers or advanced highers.
+
+Although we don’t display anything, we need to plug the gap left in the total score that is left by any missing indicators. We use a substitution process that firstly looks for the corresponding standardised score in the previous year and then, if nothing is available, resorts to looking at whether the missing metric is correlated to general performance in that subject. If it is, the department’s performance in the other metrics is used – effectively assuming that it would have performed as well in the missing metric as it did in everything else. If not, the average score achieved by other providers of the subject is used.
+
+Using the weighting attached to each metric, the standardised scores are weighted and totalled to give an overall departmental score (rescaled to 100) against which the departments are ranked.
+
+The institutional ranking
+
+The institutional table ranks institutions according to their performance in the subject tables but considers two other factors when calculating overall performance.
+
+First, the number of students in a department influences the extent to which that department’s total standardised score contributes to the institution’s overall score. And second, the number of institutions included in the subject table determines the extent to which a department can affect the institutional table.
+
+The number of full-time undergraduates in each subject is expressed as a percentage of the total number of full-time undergraduates counted in subjects for which the institution is included within the subject table. For each subject, the number of institutions included within the table is counted and the natural logarithm of this value is calculated. The total S-score for each subject – which can be negative or positive – is multiplied by these two values, and the results are summed for all subjects, to give an overall S-score for each institution. Institutions are ranked according to this overall S-score, though the value displayed in the published table is a scaled version of this, that gives the top university 100 points and all the others a smaller (but positive) points tally.
+
+Each institution has overall versions of each of the indicators displayed next to its overall score out of 100, but these are crude institutional averages that are otherwise disconnected from the tables and give no consideration to subject mix. Therefore these institutional averages cannot be used to calculate the overall score or ranking position.
+
+The indicators of performance for value-added and for expenditure per student are treated slightly differently, because they need to be converted into points out of 10 before being displayed.
+
+Therefore these indicators do read from the subject level tables, again using student numbers to create a weighted average.
+
+Institutions that appear in fewer than eight subject tables are not included in the main ranking of universities.
+
+Course directory
+
+The KIS database of courses, to which institutions provide regular updates to describe courses that students will be able to apply for in future years, is the data source of the courses that we list under each department in each subject group.
+
+We have associated each full-time course with one or more subject groups, based on the subject data associated with the courses. We gave institutions the freedom to adjust these associations with subjects and also to change details of the courses. We include courses that are not at degree level, even though such provision is excluded from the data used to generate scores and rankings.

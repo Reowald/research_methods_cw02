@@ -1,0 +1,67 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Facebook remains one of the most influential pieces of technology in the world, an expert has said, despite recent scandals, pressure from rivals and other issues it faces as it marks its 20th anniversary.
+
+Founded by a group including chief executive Mark Zuckerberg in a Harvard dormitory in 2004, it has grown to become one of the largest technology companies in the world as Meta – the parent firm of Facebook and its sibling apps Messenger, WhatsApp and Instagram.
+
+Over its 20-year existence, Facebook has helped usher in the era of social media as a communication space, content creation outlet and news source, but also been at the heart of major scandals, including the Cambridge Analytica data breach, as well as increased concerns about the impact of the internet, and specifically social media, on health and wellbeing, the mental health of younger users, and on the very foundations of democracy.
+
+Despite this, Facebook has proven itself robust – only last week reporting its best financial results in recent memory with revenue rising 25%.
+
+Even that good news came as the company and Zuckerberg was in the spotlight for the site’s negative impact – a bruising appearance for the billionaire before the US Congress saw him face, and apologise to, families of children who died after being affected by online harms while Facebook was labelled a product “that’s killing people” by one senator, and tech platforms were accused of failing to protect young people.
+
+The rough direction of travel is that the social networks are clamping down (on harmful content) as much as they can Drew Benvie, social media expert
+
+Amid the scandals, social media expert Drew Benvie says it can be easy to forget how transformative Facebook has been for the modern world.
+
+“Mark Zuckerberg, with his hunger for success, fame, transformation and democratisation of everything, really did usher in a totally new era of information and entertainment,” he told the PA news agency.
+
+“We shouldn’t forget just how influential Facebook is now, through its parent company Meta and its sister companies – Instagram, WhatsApp and others that it absorbed along the way.
+
+“Over three billion monthly users are on one of Meta’s platforms – that’s two-thirds of the internet-connected world – and whether it’s messaging, scrolling stories, local community groups, elections, shopping, entertainment or keeping in touch, it’s absolutely changed the world.”
+
+Despite the apparent threats to the platform from regulators and indeed rival platforms, Mr Benvie believes the social network is not going anywhere any time soon.
+
+“I think we’ve got another 20 years ahead of us. I think what Zuckerberg has done and what he plans to do, largely down to investments in messaging, entertainment, and then the newest move, which is building AI that will power the future of Meta, Facebook, WhatsApp and Instagram.
+
+“I think there’s a lot of life in the old dog yet,” he said, noting that how the company responds to the changing regulatory landscape around will shape its future.
+
+“The regulation that is coming, I think that’s going to be a big part of Facebook’s future too, because nobody wants to be made to feel unhappy, ill or for harm to be caused because of the ease and the speed at which information travels on social media.
+
+“For that, social networks have a lot to answer for and I think there’s a lot of responsibility that’s going to be laid on their shoulders in the future as well, largely on the biggest apps, such as Facebook and its family of apps.
+
+“The rough direction of travel is that the social networks are clamping down (on harmful content) as much as they can.”
+
+He added that artificial intelligence (AI) will be another key aspect of the platform’s future – an area Meta has already begun investing in and last year announced its first chatbots built using its own Llarma large language model.
+
+Mr Benvie said it will not be this application of AI, but how Meta uses it more broadly that could define its next two decades.
+
+“Increasingly that (moderation) is the job of technology to do and not human moderators, so that’s where AI, I think, will play a big part in Meta’s future,” he said.
+
+“In the future, AI will help detect content that maybe shouldn’t be there and it will help remove it quicker, and it will do other fantastic things for social media. It will give users tools and technologies they’ve not had before.
+
+“I think AI will do a lot for keeping people safer online and it will also improve people’s experiences of social media too, if done in the right way. So, I think that is something to look forward to.
+
+“AI is such a huge space to watch and it isn’t just a social media-related topic either, it’s in all lines of work, so Meta could expand way beyond social media if it gets the AI right, so it’s definitely one to watch.”
+
+However, one area of innovation Mr Benvie said has so far been “a bit of a mistake” has been the firm’s investment in the metaverse.
+
+The social media expert said he believed the company had been “just too quick to innovate” and would have been better off waiting for interest in the technology to grow more.
+
+Zuckerberg pledged billions of dollars and rebranded the company in order to launch his metaverse project, a 3D mixed reality space he said he believes is the future of the internet, but as yet does not exist as any one, tangible space or platform.
+
+Despite his very hands-on approach around the metaverse, Mr Benvie said he could see Zuckerberg following the example of other high-profile tech founders and stepping back from day-to-day management at some point.
+
+“Maybe we’ll see Mark Zuckerberg take a bit of a step back, a bit like we’ve seen from founders of other innovative technologies in the social media space – I’m thinking Larry Page and Sergey Brin from Google, Bill Gates at Microsoft – they still have an influence – Mark Zuckerberg would probably still have a heavy influence, but it’ll reach a point where we see his other interests take over,” he said.
+
+Whether it is Zuckerberg at the helm or not however, Mr Benvie said Facebook and Meta’s handling of looming regulation – including the UK’s Online Safety Act – would be pivotal to its performance over the coming years.
+
+“All social networks are looking for ways to make their platforms as sticky as possible – they want people to stay online for longer,” he said.
+
+“That comes at a cost and unfortunately we’ve seen problems ranging from mental health issues to real harm to all sorts of negative activities that social networks have facilitated. They’re working hard to to stop that but they can absolutely work harder.
+
+“No single organisation is to blame, and everybody is working on making it better, especially for young people, who are growing up in a world different to Mark Zuckerberg or to the regulators as well, where it’s just normal to be on a screen as often as you can be, and that brings with it health risks and it brings opportunities too.
+
+“I think balancing those things out is going to be key for the future of Facebook, Meta and wider social media as well.”

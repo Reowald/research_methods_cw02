@@ -1,0 +1,57 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Xbox has confirmed the first game coming to Xbox Game Pass in August – with Two Point Campus being one of the biggest releases for the platform this month.
+
+Two Point Campus is a management simulator that sees players taking control of a university as an administrator to construct buildings, campus equipment as well as hire staff and improve the curriculum.
+
+The game is scheduled to be released on 9 August and it’s been confirmed as a Game Pass addition on day one, meaning existing subscribers can play it for free at no extra cost.
+
+It will be playable on console, PC and via the cloud, along with a handful of other titles. But as new ones are added to Game Pass, older ones will be taken off the service.
+
+To find out which games will be coming to Xbox Game Pass in August and which ones are leaving, then keep reading the rest of the article below.
+
+Games coming to Game Pass August 2022
+
+Ghost Recon Wildlands – 2 August (Cloud, PC, and Xbox series X/S)
+
+Shenzhen I/O – 4 August (PC only)
+
+Turbo Golf Racing – 4 August (Cloud, PC, and Xbox series X/S)
+
+Two Point Campus – 9 August (Cloud, PC and Xbox series X/S)
+
+Cooking Simulator – 11 August (Cloud, PC and Xbox series X/S)
+
+Expeditions: Rome – 11 August (PC only)
+
+Offworld Trading Company – 11 August (PC only)
+
+Games leaving Game Pass 15 August 2022
+
+As Xbox giveth, they also taketh away. The following games will be removed from the service and will no longer be free to play, but if you want to save 20 per cent on the following titles, then existing subscribers have until the 15 August 2022 to download them at a significant discount:
+
+Boyfriend Dungeon (Cloud, PC, and Xbox series X/S)
+
+Curse of the Dead Gods (Cloud, PC, and Xbox series X/S)
+
+Library of Ruina (Cloud, PC, and Xbox series X/S)
+
+Starmancer (Game Preview) (PC only)
+
+Train Sim World 2 (Cloud, PC, and Xbox series X/S)
+
+How to sign up for Xbox Game Pass Ultimate
+
+If you’re new to the subscription service and are interested in trying out the games above, then Xbox are offering the first month of Game Pass Ultimate for just £1, which will give you access to over 100 titles on the service.
+
+You can also purchase a month subscription for £10.99 (Argos.co.uk) or a 3-month subscription for £32.99 (Currys.co.uk).
+
+Find out more about Xbox Game Pass Ultimate
+
+Voucher codes
+
+If you’re looking for discounts on technology or video games then try one of these codes:
+
+Still struggling to get your hands on an Xbox series X? Follow our buying guide for the latest information

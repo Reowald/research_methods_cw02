@@ -1,0 +1,29 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Sir Chris Hoy has been diagnosed with cancer, the six-time Olympic gold medallist has announced.
+
+The former track cyclist, who is an 11-time world champion as well as a six-time Olympic champion competed for Great Britain at four Olympic Games between 2000 and 2012.
+
+“I have a bit of news. Last year I was diagnosed with cancer, which came as a huge shock, having had no symptoms up to that point,” he wrote on Instagram.
+
+“I’m currently receiving treatment including chemotherapy, which thankfully is going really well. I’d like to extend my sincere gratitude to all the medical professionals for their amazing help and care.
+
+“For the sake of my young family, I had hoped to keep this information private but regrettably our hand has been forced. Whilst I’m thankful for any support. I’d like to deal with this privately. My heart goes out to the many others who are also going through similar challenges right now.
+
+“I’m optimistic, positive and surrounded by love for which I’m truly grateful. As you might imagine, the last few months have been incredibly difficult.
+
+“However, I currently feel fine – I am continuing to work, ride my bike and live my life as normal.
+
+“It’s an exciting year of work ahead, not least with the Paris Olympics in July. I can’t wait to get stuck in, have fun and share it with you all.”
+
+Hoy is Scotland’s most successful Olympian and has the second-most gold medals behind Jason Kenny.
+
+He started his career in BMX before turning to track cycling and won his first Olympic medal in the team sprint at the Sydney Games in 2000.
+
+Then he turned his attention to the kilometre time trial, winning the world title before gold in Athens in 2004. Hoy then took up other track sprinting events and he led the British cycling team in Beijing, with three gold medals.
+
+He was awarded a knighthood in the 2009 New Year Honours List and won Sports Personality of the Year in 2008.
+
+Since retiring from cycling in 2013, Hoy turned his attention to motorsport to pursue his boyhood dream of racing in the world’s toughest endurance race, the Le Mans 24 Hours.

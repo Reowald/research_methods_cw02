@@ -1,0 +1,89 @@
+READ MORE: Elon Musk says AI could signal 'catastrophe' for humanity
+
+Dr Roman V Yampolskiy claims he found no proof that AI can be controlled and said it should therefore not be developed
+
+A researcher backed by Elon Musk is re-sounding the alarm about AI's threat to humanity after finding no proof the tech can be controlled.
+
+Dr. Roman V. Yampolskiy, an AI safety expert, has received funding from the billionaire to study advanced intelligent systems that are the focus of his upcoming book 'AI: Unexplainable, Unpredictable, Uncontrollable.'
+
+The book examines how AI has the potential to dramatically reshape society, not always to our advantage, and has the 'potential to cause an existential catastrophe.'
+
+Yampsolskiy, who is an associate professor of computer science at the University of Louisville, conducted an 'examination of the scientific literature on AI' and concluded there is no proof that the tech could be stopped from going rogue.
+
+To fully control AI, he suggested that it needs to be modifiable with 'undo' options, limitable, transparent, and easy to understand in human language.
+
+'No wonder many consider this to be the most important problem humanity has ever faced,' Yampsolskiy shared in a statement.
+
+'The outcome could be prosperity or extinction, and the fate of the universe hangs in the balance.'
+
+To fully control AI, he suggested that it needs to be modifiable with 'undo' options, limitable, transparent, and easy to understand in human language
+
+OpenAI CEO Sam Altman said on Tuesday that the questions and concerns about AI are important, but perhaps not life as a result of robots rebelling against humanity.
+
+'There's some things in there that are easy to imagine where things really go wrong. And I'm not that interested in the killer robots walking on the street direction of things going wrong,' he said at the World Governments Summit in Dubai.
+
+'I'm much more interested in the very subtle societal misalignments where we just have these systems out in society, and through no particular ill intention, things just go horribly wrong.'
+
+Musk is reported to have provided funding to Yampsolskiy in the past, but the amount and details are unknown.
+
+In 2019, Yampsolskiy wrote a blog post on Medium thanking Musk 'for partially funding his work on AI Safety.'
+
+The Tesla CEO has also sounded the alarm on AI, specifically in 2023 when he and more than 33,000 industry experts signed an open letter on The Future of Life Institute.
+
+The letter shared that AI labs are currently 'locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one - not even their creators - can understand, predict, or reliably control.'
+
+'Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable.'
+
+Musk has expressed a desire to ensure his companies' AI and robots can be managed by people, including making the Tesla robot 'Optimus' weak enough that it can't harm people.
+
+'We're setting it such that it is at a mechanical level, at a physical level, that you can run away from it and most likely overpower it,' he said as he announced Optimus in 2021.
+
+And Yampolskiy's upcoming book appears to echo such concerns.
+
+He raised concerns about new tools being developed in just recent years that pose risks to humanity, regardless of the benefit such models provide.
+
+In recent years, the world has witnessed AI start with generating queries, composing emails and writing code.
+
+Elon Musk has also sounded the alarm on AI, specifically in 2023 when he and more than 33,000 industry experts signed an open letter on The Future of Life Institute
+
+Now, such systems are spotting cancer, creating novel drugs and being used to seek and attack targets on the battlefield.
+
+And experts have predicted that the tech will achieve singularity by 2045, which is when the technology surpasses human intelligence and has the ability to reproduce itself, at which point we may not be able to control it.
+
+'Why do so many researchers assume that AI control problem is solvable,' said Yampolskiy.
+
+'To the best of our knowledge, there is no evidence for that, no proof. Before embarking on a quest to build a controlled AI, it is important to show that the problem is solvable.'
+
+While the researcher said he conducted an extensive review to come to the conclusion, exactly what literature was used is unknown at this point.
+
+What Yampolskiy did provide his reasoning to why he believes AI cannot be controlled - the tech can learn, adapt and act semi-autonomously.
+
+Such abilities make decision-making capabilities infinite, and that means there there are an infinite number of safety issues that can arise, he explained.
+
+And because the tech adjusts as it goes, humans may not be able to predict issues.
+
+Experts have predicted that the tech will achieve singularity by 2045, which is when the technology surpasses human intelligence to which we cannot control it
+
+'If we do not understand AI's decisions and we only have a 'black box', we cannot understand the problem and reduce the likelihood of future accidents,' the Yampolskiy said.
+
+'For example, AI systems are already being tasked with making decisions in healthcare, investing, employment, banking and security, to name a few.'
+
+Such systems should be able to explain how they arrived at their decisions, particularly to show that they are bias-free.
+
+'If we grow accustomed to accepting AI's answers without an explanation, essentially treating it as an Oracle system, we would not be able to tell if it begins providing wrong or manipulative answers,' explained Yampolskiy.
+
+He also noted that as the capability of AI increases, its autonomy also increases but our control over it decreases - and increased autonomy is synonymous with decreased safety.
+
+'Humanity is facing a choice, do we become like babies, taken care of but not in control or do we reject having a helpful guardian but remain in charge and free,' Yampolskiy warned.
+
+The expert did share suggestions on how to mitigate the risks, such as designing a machine that precisely follows human orders, but Yampolskiy pointed out the potential for conflicting orders, misinterpretation or malicious use.
+
+'Humans in control can result in contradictory or explicitly malevolent orders, while AI in control means that humans are not,' he explained.
+
+'Most AI safety researchers are looking for a way to align future superintelligence to values of humanity.
+
+'Value-aligned AI will be biased by definition, pro-human bias, good or bad is still a bias.
+
+'The paradox of value-aligned AI is that a person explicitly ordering an AI system to do something may get a 'no' while the system tries to do what the person actually wants.
+
+'Humanity is either protected or respected, but not both.'

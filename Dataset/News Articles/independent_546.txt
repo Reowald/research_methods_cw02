@@ -1,0 +1,45 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The European Space Agency (Esa) has given the green light for the first mission to detect and study gravitational waves from space.
+
+Designed to detect the ripples caused by the collision of supermassive black holes, the Lisa (Laser Interferometer-Space Antenna) mission is the most expensive and complex Esa mission to-date.
+
+It will see three spacecraft trail Earth in its orbit around the Sun, forming a triangle in space.
+
+We hope to gain new insights into its origins and development – such as how the Big Bang came about Philippe Jetzer, University of Zurich
+
+Each side of the triangle will be 1.5 million miles (2.5 million km) long – more than six times the Earth-Moon distance, and the spacecraft will fire laser beams at each other over this distance in a bid to pick up gravitational waves.
+
+The launch of the three spacecraft is planned for 2035, on an Ariane 6 rocket.
+
+Philippe Jetzer, a professor of gravitation and astrophysics at the University of Zurich in Switzerland, said: “Lisa will provide us with a new view of the universe.
+
+“We hope to gain new insights into its origins and development – such as how the Big Bang came about.
+
+“Perhaps, we will also find out whether Einstein’s theory of relativity is valid across the board, or whether there are any deviations that would give us new insights into the fundamental laws of physics.”
+
+Lisa will detect, across the entire Universe, the ripples in spacetime caused when huge black holes at the centres of galaxies collide.
+
+This will enable scientists to trace the origin of these monstrous objects, and chart how they grow to be millions of times more massive than the Sun.
+
+The mission is poised to capture the predicted gravitational ringing from the initial moments of the universe and offer a direct glimpse into the very first seconds after the Big Bang.
+
+A gravitational wave is an invisible ripple in space that travels at the speed of light.
+
+These waves squeeze and stretch anything in their path as they pass by.
+
+In 2015, scientists detected gravitational waves for the very first time, using the Laser Interferometer Gravitational-Wave Observatory (LIGO) on Earth.
+
+Lisa project scientist Oliver Jennrich, said: “For centuries we have been studying our cosmos through capturing light.
+
+“Coupling this with the detection of gravitational waves is bringing a totally new dimension to our perception of the Universe.
+
+“If we imagine that, so far, with our astrophysics missions, we have been watching the cosmos like a silent movie, capturing the ripples of spacetime with Lisa will be a real game-changer, like when sound was added to motion pictures.”
+
+More than 120 research institutions across Europe and the United States are involved in the Lisa mission.
+
+The formal adoption of the mission recognises that the mission concept and technology are sufficiently advanced, and gives the go-ahead to build the instruments and spacecraft.
+
+This work will start in January 2025 once a European industrial contractor has been chosen.

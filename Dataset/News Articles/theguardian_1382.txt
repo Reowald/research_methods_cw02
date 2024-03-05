@@ -1,0 +1,49 @@
+A digital revolution centred on human experiences could provide teaching and administrative staff working in higher education with more of a valuable resource: time.
+
+This is one of the key findings from recent research by the professional services firm EY, based on focus group discussions among 116 teaching faculty and 147 professional staff, as well as interviews with 28 leaders from universities across the world to discover what they want from digital transformation.
+
+What the report reveals can help university leaders develop more effective and efficient operations that are built for the people who use them, improving job effectiveness, efficiency and satisfaction. By automating key processes, implementing joined-up systems that allow for better data sharing and analytics, and utilising new intelligent technology, universities can enhance the experience for their teaching and administrative colleagues.
+
+Freeing up time for university staff
+
+Sean Jackson, a managing director at EY US specialising in higher education, says technology can help to minimise and eliminate the “waste” in teachers’ and administrators’ workloads. He believes that “higher education is a system co-created by students and faculty members. Anything that gets in the way of that is subject to legitimate scrutiny,” he says.
+
+Digital tools can help reduce mundane and repetitive tasks, he argues, leaving more time and energy for teaching and other core elements.
+
+View image in fullscreen Sean Jackson, managing director at EY US
+
+“It’s important to look at what people really value and how technology can be leveraged to maximise that,” Jackson says. As one UK teaching faculty focus group participant asserted: “We are trying to give back time to pedagogy and teaching by making things quicker. It is now easier to design timetables and organise assessments.”
+
+That’s where a digital revolution comes in. Technology can help to eliminate waste, and free up time for staff in higher education to focus on tasks that will deliver more value. Crucially, technology must be built around their needs so they can deliver more efficiently and effectively for students and the university as a whole.
+
+Teaching faculty and administrators alike could utilise automated tools that can remove mundane or repetitive tasks such as answering routine student questions, collecting class feedback, and processing applications. Digital tools can also help to automate timetabling and scheduling, while marking tests could be reduced by using digital online assessment and grading tools.
+
+This is already a reality in some parts of the world. A faculty focus group participant from Singapore said: “Digitalisation has improved the day-to-day services we need to do and save us time – even though initially we might take time to familiarise ourselves with the system.”
+
+Overstretched administrative staff are still bogged down by low-value, manual tasks, such as processing applications or data entry – all of which can be automated. “It’s about increasing the amount of time staff can spend making a difference to the students versus satisfying the system,” says Paul LeBlanc, president of Southern New Hampshire University in the US.
+
+Looking ahead, embedded generative AI could soon further lift the administrative burden by creating progress reports, sending emails, and suggesting opportunities for automating other processes.
+
+The University of Virginia, also in the US, is one institution that has begun using technology to free up administrators’ time. EY helped the university to develop and deploy an AI-driven virtual HR assistant, CavBot, to provide new staff with a warm and personalised welcome. CavBot answers employee queries and helps new hires to complete onboarding tasks, including filling in forms and applying for security badges or parking permits.
+
+Improving the student experience
+
+EY research also highlighted staff’s hunger to generate insights that can improve learning experiences and student outcomes as well as support leadership decision-making. Digital processes generate a wealth of data that can be used to create dashboards, reports and trackers, but decentralised and siloed systems mean staff spend an inordinate amount of time looking for different data on different systems.
+
+Unifying disparate systems and creating greater cohesion between them enables greater exchange of data and helps intelligent tools to analyse data from different sources, flagging issues and even prompting actions based on insights. With the right systems in place, universities can harness data and analytics to gain more holistic insights into student and staff engagement and proactively offer interventions to improve their experience.
+
+For example, at the University of Canterbury, in New Zealand, data is collected on class attendance, assignment submissions and assessment completions. When problems with student engagement are detected, a text is sent automatically, meaning the issue is caught and corrected early and support provided if needed.
+
+Their colleagues from across the Australian and New Zealand higher education sector are excited by the opportunities data and automation present. In a focus group, they enthused that it could “be a huge help for teaching staff and students alike, providing better outcomes for students – and it’s also positive for staff who can dedicate more time to teaching and research”.
+
+View image in fullscreen While new digital workflows can empower staff, it’s important that they’re offered the necessary support to make the most of new technology. Photograph: sanjeri/Getty Images
+
+Empowering staff
+
+There are many potential benefits of a digital transformation. But teaching and non-teaching staff alike need support in using new tools and adapting to digital workflows. In some parts of the world, there is a systematic focus on upskilling staff: in Ireland, the technological university sector is investing heavily in digital transformation, including upskilling staff, developing digital skills training materials, creating a sustainable HE curriculum framework, and implementing shared assessment systems.
+
+Helping staff of all kinds to feel empowered will be crucial to the success of any digital transformation, and there are already institutions developing strategies to do this. Some universities have digital champions in each department who act as early adopters and work cross-departmentally to solve common issues. Others have incorporated digital learning into their performance and promotions processes, creating career incentives for those who embrace technology, or build digital skills programmes into their faculty onboarding processes. All of this should be underpinned by ensuring systems and tools are easy to use, and providing accessible, empathetic training and incentives.
+
+Overall, better use of technology can save teachers and administrators time and energy, rid them of repetitive tasks, and help them to focus more on students. “By using technology to help focus the time and attention of faculty and student on what matters most, we see the outlines of a compelling and exciting future begin to emerge,” says Jackson. And as EY’s report outlines, this future could transform the lives of teaching and administrative staff.
+
+To find out more about harnessing tech to transform higher education, read EY’s latest report into higher education

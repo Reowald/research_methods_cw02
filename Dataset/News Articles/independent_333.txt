@@ -1,0 +1,51 @@
+Sign up to Miguel Delaney’s Reading the Game newsletter sent straight to your inbox for free Sign up to Miguel’s Delaney’s free weekly newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Football email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Stay up to date with the latest football news with our Indy Football WhatsApp Channel.
+
+Run by our chief football writer Miguel Delaney, the Channel will include updates, discussion and dispatches straight to your phone – for free!
+
+Miguel will be posting his articles in the Channel first, so readers can expect to receive updates before anyone else.
+
+As well as football news, Miguel will also be sending exclusive insights into the world of football as he covers the Premier League, international games and the transfer window.
+
+How to join
+
+(Independent)
+
+To sign up to our free service all you need to do is follow the simple steps below:
+
+If you are reading on your mobile phone - in our app or in a web browser - you can sign up by pressing this invite link.
+
+- in our app or in a web browser - you can sign up by pressing this invite link. If you are reading on desktop you can use your phone to scan the QR code above. Once you’ve scanned the code, you’ll be taken to a page to join our channel.
+
+you can use your phone to scan the QR code above. Once you’ve scanned the code, you’ll be taken to a page to join our channel. Channels appear under ‘Updates’ tab. On an iPhone, that’s at bottom-left of the menu bar, while Android users will find it in the middle at the top of the screen.
+
+If you can’t find the tab on your device try updating the app. You will then need to close WhatsApp and then open it again.
+
+If you would to receive notifications from The Independent’s WhatsApp Channel you will need to unmute it by pressing the bell at the top of the Channel.
+
+You can also mute and unmute by toggling the button under ‘Channel information’. You can navigate here by pressing on The Independent’s name at the top of the Channel.
+
+Messages will only be sent byThe Independent and your information will be kept completely private - no one else will be able to see you are receiving our messages.
+
+Your WhatsApp number will remain completely private and will not be visible to Miguel or other readers in the Channel.
+
+You can leave the Channel at any time by navigating to ‘Channel information’ and pressing ‘unfollow’.
+
+Miguel said: “The channel is is the perfect way to stay up to date with what matters in the game.
+
+“I’ll be sending updates and discussion from big Premier League matches, as well as dispatches from the wider football world.
+
+“I’ll also be posting all of my articles there first, as well as news and little bits of football gossip. Think of it as curated social media, although without all the extra noise.”
+
+What are WhatsApp Channels?
+
+WhatsApp launched Channels in June 2023.
+
+The feature means that WhatsApp works more like a social network than a conversation, replicating some of the functions of a news feed like those on other Meta apps such as Instagram and Facebook.
+
+Channels means that users can follow people and organisations, who can then send out updates. WhatsApp described it as a “private broadcast service”: an account focused on travel updates might send a post to all of its followers informing them of delays, for instance.
+
+It is just the latest feature that expands the functions of WhatsApp beyond the conversations and group chats it is well known for. It follows the introduction of Communities, for instance, which means that an organisation like a school can gather together people and chats under one umbrella.

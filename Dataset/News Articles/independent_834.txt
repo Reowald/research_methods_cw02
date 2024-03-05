@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The millionth pure battery electric new car has been registered in the UK, industry figures show.
+
+This milestone was reached in January, the Society of Motor Manufacturers and Traders (SMMT) said.
+
+Only around 674,000 pure battery electric cars were licensed for use in the UK by the end of 2022.
+
+The SMMT expects pure battery electrics to account for more than one in five new cars registered this year.
+
+Ian Plummer, commercial director at online vehicle marketplace Auto Trader, said: “Britain’s millionth new electric vehicle sale is a real milestone moment for the market.
+
+“Considering the pressure on car manufacturers to meet a 22% electric vehicle sales target under the ZEV (zero-emission vehicles) mandate this year, it’s a good time to be an electric vehicle buyer with some manufacturers offering EV discounts as high as 40%.
+
+“Electric vehicles may account for one in five sales this year, but there is still more ministers can do.
+
+“Equalising the VAT on private and public charging points would boost running-cost savings and encourage more people to make the switch to electric.”
+
+The Government’s ZEV mandate means at least 22% of new cars sold by each manufacturer in the UK this year must be zero emission, which generally means battery electric vehicles.
+
+The threshold will rise annually until it reaches 100% by 2035.
+
+Preliminary SMMT figures show the total number of new cars registered last month was around 8% more than in January 2023.
+
+The Government announced on Monday that schools in England will be able to apply for grants to buy and install electric vehicle chargers.
+
+State-funded schools and other learning institutions will have access to a grant providing up to 75% of the cost to install chargers, with funding available for up to £2,500 per socket.
+
+The chargers would be available for staff and visitors, but Department for Transport officials said the scheme could also help schools generate revenue by making the power outlets accessible to the public.

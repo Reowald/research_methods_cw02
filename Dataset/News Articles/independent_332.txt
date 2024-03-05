@@ -1,0 +1,29 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Former captain Michael Vaughan condemned England’s performance in the third Test against India, declaring that the visitors’ aggressive approach had been “exposed” after they fell to a 434-run defeat in Rajkot.
+
+Chasing an improbable 557 to win the third Test, Ben Stokes’s side capitulated in the fourth innings and were bowled out for only 122, falling to their largest defeat in terms of runs since 1934.
+
+A slew of poor shots gifted the hosts victory late on day four after Yashasvi Jaiswal had notched up his second double-hundred of the series which saw the hosts declare on 430 to set England’s world-record chase.
+
+England’s fearless “Bazball” approach under captain Stokes and head coach Brendan McCullum saw them claim a dramatic win in the first Test of the series, but has now come under fire, with defeat in Rajkot meaning they now trail 2-1 in the five-match series.
+
+“I am afraid Bazball has been exposed this week,” Vaughan said, speaking on BBC’s Test Match Special.
+
+“It’s great when it works. The first Test was a pitch that did all sorts so I get Bazball on that pitch but not the last two where the pitches have been absolutely fine to just play with positive intent but more so common sense. This is a wake-up call that surely sends a message [that] you can’t just play one way against quality teams.”
+
+Stokes, meanwhile, defended his team’s gameplan and said they won’t be letting outside voices deter them from their approach. “We wanted to push the game on as much as we could. Sometimes gameplans don’t work out and that is sport sometimes,” he said speaking after the defeat.
+
+Joe Root reacts after been given out lbw to Ravindra Jadeja (Getty)
+
+“Everyone has got a perception and opinion [of our style]. The people in the dressing room are the opinions that really matter to us. Sometimes things don’t work out how we want them to. [We are] 2-1 down and two games left. We have a great opportunity for 3-2. We leave this game behind us and know we have to win the next two games to win the series.”
+
+England have historically struggled when travelling to India, losing their last two series by a combined score of 7-1, and former England captain Sir Alastair Cook believes the side have still outperformed pre-series expectations despite their collapse in the third Test.
+
+“Against the odds in this series, England have overperformed, I believe, with the side they have got and they’ve competed very well,” he said on TNT Sports.
+
+“Obviously in the last two days here, India have shown the power and a few things that were worried about for England before the series – their spinners not being as effective and struggling with the power of this Indian batting lineup. But in a week’s time, if England win the toss and bat on a flat pitch and do well then things can change very quickly.”
+
+Both sides now have a few days off before the fourth Test in Ranchi which begins on Friday.

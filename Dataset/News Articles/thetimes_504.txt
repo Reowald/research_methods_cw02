@@ -1,0 +1,9 @@
+In a laboratory in central London, I’ve been asked to play a simple video game. Each time a red robot appears on a screen, I have to instruct a robotic arm to pick it up. But this won’t involve pressing a button or waggling a joystick.
+
+Instead, I merely think about making a fist. My hand does not move, but the robot arm on the screen does. A machine is decoding my thoughts and then translating them into action.
+
+Sponsored
+
+“Not long ago, we thought this would be impossible,” said Allan Ponniah, a consultant at the Royal Free NHS Foundation Trust and one of the founders of Cogitat, the company behind the system.
+
+Buoyed by a surge of technical progress, he now believes that this kind

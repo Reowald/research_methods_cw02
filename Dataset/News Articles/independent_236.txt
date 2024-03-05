@@ -1,0 +1,19 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Shoppers showed the high street some love as they celebrated Valentine’s Day this week, despite the cost-of-living squeeze, according to data from Barclays.
+
+Transactions at florists were up by 10.4% annually on February 13, the day before Valentine’s Day, Barclays said.
+
+Restaurant transactions on Valentine’s Day itself were up by 4.5%.
+
+The figures were based on transactions made at businesses which accept payments using Barclays technology.
+
+It's encouraging to see that people were still willing to splash out at florists and restaurants, providing a welcome a boost on one of their most important days in the retail calendar Karen Johnson, Barclays
+
+As well as a growth in spending on dining out, there were also signs that cost-conscious couples took advantage of supermarkets’ “dine in” offers.
+
+Transactions at supermarkets – many of which were promoting dine-in-for-two deals – jumped 5.1% annually on February 14.
+
+Karen Johnson, head of retail at Barclays, said: “While supermarkets benefited from couples making savvy swaps for traditional purchases such as flowers, chocolates and romantic meals this Valentine’s Day, it’s encouraging to see that people were still willing to splash out at florists and restaurants, providing a welcome boost on one of their most important days in the retail calendar.”

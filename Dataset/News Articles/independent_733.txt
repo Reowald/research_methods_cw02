@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mercedes have announced the signing of French driver Doriane Pin to represent them in F1 Academy this year.
+
+The all-female racing series, which launched last year under the stewardship of Susie Wolff, is designed to increase opportunities to race and move up the motorsport ladder for female talents.
+
+But new this year is the involvement of all 10 F1 teams, who will have at least one driver racing under their livery in the 15-driver competition.
+
+Highly-rated 20-year-old driver Pin will race under the Silver Arrows livery, with the support of Prema Racing and the female-only racing team Iron Dames, in this season’s F1 Academy.
+
+She won the 2019 French karting championship and the 2022 Ferrari European Challenge event, winning nine out of 14 races. Pin also claimed victory at the 24 Hours of Spa event at the legendary Spa-Francorchamps track.
+
+“I am incredibly happy to join the Mercedes-AMG F1 Team Junior Programme and to represent the team in F1 Academy this year with Prema Racing,” said Pin. “A new chapter begins, and I am proud to make this next step in such a prestigious team and with the Iron Dames project.
+
+“I am grateful for their trust and honoured to race for their colours. Moving into single-seaters was a clear objective for my career, and to be in this environment is a great approach. I am working very hard to reach the top level of this sport and I cannot wait to go racing.”
+
+French driver Doriane Pin will race for Mercedes in F1 Academy this year (Getty Images)
+
+Mercedes boss Toto Wolff added: “Doriane is an exciting talent and we’re pleased to begin our participation in F1 Academy with her as our chosen driver. We have kept a close eye on her development in recent years as she has consistently impressed.
+
+“The fantastic support of Deborah Mayer and the Iron Dames organisation has enabled her to display her abilities to this point; she has taken full advantage of that opportunity with determination and skill.
+
+“We now look forward to working in conjunction with Iron Dames, Prema Racing, and F1 Academy, to support Doriane as she takes the next step in her career.”
+
+The F1 Academy season starts at the Saudi Arabian Grand Prix in Jeddah on the 7-9 March.

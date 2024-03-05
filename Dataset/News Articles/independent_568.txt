@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Sun is approahing the peak of its activity in the current 11-year solar cycle, according to a new study that may help predict when space weather disturbances could be most frequent in 2024.
+
+Scientists say the Sun goes through a cycle about every 11 years where the number of sunspots and the intensity of solar activity reach a peak, bringing the highest likelihood of violent perturbations in space weather impacting Earth.
+
+Solar storms can cause serious damage to satellites in orbit, electric power grids, and telecommunications systems, leading to outages of various kinds on Earth.
+
+However, predicting exactly when this 11-year cycle’s peak will occur has remained a challenge.
+
+Now, researchers from the Indian Institutes of Science Education and Research (IISER) Kolkata have uncovered a new link between the Sun’s magnetic field and its sunspot cycle, which helps predict when the Sun will reach its maximum activity in the current solar cycle 25.
+
+The peak of the current cycle is most likely to occur in early 2024 with an uncertainty ranging to September 2024, according to the new study, published recently in the journal Monthly Notices of the Royal Astronomical Society: Letters.
+
+Aditya-L1 success is very satisfying: ISRO Chief S Somanath
+
+The Sun is made up of hot ionised gas called plasma whose flows and convections form magnetic fields inside the Sun, including areas of intense magnetism manifesting as dark sunspots.
+
+In some instances when the magnetic fields on the sunspots are disrupted, they can result in the release of solar magnetic storms such as flares or coronal mass ejections (CMEs) containing intense radiation and vast quantities of plasma that are flung across space. Such CMEs can cause a range of disruptions to humanity’s electronic system when they are directed at Earth.
+
+Previous research has also shown that the almost 11-year solar cycle is produced by a dynamo mechanism driven by energy from plasma flows inside the Sun.
+
+The dynamo mechanism involves the cycle of formation of sunspots and the recycling of north and south dipole magnetic fields in the Sun.
+
+This dipole field is also observed to wax and wane in strength with the north and south magnetic poles swapping places – also happening about every 11 years.
+
+For decades, scientists have known that the faster the rate of rise of a sunspot cycle, the stronger its strength, implying that stronger cycles take less time to rise to their peak intensity.
+
+Researchers have used this relationship to forecast the strength of a sunspot cycle based on observations of its early rising phase.
+
+Now, researchers have found that observations of the rate of decrease of the Sun’s dipole magnetic field can be combined with sunspot observations to predict when the ongoing cycle would peak.
+
+The latest findings suggest the maximum of solar cycle 25 is most likely to occur in early 2024 with an uncertainty in the estimate that ranges to September 2024.
+
+Researchers say this can help predict when the Sun’s activity will be most intense this year – a time window during which the most frequent space weather disturbances can be expected.

@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A private spacecraft attempting to carry out the first US landing on the moon since Apollo has probably failed, its engineers have said.
+
+Peregrine Mission One blasted off from Cape Canaveral in Florida as planned on Monday morning. But roughly seven hours into its journey, it was hit with a run of technical problems that have left the mission seemingly doomed.
+
+Astrobotic, the company behind the launch, said the spacecraft had failed to point properly towards the sun. That meant that its batteries were not charging and the mission looked likely to be in peril.
+
+Engineers managed to improvise a series of commands that were sent to the spacecraft, and it eventually pointed its solar panels towards the sun as it should. Astrobotic said the batteries were successfully charging.
+
+Peregrine Mission One is carrying a host of science projects and instruments developed by scientists around the world (PA)
+
+However, it later said that a propulsion system failure meant that the spacecraft was undergoing a “critical loss of propellant”. While its engineers were “working to try and stabilise this loss”, Astrobotic suggested that the mission had probably failed.
+
+“Given the situation, we have prioritised maximising the science and data we can capture,” the company said. “We are currently assessing what alternative mission profiles may be feasible at this time.”
+
+Peregrine Mission One is carrying a host of science projects and instruments developed by scientists from around the world. They had aimed to better understand the moon, including the availability of resources – information that could be key to a plan to establish a base on its surface as part of Nasa’s Artemis programme.
+
+Nasa hopes to send humans back to the lunar surface next year. Eventually, it hopes to build a base there, with a view to launching journeys onward to Mars.
+
+The Peregrine mission is also carrying other cargo, including human remains and the DNA of former presidents including John F Kennedy. The plan to drop the remains onto the moon’s surface prompted some criticism from the Navajo Nation, whose president said that doing so would amount to the “desecration of this sacred space”.
+
+If it had been successful, Peregrine Mission One would have been the first commercial American spacecraft in history to achieve a soft landing on the moon, and the first US spacecraft to land on the lunar surface since the Apollo missions around 50 years ago. Only four countries have ever accomplished this feat.
+
+Astrobotic’s Peregrine lander as imagined after its landing on the moon (Astrobotic)
+
+A second lander from a company in Houston, Texas, is due to launch next month.
+
+Nasa gave the two companies millions to build and fly their own lunar landers. The space agency wants the privately owned landers to scope out the moon before astronauts arrive, while delivering tech and science experiments for Nasa as well as for other countries and universities.
+
+The last time the US launched a moon-landing mission was in December 1972. Apollo 17’s Gene Cernan and Harrison Schmitt became the 11th and 12th men to walk on the moon, ending an era that has remained Nasa’s pinnacle.
+
+The space agency’s new Artemis programme, named after the twin sister of Apollo in Greek mythology, looks to return astronauts to the moon’s surface within the next few years. First will come a lunar fly-around with four astronauts, possibly before the end of the year.
+
+Additional reporting by Associated Press

@@ -1,0 +1,57 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Sony has revealed a new range of gaming accessories designed for e-sports players and professional gamers. Called Inzone, the line-up will launch with three gaming headsets, the Inzone H9, H7 and H3.
+
+The new Inzone brand will also get two gaming monitors, the Inzone M9 and M3, which will launch in summer and winter.
+
+Unlike the PlayStation-branded Pulse headset, the Inzone displays and headphones are the product of Sony’s electronics division and have more in common with the brand’s wireless WH-1000XM5 headphones than they do with any existing gaming accessories.
+
+That means they’re designed for use with more than just the PlayStation. The Inzone H-series is pitched at e-sports players and professional gamers across all platforms, and can be connected to a PC, laptop or an Xbox.
+
+The 144Hz and 240Hz monitors are similarly platform-agnostic, but are designed to pair well the PlayStation 5. When connected to the console, both benefit from automatic HDR adjustments to ensure the best possible picture quality.
+
+Sony Inzone H9 gaming headset: £269, Sony.co.uk
+
+(Sony)
+
+The Inzone H9 is the leading model in the H-series. The cleanly designed headset features active noise cancellation, lighting and a 32 hour battery life, and sports synthetic leather earcups. The Inzone H7 uses the same smooth nylon earcups found in the WH-1000XM5 and has a longer battery life at 40 hours. The Inzone H3 is the cheapest model in the range and uses a wired connection.
+
+All three headsets will be available in white and are equipped with a flexible, flip-up boom microphone with mute function for team chat. Features usually found in Sony’s class-leading wireless headphones make an appearance here too, such as 360 spatial surround sound, and the option to custom-tune game audio by using your phone’s camera to scan your ear.
+
+Buy now
+
+Sony Inzone M9 gaming monitor: £999, Sony.co.uk
+
+(Sony)
+
+The two Inzone-branded gaming displays are 27in screens with 1ms response times and automatic HDR tone mapping when connected to the PlayStation 5. That allows the console to effectively tell the monitor which settings it should be using at any given moment, depending on whether you’re playing a game or watching a movie.
+
+Gaming assist features such as an on-display crosshair and FPS counter are designed to appeal to serious e-sports players, though overall the specs and price of the Inzone M9 and M3 displays should entice a few casual gamers too. The Inzone M9 has a zippy 144Hz refresh rate and native 4K resolution. The Inzone M3 is a 1080p display running at 240Hz and is planned for a launch later in 2022.
+
+Both monitors use a curiously shaped, tripod-esque stand, which Sony says allows for more desktop space around the base of the monitor. We haven’t seen the Inzone M9 and M3 in person yet, but in the images it looks like something that belongs on a spaceship.
+
+We’ll bring you our hands-on review as soon as we can.
+
+Buy now
+
+Inzone gaming headsets price and release date
+
+Inzone H9 (£269, Sony.co.uk)
+
+Inzone H7 (£199, Sony.co.uk)
+
+Inzone H3 (£89, Sony.co.uk)
+
+Inzone gaming monitors price and release date
+
+The Inzone M9 gaming monitor (£999, Sony.co.uk) launches in summer 2022.
+
+The Inzone M3 gaming monitor (Sony.co.uk) launches in winter. The price is yet to be confirmed.
+
+Voucher codes
+
+If you’re looking for discounts on technology or videogames then try one of these codes:
+
+Looking to get your hands on a new Nintendo console? These are the best deals on the Switch this month

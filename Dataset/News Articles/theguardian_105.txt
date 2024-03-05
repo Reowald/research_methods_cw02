@@ -1,0 +1,25 @@
+I’ve temporarily moved to Berkeley, California, where I am the “science communicator in residence” at the Simons Institute, the world’s leading institute for collaborative research in theoretical computer science.
+
+One nano-collaboration is today’s puzzle – told to me by a computer scientist at Microsoft I befriended over tea. It’s about data centres – those warehouses containing endless rows of computers that store all our data.
+
+One problem faced by data centres is the unreliability of physical machines. Hard drives fail all the time, and when they do, all their data may be lost. How do companies like Microsoft make sure that they can recover the data from failed hard drives? The solution to the puzzle below is, in essence, the answer to this question.
+
+An obvious strategy that a data centre could use to protect its machines from random failures is for every machine to have a duplicate. In this case, if a hard drive fails, you recover the data from the duplicate. This strategy, however, is not used because it is very inefficient. If you have 100 machines, you would need another 100 duplicates. There are better ways, as you will hopefully deduce!
+
+The disappearing boxes
+
+You have 100 boxes. Each box contains a single number in it, and no two boxes have the same number.
+
+1. You are told that one of the boxes at random will be removed. But before it is removed you are given an extra box, and allowed to put a single number in it. What number do you put in the extra box that guarantees you will be able to recover the number of whichever box is removed?
+
+2. You are told that two of the boxes at random will be removed. But before it is removed you are given two extra boxes, and allowed to put one number in each of them. What (different) numbers do you put in these two boxes that guarantees you will be able to recover the numbers of both removed boxes?
+
+I’ll be back with the answers at 5pm UK. Meanwhile, NO SPOILERS, please discuss your favourite hard drives.
+
+The analogy here is that each box is a hard drive, the number in the box is the data, and the removal of a box is the failure of the hard drive. With one extra hard drive, we are secure against the random failure of a single hard drive, and with two, we are secure against the failure of two. It seems magical that we can protect such a lot of information against random failures with minimal back-up.
+
+The field of “error-correcting codes” is a large body of beautiful theories that provide answers to questions such as how to minimise the number of machines needed to protect against random failures of hard drives. And the theories work! Data centres never lose your data because of mechanical failure.
+
+My tea companion was Sivakanth Gopi, a Principal Researcher at Microsoft. He said: “The magic of error correcting codes allows us to build reliable systems using noisy and faulty components. Thanks to them, we can communicate with someone as far away as the ends of our solar system and store billions of terabytes of data safely in the cloud. We can forget about the noise and complexity of this world and instead enjoy its beauty.”
+
+I’ve been setting a puzzle here on alternate Mondays since 2015. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.

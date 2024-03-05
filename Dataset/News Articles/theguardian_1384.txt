@@ -1,0 +1,39 @@
+Covid helped speed up a digital revolution in higher education that had previously been forecast to occur around 2030. A decade’s worth of change was ushered in practically overnight. Though the speed of this transition is admirable, given its necessity, there is still much to be done to make sure technology works for the people who navigate universities every day – students, teachers, researchers and administrative staff. This is what my colleagues and I at EY set out to investigate through our report into what each of these stakeholder groups need from technology in order to thrive.
+
+The report – informed by surveys of more than 3,000 part-time and full-time students, interviews with leaders at 28 universities, and online focus groups with more than 250 teaching and professional staff around the world – brings many issues into focus. Perhaps the most critical of these is the need for universities to place the people they serve at the heart of technological efforts. That is, to put humans at the centre.
+
+View image in fullscreen Catherine Friday, global education leader at EY. Photograph: Jessica Hromas
+
+It’s important to note that technology can be both the barrier and the solution, as we learned in our research. It hinges on what – or who – we design technology for and implementing it in a way that makes sense to them. Covid has brought much of this into focus, putting into clear view the shortfalls of the current system and highlighting the need for change.
+
+There is no one-size-fits-all solution, however. Each key stakeholder group in the university system has its own priorities, pressures and preferences. So we endeavoured to discover the nuances of each, and to begin to shed light on what the humans that make universities function really need from technology. As the insights highlight, there is real potential to rethink how technology serves higher education.
+
+Enhancing students’ learning
+
+Overwhelmingly, students want to learn “anywhere, any time”, but they also want to learn in ways that suit their individual needs. Sixty percent of the students we surveyed are juggling work or family commitments, and increasingly students need to learn at times that suit them. What’s more, 17% of students report having a disability, which may require an adapted approach. For many reasons, the one-to-many traditional model of university teaching is not the best approach for every student. All of this means that flexibility and the provision of asynchronous, self-paced digital learning, as well as in-person classroom time, where ideas can be unpacked and brought to life, are essential priorities when discussing a higher education digital revolution.
+
+Students have more choice than ever, and an institution’s reputation is no longer the chief deciding factor in whether someone applies there: only 29% of our surveyed students said this was the top reason for choosing a university or course, what mattered more was how a course could help them improve their career prospects. Many universities are already paying close attention to industry, offering sandwich years or short-term placements. New digital tools could take this one step further. Coupled with advanced analytics and cognitive systems, education providers could collect in-depth knowledge on students’ behaviours, interests and capabilities alongside industry data on job opportunities to provide more personalised advice around suitable career paths and offer tailored course content to help students become more attractive to future employers.
+
+View image in fullscreen AI can save teachers time on creating learning materials, freeing them up to concentrate on hands-on teaching. Photograph: Maskot/Getty Images
+
+Giving teachers more time and resources
+
+Teachers told us they want technology to help them deliver better learning experiences as well as reduce time spent on admin tasks. They want technology to be a timesaver rather than a time drain. Using asynchronous digital learning frees teachers from the burden of preparing and delivering in-person lectures on repeat. While AI, for example, can help to create digital content by ingesting analogue materials and turning them into sequenced learning content: videos, games, text, graphs and audio material, for instance. For teachers, this could save months of work, freeing them up to engage more meaningfully in analysis, and supporting hands-on teaching and learning experiences in the classroom.
+
+Helping researchers focus on their research
+
+Research that furthers society’s goals is central to any university’s mission, and still heavily informs rankings. But to continue leading-edge work, researchers want to be equipped with the tools to conduct their research, and to collaborate within and outside of the university to enhance the promotion of their work, and to free them from the burden of administrative tasks that do not utilise their expertise. Thankfully, much of research administration is ripe for digital transformation – grant applications, risk assessments, audits and publications, for example.
+
+Where digital is working well for researchers, people in disparate parts of the world can come together to make groundbreaking discoveries, sharing data, communicating and tracking results seamlessly in service of a common goal. But researchers also want to leverage digital to promote their discoveries, whether that’s to the wider academic community, the general public, or industry. Creating easily searchable, centralised research repositories is just one way to simplify research dissemination.
+
+Making administrative staff more effective
+
+Administrative and professional staff work tirelessly to ensure students and teachers can access support, information, careers advice and other resources. A digital revolution in higher education must take their experiences into account – not just to improve the student experience, but to also provide the administrators themselves with empowerment, support and a more fulfilling working life.
+
+Too often, however, data that staff need to do their work exists across multiple siloed systems that cannot be easily linked. And moving data from one system to another – as is often required – is time consuming and prone to errors. This makes it very difficult to provide joined-up services or to generate insights for better decision-making. There is a huge opportunity to improve systems and tools to help administrators become more efficient and effective and achieve a better experience for all.
+
+Our report makes for exciting reading: a human-centric digital revolution is within reach, and, as you will discover, in some institutions it is already under way. We are yet to fully reckon with the potential for tech in higher education – but however we design it, the future must come with a human focus.
+
+Catherine Friday, global education lead at EY, was speaking to Jess Kirkness
+
+To find out more about harnessing tech to transform learning, read EY’s latest report into higher education

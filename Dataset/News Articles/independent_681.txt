@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lewis Hamilton admits the past few weeks have been “emotional” and “surreal” as the Mercedes driver appeared in public for the first time since his 2025 move to Ferrari was announced.
+
+Seven-time F1 world champion Hamilton, who has endured two winless years, is about to embark on his 12th and final season with Mercedes following the news that he will join the Scuderia next year.
+
+Hamilton, who has won six of his seven titles with Mercedes, was present at the launch of the Silver Arrows’ 2024 F1 car – the W15 – at Silverstone on Wednesday morning and emphasised his “excitement” on the eve of another Formula One season.
+
+“It’s obviously been emotional, it’s very surreal to be here,” said Hamilton, when asked about the last few weeks.
+
+“I came here in 2013, 11 years with the team, [now] starting my 12th. It is such a privilege to work with a group of people where you see the work they’re doing over the winter. You see a car coming together at the beginning of the year, this is the most exciting part of the season really.
+
+“You’re seeing everyone’s launches, this is the first time I’ve seen the car come together as a whole. To know everything underneath the hood, which people won’t get to see, but George [Russell, his teammate] and I will be able to experience on the track. It’s exciting.”
+
+Mercedes unveiled the W15, which features the predominant black livery of last year but with their traditional silver colour incorporated within the design, via a live stream on YouTube. Mercedes boss Toto Wolff insisted the car is a “complete relaunch”, after two years of disappointment and Red Bull domination.
+
+Hamilton and Russell drove the W15 for the first time during a shakedown event in the wet at Silverstone on Wednesday afternoon. Pre-season testing starts in Bahrain in one week.
+
+“The focus through winter training is first [place],” Hamilton added.
+
+“It’s getting the team back to where we once were. We’ve had a difficult couple of years which has grounded us.
+
+Lewis Hamilton spoke at the launch of Mercedes’ W15 car at Silverstone (YouTube - Mercedes-AMG Petronas Formula One Team)
+
+Mercedes launched their 2024 F1 car - the W15 - on Wednesday (Mercedes-Benz AG)
+
+“It’s [about] being diligent with our work, understanding our data and practice. Even one lap in the rain today might give George and I a bit of a feeling of what’s to come.
+
+“I’ve always loved working with the team, particularly when there’s so many people, it’s a huge human element. Without those people working so incredibly hard, we wouldn’t get to where we want to be. It’s great when we have a common goal - and we focus on that the whole year. It’s a real privilege.”
+
+Mercedes team principal Wolff added: “It’s been a very busy winter. Obviously, it’s going to be our last season with Lewis.
+
+“We are keen on bringing a really quick car and then in the factory, hard at work to deliver the product – and today we’ll see how it goes.”
+
+McLaren also launched their 2024 car, the MCL38, on Wednesday, with Lando Norris’s team targeting race wins in 2024.
+
+The first race of the season is in Bahrain on 2 March.

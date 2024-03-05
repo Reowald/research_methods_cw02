@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have found a nearly invisible galaxy that challenges our understanding of the universe.
+
+The set of stars is so dim astronomers had missed it in previous looks at the same part of space. But the almost undetectable galaxy has now been spotted by scientists who cannot explain how it got there.
+
+“With our present knowledge we do not understand how a galaxy with such extreme characteristics can exist” said Mireia Montes, the author of a new study reporting the find.
+
+The galaxy is both incredibly dim – ten times more faint than other objects of its type – but also stretches out over ten times the space compared to galaxies with the same amount of stars.
+
+It takes its “Nube” name from the Spanish for cloud, and was named by the child of one of the astronomers who discovered it, in recognition of its huge but thinly spread composition.
+
+It was found when Ignacio Trujillo, one of the other authors on the paper, who has been using images from the Sloan Digital Sky Survey to examine a specific part of the sky. On one of those examinations, a faint patch of light appeared that intrigued the scientists involved.
+
+Scientists then used other images to confirm that the patch of light was not an error but a real object in space.
+
+Even still, much about the object remains unknown. It is so faint that it is hard to know how far away it is, for example, though scientists believe it is roughly 300 million light years from us.
+
+As well as being mysterious, the Nube galaxy is already challenging our understanding of the cosmos. Usually, galaxies tend to have more density of stars in their inner regions, falling away quickly the further away from the middle – but the newly discovered galaxy does not show that effect, and it is much more constant throughout.
+
+That does not fit with out existing understanding of cosmology, and simulations are not able to reduce the extreme characteristics. We are left without a viable explanation within the currently accepted cosmological model, that of cold dark matter” said Montes.

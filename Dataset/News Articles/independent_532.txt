@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Saturn’s Moon Mimas, known as the “Death Star”, has revealed a new secret.
+
+A “remarkably young” ocean appears to be hiding under the icy, cratered surface of the world that led to it being named after the similar-looking, dreaded spacecraft in Star Wars, scientists say.
+
+And that finding suggests that it is a “prime candidate” for finding the origins of life, according to the researchers who found it. Experts think that life on Earth started in similar primordial seas billions of years ago.
+
+Astronomers believe liquid water formed on Mimas - the planet’s smallest and innermost moon - somewhere between five to 15 million years ago, making it much younger than Earth’s oceans which are thought to be more than four billion years old.
+
+Mimas is often compared to the Death Star from the Star Wars franchise because of its large Herschel Crater, which resembles the hollowed-out shape of the fictional space station’s laser weapon.
+
+But with no signs of any activity, this small moon - around 400 kilometres in diameter - would have been the last place to find a global ocean beneath its surface.
+
+However, the researchers said that contrary to all expectations, Mimas appears to have an ocean just 20 to 30km below its icy outer shell.
+
+It joins a family of satellites believed to have oceans beneath their surfaces: Jupiter’s Europa and Ganymede, and Saturn‘s Titan and Enceladus.
+
+Dr Nick Cooper, honorary research fellow at Queen Mary University of London, said: “Mimas is a small moon, only about 400 kilometres in diameter, and its heavily cratered surface gave no hint of the hidden ocean beneath.
+
+“This discovery adds Mimas to an exclusive club of moons with internal oceans, including Enceladus and Europa, but with a unique difference: its ocean is remarkably young, estimated to be only five to 15 million years old.”
+
+He added: “The existence of a recently formed liquid water ocean makes Mimas a prime candidate for study, for researchers investigating the origin of life.”
+
+For the study, published in the journal Nature, a team led by Dr Valery Lainey of the Paris Observatory in France, analysed data from Nasa’s Cassini spacecraft.
+
+Cassini studied Saturn and its moons for more than a decade before crashing into the planet in 2017.
+
+By closely examining the subtle changes in Mimas’s orbit, the researchers said they were able to infer the presence of a hidden ocean and estimate its size and depth.
+
+The researchers said these findings have also allowed them to rule out the possibility of a rocky core inside Mimas, saying the existence of global internal oceans “is the only scenario compatible with observations”.
+
+The team said their discovery suggests that even small and seemingly inactive moons can harbour hidden oceans capable of supporting conditions essential to the formation of life.
+
+Writing in Nature’s News and Views, Matija Cuk of the SETI Institute in California, and Alyssa Rose Rhoden, of the Southwest Research Institute in Boulder, US, said: “The idea that relatively small, icy moons can harbour young oceans is inspiring, as is the possibility that transformational processes have occurred even in the most recent history of these moons.
+
+“Lainey and colleagues’ findings will motivate a thorough examination of midsized icy moons throughout the Solar System.”
+
+Additional reporting by agencies

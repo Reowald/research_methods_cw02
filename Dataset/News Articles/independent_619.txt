@@ -1,0 +1,61 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The long-awaited sequel to Remedy’s Stephen King and Twin Peaks-inspired cult gem is now out.
+
+Released in 2010, Alan Wake featured a titular troubled, self-narrating thriller writer arriving in a sleepy, picturesque town called Bright Falls with his wife as he tried to enjoy a vacation while his wife hoped he overcame writer’s block and started to enjoy writing again. Things quickly went south as he discovered a manuscript he hadn’t written yet and the events in the story start to come true – including the disappearance of his wife.
+
+For Alan Wake 2, a new protagonist joins the adventure. FBI agent Saga Anderson arrives in Bright Falls and the surrounding area to investigate the strange, other-worldly goings on.
+
+When is Alan Wake 2 out?
+
+The game arrived on October 27th for Playstation 5, Xbox Series X/S and PC via the Epic Games store.
+
+It will cost around £50-£60 or $60-$70.
+
+Alan Wake 2 - The Dark Place Gameplay Trailer | PS5 Games
+
+What is Alan Wake 2 about?
+
+Alan Wake 2 takes place 13 years after the original game. Wake himself remains trapped inside The Dark Place – a sort of upside-down mirror of the real world. He is trying to write himself out of this alternate reality but it’s not been going well.
+
+There will be a second playable character this time out too in the form of the previously mentioned Saga Anderson. The FBI agent has been tasked with visiting the real-world town of Bright Falls (from the previous game) where a slew of cult-like and ritualistic murders are taking place. From what we’ve seen of the trailers this plays out something like a cross between the Resident Evil remastered games with a True Detective-esque narrative.
+
+Saga Anderson in Alan Wake 2 (Remedy Games)
+
+What is the Remedy Connected Universe?
+
+It is the in-game universe that exists between three of Remedy’s games - Alan Wake, Control and now Alan Wake 2. It is not necessary to play those previous titles to understand what is happening, Remedy have said but if you want to, this is how:
+
+Alan Wake was remastered in 2021 and is available on all current generation consoles.
+
+Control was released in 2019 on Xbox One, PS4 and PC and got Xbox Series X/S upgrades in 2021. It is often considered the best game of 2019.
+
+Is Alan Wake 2 on PC?
+
+Yes ir will be via the Epic Games store. PC gamers should be aware though, the game requires some mammoth specs for it to run at optimal levels. Per Kotaku, Alan Wake 2 is going to sit at the higher range of graphic demands currently, but it may soon be the norm.
+
+The game’s minimum specs are as follows:
+
+Graphics: Low
+
+Resolution: 1080p
+
+FPS: 30
+
+GPU: Nvidia RTX 2060/Radeon RX 6600 (6GB VRAM)
+
+DLSS/FSR2: Quality
+
+CPU: Intel i5-7600K or AMD equivalent
+
+RAM: 16GB
+
+Storage: 90 GB SSD
+
+How to buy Alan Wake 2
+
+Alan Wake 2 can be bought on the Microsoft and PlayStation stores and the Epic Games store for PC.
+
+If you preordered it, it came with these bonuses:

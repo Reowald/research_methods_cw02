@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Former Alpine sporting director Alan Permane is reportedly set to join AlphaTauri ahead of the new F1 season.
+
+The 56-year-old engineer left Alpine last summer amid a shake-up of personnel, despite 34 years’ worth of experience at the team rebranded throughout the years as Benetton, Renault and Lotus.
+
+His track record, which include world championships with Michael Schumacher and Fernando Alonso, meant Permane was always likely to be in-demand once his contract formally ran out.
+
+AlphaTauri, the Red Bull junior team who finished eighth in the constructors’ championship last year, lost long-term boss Franz Tost at the end of last season and, according to Motorsport.com, have moved to secure Permane’s services for 2024.
+
+Permane would work under new AlphaTauri team principal Laurent Mekies, formerly of Ferrari, and alongside the driver pairing of Daniel Ricciardo and Yuki Tsunoda.
+
+Christian Horner, who is embarking on his 20th season as Red Bull team principal this year, was full of praise for Permane when he departed Alpine last July.
+
+“Alan Permane is one of the rocks of F1,” he said. “He is one of the longest standing senior engineers in the sport, and certainly someone with a lot of knowledge.
+
+Alan Permane is set to join AlphaTauri (Getty Images)
+
+“I don’t know about the ins and outs of the management reshuffle there, but there is a lot of very respectable people in there. And definitely, you shouldn’t discount anyone of that seniority.
+
+“Whilst I’ve never worked with Alan Permane, I think sometimes there has to be respect shown for somebody that’s put in 34 years of hard graft and been involved in world championships with Michael Schumacher and Fernando Alonso.
+
+“He has also been a steady hand during periods of that team going into administration, and out of administration, and into different ownership and so on.
+
+“He’s very much been a constant there during that period. I think that earns respect and recognition, and I’m sure he’s a guy, like with Otmar, that won’t find themselves out of work. It won’t be the last you’ve seen of them in the pitlane, no doubt about that.”
+
+The 2024 F1 season starts on Saturday 2 March with the Bahrain Grand Prix.

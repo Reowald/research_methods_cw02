@@ -1,0 +1,89 @@
+Microsoft’s latest Windows 11 tablet gets faster and easier to fix in the Surface Pro 9, while offering more options than ever before. But is it still the best PC tablet going? Only if you pick the right one.
+
+Microsoft has brought its two high-end tablet lines under one model name. The standard Surface Pro 9 costs from £1,099 ($999.99/A$1,649) without a keyboard and continues where the Surface Pro 8 left off in 2021, fitted with new faster 12th-generation Intel Core i5 and i7 chips and an improved internal design.
+
+But it is joined under the same banner by the £1,299 ($1,299.99/A$2,599) Surface Pro 9 5G, which is the continuation of Microsoft’s Surface Pro X line using ARM-based chips similar to those in your smartphone. It is a very different proposition with some serious trade-offs.
+
+View image in fullscreen The Surface Pro 9 with Intel chip in blue (top) and the Surface Pro 9 5G in silver (bottom) with bands on its top edge for the mobile data antennas. Photograph: Samuel Gibbs/The Guardian
+
+The latest Surface Pro 9 machines are 12g lighter to last year’s models but otherwise look almost identical to their predecessors. They are modern, well made and come in a range of nice colours, with Microsoft’s excellent kickstand out the back for propping the tablet up at a wide range of angles.
+
+The good 13in display is slightly brighter than last year and can dynamically switch between a 60Hz or 120Hz refresh rate for smooth scrolling while balancing battery life. The keyboard and Slim Pen 2 stylus are the same as last year with little to fault, except that they’re not included in the box and cost an additional £260 as a bundle.
+
+Inside, the tablet has been made more repairable. It has an easier to replace battery and user-upgradeable storage in a little flap in the back, and a service manual and spare parts are being made available. It is not quite the user-repairable ideal demonstrated by the Framework laptop, but it is a big step in the right direction from Microsoft.
+
+The one negative is the removal of the headphone socket, leaving a USB-C dongle (not included) or Bluetooth as the only options. Using a range of Bluetooth headphones released in the past two years with the Surface generally worked well, though call audio quality is worse than if using a wired headset.
+
+Specifications
+
+Screen: 13in LCD 2880x1920 (267 PPI) 120Hz
+
+Processor: Intel Core i5 or i7 (12th generation)
+
+RAM: 8, 16 or 32GB
+
+Storage: 128, 256, 512GB or 1TB
+
+Graphics: Intel Iris Xe
+
+Operating system: Windows 11 Home
+
+Camera: 10MP rear, 5MP front-facing, Windows Hello
+
+Connectivity: Wifi 6E, Bluetooth 5.1, 2x Thunderbolt 4/USB-4, Surface Connect
+
+Dimensions: 287 x 209 x 9.3 mm
+
+Weight: 879g (without keyboard)
+
+Intel versus Arm
+
+View image in fullscreen A full charge takes about 100 minutes, hitting 80% in an hour using the included 65W charger via the Surface Connect port or equivalent USB-C power adaptor. Photograph: Samuel Gibbs/The Guardian
+
+The wifi-only Surface Pro 9 comes with a choice of Intel Core i5-1235U or i7-1255U processors, which have roughly the same power efficiency but are up to 35% faster than the previous generation. That keeps the Surface Pro 9 in line with PC competitors for speed.
+
+The top Core i7 version feels slightly snappier resuming from standby and other day-to-day operations than its direct predecessor. As you’d expect, it handles complex image edits with Affinity Photo 2 with aplomb and ran silently most of the time, with the fans audible only when plugged into a Thunderbolt dock with an external monitor or when running intensive benchmark tests.
+
+Battery life remains at about eight hours of constant work, which should last the working day but not much more. It’s not great compared with some laptops that can manage 16 hours between charges but is roughly in line with similar PC tablets.
+
+The story is very different for the version with the Microsoft SQ3 ARM chip. Its raw computing power is similar to the Intel version, so when using apps that are built for ARM chips, such as Microsoft’s various programs including Office and the Edge browser, it works great.
+
+However, most Windows programs are written for Intel or AMD chips. This means they need the help of tools built into Windows 11 so they can run on the ARM processor. But this “emulation layer” makes Intel apps – Evernote, Affinity Photo 2, Chrome or even just the WhatsApp desktop app – extremely sluggish. Some, such as Google’s Drive syncing software, simply refuse to run at all.
+
+Windows 11 with Android app support
+
+View image in fullscreen The Kindle Android app found within the Microsoft Store, which triggers a one-time setup routine to enable the Amazon app store and Android apps to run on Windows 11. Photograph: Samuel Gibbs/The Guardian
+
+The Surface Pro 9 runs Windows 11 and supports Windows Hello face recognition for logging into the tablet or authenticating within apps or for payments. It has matured into a solid operating system and recently added support for running Android apps.
+
+These mobile apps can be found within the Microsoft Store and downloaded via Amazon’s Android app store, but the selection is very thin on the ground. Most of the major apps already have Windows versions available, including Netflix, Disney+ and Amazon Prime Video, so aren’t available as Android apps on Windows. The big exception is the Kindle Android app, which runs very well and roughly matches the experience you’d get on an Android tablet or iPad.
+
+Sustainability
+
+View image in fullscreen Users can upgrade the storage via a replaceable SSD hidden under a small magnetic flap on the back of the tablet – a rare facility for most modern computers. Photograph: Samuel Gibbs/The Guardian
+
+The tablet is generally repairable, with a service guide available and a removable SSD. The out-of-warranty service fee for battery replacement is £380.52, while anything else, such as a broken screen, costs £474.72 when repaired by Microsoft.
+
+The tablet does not contain recycled material. Microsoft operates recycling schemes for old machines. It also publishes a company-wide sustainability report and a breakdown of each product’s environmental impact.
+
+Price
+
+The Microsoft Surface Pro 9 starts at £1,099 ($999.99/A$1,649) with Intel Core i5-1235U, 8GB of RAM and 256GB of storage. Models with an i7-1255U chip cost from £1,599 ($1,399.99/A$2,549). The ARM SQ3 models start at £1,299 ($1,299.99/A$2,599).
+
+The Signature keyboard costs £159.99 ($179.99/A$259.95) on its own or £259.99 ($279.99/A$429.95) with the Slim Pen 2.
+
+For comparison, the Surface Laptop 5 starts at £999, the Surface Go 3 costs £369, Dell’s XPS 13 2-in-1 costs from £999 and the Apple iPad Pro 12.9in costs £1,249.
+
+Verdict
+
+Microsoft’s best Windows 11 tablet gets what looks like a minor-but-needed speed increase in the Surface Pro 9, adding 12-gen Intel chips.
+
+It is a bit snappier, the battery lasts about the same work day as previous versions, it has a good 120Hz display, and it is still one of the most compact and adaptable PC tablets you can buy. The removal of the headphone jack is a bit annoying, as is Microsoft still not including the essential keyboard in the box.
+
+But hidden away is a bigger upgrade: easier repair. The SSD can be upgraded from a small door at the back of the tablet, while Microsoft has changed the insides to make the battery easier to replace, made a full service manual available and is making spare parts accessible to repairers. It isn’t quite a revolution for repair the way the Framework Laptop may be, but it is still a big step in the right direction for Microsoft.
+
+The Surface Pro 9 with Intel chips is therefore one of the very best Windows 11 tablets you can buy.
+
+But that’s not the case with the 5G version with Microsoft SQ3 ARM chip, which like the Surface Pro X before it, is still held back by software incompatibility. Unless you exclusively use Microsoft’s own apps and not the wide range of third-party apps and tools Windows is known for, I would not recommend it.
+
+Pros: good 120Hz screen, good Intel performance, Thunderbolt4/USB-4, excellent keyboard (essential additional purchase), excellent kickstand, Windows Hello, solid build, great stylus (optional purchase), removable SSD, easier to repair. Cons: expensive, keyboard should be included, no USB-A port, no microSD card slot, no headphone jack, average battery life, Microsoft SQ3 and Windows on ARM still not good enough.

@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mika Hakkinen insists it’s “highly unlikely” that Red Bull will retain Sergio Perez beyond the 2024 season.
+
+The Mexican driver, who replaced Alex Albon at the team ahead of the 2021 season, finished second in the drivers’ championship last year as Red Bull dominated the 2023 campaign.
+
+However, Perez finished 290 points behind teammate Max Verstappen and won just two races, while the Dutchman won 19.
+
+Perez’s contract with Red Bull ends at the end of next season and two-time F1 world champion Hakkinen believes Christian Horner’s team are set to move on from the Mexican after this year, with Lando Norris and Daniel Ricciardo among the names linked with the second seat for 2025 and beyond.
+
+“Usually one or the other is slower – in this case Perez is slower than Max, it has been pretty clear lately,” the Finn told Unibet.
+
+“If the slower teammate accepts the situation, is able to communicate well with media and the team, is able to develop the car, is motivated and can stay within three or four-tenths of the fast one, I don’t think it’s a bad thing. I think it’s an OK situation.
+
+“But if the teammate starts to complain, if he accuses the team of not giving him a good car, is not motivated and results go up and down, it’s not good for the team. That’s when the team needs to make changes.
+
+Sergio Perez has a contract with Red Bull until the end of the 2024 season (Getty)
+
+“I know that having a Mexican driver is important for Red Bull. Mexico is a big market which has its effect on things. But, ultimately, you’re there to race and bring good results and to develop the car faster.
+
+“You can’t rely on one driver only. You need to have two drivers on a certain level in order to develop the car. Is Perez’s future at Red Bull? I think it’s highly unlikely.”
+
+Horner, however, has stated recently that Perez’s destiny lies in his own hands, laying down the gauntlet for his driver ahead of the new season.
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

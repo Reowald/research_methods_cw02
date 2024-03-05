@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Christian Horner insists the support he has received from within Red Bull has been “overwhelming” as the Formula One boss broke his silence during the ongoing investigation into his conduct.
+
+The Red Bull team principal also repeatedly denied the allegations of “inappropriate behaviour” made against him by a female colleague and insisted he was “confident” of clearing his name. He could give no timeframe on when the investigation will conclude.
+
+Appearing publicly for the first time since the investigation was publicised – at Red Bull’s 2024 F1 car launch at their HQ in Milton Keynes – Horner added that he intends on being in Bahrain for pre-season testing next week.
+
+While unable to comment on the nature of the investigation, Horner appeared composed and undeterred by the allegations, continually insisting it was “business as normal” at the world-championship winning team ahead of the new F1 season starting on 2 March.
+
+“The support from within the business, partners within the industry, has been overwhelming,” Horner told the press at the launch on Thursday.
+
+“Obviously there’s a process that’s ongoing at the moment, some allegations have been made which I fully deny and I’m complying obviously with that process and will continue to do so until its conclusion.”
+
+When asked by The Independent, Horner said he also has the support of drivers Max Verstappen and Sergio Perez.
+
+Christian Horner insists the support from Red Bull has been ‘overwhelming’ despite the current investigation into his conduct (PA Wire)
+
+Responding to questioning on why he has not been “suspended” while the investigation is ongoing, Horner replied: “I think it’s been very clear, and the position of Red Bull has been that it’s business as normal.
+
+“Of course the allegations is a process that Red Bull are running through and [they] have confirmed that process externally, but obviously there’s a job to do. And I deny fully the accusations that have been made, and my role obviously continues."
+
+Horner was locked in an eight-hour meeting last Friday with the external lawyer tasked with the investigation by the team’s parent company, Red Bull Austria.
+
+Horner, married to Spice Girl Geri Horner, is the longest-serving team principal on the F1 grid having been in charge of Red Bull since its inception in 2005. The 50-year-old additionally re-emphasised his “absolute commitment” to the team.
+
+Red Bull launches its new car in Milton Keynes on Thursday (Reuters)
+
+“I’ve been here since the beginning,” he said. “I’ve built this team, there’s been highs and lows along the way.
+
+“This team is a big team, it’s one of the biggest sporting teams in the world, and what has always been one of our strengths is the way that we work. We’ve had tremendous stability, we have very low turnover of staff, we’ve had huge continuity over the years.
+
+“People work here because they love working here, they enjoy working here, and they share a passion for going racing and racing against some fierce competitors.”
+
+Red Bull launched their RB20 car in front of hundreds of guests on Thursday in an impressive ceremony at their base in Milton Keynes, with Horner, Verstappen and Perez all appearing and speaking to the media.

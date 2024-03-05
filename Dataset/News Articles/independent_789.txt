@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Amazon has removed features from Prime Video – and users will have to pay more to get them back.
+
+Prime Video caused controversy at the end of last year when it announced that it would start injecting ads into its videos. If users wanted to avoid them, they needed to pay $2.99 per month, or similar in other currencies, the company said.
+
+That caused outrage among users who felt they were having a worse experience pushed upon them. Amazon said the extra money from customers would let it “continue investing in compelling content and keep increasing that investment over a long period of time”.
+
+Those ads arrived on 29 January for house users who had not paid the extra fee.
+
+Now, however, customers have found that the ads were not the only change made on accounts that had not signed up for the ad-free tier. Those users are also missing out on key features on their streaming films and TV shows.
+
+Dolby Vision and Dolby Atmos – technologies that improve the quality and depth of the video and audio when watching at home – are also not available to those customers.
+
+The change was first noted by German tech publication 4K Filme. An Amazon representative confirmed the update to The Independent.
+
+Dolby Vision is an HDR technology that allows videos to show with more dynamic range. Dolby Atmos is an audio technology that allows for more detailed surround sound by allowing filmmakers to make it seem as if a sound is coming from underneath or overhead, for instance.
+
+Both require companies that use them to pay a licensing fee to Dolby. Some have chosen to pass on that cost on to customers: users of some Xbox consoles are asked to pay a fee to get access to Dolby Atmos on their headphones, for instance.
+
+On Netflix, customers need to be subscribed to the Premium tier, which offers streaming in 4K as well as multiple devices, in order to get Atmos.

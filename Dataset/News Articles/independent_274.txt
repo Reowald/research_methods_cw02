@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+One in eight (12%) people have borrowed money to make ends meet in the past year, according to research published by a debt help charity.
+
+Two-fifths (40%) of people are finding it difficult to keep up with household bills and credit commitments, the research, carried out by YouGov for StepChange Debt Charity, found.
+
+And a quarter (24%) of people said they have rationed heating, electricity or water to meet credit repayments in the past 12 months.
+
+Tackling such widespread problem debt and improving households' financial security should be at the top of the agenda for current and potential new governments Vikki Brownridge, StepChange
+
+People were also asked about their ability to cope if they were faced with an unexpected expense of £1,000.
+
+One in eight (12%) said they would not be able to cover any of the cost without turning to borrowing, rising to one in five (19%) single parents.
+
+Vikki Brownridge, StepChange chief executive, said: “In an election year, tackling such widespread problem debt and improving households’ financial security should be at the top of the agenda for current and potential new governments.”
+
+If you feel like you don’t have a choice financially, it could be a sign you need help Jackie Spencer, Money and Pensions Service
+
+More than 2,000 people were surveyed across the UK by YouGov in January 2024.
+
+Jackie Spencer, head of money and pensions policy at the Money and Pensions Service (MaPS), which is sponsored by the Department for Work and Pensions (DWP), said: “Borrowing money just to put food on the table, heat a home or keep up with credit repayments can be incredibly stressful. This research suggests that for many households, it’s become a daily reality.
+
+“Credit is a big commitment and should be considered carefully. If you feel like you don’t have a choice financially, it could be a sign you need help.
+
+“No-one needs to battle on alone and the sooner you reach out, the quicker things can start turning around. Our free MoneyHelper service can help you take that crucial first step.”
+
+A Government spokesperson said: “We are continuing to support families with the cost of living backed by £104 billion, while cutting taxes and curbing inflation so hard-working people have more money in their pockets.
+
+“Work is the best way to secure financial security which is why we are investing billions breaking down barriers to work and supporting over one million low-income earners through our In Work Progression offer.”

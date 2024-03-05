@@ -1,0 +1,57 @@
+Sign up to our free weekly newsletter for insider tips and product reviews from our shopping experts Sign up for our free IndyBest email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyBest email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+After months of frenzied rumours, Samsung officially confirmed the existence of a brand-new wearable coming to its product line-up in the near future. The announcement of the Galaxy ring came hot on the heels of the launch of the Samsung Galaxy S24 series of smartphones at the South Korean firm’s Galaxy Unpacked event in January.
+
+Smart rings took centre stage at this year’s Consumer Electronics Show (CES) in Las Vegas, dominating the exhibition booths. But the product category, currently led by the trendy, celebrity-adored Oura ring, is poised to become even more crowded, with the impending arrival of Samsung’s take on the wearable.
+
+While Samsung didn’t reveal anything about the Galaxy ring besides a brief snapshot of the circular metal band at the close of the presentation, Samsung’s head of B2B wearables Daniel Seung revealed in a (now deleted) LinkedIn post that a new health and wellness wearable will be released in the second half of 2024.
+
+As well as that vague release window, The Independent’s tech critic David Phelan has gone hands-on with a prototype of the wearable, plus some leaks, rumours and titbits from Unpacked could give us some idea of what to expect. This is everything we know so far about the Galaxy ring, from its price to its specs to its release date.
+
+Read more: We review the best smartwatches
+
+Galaxy ring release date: When could the smart ring launch?
+
+We only got a brief shot of the Galaxy ring at Galaxy Unpacked, so, unsurprisingly, there are zero official details to go on.
+
+However, after the event, Samsung’s head of customer experience Patrick Chomet revealed more details about the release date to TechRadar. “We need to do a lot [before it’s ready for release]. We have the hardware, we have some software – which we could have launched today, by the way; it’s ready – but having a complete package experience that people can use at scale [is different]. We are getting there. It will be a bit later in the year,” he told the publication.
+
+“Later in the year” could mean anything, but after Seung’s LinkedIn post, we’re leaning towards a full Galaxy ring reveal in late July and a release in early August. Samsung hosts two Galaxy Unpacked events every year – one in January, where it focuses on its S-line of smartphones, and one in July, where it tends to focus on its foldable phones, smartwatches and tablets. The Galaxy ring would fit nicely into this summer Unpacked event.
+
+Galaxy ring price: How much could the smart ring cost?
+
+Without any concrete details about the Galaxy Ring, we have to speculate on its potential price. We’re expecting the Galaxy ring to be an expensive bit of kit, given you have to fit a bunch of sensors into a tiny band.
+
+We have a ballpark, though, thanks to the price of comparable smart rings. The Oura ring, which is the gold-standard model right now, starts from £200 and can cost as much as £540, while the Ultrahuman ring costs £349, and the more budget-friendly Circular ring costs £199.
+
+Galaxy ring features and specs
+
+We first received reports that Samsung was working on a smart ring back in 2022 when an article from Korean publication Naver suggested the tech giant had commenced development of the wearable with multiple companies.
+
+In the report, Naver said the ring would include an ECG and PPG sensor – both are included in the Oura ring – and enable the ring to monitor the wearer’s temperature and heart rate. In the shots of the Galaxy ring seen on stage at Galaxy Unpacked, we saw it had three indentation sensors on the inside of the band, just like the Oura.
+
+There will be a huge emphasis on sleep, as per the TechRadar report: “It’s very exciting because, although Samsung Health works quite well – we’ve had a lot of good feedback on sleep tracking, and we are investing a lot [in its development] – what most people tell us is that they find it difficult to sleep with a watch. It’s much easier to sleep with a ring than a watch,” Chomet told the outlet.
+
+Based on the actual health features revealed during the Galaxy Unpacked keynote by Samsung’s clinical research fellow Matthew Wiggins, the Galaxy ring might be involved in monitoring sleep apnoea symptoms. Samsung Health can track changes in blood oxygen levels, sleeping patterns and your sleeping heart rate.
+
+In terms of design, The Independent’s tech critic went hands-on with a prototype of the device in early February. “The prototypes, which I wasn’t allowed to photograph, came in a dozen sizes and four different colours, including a shiny gold and matte black. The rings had a concave outer edge that was strangely appealing to the touch,” he said. “It was light and comfortable – making it much more appealing to wear at night, for instance, than a smartwatch.”
+
+Avi Greengart, an analyst at Techsponential, provided more details. He called it “ridiculously light”, said there were three different finishes and that the ring sizes go up to 13.
+
+There aren’t too many rumours and leaks beyond what we’ve spotted here, but we’ll be keeping our eye out over the coming months. For now, if you’re looking to ditch your fitness tracker for a smart ring, the Oura is the best one around.
+
+Oura ring, generation 3: From £235, Oura.com
+
+(Oura)
+
+Released in 2021, the generation three Oura Ring is the company’s most capable yet, with blood-oxygen monitoring, workout tracking, daytime heart-rate tracking and period-cycle predictions. “If you’re looking for a sleep tracker, activity tracker or just want to know as much as you can about your body, the third-generation Oura Ring will tick a lot of your boxes in one tiny package,” our writer said in their review. “With different coloured rings, it’s arguably more stylish than a Fitbit or Garmin.”
+
+Buy now
+
+Voucher codes
+
+For offers on activity trackers and other tech products, try our discount code pages:
+
+For more inspiration, have a read of our review of the best fitness trackers

@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A Beijing-based start-up has completed a “hop test” that involves landing a stainless-steel rocket vertically after shooting it up several hundred metres – a feat accomplished about 11 years ago by SpaceX’s larger Super Heavy Starship.
+
+The Zhuque-3 rocket developed by the Chinese firm LandSpace took off from the Jiuquan Satellite Launch Centre in the Gobi Desert at 4pm on Friday, reaching an altitude of 350m (1,148 ft) in about 60 seconds before landing vertically 100m away, the company announced.
+
+“The rocket landed smoothly and accurately and remained in good condition. The flight was a complete success,” LandSpace, which put the world’s first methane rocket into orbit last year, said in a statement.
+
+The over 70m-long, two-stage stainless steel rocket is expected to have a payload capacity of over 20 metric tons to low Earth orbit (LEO) when expendable.
+
+It will carry about 18 tons when the first stage is recovered or 12,500kg when returning to the launch site, the company previously said.
+
+Space Race Heats Up in 2024
+
+A growing number of space launch startups, including over half a dozen firms, are trying to replicate SpaceX’s vertical takeoff, vertical landing (VTVL) achievements.
+
+Hop tests have been conducted previously by Beijing-based launch startup iSpace last year, and the Jiangsu-based Deep Blue Aerospace.
+
+The Chinese state-owned CAS Space also conducted VTVL tests with a small demonstrator in April last year, SpaceNews reported.
+
+Elon Musk’s SpaceX has pioneered VTVL, demonstrating first in 2013 that its 10-story tall Grasshopper rocket could complete a successful takeoff, hover, and land vertically.
+
+Till SpaceX proved the efficiency of the technology, space launch firms and agencies had no options but to routinely discard the massive fuel chambers of their rockets to let them burn up in the Earth’s atmosphere.
+
+Now, VTVL vehicles are expected to cut costs for launches to space by making rocket parts reusable.
+
+Currently, SpaceX has beaten its own record reusing its Falcon 9 rockets for launches successfully.
+
+In terms of payload capacity, the LandSpace Zhuque-3 is expected to be of similar size to Falcon 9, but a bit wider.
+
+“It is currently the largest vertical take-off and landing test in China,” it added.

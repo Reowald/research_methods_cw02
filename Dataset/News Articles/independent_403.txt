@@ -1,0 +1,45 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+When Ineos Grenadiers’ new CEO, John Allert, told a roomful of reporters earlier this week that Sir Dave Brailsford was “the godfather” of the team, he meant it with a small G, meaning the founder. But perhaps it was understandable (and the result of a little journalistic licence) that the quote appeared in various publications with a capital G, suggesting Allert had compared his boss with Don Corleone.
+
+Allert was introducing the team’s new hierarchy, after Brailsford’s long-time deputy Rod Ellingworth resigned in November amid internal tensions, and Brailsford himself stepped back to focus on Ineos’s new pet project, Manchester United. Dr Scott Drawer is the new performance director on the road, overseeing director of racing Steve Cummings and head coach Xabier Artetxe, who all report to Allert.
+
+In many ways it is the end of an era, an era that saw Brailsford with hands on deck, directing every part of the cycling operation. It was one of unparalleled success and plenty of controversy, too. But in reality, this is a shuffle rather than wholesale change. Brailsford still remains the ultimate power, the one who Allert himself must report to. Despite all the turmoil at Ineos Grenadiers in recent months, despite the heralding of a new age for the team, Brailsford remains the powerful head of the family.
+
+That much was clear when Geraint Thomas explained on a podcast this week that he needed permission from “the big bosses”, including Ineos owner Sir Jim Ratcliffe, in order to attack both the Giro d’Italia and the Tour de France this season.
+
+“The big target this year will be going back to the Giro, I’m going to go all in for that,” he said on TheGeraint Thomas Cycling Club podcast, having been narrowly beaten by Slovenia’s Primoz Roglic to Giro victory last year. “After the way it ended, I’d like to have another bash ... Then it’s been decided to go to the Tour. I was speaking to the team in December and they were like, ‘We’ll back you, but we need to get it cleared by Dave [Brailsford] and Jim [Ratcliffe], the big bosses’. They were all for it.”
+
+Brailsford’s focus will be on Old Trafford, at least in the short term, as he conducts an audit of the club’s operations and personnel. Based on what we know about Manchester United, that may take a while. But he will retain an overarching influence on the Grenadiers and will have a say in matters like rider contracts and recruitment. And his days on the road may not be over just yet.
+
+“It’s a privilege that we will still have him accessible to the team,” says Allert. “His role is director of Ineos Sport, so he clearly has responsibility across a variety of different sports, the performance of all of them, not just cycling. But it speaks highly of the performance of this particular team that … we’ve now got somebody from the world of cycling involved in what is one of the most famous football teams in the world. I think that says a lot about what cycling has been able to do over the last 10 or 15 years.
+
+“Clearly, Dave has a passion and a proven track record in cycling, so don’t ever be surprised to see him come on race. He won’t be coming on race to mark our homework, he’ll be coming on race to support the team.”
+
+Sir Jim Ratcliffe, left, and Sir Dave Brailsford, right, meet United manager Erik ten Hag (Manchester United via Getty Images)
+
+Ratcliffe has built a bulging portfolio in sport which touches Formula One, sailing and rugby, as well as football clubs in France, Switzerland and Ivory Coast. Buying a 28 per cent stake in Manchester United is the billionaire’s biggest undertaking yet, and restoring the club’s former greatness will take vast resources over the coming years.
+
+Allert insists that the organisation has not taken its eye off the road, and that winning the biggest races in cycling, including the Tour de France, remain crucial goals.
+
+“We are a performance-first GC (general classification) team that is looking to innovate and be at the zenith of this sport. That’s always been the case. I think sometimes people mistakenly think that we’ve had a diffusion of focus, but that’s always been the DNA of the team, that’s continued from our previous owners (Sky) into the Ineos ownership, and the ambition is the same.”
+
+Quite how Ineos plan to win back the yellow jersey which has eluded them since 2019 is as yet unclear. There is no obvious challenger in the current squad: former champions Geraint Thomas and Egan Bernal are a level below the elite few riders in the peloton, due to age and injury respectively. The Spanish 22-year-old Carlos Rodriguez was Ineos’s highest-placed rider at last year’s Tour de France, finishing fifth, and has great potential, but toppling Jonas Vingegaard, Tadej Pogacar, Remco Evenepoel and Primoz Roglic might still be a few years away.
+
+“I think everybody can see in the sport at the moment, there are some pretty outstanding GC riders,” Allert says. “I believe that we have a number of outstanding GC riders – both experienced, proven GC riders, but we also have a phenomenal next generation of rider. Our objectives are to get as close to the top of the podium in the Tour, and any grand tour, any race. Whether or not that’s this year or next year remains to be seen. The competition is stiff and tough. But we embrace that because it hopefully makes us better.
+
+“We are no longer the hunted, we’re the hunters. Our mission is clearly more than to catch up to those teams that have succeeded over the last couple of years. It’s to find ways of overtaking them.”
+
+Here Allert stresses the importance of his new director of performance, Dr Drawer, who worked under Brailsford at Team Sky. Drawer was recently the head of sport at Millfield School, the Somerset private school renowned for its sporting excellence, and has helped Britain operate at the cutting edge of science and technology at recent Olympic Games.
+
+“It’s no coincidence that the person responsible for our sporting performance is a scientist,” says Allert. “He’s an innovator, he’s a proven disruptor. He embraces technology, data, science, and I don’t think that alone will provide us with the answer, but certainly, we’re going to leave no stone unturned in terms of trying to out-innovate our competition.”
+
+Teenager Josh Tarling celebrates a breakout bronze in the men’s time trial at the 2023 World Championships (PA)
+
+There are certainly more varied strings to the Ineos bow these days. In Tom Pidcock and Josh Tarling, they have a pair of young British riders who can write new history. But their styles mean they are not grand tour winners in waiting. This is a team which won seven Tours de France between 2012 and 2019, and yet, for all their strengths, seem further away than ever from winning back that jersey.
+
+It sounds unlikely Ineos will be recruiting any major names to help in their fight back to the top. Allert dismissed reports which suggested the team’s budget had been slashed, but he didn’t suggest it had been boosted either. Rumours last year of Ineos signing Evenepoel appear misplaced after the brilliant Belgian signed a new contract with Soudal-QuickStep. So it is down to the existing squad, for now, to bring the competition. Brailsford may no longer be on the road full time, but the godfather will be watching their every move.
+
+“I think the greatest priority for us was finding our kind of strategic clarity again, and making sure that people were aligned around a series of objectives,” adds Allert. “And to some extent that’s what I was brought in to do. We’ll obviously see the fruits of those changes over the coming few seasons, but I’m very confident with the people we have. I think we’ve got the gold standard in support staff. I think we have a phenomenal rider list. I think we’ve got arguably the hardest-working riders in the peloton. And we’re focused on the process.”

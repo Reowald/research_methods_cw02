@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ferrari have added British teenager Ollie Bearman to their reserve driver roster ahead of the 2024 F1 season.
+
+Bearman drove for Haas – powered by Ferrari engines – to make his Formula 1 weekend debut in practice last year in Mexico and Abu Dhabi.
+
+The 18-year-old, who hails from Chelmsford in Essex, joined the Ferrari Driver Academy in 2021 and, after impressing in the cockpit last year, will share Ferrari reserve duties this year with Robert Shwartzman and Antonio Giovinazzi.
+
+One of the trio will fill in for Charles Leclerc – who signed a new contract last week – or Carlos Sainz should either be absent from any of the 24 races this season.
+
+"Oliver Bearman, the Scuderia Ferrari driver academy student currently racing in Formula 2 with the Prema team, will also take on the role of reserve driver, ready to step in if a race driver is incapacitated, a role he will share with Antonio Giovinazzi and Robert Shwartzman,” Ferrari said on Saturday.
+
+"These last two are also taking part in the WEC (World Endurance Championship) at the wheel of the Ferrari 499 P Hypercar, numbers 51 and 83 respectively."
+
+The highly-rated Bearman finished sixth in his debut Formula 2 campaign last year and will be targeting an F2 title victory to push his claim for an F1 seat in 2025. Bearman will drive once again for Prema Racing in F2 this year, alongside impressive Italian prospect and Mercedes junior Andrea Kimi Antonelli.
+
+The Brit will also feature alongside Sainz, Leclerc and Leclerc’s brother Arthur – newly announced as a Ferrari development driver – at a Pirelli tyre test in Barcelona this week, driving last year’s SF-23 Ferrari car.
+
+Bearman has already spoken of his sights being set on a spot in Formula 1 next year.
+
+Ollie Bearman has been named as a reserve driver for Ferrari this year (Getty Images)
+
+“I know I’d be ready to go,” Bearman said, when asked about a potential seat in 2025.
+
+“I know I have what it takes, but of course preparation would be important and, first of all, I’d have to do a good job in F2 – that’s step one. But I have no doubt that if I get a call-up, I’m ready to go.
+
+“Once you join F1, you’re going up against guys with a lot of races under their belts, and coming in as a rookie is a difficult job. It’s something that we’ve thought about and it will be really important that before I start an F1 campaign, I need to be really prepared.
+
+“Hopefully that looks like more FP1s, and there’ll be some private testing as well. I don’t have any say on that, but in an ideal world, that will be how I approach an F1 season.”
+
+The 2024 F1 season starts on 29 February – 2 March with the Bahrain Grand Prix. The F2 season starts on the same weekend at the same circuit.

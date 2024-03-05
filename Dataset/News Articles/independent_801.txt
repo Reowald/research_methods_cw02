@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Elon Musk claims he is going stop using his phone number.
+
+The move appears to be an attempt to promote new features on X, formerly known as Twitter. But it also means that only those who pay for the premium version of X will actually be able to call its owner.
+
+“In a few months, I will discontinue my phone number and only use X for texts and audio/video calls,” Mr Musk tweeted late on Thursday night local Pacific time.
+
+X began officially rolling out audio and video calls last year. While all accounts are able to receive calls, only subscribers to the paid-for subscription plan can actually make them, according to X’s website.
+
+Calling on X does not appear to be encrypted, unlike other similar services such as WhatsApp or Apple’s FaceTime.
+
+The company does offer a setting called “enhanced call privacy”, which it says “helps protect your privacy”. But it only means that the IP address of callers are hidden from each other, and it must be actively enabled from the app’s settings.
+
+It remains unclear how popular video and audio calling is on X. After it was launched last year, Mr Musk has attempted repeatedly to promote it, though it is still not mentioned on some of X’s help pages.
+
+Mr Musk has suggested that adding the feature to the app is part of his plan to turn X into the “everything app”. It is one part of a range of other features he intends to add to the site, which are also rumoured to include financial services.

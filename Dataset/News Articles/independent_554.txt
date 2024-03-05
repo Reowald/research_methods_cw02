@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Watch as Axiom Mission 3 arrives at the International Space Station on Saturday 20 January.
+
+The four-person Ax-3 crew is led by Axiom chief astronaut Michael López-Alegría, a former Nasa astronaut and ISS commander.
+
+Italian Air Force pilot Walter Villadei and mission specialists Alper Gezeravcı of Turkey and Marcus Wandt of Sweden are also on board.
+
+The group arrived at the ISS on Saturday morning after a successful SpaceX launch from the Kennedy Space Center in Florida on Thursday.
+
+During their time on the orbiting laboratory, the crew will conduct more than 30 scientific experiments and demonstrations focused on human physiology and technological industrial advancements.
+
+Ax-3 is flying a SpaceX Crew Dragon spacecraft named Freedom.
+
+The capsule has flown in space twice previously and gone to the International Space Station each time.
+
+On its flight to the ISS, Dragon executes a series of burns that position the vehicle progressively closer to the station before it performs final docking manoeuvres.

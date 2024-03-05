@@ -1,0 +1,41 @@
+As organisations move their computing infrastructure into the cloud, they are harnessing the power of data as never before. Cloud-based services are using artificial intelligence (AI) to make data more accessible, easier to search and simpler to understand. Rather than data being the preserve of a team of data scientists and analysts, the new cloud-based tools and technologies are opening up this specialised area to a wider cohort of employees across organisations.
+
+Leighton Searle, director of Azure Solutions UK at Microsoft, sees strong benefits for businesses that run their IT infrastructure through Microsoft’s Azure cloud platform. “The huge potential of new generative AI technology has triggered renewed urgency and focus on the quality and availability of an organisation’s data,” he says. Once businesses migrate their data to the Microsoft Azure cloud platform they can instantly access tools and services to unlock its value for both employees and customers. This is leading to a transformation of company culture and the embedding of data more deeply across businesses.
+
+Searle identifies four areas where cloud is boosting the use of data, empowering employees, and enhancing productivity.
+
+1 Empowering employees to make data-driven decisions
+
+Searle highlights that the cloud is helping to democratise data, making it accessible to employees directly in their daily workflows, rather than stuck in management reports or individual line-of-business applications. “To unlock the value – and realise the potential – of data, it’s got to be accessible to the people who need it,” says Searle. “That could mean empowering a contact centre agent with a scannable summary of all customers’ previous engagements, transactions and support calls alongside immediate access to the entire company’s knowledge base of specialist information to provide a world class customer experience, or a mobile mechanic so they are able to identify a part and inventory status from a photograph captured on their phone.”
+
+Almost every role can benefit from timely, secure and relevant data, says Searle. If staff are to become responsible for managing the data relevant to their roles, they will need tools that simplify the process. Data visualisation tools help employees create simple representations of data to glean insights and improve the customer experience. For instance, Heathrow Airport is using the Microsoft Power BI data visualisation tool through Microsoft Teams to turn data from its admin systems into easy-to-read visualisations for staff. These offer employees an at-a-glance look at how airport passenger traffic is changing in real time, enabling staff to prepare for peaks and troughs rather than simply react to them.
+
+View image in fullscreen Heathrow Airport uses business intelligence to help staff understand passenger traffic. Photograph: ThamKC/Getty Images/iStockphoto
+
+2 Breaking down data silos
+
+To achieve greater data democracy, data must be available across an organisation rather than being locked up in a central repository. “With the right guidance, governance and guardrails in place, you can then enable the rest of the business and provide them access to the data they need,” says Searle.
+
+For instance, a group of five south London boroughs formed the South London Partnership and worked with Azure to create a universal data platform. This includes sharing data from “internet of things” (IoT) sensors that monitor at-risk residents – which the partnership estimates has already helped to save four lives. The IoT sensors also monitor air quality and flood risks. “We’ve been able to break down data silos through cloud technology’s ability to share data while maintaining the permissions and privacy of that data,” says Searle.
+
+3 Building AI and modern search to accelerate business
+
+Customer and employee expectations have changed as AI driven experiences play a greater role in everyday life. Along with a good data foundation and a good data culture these experiences are rapidly becoming table stakes for both employee and customer retention. Employees need to delve deep into institutional knowledge, from finding data in the company’s in-house apps or accessing historical information in either “structured” tables and charts or in “unstructured” form in documents, images and other sources.
+
+Searle points to the Azure Cognitive Search platform and Azure Open AI Service, which allows users to input a general, natural language query into a search bar – which the AI-powered system will process to deliver back a natural language summary from the most relevant sources, referencing all of the data sources used for verification or further research. He says this type of AI driven experience can help businesses unlock insights and make data driven decisions intuitively and at a speed never seen before.
+
+For instance, Cambridge and Peterborough NHS foundation trust moved its computing infrastructure into the cloud and used Azure Cognitive Search to make its patient records more easily searchable by clinicians. The trust uploaded all of its records to Azure, and these included data in all sorts of unstructured formats such as handwritten records, doctors’ notes, scans and pictures.
+
+Clinicians said it was “mind blowing” to discover that Azure Cognitive Search made these diverse formats discoverable, and they could quickly locate handwritten notes and records from previous years.
+
+4 Creating a data-driven culture
+
+From frontline workers to boardroom executives, all employees should be open to embedding data into their working practices, says Searle. He believes they can all learn from the data that is flowing to them and contribute to enriching it. Employees involved in managing their own data are also well placed to reduce the risks of bias and incorrect assumptions in their data-driven decision making.
+
+Data democratisation requires a significant shift in corporate culture, Searle believes. Departments across an organisation, whether HR, marketing, operations, sales or finance, have an important role to play in the data that they produce and consume. For example, these business users of organisational data are best placed to set the security and access policies for their data and to curate it in a way that other parts of the business can confidently make use of it.
+
+The pace of change can be daunting for leaders at all levels. To help organisations upskill, Microsoft has partnered with European business school Insead to create a free online course called AI Business School.
+
+Searle sums up the steps businesses need to take to get the most out of their data. “Bring your data securely into the Microsoft cloud. Lead from the top to create a data-led culture across the organisation and then move quickly on projects that are going to deliver business value. The positive experience will cascade across the business and help embed this data-led approach to scale even further.”
+
+Read more

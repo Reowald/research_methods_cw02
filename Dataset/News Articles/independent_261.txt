@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Romance scam reports increased by more than a fifth (22%) last year compared with 2022, according to data from Lloyds Bank.
+
+The average amount lost to romance scams last year was £6,937, slightly down from £8,237 in 2022.
+
+People aged between 55 and 64 were most likely to report being scammed by fraudsters masquerading as love interests, Lloyds said.
+
+Across all age groups, men were more likely to report having been scammed by a romance fraudster. But women were more likely to report bigger losses, at £9,083 on average, compared with £5,145 typically lost by men.
+
+People aged 65 and 74 tended to lose the most money, losing £13,123 to romance scams on average.
+
+As soon as someone you’re talking to starts asking for money, step back from the situation Liz Ziegler, Lloyds Bank
+
+Romance scams target people looking for love, and often criminals will use fake photos and make up reasons for why they cannot meet in person. Common excuses involve working away in the armed forces or in international aid and charity work.
+
+Scams can last over long periods of time, as the fraudster builds trust with their victim.
+
+Eventually they will ask for money, usually claiming family issues, medical bills or needing money to arrange travel to meet up with the victim. It may start as small amounts and build up over time.
+
+Liz Ziegler, fraud prevention director at Lloyds Bank said: “As soon as someone you’re talking to starts asking for money, step back from the situation and never hand anything over. Talking to a real-life friend or family member can be a good way to sense-check what’s going on.”
+
+– Here are some tips from Lloyds to help prevent romance scams:
+
+1. Be cautious of strangers contacting you on social media.
+
+2. Look out for profile photos that look professional or “model-like”.
+
+3. Speak to someone who already knows you well to get their point of view.
+
+4. Never send money to a stranger, no matter how well you think you know them online.
+
+5. Be very wary when someone has endless excuses about why they cannot meet in person.
+
+6. Never give out personal or financial details.

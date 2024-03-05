@@ -1,0 +1,43 @@
+Get the free Morning Headlines email for news from our reporters across the world Sign up to our free Morning Headlines email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Morning Headlines email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The government has been urged to more than double maternity pay so it is equal to minimum wage as mothers are being forced to choose between eating and heating their homes.
+
+Mothers are brushing their teeth to beat hunger cravings, only eating toast all day, or resorting to consuming their kid’s leftovers – with one woman saying she became anaemic due to missing meals, new research has found.
+
+The study, by the trade union Unison and the charity Maternity Action, found seven in 10 mothers have turned down their thermostat while over half turned off the heating to save money.
+
+Mothers warn skimping on heating is causing damp and mould problems in their homes and leaving them with health problems such as respiratory issues – as well as sparking fears their new babies may be getting cold.
+
+Researchers, who polled 1,400 mothers in the UK who had taken maternity leave, also discovered around a third were either missing meals altogether or opting for smaller portion sizes.
+
+Stress during pregnancy puts women at increased risk of post-natal depression and other mental health conditions. The government should be supporting pregnant women and new mothers to live healthy lives, not leaving them struggling to keep their house warm and eat a balanced diet. Ros Bragg, director of Maternity Action
+
+One in 20 said they sometimes went without food all day to save money as they were so anxious about the cost of living crisis, while around half said they were being forced to buy less healthy food.
+
+Union representatives and campaigners urged ministers to raise statutory maternity pay to £364.70 a week to ensure new mothers are not forced to return to work too early – warning the current amount of £172.48 is inadequate.
+
+Ministers must more than double the pay so women receive what amounts to the national minimum wage of £10.42 per hour, campaigners warned, also raising concerns women are cutting down their maternity leave.
+
+Around six in 10 mothers went back to work before they completely recovered from giving birth due to anxiety about money, campaigners claimed.
+
+“Everyone is feeling the impact of escalating living costs. But it’s hitting new mums particularly hard,” Unison general secretary Christina McAnea said.
+
+“No mother should have to go without food or skip meals. But the failure of maternity pay to keep up with increasing living costs is driving many pregnant workers and new mothers into severe financial hardship.
+
+“The government is effectively forcing many women to choose between work and family. They must raise maternity leave pay to ensure no one is penalised for having a baby.”
+
+In the UK, statutory maternity leave is paid for up to 39 weeks – with mothers getting 90 per cent of average weekly earnings before tax for the first six weeks. After that, mothers get £172.48 or 90 per cent of their average weekly earnings, whichever sum is lower, for the next 33 weeks. Employers can offer better terms but they are not legally obliged to.
+
+“Mothers shouldn’t be forced to cut short their maternity leave because they can’t make ends meet,” Ros Bragg, Maternity Action’s director, said. “This is an important time for women to recover from the birth and bond with their baby.”
+
+Ms Bragg argued women must keep their stress levels down while pregnant and during their child's first year, rather than being wracked with anxiety about how they will afford basics.
+
+“Stress during pregnancy puts women at increased risk of post-natal depression and other mental health conditions,” she added. “The government should be supporting pregnant women and new mothers to live healthy lives, not leaving them struggling to keep their house warm and eat a balanced diet.”
+
+A mother, who was forced to return to work when her son was just three months old, said: “We had to take a £5,000 loan to keep us afloat for those three months (on maternity leave) because the maternity pay wasn’t enough.”
+
+A government spokesperson said: “We want new mothers to be able to take time away from work to protect their health and wellbeing and that of their child. That is why we increased Statutory Maternity Pay and Maternity Allowance by over 10 per cent last year and will raise it again by 6.7 per cent from April.
+
+“In addition, parents who are ready to return to work will benefit from the single biggest investment in childcare in England ever and we’re supporting those who are struggling with record financial support worth around £3,700 per household.”

@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Stuck in dating app loop with no date in sight? A lawsuit has claimed that is by design.
+
+Tinder, Hinge and other Match dating apps are filled with addictive features that encourage “compulsive” use, a proposed class-action lawsuit in America has claimed.
+
+The lawsuit filed in federal court in the Northern District of California on Wednesday — Valentine's Day — says Match intentionally designs its dating platforms with game-like features that “lock users into a perpetual pay-to-play loop” prioritizing profit over promises to help users find relationships.
+
+This, the suit claims, turns users into “addicts” who purchase ever-more-expensive subscriptions to access special features that promise romance and matches.
+
+“Match’s business model depends on generating returns through the monopolization of users’ attention, and Match has guaranteed its market success by fomenting dating app addiction that drives expensive subscriptions and perpetual use,” the lawsuit says. It was filed by six dating app users and seeks class action status.
+
+Though it focuses on adults, the lawsuit comes as tech companies face increasing scrutiny over addictive features that harm young people's mental health. Meta Platforms, the parent company of Facebook and Instagram, for instance, faces a lawsuit by dozens of states accusing it of contributing to the youth mental health crisis by designing features on Instagram and Facebook that addict children to its platforms.
+
+Match's apps, according to the lawsuit against the company, “employs recognized dopamine-manipulating product features” to turn users into “gamblers locked in a search for psychological rewards that Match makes elusive on purpose.”
+
+Representatives for Dallas-based Match did not immediately respond for comment.
+
+The case comes as stats from market data site Gitnux reveal that while 53% of all online dating profiles contain some false information, around 10% of the people you encounter aren’t who they say they are at all.
+
+Teri Hatcher (Getty Images for The American Heart Association)
+
+Just recently, Desperate Housewives actress Teri Hatcher revealed her dating profile had been deleted after it was thought to be fake.
+
+During an appearance on Getting Grilled With Curtis Stone, she told the host: “You know, I thought, ‘I’m gonna say to the universe that I am open and vulnerable, and I’m putting myself out there’. That’s what I thought my gesture of joining that Hinge app would be. And then they kicked me off…
+
+“They thought I was pretending to be Teri Hatcher,” she added.

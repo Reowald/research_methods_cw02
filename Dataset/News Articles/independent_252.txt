@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Money management trends on social media come and go – but the latest buzzword to capture people’s imagination could be quite useful.
+
+We’re talking about ‘loud budgeting’, which has apparently been gathering focus on TikTok – the hashtag #loudbudgeting has some 12.8 million views and counting. So, what does it mean, and could it actually save you money?
+
+What is loud budgeting?
+
+Rather than quietly fretting over your finances when your friends invite you to a social event, loud budgeting is all about being open and clear with others about your money situation. Essentially, it frees people from smiling politely during a night out, while anxiously watching their money quickly evaporate on their banking app.
+
+Some people may feel more comfortable being vocal about money than others, however. Interestingly, a recent survey by credit management company Lowell indicated men (31%) were more likely to feel comfortable talking about their financial situation than women (19%) overall.
+
+What if you’re worried about falling out with friends?
+
+Some friends and family members may initially feel a bit put out if you turn down an invite for a night out, or perhaps something more expensive such as a holiday. But they’re more likely to be understanding if you clearly explain to them why you need to save money, or can’t afford it right now.
+
+Perhaps you have long-term goals, such as paying off debts or getting on the property ladder, that are highly important to you. Also, many people are feeling the pinch due to the cost-of-living crisis, so people are likely to sympathise if you explain that you need to stick to your budget.
+
+Could there be compromises?
+
+It doesn’t have to be a case of all-or-nothing, either. Perhaps instead of booking a weekend break in a posh hotel, for example, you could opt for a staycation with self-catering. Or rather than a big night out, you could get a takeaway with friends. As long as you’re all together, you’ll be enjoying yourselves. It’s all about normalising having a conversation about what you can and can’t afford.
+
+How can I stick to my money goals?
+
+It’s worth making use of free online budgeting tools and banking app tools to help keep track of where your money is going too, and lessen the risk of impulse buys getting in the way of longer term goals.
+
+If you’re saving for something in particular, such as a holiday or a car, doing lots of research into your goal could help to focus your mind on the ultimate prize and prevent you from being distracted.
+
+Regularly checking your savings pot can also give you a sense of achievement that you’re moving closer to your goal. And as your saving strategy pays off, who knows, maybe your friends and family members will also feel inspired to do the same.

@@ -1,0 +1,27 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A woman who boarded an American Airlines flight bound for Los Angeles LAX from Nashville Airport allegedly did so without a boarding pass or identification after jumping a barrier to bypass airport security measures.
+
+The unidentified female flyer slipped past an unattended section of a Transportation Security Administration checkpoint to take the five-hour flight on 7 February.
+
+Travellers are required to show an ID or passport and a boarding pass before they can go through airport security and it is standard procedure for airlines to check boarding passes at the departure gate.
+
+American Airlines discovered the security breach during the flight to the USA’s west coast where the woman was arrested for questioning and an investigation is ongoing.
+
+An airline spokesperson told The Post: “On February 7, law enforcement greeted American Airlines flight AA1393 upon its arrival at Los Angeles International Airport (LAX). Our top priorities are safety and security, and we are aiding law enforcement in their investigation.”
+
+The woman and her personal belongings were screened by security in the usual procedure before boarding the aircraft.
+
+A TSA statement said: “TSA is reviewing the circumstances of this matter, but can confirm that the traveller in question was physically screened, along with their carry-on items, without incident at the Nashville International Airport security checkpoint on February 7th before boarding the flight. TSA and its airline partners are cooperating with the ongoing law enforcement investigation.”
+
+It’s not the first time a stowaway has bypassed airport security measures.
+
+A British man vanished after he travelled to New York’s JFK Airport without a ticket or a passport on Christmas Eve.
+
+Craig Sturt is accused of slipping through Heathrow Airport‘s security checks and was arrested and charged with offences under the Aviation Security Act before he was reported missing on 25 January.
+
+In January, a Russian man who flew from Denmark to the west coast of the USA in November without a passport or ticket was found guilty of being a stowaway on an aircraft.
+
+Sergey Vladimirovich Ochigava, who took Scandinavian Airlines flight 931 without a boarding pass on 6 November, now faces up to five years in federal prison.

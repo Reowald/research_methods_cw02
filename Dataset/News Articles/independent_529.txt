@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa has launched a new spacecraft that will look back down to Earth.
+
+The Pace satellite was carried up on a SpaceX rocket, and will turn around survey the world’s oceans and atmospheres to help with climate science.
+
+The 948 million dollar (£751 million) mission left before dawn from Florida, with the Falcon rocket heading south over the Atlantic to achieve a rare polar orbit.
+
+The satellite will spend at least three years studying the oceans from 420 miles up, as well as the atmosphere.
+
+It will scan the globe daily with two of the science instruments.
+
+A third instrument will take monthly measurements.
+
+“It’s going to be an unprecedented view of our home planet,” said project scientist Jeremy Werdell.
+
+The observations will help scientists improve hurricane and other severe weather forecasts, detail Earth’s changes as temperatures rise and better predict when harmful algae blooms will happen.
+
+Nasa already has more than two dozen Earth-observing satellites and instruments in orbit.
+
+But Pace should give better insights into how atmospheric aerosols such as pollutants and volcanic ash and sea life like algae and plankton interact with each other.
+
+“Pace will give us another dimension” to what other satellites observe, said Nasa‘s director of Earth science, Karen St Germain.
+
+Pace - short for Plankton, Aerosol, Cloud, Ocean Ecosystem - is the most advanced mission ever launched to study ocean biology.
+
+Current Earth-observing satellites can see in seven or eight colours, according to Mr Werdell.
+
+Pace will see in 200 colours that will allow scientists to identify the types of algae in the sea and types of particles in the air.
+
+Scientists expect to start getting data in a month or two.
+
+Nasa is collaborating with India on another advanced Earth-observing satellite due to launch this year.
+
+Named Nisar, it will use radar to measure the effect of rising temperatures on glaciers and other melting icy surfaces.
+
+Nasa‘s Pace project persevered despite efforts by the Trump administration to cancel it.
+
+“It has been a long, strange trip as they say,” Mr Werdell said before the launch.
+
+Additional reporting by Associated Press

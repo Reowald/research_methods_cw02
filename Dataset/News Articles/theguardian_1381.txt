@@ -1,0 +1,63 @@
+Academic researchers play an essential role in society and in higher education. By developing specialist knowledge of a subject and creating and disseminating new knowledge, they contribute to society’s development, improve the reputation of a university and make an institution more desirable for students.
+
+Technology can be transformative for researchers, giving them the tools to eliminate time-consuming tasks, collaborate with others around the world, and ensure their work is shared – and challenged and understood – as widely as possible.
+
+Despite this, digital transformation has so far largely focused on teaching and the student experience and has at times overlooked how technology can help researchers to produce and disseminate world-class research more easily.
+
+A recent report by the professional services firm EY – based on a survey of more than 3,000 undergraduate and post-graduate students, group discussions with teaching faculty and professional staff as well as interviews with university leaders around the world – found that researchers face a number of academic and administrative burdens that can impede their work.
+
+The report found that researchers need the equipment, technologies and computing power to support their work and also want tools that will allow them to spend more time on conducting groundbreaking research in new areas.
+
+View image in fullscreen Avantika Tomar, partner at consulting firm EY-Parthenon
+
+Avantika Tomar, a partner at the consulting firm EY-Parthenon, who focuses on higher education strategy, says researchers want to identify research gaps, foster collaborations and minimise administrative tasks.
+
+While universities have often invested in technical equipment and computing power to enable leading-edge research, they have sometimes neglected to focus on other ways in which technology can help researchers succeed.
+
+So how can tech free up researchers’ valuable time to better focus on the work they love?
+
+Increasing researchers’ bandwidth
+
+One of the most time-consuming tasks for researchers is sifting through information and identifying gaps in research that could be further explored. Tomar says: “I did a PhD myself and I remember that everything I would come up with as a potential research topic, someone somewhere in the world had either already done or was currently working on. There’s an overwhelming amount of data available, published in all its forms – some as articles, some as book chapters, some as books themselves, some as blogs.”
+
+However, digital tools such as ResearchGate and academia.edu can ease these burdens. Using the right keywords and themes, researchers can sift through information more efficiently to identify what data they are looking for and find research gaps to explore.
+
+“What it helps [researchers] do is to save time,” Tomar says. “Time that they can spend on the analytical or insightful part of the research, as opposed to the mundane data-related part. I think time-saving is the biggest thing. You can innovate more when you have the time, headspace and bandwidth.”
+
+Spending time on research – not admin
+
+A key frustration for researchers is the amount of time spent on administrative work, EY’s research found. There are a great many administrative tasks associated with conducting academic research, many of which are still paper-based, or require academics to access multiple systems and enter the same data numerous times. Universities can make a real difference to their research communities by improving these processes through technology – ideally with an end-to-end digital system for the entire research lifecycle and across institution.
+
+“In the future, we aim to realise an environment in which researchers can focus on their research and are not troubled by management tasks,” says Prof Atsushi Kanai, professor at Hosei University in Tokyo.
+
+“A good number of procedures require teams to input identical sets of information across multiple documents,” says Prof Yasushi Asami, professor at the University of Tokyo. “We intend to extend our use of digital transformation to end that type of duplication.”
+
+Technology can help to streamline mundane and time-consuming administrative tasks that distract from more meaningful parts of research. Administrative tasks such as grant applications, risk assessments, progress reporting, budget management, reviews and publication could all be made easier by using technology.
+
+Building relationships with research partners
+
+Technology can also help researchers to connect with each other to share data and ideas, another key priority for research academics, according to EY’s report. Researchers need effective collaboration platforms, tools to share sensitive data securely, and opportunities for face-to-face networking, they said.
+
+“It’s a double-edged sword,” Tomar says. “Building relationships with researchers globally takes time and effort; but if you don’t, you will find it difficult to get your paper published or to have a network to attend the right conferences with.”
+
+Digital communication tools such as social media, podcasts and video calls help foster collaboration, making it faster, more efficient and easier to connect with others around the world and to share data and ideas, improving the quality of research and widening the pool of potential collaborators, which is particularly helpful for those working in niche fields.
+
+Institutions that have embraced technology are already feeling the benefits. As one research academic in Singapore highlighted: “I work so effectively with other researchers all over the world. Our research is being done in different labs in different parts of the world, my co-researchers are able to track results from far away, work with the data, speak to me, speak to my colleagues. It’s a totally different world now, thanks to digital technology.”
+
+However, it’s important to not forget the value of face-to-face collaboration – the sort of water cooler moments that happen naturally in the offline world. To maximise research effectiveness, online and offline collaboration must be championed and nurtured.
+
+Universities also need to manage their collaborative tools and information systems carefully and implement robust cybersecurity measures and processes to protect sensitive research data, the report found.
+
+View image in fullscreen Technology can help researchers focus more on analysis, insights and impact, and less on administrative tasks. Photograph: sturti/Getty Images
+
+Helping research reach a wider audience
+
+The impact of even world-class research will be limited if no one has access to it. Digital tools enable researchers to share their work more widely and help people outside of academia to understand it. “Sometimes I feel academic research is only meant for academics,” Tomar says. “But data visualisation tools can help make it more readable for lay audiences, allowing you to showcase your research to policymakers and the corporate world and increase its impact,” Tomar says.
+
+Digital tools have the potential to transform the world of research for the better and increase the chances of finding real world application for scientific advancement. However, researchers need access to the right equipment, technologies, and computing power. Digital technologies and sophisticated online resources, such as libraries, large databases, statistical packages and modelling tools, will need to be accessible to all.
+
+“A lot of these technologies are not accessible or affordable for every researcher,” Tomar says. “To get to the point where we are meaningfully using technology, it needs to be more accessible to a wider audience as opposed to a select few.”
+
+With the right commitment and tools in place, academics would be able to focus their energies purely on the subjects they’re passionate about and produce world-leading research with fewer obstacles in the way. “We’ve started moving in the right direction,” Tomar says. “The tenacity of academic researchers and the implementation of the right technology is transforming research to achieve superior outcomes.”
+
+To find out more about harnessing tech to transform research, EY’s latest report into higher education

@@ -1,0 +1,27 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Tiger Woods believes the PGA Tour does not need to strike a deal with Saudi Arabia’s Public Investment Fund (PIF) in a move which could end golf’s civil war.
+
+PGA Tour players will benefit from equity of more than £1.1billion after the US-based circuit secured an investment deal with Strategic Sports Group (SSG).
+
+The deal also allows for a future “co-investment” from the PIF, which bankrolls the breakaway LIV Golf league, but Woods has joined Jordan Spieth in suggesting that may no longer be necessary.
+
+An initial “framework agreement” between the PIF, PGA Tour and DP World Tour was announced on June 6 last year and had a deadline of December 31, but that was subsequently extended.
+
+“Ultimately we would like to have PIF be a part of our tour and a part of our product,” Woods said in a press conference ahead of the Genesis Invitational, his first tournament of 2024.
+
+“Financially, we don’t right now, and the monies that they have come to the table with and what we initially had agreed to in the framework agreement, those are all the same numbers.
+
+“Anything beyond this is going to be obviously over and above.”
+
+Asked if he had a sense of what PIF’s ultimate goal was, Woods added: “From what their representatives have discussed with us, yes and no, because that changes and that evolves from a few months ago to what it is currently now.
+
+“I don’t know if it’s good or bad, it’s an ongoing, fluid process.”
+
+Woods was one of six PGA Tour player-directors who voted unanimously in favour of the deal with SSG, a consortium of US-based investors which includes Boston Red Sox and Liverpool owner John Henry.
+
+“The consortium that they have at SSG, the partners that have come together to be a part of this group is quite remarkable to be honest with you in the sports industry,” the 15-time major winner said.
+
+“They’re unbelievable leaders. At the time that we need great leadership going forward, I think this elicits that.”

@@ -1,0 +1,485 @@
+1 1 St Andrews 100 90.7 76.2 11.9 6.2 212 6.4 91 97.2
+
+2024 1 2023 1 Institution St Andrews Guardian score/100 100 Satisfied with teaching 90.7 Satisfied with feedback 76.2 Student to staff ratio 11.9 Spend per student/10 6.2 Average entry tariff 212 Value added score/10 6.4 Career after 15 months 91 Contin-uation 97.2
+
+2 2 Oxford 96.5 n/a n/a 10.3 10 203 6.1 94 98
+
+2024 2 2023 2 Institution Oxford Guardian score/100 96.5 Satisfied with teaching n/a Satisfied with feedback n/a Student to staff ratio 10.3 Spend per student/10 10 Average entry tariff 203 Value added score/10 6.1 Career after 15 months 94 Contin-uation 98
+
+3 3 Cambridge 94.8 n/a n/a 11.6 9.9 208 5.5 94 99
+
+2024 3 2023 3 Institution Cambridge Guardian score/100 94.8 Satisfied with teaching n/a Satisfied with feedback n/a Student to staff ratio 11.6 Spend per student/10 9.9 Average entry tariff 208 Value added score/10 5.5 Career after 15 months 94 Contin-uation 99
+
+4 4 London School of Economics 89.7 81.9 65.4 12.8 8.9 192 6.8 92 96.6
+
+2024 4 2023 4 Institution London School of Economics Guardian score/100 89.7 Satisfied with teaching 81.9 Satisfied with feedback 65.4 Student to staff ratio 12.8 Spend per student/10 8.9 Average entry tariff 192 Value added score/10 6.8 Career after 15 months 92 Contin-uation 96.6
+
+5 5 Imperial College 82.2 85.2 57.4 11.9 8.7 204 6.6 96 95.6
+
+2024 5 2023 5 Institution Imperial College Guardian score/100 82.2 Satisfied with teaching 85.2 Satisfied with feedback 57.4 Student to staff ratio 11.9 Spend per student/10 8.7 Average entry tariff 204 Value added score/10 6.6 Career after 15 months 96 Contin-uation 95.6
+
+6 7 Bath 81.4 84 61.6 15.3 6.2 180 6.1 92 96.8
+
+2024 6 2023 7 Institution Bath Guardian score/100 81.4 Satisfied with teaching 84 Satisfied with feedback 61.6 Student to staff ratio 15.3 Spend per student/10 6.2 Average entry tariff 180 Value added score/10 6.1 Career after 15 months 92 Contin-uation 96.8
+
+7 6 Durham 81.2 83.7 64.6 13.5 6.2 185 6.2 90 97.5
+
+2024 7 2023 6 Institution Durham Guardian score/100 81.2 Satisfied with teaching 83.7 Satisfied with feedback 64.6 Student to staff ratio 13.5 Spend per student/10 6.2 Average entry tariff 185 Value added score/10 6.2 Career after 15 months 90 Contin-uation 97.5
+
+8 9 UCL 77.4 81.8 60.8 10.9 7.3 183 5.9 90 96.4
+
+2024 8 2023 9 Institution UCL Guardian score/100 77.4 Satisfied with teaching 81.8 Satisfied with feedback 60.8 Student to staff ratio 10.9 Spend per student/10 7.3 Average entry tariff 183 Value added score/10 5.9 Career after 15 months 90 Contin-uation 96.4
+
+9 8 Warwick 76.7 83.7 68.9 13.9 7.6 179 4.1 89 96.3
+
+2024 9 2023 8 Institution Warwick Guardian score/100 76.7 Satisfied with teaching 83.7 Satisfied with feedback 68.9 Student to staff ratio 13.9 Spend per student/10 7.6 Average entry tariff 179 Value added score/10 4.1 Career after 15 months 89 Contin-uation 96.3
+
+10 10 Loughborough 75.6 82.1 61.9 14.1 4.5 162 5.5 89 96.6
+
+2024 10 2023 10 Institution Loughborough Guardian score/100 75.6 Satisfied with teaching 82.1 Satisfied with feedback 61.9 Student to staff ratio 14.1 Spend per student/10 4.5 Average entry tariff 162 Value added score/10 5.5 Career after 15 months 89 Contin-uation 96.6
+
+11 14 Lancaster 75.3 84 65.9 14 6.7 154 5.7 85 96.8
+
+2024 11 2023 14 Institution Lancaster Guardian score/100 75.3 Satisfied with teaching 84 Satisfied with feedback 65.9 Student to staff ratio 14 Spend per student/10 6.7 Average entry tariff 154 Value added score/10 5.7 Career after 15 months 85 Contin-uation 96.8
+
+12 13 Aberdeen 74.5 85.7 69.3 15.1 5.4 187 7.5 84 94.2
+
+2024 12 2023 13 Institution Aberdeen Guardian score/100 74.5 Satisfied with teaching 85.7 Satisfied with feedback 69.3 Student to staff ratio 15.1 Spend per student/10 5.4 Average entry tariff 187 Value added score/10 7.5 Career after 15 months 84 Contin-uation 94.2
+
+13 11 Glasgow 73.7 82.7 59.6 14.4 5.3 211 5.5 85 94.7
+
+2024 13 2023 11 Institution Glasgow Guardian score/100 73.7 Satisfied with teaching 82.7 Satisfied with feedback 59.6 Student to staff ratio 14.4 Spend per student/10 5.3 Average entry tariff 211 Value added score/10 5.5 Career after 15 months 85 Contin-uation 94.7
+
+14 12 Edinburgh 73.5 80.1 51.6 12.3 8.2 197 6 87 97.1
+
+2024 14 2023 12 Institution Edinburgh Guardian score/100 73.5 Satisfied with teaching 80.1 Satisfied with feedback 51.6 Student to staff ratio 12.3 Spend per student/10 8.2 Average entry tariff 197 Value added score/10 6 Career after 15 months 87 Contin-uation 97.1
+
+15 19 University of the Arts London 73 71.2 73.6 11.5 9.6 153 6.3 71 91.3
+
+2024 15 2023 19 Institution University of the Arts London Guardian score/100 73 Satisfied with teaching 71.2 Satisfied with feedback 73.6 Student to staff ratio 11.5 Spend per student/10 9.6 Average entry tariff 153 Value added score/10 6.3 Career after 15 months 71 Contin-uation 91.3
+
+16 16 Strathclyde 70.5 84 65.5 18.8 7.2 210 4.2 87 93.6
+
+2024 16 2023 16 Institution Strathclyde Guardian score/100 70.5 Satisfied with teaching 84 Satisfied with feedback 65.5 Student to staff ratio 18.8 Spend per student/10 7.2 Average entry tariff 210 Value added score/10 4.2 Career after 15 months 87 Contin-uation 93.6
+
+17 16 Bristol 69.8 79.8 58.2 13.9 7.4 174 5.5 88 96.6
+
+2024 17 2023 16 Institution Bristol Guardian score/100 69.8 Satisfied with teaching 79.8 Satisfied with feedback 58.2 Student to staff ratio 13.9 Spend per student/10 7.4 Average entry tariff 174 Value added score/10 5.5 Career after 15 months 88 Contin-uation 96.6
+
+18 15 Exeter 69.7 83.2 65.2 16.3 4.7 163 6.1 87 96.2
+
+2024 18 2023 15 Institution Exeter Guardian score/100 69.7 Satisfied with teaching 83.2 Satisfied with feedback 65.2 Student to staff ratio 16.3 Spend per student/10 4.7 Average entry tariff 163 Value added score/10 6.1 Career after 15 months 87 Contin-uation 96.2
+
+19 21 York 68.4 82.5 63.9 14.2 7.2 157 4.1 85 96
+
+2024 19 2023 21 Institution York Guardian score/100 68.4 Satisfied with teaching 82.5 Satisfied with feedback 63.9 Student to staff ratio 14.2 Spend per student/10 7.2 Average entry tariff 157 Value added score/10 4.1 Career after 15 months 85 Contin-uation 96
+
+20 16 Southampton 67.3 82 65.7 14 6.2 156 5.7 85 95.1
+
+2024 20 2023 16 Institution Southampton Guardian score/100 67.3 Satisfied with teaching 82 Satisfied with feedback 65.7 Student to staff ratio 14 Spend per student/10 6.2 Average entry tariff 156 Value added score/10 5.7 Career after 15 months 85 Contin-uation 95.1
+
+21 30 Sheffield 66.5 82.9 65.5 14.4 5.7 157 5.2 86 95.7
+
+2024 21 2023 30 Institution Sheffield Guardian score/100 66.5 Satisfied with teaching 82.9 Satisfied with feedback 65.5 Student to staff ratio 14.4 Spend per student/10 5.7 Average entry tariff 157 Value added score/10 5.2 Career after 15 months 86 Contin-uation 95.7
+
+21 24 Surrey 66.5 83.4 69.8 14.4 5.5 142 4 87 93.7
+
+2024 21 2023 24 Institution Surrey Guardian score/100 66.5 Satisfied with teaching 83.4 Satisfied with feedback 69.8 Student to staff ratio 14.4 Spend per student/10 5.5 Average entry tariff 142 Value added score/10 4 Career after 15 months 87 Contin-uation 93.7
+
+23 29 King's College London 65.9 78.1 58 14 7.9 169 5.6 89 94.6
+
+2024 23 2023 29 Institution King's College London Guardian score/100 65.9 Satisfied with teaching 78.1 Satisfied with feedback 58 Student to staff ratio 14 Spend per student/10 7.9 Average entry tariff 169 Value added score/10 5.6 Career after 15 months 89 Contin-uation 94.6
+
+24 30 Manchester 65.8 76.7 57.5 13.9 7.7 167 5.5 87 96.2
+
+2024 24 2023 30 Institution Manchester Guardian score/100 65.8 Satisfied with teaching 76.7 Satisfied with feedback 57.5 Student to staff ratio 13.9 Spend per student/10 7.7 Average entry tariff 167 Value added score/10 5.5 Career after 15 months 87 Contin-uation 96.2
+
+25 22 Aston 65 78 63 17 5.8 134 6.2 86 95
+
+2024 25 2023 22 Institution Aston Guardian score/100 65 Satisfied with teaching 78 Satisfied with feedback 63 Student to staff ratio 17 Spend per student/10 5.8 Average entry tariff 134 Value added score/10 6.2 Career after 15 months 86 Contin-uation 95
+
+25 26 Swansea 65 81.2 65.1 15.9 6.6 138 6.2 83 92
+
+2024 25 2023 26 Institution Swansea Guardian score/100 65 Satisfied with teaching 81.2 Satisfied with feedback 65.1 Student to staff ratio 15.9 Spend per student/10 6.6 Average entry tariff 138 Value added score/10 6.2 Career after 15 months 83 Contin-uation 92
+
+27 20 Leeds 64.5 76.7 56.5 14.4 7.3 163 5.2 86 96
+
+2024 27 2023 20 Institution Leeds Guardian score/100 64.5 Satisfied with teaching 76.7 Satisfied with feedback 56.5 Student to staff ratio 14.4 Spend per student/10 7.3 Average entry tariff 163 Value added score/10 5.2 Career after 15 months 86 Contin-uation 96
+
+28 38 Ulster 64.4 81.2 71.8 18.3 4.4 135 7.3 82 90.8
+
+2024 28 2023 38 Institution Ulster Guardian score/100 64.4 Satisfied with teaching 81.2 Satisfied with feedback 71.8 Student to staff ratio 18.3 Spend per student/10 4.4 Average entry tariff 135 Value added score/10 7.3 Career after 15 months 82 Contin-uation 90.8
+
+29 35 Cardiff 64.2 80 62.6 13.9 6.4 153 4 87 94.5
+
+2024 29 2023 35 Institution Cardiff Guardian score/100 64.2 Satisfied with teaching 80 Satisfied with feedback 62.6 Student to staff ratio 13.9 Spend per student/10 6.4 Average entry tariff 153 Value added score/10 4 Career after 15 months 87 Contin-uation 94.5
+
+30 38 Bolton 63.5 83.6 76.6 15.1 8.2 121 4.4 74 83.7
+
+2024 30 2023 38 Institution Bolton Guardian score/100 63.5 Satisfied with teaching 83.6 Satisfied with feedback 76.6 Student to staff ratio 15.1 Spend per student/10 8.2 Average entry tariff 121 Value added score/10 4.4 Career after 15 months 74 Contin-uation 83.7
+
+30 42 Essex 63.5 77.8 64.8 14.6 7.3 126 7.2 78 89.8
+
+2024 30 2023 42 Institution Essex Guardian score/100 63.5 Satisfied with teaching 77.8 Satisfied with feedback 64.8 Student to staff ratio 14.6 Spend per student/10 7.3 Average entry tariff 126 Value added score/10 7.2 Career after 15 months 78 Contin-uation 89.8
+
+32 23 West London 63.3 86.4 79 12.9 5.9 112 6.5 75 85.9
+
+2024 32 2023 23 Institution West London Guardian score/100 63.3 Satisfied with teaching 86.4 Satisfied with feedback 79 Student to staff ratio 12.9 Spend per student/10 5.9 Average entry tariff 112 Value added score/10 6.5 Career after 15 months 75 Contin-uation 85.9
+
+33 67 Portsmouth 62.7 80.2 71.6 15.8 7.5 127 5.6 79 90.7
+
+2024 33 2023 67 Institution Portsmouth Guardian score/100 62.7 Satisfied with teaching 80.2 Satisfied with feedback 71.6 Student to staff ratio 15.8 Spend per student/10 7.5 Average entry tariff 127 Value added score/10 5.6 Career after 15 months 79 Contin-uation 90.7
+
+33 27 UEA 62.7 80.3 62 13.4 4 140 6.1 85 93.3
+
+2024 33 2023 27 Institution UEA Guardian score/100 62.7 Satisfied with teaching 80.3 Satisfied with feedback 62 Student to staff ratio 13.4 Spend per student/10 4 Average entry tariff 140 Value added score/10 6.1 Career after 15 months 85 Contin-uation 93.3
+
+35 55 Edge Hill 62.3 75.5 70.7 15.1 5.3 134 6 78 91.2
+
+2024 35 2023 55 Institution Edge Hill Guardian score/100 62.3 Satisfied with teaching 75.5 Satisfied with feedback 70.7 Student to staff ratio 15.1 Spend per student/10 5.3 Average entry tariff 134 Value added score/10 6 Career after 15 months 78 Contin-uation 91.2
+
+36 40 Liverpool 62.1 78.4 58.9 13.6 7.4 147 6.1 84 95.9
+
+2024 36 2023 40 Institution Liverpool Guardian score/100 62.1 Satisfied with teaching 78.4 Satisfied with feedback 58.9 Student to staff ratio 13.6 Spend per student/10 7.4 Average entry tariff 147 Value added score/10 6.1 Career after 15 months 84 Contin-uation 95.9
+
+37 27 Birmingham 61.4 79.5 56.7 14.6 4.2 157 4.8 88 96
+
+2024 37 2023 27 Institution Birmingham Guardian score/100 61.4 Satisfied with teaching 79.5 Satisfied with feedback 56.7 Student to staff ratio 14.6 Spend per student/10 4.2 Average entry tariff 157 Value added score/10 4.8 Career after 15 months 88 Contin-uation 96
+
+38 46 Northumbria 61.3 76.4 70.6 15.5 4.8 143 6.6 82 89.2
+
+2024 38 2023 46 Institution Northumbria Guardian score/100 61.3 Satisfied with teaching 76.4 Satisfied with feedback 70.6 Student to staff ratio 15.5 Spend per student/10 4.8 Average entry tariff 143 Value added score/10 6.6 Career after 15 months 82 Contin-uation 89.2
+
+38 37 Chichester 61.3 82 70.3 15.2 3 134 5.7 76 92.2
+
+2024 38 2023 37 Institution Chichester Guardian score/100 61.3 Satisfied with teaching 82 Satisfied with feedback 70.3 Student to staff ratio 15.2 Spend per student/10 3 Average entry tariff 134 Value added score/10 5.7 Career after 15 months 76 Contin-uation 92.2
+
+40 52 Glasgow Caledonian 61.1 79.6 67.5 22.6 3.5 178 6.8 83 91.3
+
+2024 40 2023 52 Institution Glasgow Caledonian Guardian score/100 61.1 Satisfied with teaching 79.6 Satisfied with feedback 67.5 Student to staff ratio 22.6 Spend per student/10 3.5 Average entry tariff 178 Value added score/10 6.8 Career after 15 months 83 Contin-uation 91.3
+
+41 34 Lincoln 61 79.8 68.8 15.1 3.9 127 5.2 77 94.3
+
+2024 41 2023 34 Institution Lincoln Guardian score/100 61 Satisfied with teaching 79.8 Satisfied with feedback 68.8 Student to staff ratio 15.1 Spend per student/10 3.9 Average entry tariff 127 Value added score/10 5.2 Career after 15 months 77 Contin-uation 94.3
+
+42 62 Nottingham Trent 60.9 80.8 73.8 15.1 4.4 128 4.1 77 92.5
+
+2024 42 2023 62 Institution Nottingham Trent Guardian score/100 60.9 Satisfied with teaching 80.8 Satisfied with feedback 73.8 Student to staff ratio 15.1 Spend per student/10 4.4 Average entry tariff 128 Value added score/10 4.1 Career after 15 months 77 Contin-uation 92.5
+
+43 24 UWE Bristol 60.7 80.2 68.5 16.8 4.5 129 5.7 80 90.2
+
+2024 43 2023 24 Institution UWE Bristol Guardian score/100 60.7 Satisfied with teaching 80.2 Satisfied with feedback 68.5 Student to staff ratio 16.8 Spend per student/10 4.5 Average entry tariff 129 Value added score/10 5.7 Career after 15 months 80 Contin-uation 90.2
+
+44 61 Reading 60.5 79.6 65.3 15.8 5.5 130 5.7 82 94.6
+
+2024 44 2023 61 Institution Reading Guardian score/100 60.5 Satisfied with teaching 79.6 Satisfied with feedback 65.3 Student to staff ratio 15.8 Spend per student/10 5.5 Average entry tariff 130 Value added score/10 5.7 Career after 15 months 82 Contin-uation 94.6
+
+45 40 Aberystwyth 60.4 87.8 80.4 14.9 3.8 130 3.4 74 91.4
+
+2024 45 2023 40 Institution Aberystwyth Guardian score/100 60.4 Satisfied with teaching 87.8 Satisfied with feedback 80.4 Student to staff ratio 14.9 Spend per student/10 3.8 Average entry tariff 130 Value added score/10 3.4 Career after 15 months 74 Contin-uation 91.4
+
+46 51 Coventry 60.2 83.6 70.3 13 n/a 126 6.9 78 85.5
+
+2024 46 2023 51 Institution Coventry Guardian score/100 60.2 Satisfied with teaching 83.6 Satisfied with feedback 70.3 Student to staff ratio 13 Spend per student/10 n/a Average entry tariff 126 Value added score/10 6.9 Career after 15 months 78 Contin-uation 85.5
+
+47 33 Royal Holloway 59.8 79.5 66.3 15.9 3.8 138 5.2 80 93.8
+
+2024 47 2023 33 Institution Royal Holloway Guardian score/100 59.8 Satisfied with teaching 79.5 Satisfied with feedback 66.3 Student to staff ratio 15.9 Spend per student/10 3.8 Average entry tariff 138 Value added score/10 5.2 Career after 15 months 80 Contin-uation 93.8
+
+48 35 Leicester 59.7 77.8 62.7 14.4 5.2 131 5.9 82 95.1
+
+2024 48 2023 35 Institution Leicester Guardian score/100 59.7 Satisfied with teaching 77.8 Satisfied with feedback 62.7 Student to staff ratio 14.4 Spend per student/10 5.2 Average entry tariff 131 Value added score/10 5.9 Career after 15 months 82 Contin-uation 95.1
+
+49 50 Sunderland 59.5 79.2 72.4 13.9 7.4 127 6.7 72 85.2
+
+2024 49 2023 50 Institution Sunderland Guardian score/100 59.5 Satisfied with teaching 79.2 Satisfied with feedback 72.4 Student to staff ratio 13.9 Spend per student/10 7.4 Average entry tariff 127 Value added score/10 6.7 Career after 15 months 72 Contin-uation 85.2
+
+50 46 Queen's, Belfast 59.4 79.9 61.3 15.4 4.6 157 4.7 89 93.8
+
+2024 50 2023 46 Institution Queen's, Belfast Guardian score/100 59.4 Satisfied with teaching 79.9 Satisfied with feedback 61.3 Student to staff ratio 15.4 Spend per student/10 4.6 Average entry tariff 157 Value added score/10 4.7 Career after 15 months 89 Contin-uation 93.8
+
+51 42 Oxford Brookes 59.3 76.2 66.4 13 4.8 118 5 80 93.6
+
+2024 51 2023 42 Institution Oxford Brookes Guardian score/100 59.3 Satisfied with teaching 76.2 Satisfied with feedback 66.4 Student to staff ratio 13 Spend per student/10 4.8 Average entry tariff 118 Value added score/10 5 Career after 15 months 80 Contin-uation 93.6
+
+52 86 SOAS 59.2 77.8 61.2 15 6.1 140 6.5 82 91.8
+
+2024 52 2023 86 Institution SOAS Guardian score/100 59.2 Satisfied with teaching 77.8 Satisfied with feedback 61.2 Student to staff ratio 15 Spend per student/10 6.1 Average entry tariff 140 Value added score/10 6.5 Career after 15 months 82 Contin-uation 91.8
+
+53 74 Chester 59 76.4 71.8 15.1 n/a 131 6.5 77 90.2
+
+2024 53 2023 74 Institution Chester Guardian score/100 59 Satisfied with teaching 76.4 Satisfied with feedback 71.8 Student to staff ratio 15.1 Spend per student/10 n/a Average entry tariff 131 Value added score/10 6.5 Career after 15 months 77 Contin-uation 90.2
+
+54 82 Bangor 58.9 82.9 73.6 17.1 3.5 131 5.7 78 90
+
+2024 54 2023 82 Institution Bangor Guardian score/100 58.9 Satisfied with teaching 82.9 Satisfied with feedback 73.6 Student to staff ratio 17.1 Spend per student/10 3.5 Average entry tariff 131 Value added score/10 5.7 Career after 15 months 78 Contin-uation 90
+
+55 48 Derby 58.8 81.8 76.2 14.9 5 126 4.9 75 87.7
+
+2024 55 2023 48 Institution Derby Guardian score/100 58.8 Satisfied with teaching 81.8 Satisfied with feedback 76.2 Student to staff ratio 14.9 Spend per student/10 5 Average entry tariff 126 Value added score/10 4.9 Career after 15 months 75 Contin-uation 87.7
+
+56 55 Kent 58.4 78.6 61.5 16.5 4.7 127 6.9 78 93.4
+
+2024 56 2023 55 Institution Kent Guardian score/100 58.4 Satisfied with teaching 78.6 Satisfied with feedback 61.5 Student to staff ratio 16.5 Spend per student/10 4.7 Average entry tariff 127 Value added score/10 6.9 Career after 15 months 78 Contin-uation 93.4
+
+57 87 Liverpool John Moores 58.3 79.3 68.2 18.1 3.2 134 5.4 77 92.2
+
+2024 57 2023 87 Institution Liverpool John Moores Guardian score/100 58.3 Satisfied with teaching 79.3 Satisfied with feedback 68.2 Student to staff ratio 18.1 Spend per student/10 3.2 Average entry tariff 134 Value added score/10 5.4 Career after 15 months 77 Contin-uation 92.2
+
+58 55 Kingston 58.1 78.3 70 18.1 4.1 129 5.3 77 90.8
+
+2024 58 2023 55 Institution Kingston Guardian score/100 58.1 Satisfied with teaching 78.3 Satisfied with feedback 70 Student to staff ratio 18.1 Spend per student/10 4.1 Average entry tariff 129 Value added score/10 5.3 Career after 15 months 77 Contin-uation 90.8
+
+59 84 Manchester Met 58 79.6 72.4 18 4.7 134 5.4 75 90.3
+
+2024 59 2023 84 Institution Manchester Met Guardian score/100 58 Satisfied with teaching 79.6 Satisfied with feedback 72.4 Student to staff ratio 18 Spend per student/10 4.7 Average entry tariff 134 Value added score/10 5.4 Career after 15 months 75 Contin-uation 90.3
+
+59 63 Nottingham 58 79.5 59.2 15.7 6 155 4.5 87 95.7
+
+2024 59 2023 63 Institution Nottingham Guardian score/100 58 Satisfied with teaching 79.5 Satisfied with feedback 59.2 Student to staff ratio 15.7 Spend per student/10 6 Average entry tariff 155 Value added score/10 4.5 Career after 15 months 87 Contin-uation 95.7
+
+61 58 City 57.9 73.3 56.1 18.2 6.9 138 6.7 82 92.1
+
+2024 61 2023 58 Institution City Guardian score/100 57.9 Satisfied with teaching 73.3 Satisfied with feedback 56.1 Student to staff ratio 18.2 Spend per student/10 6.9 Average entry tariff 138 Value added score/10 6.7 Career after 15 months 82 Contin-uation 92.1
+
+61 59 Stirling 57.9 82.4 68.9 19.2 4.1 181 3.1 78 93
+
+2024 61 2023 59 Institution Stirling Guardian score/100 57.9 Satisfied with teaching 82.4 Satisfied with feedback 68.9 Student to staff ratio 19.2 Spend per student/10 4.1 Average entry tariff 181 Value added score/10 3.1 Career after 15 months 78 Contin-uation 93
+
+63 68 Staffordshire 57.8 80.9 74.2 17.4 6.8 130 6.1 75 85.8
+
+2024 63 2023 68 Institution Staffordshire Guardian score/100 57.8 Satisfied with teaching 80.9 Satisfied with feedback 74.2 Student to staff ratio 17.4 Spend per student/10 6.8 Average entry tariff 130 Value added score/10 6.1 Career after 15 months 75 Contin-uation 85.8
+
+63 89 Queen Margaret 57.8 81.9 69.5 20.6 1.9 170 5.6 77 92.3
+
+2024 63 2023 89 Institution Queen Margaret Guardian score/100 57.8 Satisfied with teaching 81.9 Satisfied with feedback 69.5 Student to staff ratio 20.6 Spend per student/10 1.9 Average entry tariff 170 Value added score/10 5.6 Career after 15 months 77 Contin-uation 92.3
+
+65 66 Sussex 57.5 79.1 61.6 17.8 5.8 133 4.7 78 95.2
+
+2024 65 2023 66 Institution Sussex Guardian score/100 57.5 Satisfied with teaching 79.1 Satisfied with feedback 61.6 Student to staff ratio 17.8 Spend per student/10 5.8 Average entry tariff 133 Value added score/10 4.7 Career after 15 months 78 Contin-uation 95.2
+
+66 44 Dundee 57.4 80 61.7 15.4 4.9 184 5.7 86 92.3
+
+2024 66 2023 44 Institution Dundee Guardian score/100 57.4 Satisfied with teaching 80 Satisfied with feedback 61.7 Student to staff ratio 15.4 Spend per student/10 4.9 Average entry tariff 184 Value added score/10 5.7 Career after 15 months 86 Contin-uation 92.3
+
+67 63 Newcastle 57.3 76 57 14.3 6.4 150 4.4 86 95.3
+
+2024 67 2023 63 Institution Newcastle Guardian score/100 57.3 Satisfied with teaching 76 Satisfied with feedback 57 Student to staff ratio 14.3 Spend per student/10 6.4 Average entry tariff 150 Value added score/10 4.4 Career after 15 months 86 Contin-uation 95.3
+
+68 69 Suffolk 57.2 85.7 78.7 13.1 7.1 112 4.9 86 87.6
+
+2024 68 2023 69 Institution Suffolk Guardian score/100 57.2 Satisfied with teaching 85.7 Satisfied with feedback 78.7 Student to staff ratio 13.1 Spend per student/10 7.1 Average entry tariff 112 Value added score/10 4.9 Career after 15 months 86 Contin-uation 87.6
+
+69 63 Plymouth 57 79.8 67.6 16.7 5.2 135 5.3 83 91.5
+
+2024 69 2023 63 Institution Plymouth Guardian score/100 57 Satisfied with teaching 79.8 Satisfied with feedback 67.6 Student to staff ratio 16.7 Spend per student/10 5.2 Average entry tariff 135 Value added score/10 5.3 Career after 15 months 83 Contin-uation 91.5
+
+70 92 Brighton 56.7 74.9 63.3 17 4.8 122 6.8 79 89.2
+
+2024 70 2023 92 Institution Brighton Guardian score/100 56.7 Satisfied with teaching 74.9 Satisfied with feedback 63.3 Student to staff ratio 17 Spend per student/10 4.8 Average entry tariff 122 Value added score/10 6.8 Career after 15 months 79 Contin-uation 89.2
+
+71 49 University for the Creative Arts 56.3 77.3 74.4 12.6 8.8 137 5.1 62 87.7
+
+2024 71 2023 49 Institution University for the Creative Arts Guardian score/100 56.3 Satisfied with teaching 77.3 Satisfied with feedback 74.4 Student to staff ratio 12.6 Spend per student/10 8.8 Average entry tariff 137 Value added score/10 5.1 Career after 15 months 62 Contin-uation 87.7
+
+72 53 South Wales 56 78.6 72 15.7 5.7 128 5.6 73 86.9
+
+2024 72 2023 53 Institution South Wales Guardian score/100 56 Satisfied with teaching 78.6 Satisfied with feedback 72 Student to staff ratio 15.7 Spend per student/10 5.7 Average entry tariff 128 Value added score/10 5.6 Career after 15 months 73 Contin-uation 86.9
+
+73 54 Queen Mary 55.9 77 59.3 15.6 5 150 5.5 82 95.3
+
+2024 73 2023 54 Institution Queen Mary Guardian score/100 55.9 Satisfied with teaching 77 Satisfied with feedback 59.3 Student to staff ratio 15.6 Spend per student/10 5 Average entry tariff 150 Value added score/10 5.5 Career after 15 months 82 Contin-uation 95.3
+
+74 32 Keele 55.8 78.5 63.7 15.1 3 132 6.1 83 92.8
+
+2024 74 2023 32 Institution Keele Guardian score/100 55.8 Satisfied with teaching 78.5 Satisfied with feedback 63.7 Student to staff ratio 15.1 Spend per student/10 3 Average entry tariff 132 Value added score/10 6.1 Career after 15 months 83 Contin-uation 92.8
+
+74 70 St Mary's, Twickenham 55.8 85.4 76.4 16.4 2.1 119 5.4 80 84.3
+
+2024 74 2023 70 Institution St Mary's, Twickenham Guardian score/100 55.8 Satisfied with teaching 85.4 Satisfied with feedback 76.4 Student to staff ratio 16.4 Spend per student/10 2.1 Average entry tariff 119 Value added score/10 5.4 Career after 15 months 80 Contin-uation 84.3
+
+76 97 Falmouth 55.5 80.4 73.7 14.3 6 134 4.7 69 n/a
+
+2024 76 2023 97 Institution Falmouth Guardian score/100 55.5 Satisfied with teaching 80.4 Satisfied with feedback 73.7 Student to staff ratio 14.3 Spend per student/10 6 Average entry tariff 134 Value added score/10 4.7 Career after 15 months 69 Contin-uation n/a
+
+77 70 Bucks New University 55.4 82.4 76.3 16.7 9.5 112 4.8 73 84.2
+
+2024 77 2023 70 Institution Bucks New University Guardian score/100 55.4 Satisfied with teaching 82.4 Satisfied with feedback 76.3 Student to staff ratio 16.7 Spend per student/10 9.5 Average entry tariff 112 Value added score/10 4.8 Career after 15 months 73 Contin-uation 84.2
+
+78 77 York St John 55.3 83.9 77.1 17.7 3.9 121 5.3 75 88.3
+
+2024 78 2023 77 Institution York St John Guardian score/100 55.3 Satisfied with teaching 83.9 Satisfied with feedback 77.1 Student to staff ratio 17.7 Spend per student/10 3.9 Average entry tariff 121 Value added score/10 5.3 Career after 15 months 75 Contin-uation 88.3
+
+79 78 Huddersfield 55.2 76.4 73 14.6 5.1 130 6.2 75 87.9
+
+2024 79 2023 78 Institution Huddersfield Guardian score/100 55.2 Satisfied with teaching 76.4 Satisfied with feedback 73 Student to staff ratio 14.6 Spend per student/10 5.1 Average entry tariff 130 Value added score/10 6.2 Career after 15 months 75 Contin-uation 87.9
+
+80 80 Teesside 55.1 81.8 75.4 17.2 5.9 124 6.7 81 86.2
+
+2024 80 2023 80 Institution Teesside Guardian score/100 55.1 Satisfied with teaching 81.8 Satisfied with feedback 75.4 Student to staff ratio 17.2 Spend per student/10 5.9 Average entry tariff 124 Value added score/10 6.7 Career after 15 months 81 Contin-uation 86.2
+
+81 96 London South Bank 54.9 77.5 66.9 17.1 5.4 115 6.9 75 86.7
+
+2024 81 2023 96 Institution London South Bank Guardian score/100 54.9 Satisfied with teaching 77.5 Satisfied with feedback 66.9 Student to staff ratio 17.1 Spend per student/10 5.4 Average entry tariff 115 Value added score/10 6.9 Career after 15 months 75 Contin-uation 86.7
+
+82 99 Liverpool Hope 54.7 79.9 75.4 14.9 1.9 123 4.5 72 89.3
+
+2024 82 2023 99 Institution Liverpool Hope Guardian score/100 54.7 Satisfied with teaching 79.9 Satisfied with feedback 75.4 Student to staff ratio 14.9 Spend per student/10 1.9 Average entry tariff 123 Value added score/10 4.5 Career after 15 months 72 Contin-uation 89.3
+
+83 78 Sheffield Hallam 54.6 75.8 66.5 17.1 5.7 121 5.8 80 89.9
+
+2024 83 2023 78 Institution Sheffield Hallam Guardian score/100 54.6 Satisfied with teaching 75.8 Satisfied with feedback 66.5 Student to staff ratio 17.1 Spend per student/10 5.7 Average entry tariff 121 Value added score/10 5.8 Career after 15 months 80 Contin-uation 89.9
+
+84 85 Abertay 54.2 82.7 73.7 22.8 1.6 163 7.2 78 87
+
+2024 84 2023 85 Institution Abertay Guardian score/100 54.2 Satisfied with teaching 82.7 Satisfied with feedback 73.7 Student to staff ratio 22.8 Spend per student/10 1.6 Average entry tariff 163 Value added score/10 7.2 Career after 15 months 78 Contin-uation 87
+
+85 104 London Met 54.1 84.7 78.2 19.3 4.6 102 6.5 68 83.8
+
+2024 85 2023 104 Institution London Met Guardian score/100 54.1 Satisfied with teaching 84.7 Satisfied with feedback 78.2 Student to staff ratio 19.3 Spend per student/10 4.6 Average entry tariff 102 Value added score/10 6.5 Career after 15 months 68 Contin-uation 83.8
+
+85 45 Heriot-Watt 54.1 72.1 52.7 18.4 n/a 176 5.1 83 91.7
+
+2024 85 2023 45 Institution Heriot-Watt Guardian score/100 54.1 Satisfied with teaching 72.1 Satisfied with feedback 52.7 Student to staff ratio 18.4 Spend per student/10 n/a Average entry tariff 176 Value added score/10 5.1 Career after 15 months 83 Contin-uation 91.7
+
+87 74 Hertfordshire 54 78.5 70 17.6 3.6 119 6.7 77 88.9
+
+2024 87 2023 74 Institution Hertfordshire Guardian score/100 54 Satisfied with teaching 78.5 Satisfied with feedback 70 Student to staff ratio 17.6 Spend per student/10 3.6 Average entry tariff 119 Value added score/10 6.7 Career after 15 months 77 Contin-uation 88.9
+
+88 89 Salford 53.9 76.5 69.2 18.1 4.2 131 6.1 77 88.1
+
+2024 88 2023 89 Institution Salford Guardian score/100 53.9 Satisfied with teaching 76.5 Satisfied with feedback 69.2 Student to staff ratio 18.1 Spend per student/10 4.2 Average entry tariff 131 Value added score/10 6.1 Career after 15 months 77 Contin-uation 88.1
+
+89 59 Hull 53.8 79 72.5 16.5 4.4 130 6.2 79 87.6
+
+2024 89 2023 59 Institution Hull Guardian score/100 53.8 Satisfied with teaching 79 Satisfied with feedback 72.5 Student to staff ratio 16.5 Spend per student/10 4.4 Average entry tariff 130 Value added score/10 6.2 Career after 15 months 79 Contin-uation 87.6
+
+90 70 Arts University Bournemouth 53.6 78.4 70.9 14.4 3.4 146 3.1 64 92.7
+
+2024 90 2023 70 Institution Arts University Bournemouth Guardian score/100 53.6 Satisfied with teaching 78.4 Satisfied with feedback 70.9 Student to staff ratio 14.4 Spend per student/10 3.4 Average entry tariff 146 Value added score/10 3.1 Career after 15 months 64 Contin-uation 92.7
+
+90 80 Bradford 53.6 74.4 63.6 20.1 3.2 131 7.2 81 90.9
+
+2024 90 2023 80 Institution Bradford Guardian score/100 53.6 Satisfied with teaching 74.4 Satisfied with feedback 63.6 Student to staff ratio 20.1 Spend per student/10 3.2 Average entry tariff 131 Value added score/10 7.2 Career after 15 months 81 Contin-uation 90.9
+
+92 83 Edinburgh Napier 53 81.5 69.9 21.4 3.9 159 6.5 83 90
+
+2024 92 2023 83 Institution Edinburgh Napier Guardian score/100 53 Satisfied with teaching 81.5 Satisfied with feedback 69.9 Student to staff ratio 21.4 Spend per student/10 3.9 Average entry tariff 159 Value added score/10 6.5 Career after 15 months 83 Contin-uation 90
+
+93 101 Solent 52.8 79.3 70.7 15.3 4.3 119 5.5 70 88
+
+2024 93 2023 101 Institution Solent Guardian score/100 52.8 Satisfied with teaching 79.3 Satisfied with feedback 70.7 Student to staff ratio 15.3 Spend per student/10 4.3 Average entry tariff 119 Value added score/10 5.5 Career after 15 months 70 Contin-uation 88
+
+94 89 Bath Spa 52.4 79.9 75.7 19.6 3.1 123 6.1 70 91.3
+
+2024 94 2023 89 Institution Bath Spa Guardian score/100 52.4 Satisfied with teaching 79.9 Satisfied with feedback 75.7 Student to staff ratio 19.6 Spend per student/10 3.1 Average entry tariff 123 Value added score/10 6.1 Career after 15 months 70 Contin-uation 91.3
+
+95 100 Birmingham City 52 78.7 71.4 17.1 4.9 132 2.8 76 90.5
+
+2024 95 2023 100 Institution Birmingham City Guardian score/100 52 Satisfied with teaching 78.7 Satisfied with feedback 71.4 Student to staff ratio 17.1 Spend per student/10 4.9 Average entry tariff 132 Value added score/10 2.8 Career after 15 months 76 Contin-uation 90.5
+
+96 113 East London 51.8 77.4 69.4 25 4.1 118 6.3 70 91.6
+
+2024 96 2023 113 Institution East London Guardian score/100 51.8 Satisfied with teaching 77.4 Satisfied with feedback 69.4 Student to staff ratio 25 Spend per student/10 4.1 Average entry tariff 118 Value added score/10 6.3 Career after 15 months 70 Contin-uation 91.6
+
+97 113 Leeds Trinity 51.3 80.2 75.7 18.1 3.8 110 4.4 74 87.8
+
+2024 97 2023 113 Institution Leeds Trinity Guardian score/100 51.3 Satisfied with teaching 80.2 Satisfied with feedback 75.7 Student to staff ratio 18.1 Spend per student/10 3.8 Average entry tariff 110 Value added score/10 4.4 Career after 15 months 74 Contin-uation 87.8
+
+98 93 Robert Gordon 51.1 84 74.3 19.2 3.3 160 3.9 83 88.6
+
+2024 98 2023 93 Institution Robert Gordon Guardian score/100 51.1 Satisfied with teaching 84 Satisfied with feedback 74.3 Student to staff ratio 19.2 Spend per student/10 3.3 Average entry tariff 160 Value added score/10 3.9 Career after 15 months 83 Contin-uation 88.6
+
+99 108 Bournemouth 51 76.1 64.3 18.3 3.3 119 5.6 81 89.9
+
+2024 99 2023 108 Institution Bournemouth Guardian score/100 51 Satisfied with teaching 76.1 Satisfied with feedback 64.3 Student to staff ratio 18.3 Spend per student/10 3.3 Average entry tariff 119 Value added score/10 5.6 Career after 15 months 81 Contin-uation 89.9
+
+100 73 Cardiff Met 50.1 74.4 67.1 18.9 4.3 133 6.4 78 86.7
+
+2024 100 2023 73 Institution Cardiff Met Guardian score/100 50.1 Satisfied with teaching 74.4 Satisfied with feedback 67.1 Student to staff ratio 18.9 Spend per student/10 4.3 Average entry tariff 133 Value added score/10 6.4 Career after 15 months 78 Contin-uation 86.7
+
+101 106 Wolverhampton 50 79.9 71.3 15.6 6.4 112 7 75 82.9
+
+2024 101 2023 106 Institution Wolverhampton Guardian score/100 50 Satisfied with teaching 79.9 Satisfied with feedback 71.3 Student to staff ratio 15.6 Spend per student/10 6.4 Average entry tariff 112 Value added score/10 7 Career after 15 months 75 Contin-uation 82.9
+
+102 109 Anglia Ruskin 49.2 82.1 73.9 18.8 8.8 115 5.2 74 87.1
+
+2024 102 2023 109 Institution Anglia Ruskin Guardian score/100 49.2 Satisfied with teaching 82.1 Satisfied with feedback 73.9 Student to staff ratio 18.8 Spend per student/10 8.8 Average entry tariff 115 Value added score/10 5.2 Career after 15 months 74 Contin-uation 87.1
+
+103 102 Leeds Beckett 48.3 77.9 70.4 17.5 3.7 124 5.2 75 87.3
+
+2024 103 2023 102 Institution Leeds Beckett Guardian score/100 48.3 Satisfied with teaching 77.9 Satisfied with feedback 70.4 Student to staff ratio 17.5 Spend per student/10 3.7 Average entry tariff 124 Value added score/10 5.2 Career after 15 months 75 Contin-uation 87.3
+
+104 88 Gloucestershire 48.2 76.8 66.3 15.4 5.7 121 2.3 75 89.7
+
+2024 104 2023 88 Institution Gloucestershire Guardian score/100 48.2 Satisfied with teaching 76.8 Satisfied with feedback 66.3 Student to staff ratio 15.4 Spend per student/10 5.7 Average entry tariff 121 Value added score/10 2.3 Career after 15 months 75 Contin-uation 89.7
+
+105 74 Trinity Saint David 47.8 80.2 75.1 20.3 3.7 143 4.8 69 84.1
+
+2024 105 2023 74 Institution Trinity Saint David Guardian score/100 47.8 Satisfied with teaching 80.2 Satisfied with feedback 75.1 Student to staff ratio 20.3 Spend per student/10 3.7 Average entry tariff 143 Value added score/10 4.8 Career after 15 months 69 Contin-uation 84.1
+
+106 104 Central Lancashire 47.5 77 70.2 15.6 3.7 131 4.2 78 86.7
+
+2024 106 2023 104 Institution Central Lancashire Guardian score/100 47.5 Satisfied with teaching 77 Satisfied with feedback 70.2 Student to staff ratio 15.6 Spend per student/10 3.7 Average entry tariff 131 Value added score/10 4.2 Career after 15 months 78 Contin-uation 86.7
+
+107 95 Northampton 47.4 77 69.8 17.4 n/a 117 4.4 75 87.8
+
+2024 107 2023 95 Institution Northampton Guardian score/100 47.4 Satisfied with teaching 77 Satisfied with feedback 69.8 Student to staff ratio 17.4 Spend per student/10 n/a Average entry tariff 117 Value added score/10 4.4 Career after 15 months 75 Contin-uation 87.8
+
+107 102 Worcester 47.4 78.5 68.6 17.2 4.8 129 3.8 81 88.1
+
+2024 107 2023 102 Institution Worcester Guardian score/100 47.4 Satisfied with teaching 78.5 Satisfied with feedback 68.6 Student to staff ratio 17.2 Spend per student/10 4.8 Average entry tariff 129 Value added score/10 3.8 Career after 15 months 81 Contin-uation 88.1
+
+109 110 Winchester 46.8 78.9 70.2 18.1 2.8 125 4.5 75 89.1
+
+2024 109 2023 110 Institution Winchester Guardian score/100 46.8 Satisfied with teaching 78.9 Satisfied with feedback 70.2 Student to staff ratio 18.1 Spend per student/10 2.8 Average entry tariff 125 Value added score/10 4.5 Career after 15 months 75 Contin-uation 89.1
+
+109 94 Glyndwr 46.8 80.7 81.1 22.4 3.9 128 3.7 72 80.4
+
+2024 109 2023 94 Institution Glyndwr Guardian score/100 46.8 Satisfied with teaching 80.7 Satisfied with feedback 81.1 Student to staff ratio 22.4 Spend per student/10 3.9 Average entry tariff 128 Value added score/10 3.7 Career after 15 months 72 Contin-uation 80.4
+
+111 106 Goldsmiths 45.8 73.3 54.9 13.4 4.6 131 7.3 73 85
+
+2024 111 2023 106 Institution Goldsmiths Guardian score/100 45.8 Satisfied with teaching 73.3 Satisfied with feedback 54.9 Student to staff ratio 13.4 Spend per student/10 4.6 Average entry tariff 131 Value added score/10 7.3 Career after 15 months 73 Contin-uation 85
+
+111 111 Roehampton 45.8 77.4 70.5 17.9 6.9 109 4.9 68 87.9
+
+2024 111 2023 111 Institution Roehampton Guardian score/100 45.8 Satisfied with teaching 77.4 Satisfied with feedback 70.5 Student to staff ratio 17.9 Spend per student/10 6.9 Average entry tariff 109 Value added score/10 4.9 Career after 15 months 68 Contin-uation 87.9
+
+113 n/a Newman 45 79.7 72.6 16.7 5.2 118 5.1 71 84.7
+
+2024 113 2023 n/a Institution Newman Guardian score/100 45 Satisfied with teaching 79.7 Satisfied with feedback 72.6 Student to staff ratio 16.7 Spend per student/10 5.2 Average entry tariff 118 Value added score/10 5.1 Career after 15 months 71 Contin-uation 84.7
+
+114 115 Cumbria 44.5 76.4 68.4 18.1 4.4 126 4.4 75 88.6
+
+2024 114 2023 115 Institution Cumbria Guardian score/100 44.5 Satisfied with teaching 76.4 Satisfied with feedback 68.4 Student to staff ratio 18.1 Spend per student/10 4.4 Average entry tariff 126 Value added score/10 4.4 Career after 15 months 75 Contin-uation 88.6
+
+115 111 Middlesex 42.7 74 68.9 15.8 6.3 115 4.5 77 82.5
+
+2024 115 2023 111 Institution Middlesex Guardian score/100 42.7 Satisfied with teaching 74 Satisfied with feedback 68.9 Student to staff ratio 15.8 Spend per student/10 6.3 Average entry tariff 115 Value added score/10 4.5 Career after 15 months 77 Contin-uation 82.5
+
+116 98 Greenwich 41.2 80.3 70.2 20.9 3.3 123 4.9 76 85.8
+
+2024 116 2023 98 Institution Greenwich Guardian score/100 41.2 Satisfied with teaching 80.3 Satisfied with feedback 70.2 Student to staff ratio 20.9 Spend per student/10 3.3 Average entry tariff 123 Value added score/10 4.9 Career after 15 months 76 Contin-uation 85.8
+
+117 120 De Montfort 40.6 73.3 65.3 18.3 3.3 114 4.9 75 87.4
+
+2024 117 2023 120 Institution De Montfort Guardian score/100 40.6 Satisfied with teaching 73.3 Satisfied with feedback 65.3 Student to staff ratio 18.3 Spend per student/10 3.3 Average entry tariff 114 Value added score/10 4.9 Career after 15 months 75 Contin-uation 87.4
+
+117 116 Westminster 40.6 73.1 61.1 19.6 4.6 116 4.9 70 89.2
+
+2024 117 2023 116 Institution Westminster Guardian score/100 40.6 Satisfied with teaching 73.1 Satisfied with feedback 61.1 Student to staff ratio 19.6 Spend per student/10 4.6 Average entry tariff 116 Value added score/10 4.9 Career after 15 months 70 Contin-uation 89.2
+
+119 119 West of Scotland 38 78.1 70.6 22.4 3.1 145 5.8 75 81.9
+
+2024 119 2023 119 Institution West of Scotland Guardian score/100 38 Satisfied with teaching 78.1 Satisfied with feedback 70.6 Student to staff ratio 22.4 Spend per student/10 3.1 Average entry tariff 145 Value added score/10 5.8 Career after 15 months 75 Contin-uation 81.9
+
+120 116 Canterbury Christ Church 35.2 78.2 72.7 16.2 3.9 109 5.2 79 86
+
+2024 120 2023 116 Institution Canterbury Christ Church Guardian score/100 35.2 Satisfied with teaching 78.2 Satisfied with feedback 72.7 Student to staff ratio 16.2 Spend per student/10 3.9 Average entry tariff 109 Value added score/10 5.2 Career after 15 months 79 Contin-uation 86
+
+121 116 Brunel 34.9 71.5 57.7 18.2 5.8 125 2.6 77 89.6
+
+2024 121 2023 116 Institution Brunel Guardian score/100 34.9 Satisfied with teaching 71.5 Satisfied with feedback 57.7 Student to staff ratio 18.2 Spend per student/10 5.8 Average entry tariff 125 Value added score/10 2.6 Career after 15 months 77 Contin-uation 89.6
+
+122 121 Bedfordshire 29.7 80.7 70.4 24.5 3.2 108 3.3 72 81.2

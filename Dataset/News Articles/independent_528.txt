@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Astronomers have found star dust coming from a previously undiscovered source.
+
+The findings could help shed light on how this mysterious dust is formed, and what types of the material might be available. That in turn could allow us to better tell the story of our planet and others like it.
+
+Stardust is also known as cosmic dust. It makes up everything we see around us – eventually clumping up into the chunks that make up Earth and similar planets.
+
+But one of the biggest questions researchers have is what type of stars form dust and how.
+
+Now an international team of astronomers have identified a previously unknown source of dust in the universe - a specific type of supernova interacting with gas from its surroundings.
+
+Supernovae are huge explosions in space that take place during the final stages of some stars’ lives.
+
+A Type Ia explosion, which is the focus of the study, occurs in a binary (or double) star system.
+
+According to the study, the shock wave caused by the explosion of this supernova crashes into material previously thrown off by either or both of the stars, creating newcosmic dust.
+
+Monitored over the first three years after its explosion, the researchers say the supernova, which is based in a spiral galaxy around 300 million light years away, is one of the most prolific dust-producing supernovae ever recorded.
+
+Until now researchers had focused their search for these so-called dust factories on Type II supernovae, massive stars which explode at the end of their short lives through a process known as core collapse.
+
+Professor Haley Gomez, head of Cardiff University’s School of Physics and Astronomy and one of the study’s co-authors, said: “In this work, researchers across the globe used multiple telescopes that could search both visible and infrared light, to monitor a rare type of astronomical event that occurs when a very old, dead star with a slightly more massive and younger companion star explodes.
+
+“The titanic shock wave of the explosion crashes into material previously thrown off by one or both stars, and this ‘crash’ led to the creation of a fresh batch of cosmic dust.
+
+“Although rare, the amount of cosmic dust we discovered in the aftermath of this explosion is far larger than seen in other stellar events in such a short time.”
+
+The new study, published in Nature Astronomy, focuses on a Type Ia supernova called SN2018evt.
+
+Prof Gomez said: “Our new study on SN2018evt shows that only 1,041 days after the explosion, a huge amount of cosmic dust was formed, equivalent to 1% of our Sun’s mass.
+
+“This may offer an explanation for the abundance of dust we see in these strange elliptical galaxies.”
+
+The researchers monitored SN2018evt for three years using a combination of space-based telescopes including Nasa’s Spitzer and NEOWISE missions, and ground-based facilities like the Las Cumbre Observatory’s global network of telescopes, as well as others in China, South America and Australia.
+
+While monitoring the supernova, the researchers noticed that its light began to dim in the wavelengths our eyes can see and then started glowing brighter in infrared light - a tell-tale sign that dust was being created.
+
+Additional reporting by agencies

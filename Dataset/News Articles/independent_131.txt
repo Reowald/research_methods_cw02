@@ -1,0 +1,47 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Independent TV has released The Body in the Woods, a new feature-length documentary from International Correspondent Bel Trew, which delves into Ukraine’s unprecedented search for its missing and dead in the middle of Europe’s bloodiest war in generations.
+
+It comes as the world marks one year since Russia’s illegal invasion of Ukraine. The 40-minute documentary, from the new TV and documentary team at The Independent, opens with the discovery of a body of a young man found bound, shot and burned beside an abandoned Russian camp in the woods outside Kyiv.
+
+Following today’s release, viewers are now able to watch it online at the Independent TV hub (independent.tv), on The Independent’s new smart TV app, and on the Independent mobile app.
+
+The Independent TV app is available globally on a number of smart TV (‘CTV’ - connected TV) platforms: Amazon Fire TV, Apple TV, Android TV, and Sony smart TVs. In the coming weeks, LG, Samsung and Roku will be added.
+
+Bel has reported extensively from Ukraine throughout the war for The Independent and Independent TV’s On the Ground series, telling stories from the front line and the desperate road out of Ukraine in the immediate aftermath of the invasion.
+
+As Bel attempts to find out who the young man was and what happened to him, she uncovers the nightmare world thousands of Ukrainian families face trying to find their murdered relatives. In the chaos of war, and amid the discovery of mass graves, bodies go missing and are mixed up, adding to the emotional and human tragedy of the conflict.
+
+Ukrainian police investigate the area (The Independent/Bel Trew)
+
+During her year-long project, Bel meets Ukrainians such as Vladislav, a teenager orphaned by the war, and Vadym, who was forced to watch his family perish as a Russian plane blew up the apartment building they lived in. Robbed of the chance to bury their loved ones, they, like countless others, are unable to properly mourn and move on.
+
+All through this, Ukrainian authorities are trying to find the missing and document tens of thousands of potential war crimes - in the middle of active conflict. Police officers who until recently were dealing with traffic offences are now on the frontlines of war crime evidence gathering, retrieving bodies from bombed-out and mined villages. Regional morgues are so overwhelmed by mass graves, they are forced to store the dead in railway carriages, refrigerated trucks and shipping containers.
+
+Thousands - if not tens of thousands - of bodies remain unidentified. Even when the guns go silent, this will be the open wound for Ukraine.
+
+The premiere of the documentary was held at Kyiv railway station on Saturday (25 February).
+
+“This film is about truth. We have to know what happened, all the world has to know what happened, particularly after the Russian narrative that we are ‘friends’ and we are ‘one nation’,” said Mykola Kuleba, Ukraine’s former ombudsman for children’s rights and founder of charity Save Ukraine, who attended the screening.
+
+“Through this film we understand what it means to be friends according to Russia: it means to kill, to commit atrocities, through rape, through kidnapping children,’ he added.
+
+(Reuters, The Independent)
+
+“That is why this film is evidence of Russian atrocities. It is evidence about their strategy for Ukraine.”
+
+In the audience were some of the Ukrainian families whose stories Bel followed during the making of the documentary over the last year.
+
+Geordie Greig, Editor in Chief of The Independent, said: “Bel Trew’s documentary shows the agony and sorrows of conflict in 2023 in a memorable and moving quest with this eye-witness film of fearless reporting that uncovers the senseless underbelly of war: the simple quest by ordinary Ukrainians to find loved ones is an agonising journey with twists and turns that shock and move. This intimate film on the front line in Ukraine is an eviscerating and courageous expose of the agony of war in Europe’s backyard.”
+
+Bel Trew, International Correspondent, on the release of The Body in the Woods, said: “One of the cruellest legacies of Russia’s invasion of Ukraine is the desperate search by Ukrainian families to locate their missing and dead. Many may never be found. Making this documentary for Independent TV has been a harrowing but crucial journey to tell and so preserve those stories.”
+
+Watch The Body in the Woods trailer in full
+
+Official trailer: The Body in the Woods
+
+Christian Broughton, Managing Director of The Independent, on launching a connected TV app, said: “The launch of the Independent TV app for smart TVs brings Britain’s biggest quality news brand right into people’s living rooms. It is a thrilling moment. I was here as editor in 2016 when we unlocked huge potential by moving from print to focus purely on digital publishing, and this leap into documentary, entertainment and lifestyle programming feels like a revolutionary moment of equal or even greater transformation.
+
+“We now live in a world where moving images on screens of all sizes – from smartphone to smart TV – are the primary means of media consumption for so many. And no one has embraced this opportunity in the past year more than Bel Trew. The true spirit of The Independent is here to see in this documentary, reinvented and regenerated for a new media era.”

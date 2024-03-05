@@ -1,0 +1,121 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The 2024 F1 season starts on March 2 with a unique Saturday night race in Bahrain.
+
+Formula 1 embarks on a record-breaking 24-race season next year, an increase from 22 races in 2023.
+
+The season is also longer in terms of duration, running from February-December as opposed to March-November.
+
+Pre-season testing takes place at the Bahrain International Circuit from February 21-23 before the opening race at the same circuit.
+
+Bahrain, which has hosted the season-opener since 2021, usually hosts its grand prix on a Sunday as is customary in the sport, but due to Ramadan next year’s race will be on a Saturday night.
+
+Sunday is considered a “feast day” during the Islamic festival, which sees the world’s almost two-billion Muslims fast between sunrise and sunset during the other six days of the week.
+
+The second race in Saudi Arabia will also be on a Saturday, meaning there will be three out of the record-breaking 24 races held a day earlier than usual, with Las Vegas set for a Saturday night lights out.
+
+The 2024 F1 season starts in Bahrain (Getty Images)
+
+The Chinese Grand Prix – not held since 2019 due to Covid-19 restrictions – is set to return in Shanghai on April 21, while there are no brand new additions to the calendar, with the Belgian Grand Prix at Spa-Francorchamps extending its contract for another season after potential plans for a race in South Africa fell through.
+
+The British Grand Prix at Silverstone will be held in its traditional slot on Sunday 7 July and the season will finish, as usual, with the Abu Dhabi Grand Prix at Yas Marina on December 8.
+
+2024 F1 CALENDAR IN FULL:
+
+ROUND 1 —BAHRAIN
+
+Bahrain International Circuit, Sakhir - 29 February - 2 March
+
+ROUND 2 - SAUDI ARABIA
+
+Jeddah Corniche Circuit - 7-9 March
+
+ROUND 3 - AUSTRALIA
+
+Albert Park, Melbourne - 22-24 March
+
+ROUND 4 - JAPAN
+
+Suzuka International Racing Course - 5-7 April
+
+ROUND 5 - CHINA (sprint race)
+
+Shanghai International Circuit - 19-21 April
+
+ROUND 6 - MIAMI (sprint race)
+
+Miami International Autodrome, Hard Rock Stadium - 3-5 May
+
+ROUND 7 - EMILIA ROMAGNA
+
+Imola Circuit - 17-19 May
+
+ROUND 8 - MONACO
+
+Circuit de Monaco - 24-26 May
+
+ROUND 9 - CANADA
+
+Circuit Gilles Villeneuve, Montreal - 7-9 June
+
+ROUND 10 - SPAIN
+
+Circuit de Barcelona-Catalunya - 21-23 June
+
+ROUND 11 - AUSTRIA (sprint race)
+
+Red Bull Ring, Spielberg - 28-30 June
+
+ROUND 12 - GREAT BRITAIN
+
+Silverstone Circuit - 5-7 July
+
+ROUND 13 - HUNGARY
+
+Hungaroring, Budapest - 19-21 July
+
+ROUND 14 - BELGIUM
+
+Circuit de Spa-Francorchamps - 26-28 July
+
+ROUND 15 - NETHERLANDS
+
+Circuit Zandvoort - 23-25 August
+
+ROUND 16 - ITALY
+
+Monza Circuit - 30 August - 1 September
+
+ROUND 17 - AZERBAIJAN
+
+Baku City Circuit - 13-15 September
+
+ROUND 18 - SINGAPORE
+
+Marina Bay Street Circuit - 20-22 September
+
+ROUND 19 - UNITED STATES (sprint race)
+
+Circuit of the Americas, Austin - 18-20 October
+
+ROUND 20 - MEXICO
+
+Autodromo Hermanos Rodriguez, Mexico City - 25-27 October
+
+ROUND 21 - BRAZIL (sprint race)
+
+Interlagos Circuit, Sao Paulo - 1-3 November
+
+ROUND 22 - LAS VEGAS
+
+Las Vegas Street Circuit - 21-23 November
+
+ROUND 23 - QATAR (sprint race)
+
+Lusail International Circuit, Lusail - 29 November - 1 December
+
+ROUND 24 - ABU DHABI
+
+Yas Marina Circuit - 6-8 December

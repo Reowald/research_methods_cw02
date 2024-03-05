@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Some Apple Vision Pro owners are returning their headsets less than two weeks after buying them, with complaining of comfort, usability and sickness issues.
+
+The $3,500 mixed reality goggles, which launched in the US on 2 February, was described by Apple chief executive Tim Cook as the “beginning of a new era for computing” at its initial unveiling last year.
+
+It offers wearers the ability to experience augmented reality by overlaying digital content like apps and screens onto the physical world, however some of those returning the device said a lack of dedicated apps meant it lacked utility.
+
+“Two hours after unboxing my Apple Vision Pro and using it, I decided to box it back up again and return it,” tech executive Alexander Torrenegra wrote on X (formerly Twitter) on 13 February.
+
+“It’s quite cool, but there’s nothing in it for me that I’ll use frequently enough to warrant my keeping it... I was hoping the immersive work experience was going to be good enough to keep it, but no. I rather my Retina display and no mouse latency.”
+
+Others complained about experiencing motion sickness or headaches, which has been a consistent complaint for some AR and VR headset users in the past.
+
+“Can’t wait to return the Vision Pro, probably the most mind blowing piece of tech I’ve ever tried. Can’t deal with these headaches after 10 minutes of use though,” one user wrote on X (formerly Twitter).
+
+“Just for the record, I’ve tried other VR headsets before and have never dealt with headaches of any sort.”
+
+Apple’s user guide for the Vision Pro warns of some potentially vomit-inducing side effects for some users susceptible to motion sickness.
+
+“Immersive content that has a higher probability of causing certain people to experience motion sickness,” the company’s support page for the device states.
+
+“Be aware of symptoms of motion sickness, such as nausea, and stop using Apple Vision Pro if you experience them. Wait until symptoms have subsided before doing anything – such as walking or driving a car – that requires balance, coordination, or attention to safety.”
+
+Apple does not make sales figures public, however a poll by the unofficial Apple news site Cult of Mac revealed that 45 per cent of respondents planned to return the headset.
+
+The company’s 14-day return policy means that anyone who bought the Vision Pro on the launch day in the US have until 16 February to return the headset for a full refund.

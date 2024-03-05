@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Silverstone will play host to the British Grand Prix until 2034 after signing a new long-term deal with Formula 1.
+
+The Silverstone circuit played host to the first ever F1 race back in 1950 and has hosted the British GP since 1987. Previous to that, the track alternated with Brands Hatch.
+
+The modern Silverstone has undergone numerous renovations and is now one of the most popular races on the calendar, with 480,000 fans attending last year’s event which includes a music festival alongside the racing on-track.
+
+Their contract with F1 was due to expire after this year’s race but a 10-year extension means Silverstone will continue as a mainstay on the calendar.
+
+“This long-term commitment reflects the importance of the British Grand Prix to Formula 1 and their acknowledgement of our ability to deliver a world-class experience for the British fans who are among the most enthusiastic and knowledgeable in the world,” said Silverstone CEO Stuart Pringle.
+
+“The cheers of support for the home teams, and particularly for the British drivers on the grid, makes the Silverstone atmosphere unique and I am looking forward to harnessing this passion for our sport and taking the event to the next level in the coming decade.”
+
+F1 boss Stefano Domenicali added: “I am delighted to announce that the British Grand Prix will remain on the calendar for ten more years with this agreement.
+
+Silverstone will host the British Grand Prix until 2034 (PA Archive)
+
+“Silverstone is an iconic venue at the heart of F1 history and as it approaches its ninth decade hosting Grands Prix, the event continues to attract fans from around the world for fantastic racing on track and the amazing fan experience off it.
+
+“I would like to thank Stuart Pringle and the Silverstone team for their hard work and dedication to take the British Grand Prix to new heights and I look forward to working closely with them as they look to further improve the facilities and fan experience over the next ten years.”
+
+The announcement comes a week after F1 extended its deal with Suzuka to host the Japanese Grand Prix until at least 2029, with the previous deal expiring after this year’s race in April.
+
+It means no current tracks have deals expiring this year. Spa-Francorchamps, Monaco and Monza are among the circuits which have contracts until 2025.
+
+Lewis Hamilton is an eight-time winner at Silverstone, with Max Verstappen winning last year’s race. This year’s British Grand Prix takes place on 5-7 July.

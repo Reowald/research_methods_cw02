@@ -1,0 +1,111 @@
+25. 3DO (1993)
+
+The second true 32-bit machine after the FM Towns Marty, the 3DO was available via a unique business model: the 3DO Company (formed by Electronic Arts founder Trip Hawkins) licensed its technical specifications to third-party manufacturers such as Sanyo and Panasonic, which then built their own versions. Unfortunately, this approach made the hardware hugely expensive ($699 at launch – equivalent to $1,267 or £990 today) compared with rival consoles that could be sold at a loss by their manufacturers. There were some excellent titles, including the original Need for Speed and the strategy-shooter Return Fire, but the PlayStation killed it stone dead.
+
+24. Atari Jaguar (1993)
+
+The veteran company’s final console boasted a powerful yet jumbled architecture based around two silicon chipsets (named Tom and Jerry) and a Motorola 68000 processor. Some say it was difficult to code for, it lacked a broad games catalogue and at $249, it was also very expensive. Now best known for the trio of excellent shooters Tempest 2000, Doom and Alien vs Predator, it remains an intriguing technical oddity.
+
+23. Sega Master System (1985)
+
+Throughout the early 1980s Sega made several attempts to transfer its arcade expertise to the home console market – the Master System was the most successful. More powerful and with a fuller colour palette than the mighty Nintendo Entertainment System (NES), the eight-bit machine boasted decent arcade conversions, but is best remembered for its scrolling platformers, including Alex Kidd in Miracle World, Wonder Boy, Psycho Fox and an expertly reduced version of Sonic the Hedgehog.
+
+View image in fullscreen Intellivision: ‘Famed for its pioneering use of licensed sports titles.’ Photograph: National Football Museum
+
+22. Intellivision (1979)
+
+With its brown and gold chassis, wood effect lining and retro-futuristic controllers, Mattel’s Intellivision screamed “It’s the 1970s!” from every angle. But, developed a year after the release of the Atari VCS, it was a much more sophisticated machine thanks to a 16-bit central processor and generous 16-colour palette. Famous for its pioneering use of licensed sports titles and its convincing arcade ports (Burger Time, Donkey Kong Jr, Bump N Jump …) there were also intriguing original titles such as the weird operating-theatre sim Microsurgeon and B-17 Bomber, which came with a voice synthesiser for, ahem, “realistic” speech effects.
+
+21. PC Engine (1987)
+
+In the 1980s most consoles resembled toys – the PC Engine, with its futuristic white chassis and cool mini-cartridges (or HuCards), looked like something out of Akira. Designed by electronics giant NEC and game developer Hudson Soft, the console contained twin 16-bit graphics chips that brought a singular aesthetic quality to arcade conversions such as R-Type, Splatterhouse and Ninja Spirit. Released later in the US as the Turbografx-16, it’s a genuine cult classic.
+
+20. Sega Saturn (1994)
+
+Hitting Japanese shelves a fortnight before PlayStation, Sega’s 32-bit machine would be forever defined by its failed rivalry with Sony. Its fragmented internal architecture was built around Sega’s cutting-edge arcade machine technology, but developers needed expert knowledge of assembly language to wrestle anything out of it. Still, Sega’s studios triumphed with Virtua Fighter, Nights into Dreams and Sega Rally, while its plethora of stunning 2D shooters and fighting games thrilled hardcore gamers.
+
+19. Colecovision (1982)
+
+With a Z80 processor three times more powerful than the Atari VCS and a huge 16KB of video ram, the Colecovision was a significant technological leap forward, allowing smooth animation and colourful visuals. Among its 125 games there were interesting original titles such as scrolling adventure Tarzan and Fortune Builder, an early SimCity predecessor. Later expansion modules let owners play Atari game carts and use a steering wheel controller. The machine is best known for excellent arcade conversions including Gorf, Zaxxon and Donkey Kong. Nintendo was so impressed that its head of R&D, Masayuki Uemura, used the Colecovision as inspiration for the NES.
+
+View image in fullscreen The late Ralph Baer in an image from 2009, with his 1960s prototype of the first games console. Photograph: Jens Wolf/dpa/AP
+
+18. Magnavox Odyssey (1972)
+
+The first ever games console was developed by engineer Ralph Baer while working for defence contractor Sanders Associates under the attractive code name Brown Box. It consisted of a white and, yes, brown box containing just 40 transistors and 40 diodes, with wires connecting to the TV and two blocky controllers. The games, basically variants of Pong, had no sound and colour was achieved by placing plastic overlays on the screen – but the profound concept of interacting with graphics on your TV began here.
+
+17. SNK Neo Geo (1990)
+
+Like Sega, SNK was a 1980s arcade giant with a desire to infiltrate the home console market, but its approach was much more ambitious. It set out to build a machine using exactly the same technology as its coin-op hits. This resulted in astonishing home versions of Fatal Fury, Art of Fighting and The King of Fighters; the only catch was the Neo Geo cost three times as much as its competitors and the 330-megabit game carts cost up to $200 each. No wonder it’s known as the Rolls-Royce of game consoles.
+
+16. Atari VCS/2600 (1977)
+
+For a while, in the late 1970s, Atari was video games. After the success of its home Pong console in 1975, the company’s designers spent a year constructing a microprocessor-based system that could play games based on rom cartridges. During Christmas 1977, 400,000 machines hit US shelves and sold out almost instantly. The look of the machine, with its black fascia and wood panelling, and its simple eight-directional joystick, set the design ethos of the industry, while its games, with their beautifully illustrated boxes, were design classics in both form and function. Infiltrating pop culture via movies as diverse as Airplane! and Bladerunner, the Atari was more than a console – and even its failures, especially the botched film tie-in ET, became the stuff of legend.
+
+15. Nintendo GameCube (2001)
+
+Beside the muscular design and technical potency of the PS2 and Xbox, with their internet connectivity and DVD support (the Xbox via an add-on), the GameCube looked like a giant Lego brick with a handle and its IBM PowerPC processor was underpowered compared to Microsoft’s machine. But Nintendo wanted a fun, characterful console that was cheap and easy to develop for – that’s what we got. Plus, Metroid Prime, Legend of Zelda: Wind Waker, Resident Evil 4 and Super Mario Sunshine competed with anything on those other machines.
+
+14. PlayStation 3 (2006)
+
+Beset by difficulties and delays regarding its ambitious Cell processor and the inclusion of a Blu-ray drive, the PS3 was an intimidating project from the start. Its online multiplayer service was generously subscription-free yet inferior to the Xbox 360 offering and developers found it tough to work with the array of multiple synergistic processing units (SPUs). And yet this is where a new form of lush cinematic gaming experience flourished: Uncharted 2, God of War III, Demon’s Souls, Heavy Rain and Journey all pointed to a future of imaginative, challenging storytelling within rich immersive worlds. Their lessons are still being taught and learned.
+
+13. Nintendo 64 (1996)
+
+Developed in conjunction with supercomputer specialist Silicon Graphics Inc and originally given the not-at-all hubristic codename Project Reality, the N64 was a contradictory beast – backwardly sticking with carts instead of embracing CD-roms but innovative in its use of an analogue joystick to allow accurate 3D movement. This, of course, led to Super Mario 64, the defining game of the era, but the console saw many other classics, including GoldenEye, Banjo-Kazooie, Wave Race 64 and Legend of Zelda: Ocarina of Time.
+
+View image in fullscreen SNK’s Fatal Fury game. Photograph: SNK
+
+12. Xbox One (2013)
+
+Built more as a nicely boxed PC than a traditional console, the Xbox One boasts multicore AMD processors, HDR (and 4K video) compatibility, cloud storage, game streaming and a host of multimedia options. And just as the machine was beginning to age, its S and X iterations came along and boosted the specs. Alongside beautiful versions of multiplatform hits Witcher 3, Assassin’s Creed Origins and Fallout 4, it has also brought us Forza Horizon 4, Sea of Thieves, Halo 5 and Ori and the Blind Forest. State of the art, in many ways.
+
+11. Xbox (2001)
+
+Teased by Bill Gates himself at the 2000 Game Developers’ Conference, Xbox was conceived by the team behind Direct X (Microsoft’s middleware for PC game developers) as a technological Trojan horse to get the company’s products into the living room. From those slightly Orwellian foundations came a robust, powerful and exciting machine, its back catalogue of more than 600 games boasting one of the greatest console first-person shooters ever in Halo, as well as gritty brawler Ninja Gaiden, surreal adventure Psychonauts and Star Wars epic Knights of the Old Republic. From the beginning, Xbox understood the rising importance of online play, with its integrated ethernet port and robust Xbox Live infrastructure. The most significant US-designed console since the Atari VCS.
+
+10. Nintendo Wii (2006)
+
+Plenty of games industry pundits saw the tech specs for the Wii in 2005 and wrote it off as “two Game Cubes taped together”. What they hadn’t figured on was the unique joypad, which used motion controls providing barrier-free access to simple, perfectly designed games such as Wii Sports, Wii Play and Wii Fit. Suddenly, whole families could compete together, from the youngest to the oldest – and Nintendo sold more than 100m units as a result. A victory for utilitarian design over technological obsession.
+
+9. Sega Dreamcast (1998)
+
+With its built-in modem and hugely innovative controllers (complete with removable memory cards doubling as handheld games machines), the Dreamcast was a visionary piece of hardware, backed up by Sega’s astonishingly creative first-party development teams. The machine saw an array of idiosyncratic titles – Jet Set Radio, Shenmue, Seaman, Rez, Phantasy Star Online – that either invented new genres or utterly revolutionised old ones. But the lack of support from western developers and the sheer might of the PS2 ensured that its life was as brief as it was beautiful.
+
+View image in fullscreen Nintendo employees and the GameCube in 2001. Photograph: Yoshikazu Tsuno/EPA
+
+8. Nintendo Switch (2017)
+
+The follow-up to the interesting but flawed Wii U replicated that console’s two-screen approach, but made its built-in HD display truly portable, adding two motion-sensitive controllers into the mix. The Switch is a brilliantly flexible home console, seamlessly switching local multiplayer between the living room and the world at large, somehow combining the genius of the Wii and the Game Boy. Its best games – Legend of Zelda: Breath of the Wild, Animal Crossing: New Horizons, Super Mario Odyssey, Mario Kart 8 Deluxe, Super Mario Maker – exploit the delightful peculiarities of this machine perfectly.
+
+7. PlayStation (1994)
+
+By 1993, Sony had failed to enter the console industry through collaborations with Sega and Nintendo, so the company’s hardware genius Ken Kutaragi thought, screw it, let’s make our own machine. He designed an architecture that was powerful yet easy to develop for and focused on pushing 3D shapes around the screen as efficiently as possible. Sony then solved its lack of development experience by purchasing UK studio Psygnosis and inking an exclusive deal with Japanese arcade veteran Namco. The resulting console ruled the 1990s, thrilling time-rich twentysomethings with titles such as Tekken, Gran Turismo and Tony Hawk’s Pro Skater. This machine changed everything.
+
+6. Famicom/Nintendo Entertainment System (1983)
+
+It’s an oft-repeated fact, but always one worth remembering: throughout the 1980s in North America, you didn’t play “video games”, you played Nintendo. Like Hoover and Aspirin before it, the brand was so synonymous with the activity that it became genericised. This was down to the NES, a boxy, dated entry into the console market, which came with funny flat little joypads (heavily inspired by Nintendo’s successful Game & Watch handheld devices) and chunky carts. But the games, oh the games. Super Mario Bros, Legend of Zelda, Contra, Mega Man, Final Fantasy, Excitebike … This was where Nintendo’s (and specifically Shigeru Miyamoto’s) design genius originally flourished and where we learned the company’s maxim that old, well-used technology could be reformulated to realise amazing things.
+
+5. PlayStation 4 (2013)
+
+Based around similar tech as the Xbox One and launched almost simultaneously, the PS4 saw Sony concentrating on games rather than multimedia functionality, immediately winning the PR war against Microsoft. With its excellent controller, vastly improved online infrastructure and seamless sharing and streaming functions, it’s an innovative system, but where it really wins is in its embarrassment of first- and second-party gaming riches. Uncharted 4, Horizon Zero Dawn, Marvel’s Spider-Man, God of War, Bloodborne, Death Stranding … all of them push at the possibilities of video games as a visual narrative medium.
+
+4. Sega Mega Drive/Genesis (1988)
+
+By building an architecture capable of accurately converting arcade hits such as Golden Axe, Strider and Altered Beast, and bullishly marketing at teenagers, Sega made Nintendo look fusty and old-fashioned. This punk attitude was amplified further in 1991 by the arrival of Sonic the Hedgehog, a speed-obsessed, spiky-haired dude-bro perfectly in tune with early-1990s MTV culture. The Mega Drive would go on to sell 35m units and host a wide range of experiences from romantic role-playing adventures to real-time military sims. It wasn’t afraid to be weird and loud and rude, and some of us related hard to that. In the process, for better or worse, it invented the whole idea of console gaming as a lifestyle – an identity.
+
+3. Xbox 360 (2005)
+
+The first console of the broadband era, Xbox 360 put online multiplayer functionality at the core of its offering from the very start. Innovations such as Achievements and the Gamer Score turned the global user base into one vast competitive community whether the battleground was Call of Duty 4: Modern Warfare, Halo 3 or Forza Horizon. Arguably, this was also the machine that saw the superior versions of epic adventures such as Mass Effect 2, Elder Scrolls V, Bioshock and Read Dead Redemption, ushering in our modern era of mature narrative game design.
+
+View image in fullscreen Sony unveils the PlayStation 2. Photograph: Yoshikazu Tsuno/EPA
+
+2. PlayStation 2 (2000)
+
+It’s tough to win the console wars two generations in a row. PlayStation 2 didn’t just equal the success of PlayStation – it became the best-selling console of all time, shifting 155m units. Its utter dominance, its technical power and its familiar development environment allowed studios around the world to be extraordinarily creative. This was the golden era that saw mainstream blockbusters Grand Theft Auto, Metal Gear Solid, Gran Turismo, Pro Evo Soccer, Burnout and Ratchet & Clank come to fruition, but it also hosted idiosyncratic treasures such as Katamari Damacy, Ico and Okami, and through the Guitar Hero and Singstar titles it also became the post-pub entertainment platform of choice for a whole generation. This was where TV, movie and music creatives all woke up and realised, ah yes, games are the future, we’d better get in on this. And then everybody did.
+
+View image in fullscreen SNES: ‘Its lasting influence of the SNES was all down to the games.’ Photograph: snes-classic-mini-2
+
+1. Super Famicom/Super Nintendo Entertainment System (1990)
+
+Whole days in front of Street Fighter 2, the living room crowded with mates, coffee table loaded with snacks and Coke cans. All-nighters on Legend of Zelda: a Link to the Past, Super Metroid and Secret of Mana. Sharing Yoshi’s Island and Harvest Moon with your younger sister. Blasting through the Super Star Wars series. Discovering Donkey Kong Country. Millions of us have these memories. The SNES arrived in an industry already changed by the Mega Drive, but Nintendo stuck with what it knew – solid tech and astonishing, fecund creativity. The machine produced beautiful, colourful visuals and lush sampled sounds, and it had the flexibility to allow enhanced cartridges later in its lifecycle. But really, the lasting influence was all down to the games – more than 1,700 of them – and the way they made us feel. That is, in the end, what it’s all about.

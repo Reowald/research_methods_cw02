@@ -1,0 +1,77 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Hundreds of flights were cancelled by multiple airlines on Friday (21 October), due to Air Traffic Control and ground handler strikes in Italy.
+
+British Airways, Ryanair, ITA and easyJet all made short-notice cancellations, with several airlines notifying customers earlier in the week of the weekend disruption ahead.
+
+Those with city breaks or holidays booked starting in Rome, Milan, Pisa, Bologna and Naples (among other Italian entry points) will be disappointed to have their travel plans spoiled.
+
+Fortunately, consumer law is firmly on the passenger’s side.
+
+Under European air passengers’ rights rules,- EU airlines cancelling flights due to strikes must:
+
+ensure passengers are flown where they need to be as soon as possible
+
+provide hotels and meals as appropriate for them
+
+These are the key obligations for any airline that cancels a flight at short notice or suffers long delays.
+
+My flight has been cancelled. When can I expect to get to my destination?
+
+You are entitled to travel on the original day of departure, if there is any commercial way of getting you to your destination.
+
+You should give the cancelling airline the opportunity to arrange a new flight. For domestic links in the UK or trips to Paris, Brussels or Amsterdam, you can also ask for train travel to be arranged.
+
+I have been offered an alternative in two days’ time. Can’t I get there any sooner?
+
+Yes. Airlines understandably want to keep passengers on their own services, but there are clear limits. The Civil Aviation Authority says that if the cancelling airline has another flight on the same day, it can rebook you on that (and provide meals while you wait).
+
+But easyJet has its own, longer limit of 24 hours.
+
+Airlines have occasionally been known to suggest to passengers that they can only be re-booked onto their own services. This is nonsense: all carriers must be considered.
+
+If the cancelling airline cannot or will not meet its obligation, you should buy a ticket with a rival airline and then claim the amount back.
+
+What if the replacement flight is from or to a different airport?
+
+In addition to buying you a ticket to the country/region, the cancelling airline must also provide or pay for any additional ground transportation to get you to your original destination.
+
+For example, if your easyJet flight to Naples is cancelled from Gatwick and the only alternative departure that day is on British Airways or ITA from Heathrow, then the airline should provide transport for your from Gatwick to Heathrow (likely a National Express bus).
+
+If you are not given help, again you can pay and reclaim – but do all you can to keep the cost down. A taxi between the original and replacement airport would not be reasonable and appropriate unless, say, you are in a group of four.
+
+What if I am delayed overnight and need hotel accommodation?
+
+Again, the cancelling airline must provide this – plus transport to and from the airport. If it does not do so, you should make your own arrangements, seeking to minimise the cost as much as possible.
+
+What about meals?
+
+Oddly, the time at which an airline’s obligation to provide you with “a reasonable amount of food and drink” kicks in depends on the length of the flight you were supposed to take with them.
+
+Under 1,500km: two hours
+
+1,500km-3,500km: three hours
+
+Typically passengers are given a voucher for a certain amount after this time period. If this is clearly inadequate (e.g. enough for a cup of tea and a packet of crisps for a six-hour delay) then you can claim for reasonable additional expenditure – but not for alcohol.
+
+Can I get a refund instead?
+
+Yes. Your airline should offer you an alternative flight on the same day if possible, or a full refund on the price of your ticket.
+
+In the case of Italy’s strike disruption, airlines including ITA and easyJet have offered passengers refunds rather than re-booking where their flight is cancelled due to the strikes. EasyJet says customers with cancelled flights can access this option via its Manage Booking section of the website.
+
+Am I entitled to compensation for the disruption?
+
+That depends on the cause of the delay, and applies only if you arrive at your destination (and an aircraft door is opened) at least three hours after the original arrival time.
+
+In the case of air traffic control or general strikes in European countries, compensation is unlikely as airlines will say these are “extraordinary circumstances” outside of their control.
+
+For circumstances within the airline’s control, again, there is a sliding scale.
+
+Journeys of under 1,500km: £220
+
+Journeys of 1,500km-3,500km: £350
+
+Airlines generally have a portal on their website for these claims, though often it is not easy to find.

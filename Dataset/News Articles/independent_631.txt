@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Sony has announced its first high-performance, highly customisable gaming controller, called the dualsense edge.
+
+Made specifically for PlayStation 5, the dualsense edge is similar in ethos to the elite gamepad Xbox owners will already be familiar with.
+
+Revealed by Sony on 23 August, the gamepad has a range of hardware- and software-based customisation options for personalising the gaming experience. This includes triggers and sticks with adjustable sensitivity and dead zones, swappable stick caps, and the ability to re-map or disable buttons.
+
+The travel distance of the controller’s stick can also be adjusted, with shorter distance ideal for faster inputs in online combat games. Similarly, reducing or even removing the dead zone of the controller’s triggers can help offer more precise throttle and brake control in racing games.
+
+Continue reading the article below for more on Sony’s new dualsense edge controller for the PS5.
+
+Sony PS5 dualsense edge: Price and release date
+
+(Sony)
+
+Sony has already said a lot about what features the dualsense edge will have, but for now it is keeping the price and release date secret.
+
+The company said in a blog post on 23 August: “In the months ahead, we look forward to sharing more details about the dualsense edge wireless controller, including launch timing”.
+
+As for the price, we can speculate Sony will look to price its controller similarly to the Xbox elite series 2, which is similarly customisable and carries a retail price of £159.99.
+
+Sony PS5 dualsense edge: Features and functions
+
+Customisation is king when it comes to the dualsense edge. It’s a gamepad described by Sony as “the first-ever high-performance, ultra-customisable controller” for the company’s PlayStation console.
+
+Intended to create a more-tailored experience for PS5 owners who take their gaming seriously, the controller has re-mappable buttons, as well as sticks and triggers that can be fine-tuned for sensitivity, dead zones and travel distance.
+
+Further hardware changes include swappable stick caps (with standard, high-dome and low-dome designs) and back buttons (half-dome and lever) that can be assigned to perform the use of any other button.
+
+Sony says it will sell replacement stick modules, and the dualsense edge comes with a braided USB-C cable that features a lock that stops it accidentally detaching, and a carry case for the controller and its accessories.
+
+As far as software customisation goes, the dualsense edge lets gamers save their preferred settings to a profile, then switch between various profiles while playing. There’s also a new Fn button, which is unique to the dualsense edge and lets gamers adjust settings such as volume and chat audio balance, without exiting whatever game they are playing.
+
+Still looking for a PS5 console? Check out our restocking live blog for all of the latest news on console availability.

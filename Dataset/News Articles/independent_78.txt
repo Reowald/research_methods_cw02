@@ -1,0 +1,9 @@
+You can enable subtitles (captions) in the video player
+
+Bigger isn't always better. And when it comes to nuclear power, smaller scale reactors are generating plenty of interest among governments keen to ramp up atomic energy production to help them achieve net zero targets. Supporters claim that Small Modular Reactors, or SMRs, are safer, cheaper, faster, and easier to build than large scale plants.
+
+Pre-fabricated in controlled factory environments, standardised designs are intended to be cheaper to mass produce at scale, making additions or spare parts easier to access and bolt on. Because they're small they can be transported to and installed in remote environments where energy-intensive, difficult to decarbonise industries, like mining or desalination plants, are typically located. Also, the more compact designs of SMRs mean that they don't require access to large water sources to keep them cool.
+
+Many mobile reactors have been used to power military vessels at sea for decades. But it's only recently that a handful of household names like Rolls-Royce, Westinghouse, GE, Hitachi, and others have started pitching or developing SMR projects to generate electricity for commercial use on land. However, not a single land-based commercial SMR of the kind being pitched to investors and governments is connected to a utility grid. Although a floating Russian SMR is providing electricity and heat to a remote corner of the Arctic.
+
+One of the biggest challenges is cost. Nuclear energy is by far the most expensive. Even at smaller scales the electricity supply from SMRs is still expected to be much pricier than solar, wind, and, in some cases, even coal. And concerns over safety and the disposal of nuclear waste remain. However, for SMR companies and the investors backing them, the global clamour for emission-free energy may well mean that good things really can come in small packages.

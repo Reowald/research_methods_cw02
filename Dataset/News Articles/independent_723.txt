@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ferrari have added British teenager Oliver Bearman to their roster of Formula One reserve drivers ready to step in for race regulars Charles Leclerc or Carlos Sainz.
+
+The 18-year-old Formula Two driver joins ex-F1 racer Antonio Giovinazzi and Robert Shwartzman who are both taking part in the world endurance championship.
+
+This season has a record 24 grands prix, some of them clashing with the world endurance calendar, and Bearman will be present at those that feature F2 on the support programme.
+
+Leclerc’s younger brother Arthur, 23, has joined as a development driver alongside Italians Antonio Fuoco and Davide Rigon, with all three working in the simulator at Maranello when not racing in Italian GT and world endurance.
+
+(Getty Images)
+
+Ferrari are carrying out a three-day tyre test with Pirelli at Barcelona’s Circuit de Catalunya next week using last year’s SF23 car and the 2022 F1-75. Bearman will drive the latter on Wednesday.
+
+Leclerc will have his first taste of a Formula One car when he drives the F1-75 on Monday.
+
+F1 Testing starts next month between the 21st and 23rd of February, shortly before the first race, which is due to take place in Bahrain between the 29th of February and 2nd of March.
+
+The drivers will remain the same for next year, although two teams have changed their names. Alfa Romeo have reverted back to their original name - although with a twist. They will be called Stake F1 Team Kick Sauber, while Red Bull’s sister team Alpha Tauri have changed their name to Visa Cash App RB.

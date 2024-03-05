@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The PlayStation 5 is coming to the “latter stages of its life cycle”, Sony has said.
+
+Sales of the PS5 disappointed in its latest quarter, the company said in its latest results, and the company now expects to sell millions fewer of them than it had expected.
+
+Sony had expected to sell 25 million consoles in the year ending in March. It has now revised that down to 21 million – and suggested that could continue to fall in the future.
+
+(Getty Images)
+
+PS5 sales had actually increased in the third quarter, from 6.3 million the previous year to 8.2 million units. But that was about a million fewer than had been expected, and those disappointing sales came amid the release of a new, slimmer console and games including Spider-Man 2.
+
+The company will look to focus on profits rather than selling the most possible number of consoles, it said after those latest results were released.
+
+“Looking ahead, PS5 will enter the latter stage of its life cycle,” Sony’s senior vice president, Naomi Matsuoka, said after those results, according to Bloomberg.
+
+“As such, we will put more emphasis on the balance between profitability and sales. For this reason, we expect the annual sales pace of PS5 hardware will start falling from the next fiscal year.”
+
+The company also said that it does not expect “any new major existing franchise titles” to be released this year.
+
+Sony has been rumoured to be working on a new version of the PlayStation, a PS5 Pro, for release later this year. But it remains unclear when exactly that might arrive or what improvements it might bring.

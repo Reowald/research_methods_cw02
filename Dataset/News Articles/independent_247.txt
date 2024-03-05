@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scammers are trying to persuade people to buy gold and jewellery, in a change of approach to some frauds, a major bank has warned.
+
+Criminals may also pose as police officers, claiming a fraud has taken place on someone’s account, HSBC UK said.
+
+The scam also often involves claims that the bank customer has been chosen to help with an investigation into the bank branch, or that members of branch staff are involved in a plan to steal money from the account, replacing it with counterfeit money.
+
+The new twist is where scammers try to persuade the customer to withdraw large sums of cash from their branch and purchase gold or jewellery, which is then handed over to the scammer under the pretence that it will be kept safe or will be used in evidence in court, HSBC said.
+
+David Callington, HSBC UK’s head of fraud, said: “Scammers are devious criminals who adapt their approach from time to time, trying to stay one step ahead of banks and the police.
+
+While this not only leads to the customer losing money through the scam, as there is a physical element to it with a meeting to carry out the handover, there’s a potential physical risk to the victim as well David Callington, HSBC UK
+
+“Over the last couple of months we may have seen the start of a trend where purchasing and physically handing over gold, silver or jewellery has become part of a scam.
+
+“Whereas scammers previously often used cryptocurrency exchanges to ‘cash out’, moves to tighten payments across the industry have led criminals to go down a different route.
+
+“While this not only leads to the customer losing money through the scam, as there is a physical element to it with a meeting to carry out the handover, there’s a potential physical risk to the victim as well. If you receive a call out of the blue about money, it is very likely to be a scam.”
+
+People falling victim to impersonation scams can end up losing life-changing sums, potentially running into hundreds of thousands of pounds, the bank said.
+
+Here are HSBC’s tips on what to look out for:
+
+– You may be told you have been a victim of fraud within the bank and should not trust them.
+
+– Fraudsters may claim you are helping a police investigation.
+
+– You may be told you need to buy gold or jewellery to stay safe. Legitimate fraud investigations will not ask you to do this.
+
+HSBC said that if someone contacts you or asks you to buy or hand over gold or jewellery, hang up immediately.
+
+People who have fallen victim of fraud should call the number on the back of their bank card and make a report to Action Fraud.

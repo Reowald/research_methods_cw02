@@ -1,0 +1,235 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Dublin has never been as alluring as it is right now. New, exciting restaurants are popping up every other week, along with sleek bars that are enhancing the beloved pub scene. It’s a foodies dream come true, and there’s still so much more to explore.
+
+With a decent variety of hotels on offer, it’s easy to find a place that suits your needs, whether you’re looking for a luxurious blowout or a budget crash pad. Be warned, though – hotels can fill up quickly, so it’s worth booking at least a few months in advance, to secure your perfect trip to Ireland.
+
+As a hotel-obsessed travel writer who calls Dublin home, I have a hotlist of favourite spots in the city – places where you can rely on enviable interiors, a comfy bed and a big smile at check-in. Because if there’s one thing that can be all but guaranteed in this Irish city, it’s a warm welcome.
+
+The best hotels in Dublin are:
+
+Best hotel for history: The Shelbourne
+
+Neighbourhood: Stephen’s Green
+
+Enter into The Shelbourne's old world glamour (The Shelbourne)
+
+There’s nowhere quite like the Shelbourne. The “Grand Dame of Dublin” opened in 1824, and it still retains a feeling of old-world luxury – the doormen are decked out in top hats, the ceilings drip with golden chandeliers and the rooms are kitted out with lust-worthy antiques. This is real special occasion territory, and it also plays a special role in Ireland’s history – the Irish Constitution was drafted within these walls in 1922.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for luxury: The Merrion
+
+Neighbourhood: Merrion Street
+
+A junior suite at The Merrion, one of Dublin's most luxurious properties (The Merrion)
+
+When it comes to sheer, unbridled luxury, you can’t beat The Merrion. This is the place to go when you want to evoke that Lord of the Manor vibe, without ever leaving the city. The rooms are the ultimate in comfortable luxury – think plush, kitten-soft beds, corniced ceilings and marble bathrooms. Two Michelin-starred restaurant Patrick Guilbaud is right downstairs, and the pastries served in the Drawing Rooms for afternoon tea are artistic masterpieces.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Merrion Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for the personal touch: Brooks Hotel
+
+Neighbourhood: Drury Street
+
+One of the Brooks Hotel's welcoming bedrooms (Brooks Hotel)
+
+Considering the reasonable enough room rates, there’s a real sense of individualised attention to detail at the Brooks Hotel. There’s a pillow menu on your bed, and the residents’ bar is a cosy little sanctuary, where guests can relax with a glass whiskey – there are 100 on offer from around the world. There’s even a 26-seat cinema, with themed movie nights. Meanwhile, Francesca’s Restaurant features an open-plan kitchen, so diners can see their meals being prepared.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for sophistication: Conrad Dublin
+
+Neighbourhood: Earlsfort Terracе
+
+The hotel's Coburg brasserie serves contemporary Irish cuisine (Conrad Dublin)
+
+Still basking in its €14 million renovation, the Conrad Dublin is one of the finest hotels in town. The rooms strike the perfect balance between style and comfort, with an emphasis on Irish heritage – think Foxford woven blankets on the beds and Irish art on the walls. Breakfast is a highlight, with cafetieres on every table and the fluffiest of pancakes cooked to order.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for cosiness: Number 31
+
+Neighbourhood: Leeson Close
+
+Number 31, inside a Georgian townhouse, has many original features (Number 31)
+
+If you weren’t looking for Number 31, you’d likely walk past it without noticing. Hidden away behind a tall garden wall, this Georgian townhouse is all about sumptuous, classic design, with original features that make architecture nerds weep with joy. There are just 21 bedrooms – opt for one in the townhouse (rather than the modern mews), for their intricately carved ceilings and tall sash windows.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for partying: The Dean Dublin
+
+Neighbourhood: Harcourt Street
+
+The bar at The Dean - the best place in Dublin to get the party started (The Dean)
+
+If you’re in town for a good time, The Dean is the place for you. With a rooftop bar so buzzy it practically vibrates, and an in-house DJ in the lobby, this isn’t the spot for a serene night away, but rather a crash pad for a night of partying. With their own record players and Smeg fridges, the rooms are the epitome of cool, and the Mod Pod rooms are often a steal.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for foodies: The Westbury Hotel
+
+Neighbourhood: Balfe Street
+
+The terrace at WILDE at The Westbury (The Westbury)
+
+It’s rare that a hotel restaurant attracts local diners but you’ll always find Dubliners looking for a bite to eat at The Westbury. There’s an opulent Art Deco vibe in WILDE, the light-filled restaurant dripping with greenery, and a sleeker, neighbourhood vibe in Balfes, but both offer exceptional food (and killer cocktails). Afternoon tea in the Gallery is practically an institution, and is excellent for people-watching.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for business travellers: The Alex
+
+Neighbourhood: Fenian Street
+
+The Alex isn't your traditional business hotel (The Alex)
+
+If you’re travelling for work, you’re often lumbered with a soulless corporate hotel, with a personality as beige as the bedroom walls. Not so at The Alex, a space that’s chic while still catering perfectly to a business traveller. There’s a cool co-working space in the lobby, a coffee shop for quick caffeine fixes and a Mad Men-esque bar for those end-of-day cocktails.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Alex here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for views: Aloft Dublin City
+
+Neighbourhood: Liberties
+
+Aloft Dublin (Aloft Dublin)
+
+In the heart of the Liberties, the Aloft is a cool hotel with light-filled rooms, sleek design and a space-age glass exterior. But, really, this place is all about the view – the hotel’s reception, along with a sprawling bar and little rooftop terrace, is up on the seventh floor, giving you a panorama of the city. You can see the local cathedrals, various city landmarks, and even out to the Dublin Mountains. Dreamy.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for art fiends: The Devlin Dublin
+
+Neighbourhood: Ranelagh
+
+Americana in The Devlin (The Devlin)
+
+In the pretty district of Ranelagh, just a short tram ride from the city centre, The Devlin is the place to go if you want to see a different side of Dublin. The rooms are on the smaller side, but stylish and cleverly designed, with a handheld garment steamer and a Dyson hairdryer stored under the bed. Upstairs, cocktail bar Layla’s is great for sundowners or a boozy brunch, and there’s a teeny Art Deco cinema in the basement, too.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for peace and quiet: The Wilder
+
+Neighbourhood: Adelaide Road
+
+Wilder Townhouse (Wilder Townhouse)
+
+With its gorgeous red brick exterior, plush rooms and stylishly cosy bar, The Wilder is the perfect hideaway in the city. All of the spaces are residents-only, so there’s a pleasing aura of calm to the hotel, despite the fact it’s only a short walk from the city centre. Each night, turndown service comes with a bedtime story of sorts, in the form of a book of Irish fairy tales or The Complete Short Stories by Oscar Wilde left on your pillow.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more about Ireland travel:

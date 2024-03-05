@@ -1,0 +1,177 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nothing says luxury travel like a swimming pool and the UK’s hotels are blessed with a selection of absolute beauties. Some sparkle on rooftops, others slosh over infinity edges towards a sea view and many are set in delightful country gardens.
+
+Whether you’re a fan of soaks, swims, dips or laps, a gorgeous pool can be the icing on the cake when it comes to a brilliant hotel getaway. From those with healing thermal waters to help unknot your muscles after a day’s rambling to al-fresco numbers with panoramas of high-drama countryside and coastline, the UK has plenty of showstopper hotel pools to choose from.
+
+We’ve rounded up picks including a spa hotel in Bath, a sky-high pool in London and an al fresco coastal spot in Wales. Here’s our list of the best hotels in the UK which offer spectacular swimming pools as part of a stylish getaway. Keep scrolling to book your UK break now.
+
+The best UK hotels with swimming pools are:
+
+Best for relaxation: The Gainsborough Bath Spa
+
+The Roman and Georgian inspiration is visable in The Gainsborough Bath Spa (The Gainsborough Bath Spa)
+
+Location: Bath
+
+For a truly transformative soak, make for The Gainsborough Bath Spa’s cobalt blue, mosaic-tiled pool. Directly fed by the city’s mineral-rich thermal waters, known for their healing properties since ancient times, the 35C pool is lined by Romanesque columns and sits under a striking glass atrium inside the hotel’s small but lovely Spa Village. Combined with two smaller soaking pools, an ice alcove, saunas, steam room and relaxation terrace, it forms part of an hour-long self-guided bathing circuit. There are 99 bedrooms – contemporary, with riffs on the property’s Georgian heritage – to relax in, and special spa bedrooms pipe thermal waters straight into roll top tubs. The spa offers ELEMIS treatments, and you can sip on cups of Georgian-recipe hot chocolate between soaks.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Gainsborough Bath Spa - Small Luxury Hotels of the World here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for romantic couple retreats: The Scarlet
+
+Immerse yourself in nature at The Scarlet’s natural outdoor pool (The Scarlet)
+
+Location: Newquay
+
+For a back-to-nature swim, The Scarlet’s natural, reed-filtered outdoor pool, with views out to golden-hued Mawgan Porth beach on the Cornish coast, is hard to beat. Enjoy catching the Atlantic sea breeze as you soak, then hit the clifftop wooden sauna, steam room, and log-fired hot tubs to warm up in afterwards. Known for its eco credentials, this smart, adults-only boutique hotel also has a solar panel-heated indoor pool, 37 rooms with a beachcomber-chic vibe and excellent Ayurvedic spa treatments. Whether drifting in hanging cocoon pods after a massage, or enjoying leisurely fine dining while watching the ocean from the restaurant, a visit here is a guaranteed soul-soother.
+
+Book now
+
+Best for views: Shangri-La The Shard
+
+Take a dip in the sky! (Shangri-La The Shard)
+
+Location: London Bridge
+
+At 182m above ground level, the Sky Pool at Shangri-La The Shard has to be seen to be believed. This 10m infinity pool on the 52nd floor of the Renzo Piano-designed Shard is the highest swimming pool in Western Europe, and offers phenomenal London skyline views as you swim. Prop yourself up at the pool’s edge for a bird’s eye view of the city, wonder at trains pootling along railway tracks which look so tiny they resemble toys. With a capacity of just 23 people, and hourly slots, it’s best to book your time ahead of check in, and while swimming hours run from 6am to 6pm, comfy poolside seating is the ideal spot for sundowners from adjoining GŎNG bar after hours. As well as all 202 bedrooms having sensational views and service here always being on-point, the hotel’s ideally located for jaunts to foodie haven Borough Market.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Shangri-La The Shard, London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for rural romance: The Tawny
+
+What The Tawny’s pool lacks in size it makes up for in character (Andrew Billington Photography)
+
+Location: Staffordshire
+
+Fringed by stone archways on one side and with sweeping views of the Consall Valley on the other, The Tawny’s outdoor pool might be small, but it’s hugely atmospheric. Heated year-round, it’s tucked on a terrace which spills down from the tropical-maximal Plumicorn restaurant, yet manages to feel hidden and intimate. On sunny days, watch flocks of birds swoop overhead from poolside loungers, while on chillier days warm up in steamy waters before calling a buggy to whisk you back to your room. A real countryside romp, there’s a 70-acre estate with follies and lakes to discover, and quirky accommodation includes luxed-up treehouses, Shepherd’s Huts and Boathouses. It’s worth trading the swim gear for glad rags for cocktails in the Feathers Bar under gilded plumage-look lampshades and suppers in The Plumicorn, and donning your walking boots to birdwatch at neighbouring RSPB Consall Woods.
+
+Book now
+
+Best for beach location: Carbis Bay Hotel
+
+Just water, as far as the eye can see (Carbis Bay Hotel)
+
+Location: St Ives, Cornwall
+
+A combination of palm-filled subtropical gardens and vistas featuring the fine white sands of Carbis Bay, regularly voted one of the most beautiful beaches in the world, will have you thinking you’re in the Med rather than West Cornwall while paddling in the al-fresco infinity pool here. Be sure to keep eyes peeled for the seals and dolphins who sometimes make an appearance in the bay. As well as decked areas to maximise sun basking, a hydrotherapy pool and barrel sauna, there’s a peaceful private 25-acre Blue Flag Beach and direct access onto the South West Coast Path, with arty St Ives a 25-minute walk away. There’s a sports club for active types, VOYA seaweed wraps and lava shell massages in the spa, and accommodation options include 36 rooms in the grand, chandelier-filled main house and self-catering lodges for contemporary coastal cool. Head to Adam Handling’s zero-waste restaurant Ugly Butterfly, or Walters on the Beach for laid-back seafood dining.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Carbis Bay and Spa Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best luxury hotel: The Corinthia
+
+The jacuzzi spa at Corinthia London (Corinthia London)
+
+Location: Whitehall, London
+
+Black tiles, Italian marble and a steel lining give the sultry, 9m pool at The Corinthia’s subterranean ESPA Life spa plenty of James Bond allure, while a mirrored ceiling which reflects water movement adds an extra layer of tranquillity. Once you’re done swimming, the four-floor spa spans a whopping 3,300 square metres, and there’s plenty to keep you busy, from a glass amphitheatre sauna and steam room to 17 swish treatment rooms where everything from hydralift facials to theragun percussive therapies are on offer. Close to Trafalgar Square and Buckingham Palace, this ritzy hotel has a pomp all of its own – head to The Northall for best-of-British fare, or The Bassoon Bar for coconut old fashioneds and zinging live music.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Corinthia London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for families: Cliveden House
+
+Take in the historic surroundings at Cliveden House as you take a dip (Cliveden House)
+
+Location: Berkshire
+
+While Cliveden’s outdoor swimming pool might be best known as the scandalous setting which kick-started the Profumo affair – with John Profumo first catching a glimpse of Christine Keeler as she climbed out of the pool after an impromptu moonlit dip – this listed swimming pool inside a walled garden is as pretty as it is historic. Fringed by roses and lavender beds, enjoy views of a gilded 19th-century clock tower while you glide through the long-enough-for-laps 17.9m heated pool. Children are allowed to swim all day, plus an indoor pool has two sessions a day for little ones too. The spa also has an aroma steam room, outdoor hot tub and treatments by OSKIA and Sarah Chapman. There are 48 lavish bedrooms in an Italianate mansion with plenty of period features are named after guests of days-gone-by, and the Cliveden estate has 376 acres of National Trust gardens to wander in.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for variety: Galgorm Spa & Golf Resort
+
+The Vitality pool at Galgorm Spa & Golf Resort (Galgorm Spa & Golf Resort)
+
+Location: Ballymena, Northern Ireland
+
+Surrounded by 132 acres of parkland in Ballymena, Galgorm Spa & Golf Resort has three brilliant pools. Rotate between a garden pool with hydrotherapy jets, a 20m indoor affair ideal for laps, which has a polished pebble border designed to give feet a mini-massage, and a more wild, al-fresco vitality pool at the edge of the rushing River Maine (look out for the resident heron rootling along the riverbank). As well as its award-winning Thermal Spa, which includes hot tubs with dramatic waterfall views, a Celtic Sauna, salt room and snow cabin, Galgorm has 125 rooms licked in river and woody hues, 17 Scandi-style cottages, log cabins and Shepherd’s Huts to bed down in. As for drinking and dining, there’s a 550-strong Gin Library housed in an art deco-inspired conservatory and traditional pizza on offer at Italian joint Fratelli’s.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for revelling in the great outdoors: Lodore Falls Hotel & Spa
+
+Watch the sunset as you relax in the outdoor pool (Lodore Falls Hotel & Spa)
+
+Location: Borrowdale, Lake District
+
+Capitalising on its picturesque Lake District setting, the 16m outdoor pool at Lodore Falls Hotel’s spa serves up astonishing views of Derwentwater Lake and the Catbells Mountains. Cleverly blending into an interconnecting infinity edge hot tub, the hydrotherapy pool is also layered with underwater bubble loungers and powerful hydromassage neck jets – ideal after days spent fell rambling. While it’ll set you back an extra £30/ £35 (weekday/end) per person to take a dip here – unless you’ve splashed out on a suite level room category or above – it’s well worth it, with a glass-fronted Finnish sauna, indoor thermal suites and pretty spa gardens to explore too.
+
+Bedrooms are comfy and practical, and ideally placed for sightseeing as popular Keswick is around a 10-minute drive away.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Lodore Falls Hotel & Spa here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our UK hotel reviews:
+
+Read more on UK travel:

@@ -1,0 +1,65 @@
+The earlier cancer is detected, the lower the risk of it spreading and the higher the chance of a person surviving the disease. Key ways of bringing about earlier diagnosis include encouraging people to respond promptly to symptoms, empowering health professionals to be alert to signs of cancer, speeding up referral and testing, and investing in research and innovation.
+
+Scientific advances over the past 50 years have played a key role in improving cancer survival. That’s why Cancer Research UK has spent £415m on research in 2022-23, including funding many scientists who are investigating innovative approaches to early detection and diagnosis. Their vital work, some of it explored in this article, is only possible thanks to Cancer Research UK’s supporters.
+
+View image in fullscreen Cancer Research UK-funded researchers are at the forefront of developing early diagnosis techniques and technologies
+
+A third of the charity’s funds come from gifts in wills, and those who leave a legacy can be assured that their generosity is helping to bring closer the day when every cancer is cured.
+
+Catching oesophageal cancer early
+
+Detecting oesophageal cancer early is a challenge because one of the first warning signs, trouble with swallowing, often appears only in the disease’s later stages.
+
+There is, however, potential to spot a particular subtype of the cancer early as researchers have found that it is preceded by a condition called Barrett’s oesophagus. While Barrett’s oesophagus itself does not cause symptoms, it can be associated with heartburn and reflux.
+
+View image in fullscreen Liz (top), whose oesophageal cancer was detected while taking part in a trial of the capsule sponge test (below)
+
+Thanks to a quick and affordable test – clinical trials of which were funded by Cancer Research UK – patients presenting with these symptoms can now be tested for Barrett’s oesophagus at a GP surgery. Previously, the condition would be diagnosed by an endoscopy.
+
+View image in fullscreen Prof Rebecca Fitzgerald
+
+The capsule sponge test and a related laboratory test were developed by Prof Rebecca Fitzgerald of the University of Cambridge. The test involves a patient swallowing a pill wrapped in a coating that dissolves in the stomach to release a compressed sponge. This expands and is then pulled back up by an attached string, collecting cells from the lining of the oesophagus on the way, which are then tested in the lab.
+
+A trial found that these tests could identify 10 times more people with Barrett’s oesophagus than standard GP care. Liz, 75, took part in the trial after her GP noticed her history of indigestion and acid reflux. This led to the identification of Barrett’s oesophagus. Further tests found cancerous tissue, which doctors removed. “I believe the trial saved my life,” says Liz. “I shall always be grateful for Cancer Research UK’s involvement in funding research into the development of the capsule sponge.”
+
+The future is liquid
+
+Genetic profiling of tumours from individual patients can help doctors personalise treatments but the surgical removal of samples – biopsies – is invasive and can cause complications. It is also sometimes of limited value, because cancers change over time. Researchers have, in recent years, increasingly focused on the potential of liquid biopsies, which can detect tumour cells or DNA circulating in the blood and other bodily fluids, to better understand patients’ responses to treatment, identify the best treatments for them and, potentially, detect cancers more easily.
+
+View image in fullscreen Prof Caroline Dive. Phototgraph: Kevin Percival Photography/The Board of Trustees of the Science Museum
+
+In 2019, scientists analysed blood taken from patients just before they had surgery to treat lung cancer. Prof Caroline Dive and her colleagues from the Cancer Research UK Manchester Institute found that those whose samples contained the most cells shed by their tumours were at greater risk of their cancers returning.
+
+Dive’s team traced the origin of a secondary tumour in one patient to specific cells that escaped into the pulmonary vein from the primary tumour. They hope further research can identify the genetic characteristics of tumour cells in the blood that put patients at greater risk of relapse. The research was part of the Cancer Research UK-funded TRACERx study, which seeks to improve understanding of cancer evolution and bring about more personalised medicine.
+
+View image in fullscreen View image in fullscreen Top: Light micrograph showing bladder cancer cells. Photograph: Science Photo Library. Below: Molecular model representing DNA
+
+View image in fullscreen Prof Nitzan Rosenfeld
+
+Another group, at the Cancer Research UK Cambridge Institute, created personalised blood tests for patients based on analysis of DNA from their early-stage lung cancers. In research led by Prof Nitzan Rosenfeld, now based at Queen Mary University of London, they found that individuals with tumour DNA detected in their blood between two weeks and four months after their treatment were more likely to relapse.
+
+Until recently, most personalised liquid biopsies were capable of identifying 10-20 DNA variants, and could pick up one genetic mutation from 10,000-30,000 pieces of DNA. Rosenfeld’s team developed a way to look for hundreds and sometimes thousands of genetic variants in a single blood sample and pick out a few mutant molecules from up to 1m pieces of DNA. The researchers are now using these and additional sensitive methods to learn how we can detect cancers earlier in individuals who are at high risk.
+
+While most liquid biopsies use blood, a collaboration between the University of Birmingham’s Bladder Cancer Research Centre and the genetic testing company Nonacus has developed a test for bladder cancer based on identifying tumour DNA in urine. In results published last year, the group, part-funded by Cancer Research UK, found that the test could correctly identify 87% of cases in people who had experienced blood in their urine. The test could one day replace many costly and invasive cystoscopy tests, which involve inserting a camera into the bladder.
+
+Yet another group led by scientists at the Cancer Research UK Cambridge Institute has developed a technique capable of identifying fragments of tumour DNA linked to brain cancers called gliomas in a patient’s urine, blood and cerebrospinal fluid, which surrounds the brain and spinal cord. If larger trials are successful, the test could replace the regular MRIs used to monitor patients at high risk of brain tumours returning.
+
+Brushing up on early diagnosis View image in fullscreen Light micrograph of an oesophageal cancer biopsy; oesophageal cancers are often diagnosed late and patients experience some of the worst outcomes. Photograph: Science Photo Library
+
+Cancers that affect the upper respiratory and gastrointestinal tracts are some of the most difficult cancer types to detect early, partly because in many cases they have non-specific symptoms. For example, oesophageal cancers, as mentioned in more detail previously, are often diagnosed late and patients experience some of the worst outcomes, with just 12% surviving for 10 years or more.
+
+Dr Sam Merriel, a GP and researcher at the University of Exeter Medical School, is part of a team developing a sensor capable of detecting molecular biomarkers of upper respiratory and gastrointestinal tract cancer in saliva. The team is working on a proof-of-concept device called “Sens or Pass” for use by GPs as a screening tool to identify people in need of urgent referral to specialists. Ultimately, if the sensor proves to be accurate and cost-effective, it could be incorporated into toothbrushes to enable detection of early signs for a range of cancers.
+
+Cancer Research UK has been bringing together interdisciplinary research teams at three-day innovation workshops on early detection and diagnosis since 2018. The Sens or Pass concept was discussed at one of these events in 2021 and awarded development funding of up to £230,000 last year.
+
+Flushing cancer down the toilet
+
+Bowel cancer screening is available on the NHS to everyone aged 60-74 in England (there are separate bowel screening programmes for the different countries in the UK), and plans are in place to offer it to all those aged 50-59 by 2025. It is based on the use of the faecal immunochemical test, a kit used at home to detect tiny amounts of blood in poo, which could mean someone has cancer or small growths in the bowel called polyps, which can become cancerous.
+
+View image in fullscreen Dr Lauren Ford
+
+Screening aims to detect cancer at an early stage when treatment is more likely to be successful. But barriers still exist, so further ways to diagnose cancer earlier are being explored. Dr Lauren Ford has developed a concept design for a device called the IntelligentToilet, which could pick up chemical markers of early bowel cancer in urine.
+
+Ford and her colleagues at Imperial College London are also testing different smart ceramic materials to find one that can capture compounds useful for cancer detection from urine.
+
+It’s early days, but a simple device inserted into household toilets capable of rapidly and accurately detecting early bowel cancer could save a great many lives.

@@ -1,0 +1,27 @@
+What is RSS?
+
+RSS stands for Really Simple Syndication. It's a computerised method of displaying feeds of information (jobs) in a simple and easy-to-read format.
+
+What are the benefits of RSS?
+
+You can subscribe to the feeds most relevant to you, without the clutter. RSS feeds can be viewed on computers and mobile devices, meaning you can stay up-to-date on the latest jobs whilst on the go.
+
+RSS feeds update in real-time: the second a new job listing is posted, you'll know about it.
+
+How can I start using RSS feeds?
+
+Web browser:
+
+Most modern, up-to-date web browsers like Mozilla and Opera include an RSS reader as standard. Simply click on the RSS link below to view the feed you want. Some browsers may require an additional plugin to display RSS feeds correctly.
+
+Dedicated RSS reader:
+
+Dedicated RSS readers are available for both computers and mobile devices. If your RSS reader in configured correctly, simply clicking on an RSS link below will automatically display the feed. Otherwise, you can copy-and-paste or drag the link into your reader software. Here's a list of recommended multi-platform RSS readers:
+
+Feedly (iOS, Android and Web)
+
+NewsBlur (iOS, Android and Web)
+
+Jobs by Function:
+
+Jobs by Industry:

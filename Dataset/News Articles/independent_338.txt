@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+At the end of his umpteenth media scrum on Red Bull’s launch day and celebration of 20 years in Formula 1, Christian Horner could not resist a customary quick-witted remark. Prodded and probed on the ongoing investigation into his conduct as team boss – he denies allegations from a female colleague of “inappropriate behaviour” – the unveiling of the RB20 car had fallen rapidly down the news agenda.
+
+Horner, however, was keen to avert attention back to the machine likely to spearhead Max Verstappen’s charge to a fourth successive championship this year.
+
+“Do you like the cooling on the car then?!” he said, as he slumbered from British journalists to Dutch journalists. In most years, Red Bull’s intriguing sidepod design would have been the focus. Not this year.
+
+A very bullish and undeterred Horner was very much the man in the spotlight at Red Bull HQ on Thursday. The 50-year-old, fighting for his job as the longest-serving team principal on the F1 grid, was not quietly whisked away to the sideline as you may have anticipated. On the contrary, from the start of the launch featuring drivers, engineers and executives to the end of his 14th interview of the day, Horner was completely front and centre in the rather unique setting of a gigantic warehouse for this highly thought-out event.
+
+As Horner said himself on numerous occasions, it really was “business as normal”. Business as normal, with a big fat elephant in the room.
+
+Red Bull should be applauded for not opting out late in the day, given the furore surrounding their F1 chief at the moment. Launch-wise, while Ferrari rallied back at questions directed at their drivers about 2025 signing Lewis Hamilton and Mercedes and McLaren offered little access, Red Bull opened their doors up fully to more than 200 guests yesterday lunchtime.
+
+Free caps were on offer. Earplugs were provided, amid revving engines. And, of course, unlimited cans of Red Bull.
+
+Christian Horner (right) on stage at Red Bull’s car launch (Red Bull)
+
+The RB20 was unveiled in Milton Keynes on Thursday (Red Bull)
+
+Horner answers questions from journalists at Red Bull’s launch event (Kieran Jackson)
+
+Herded over to the powertrains section of Red Bull’s vast campus just outside Milton Keynes, having originally assembled amidst a collection of their cars from the past two decades, Horner was on stage from the get-go. Reminiscing with the likes of David Coulthard and Adrian Newey, the team principal played his usual role of team spokesperson on all matters F1. The 45-minute launch was sectioned up with numerous eye-catching videos with striking sign-offs – like “20 laps around the sun”.
+
+When it came to the RB20 reveal, which does possess an interesting design element with Newey and his team of engineers not opting for a similar evolution of the all-conquering 2023 car, Horner was present again alongside Max Verstappen and Sergio Perez. By the end of the event in front of the cameras, there was not a peep about the ongoing investigation. But there sure was amid media interviews and roundtables. Horner, Verstappen and Perez all refused to comment on the nature of the investigation. But the two drivers spoke about their relationship with the team boss while Horner himself did not shy away from any questions within reason.
+
+His playbook was simple: reiterate his rebukes. Implore business as normal. Preach confidence in the process of clearing his name. Repeat.
+
+It may well be a familiar tune, should the matter drag on into the new season, starting on 2 March. Pre-season testing begins on Wednesday in Bahrain and Horner stated he will be present. In the meantime, so much as Red Bull will focus on their performance on the track as anticipation builds towards lights out, the odd uncomfortableness around the world champions will linger so long as the probe remains ongoing.

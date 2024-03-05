@@ -1,0 +1,37 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Paul O’Connell believes the legacy of influential former captain Johnny Sexton lives on among Ireland’s 2024 Guinness Six Nations squad.
+
+The reigning Grand Slam champions have made a strong start to the post-Sexton era by bouncing back from Rugby World Cup disappointment with successive championship wins over France and Italy.
+
+Forwards coach O’Connell admits there was a degree of trepidation about how the team would respond to the agonising quarter-final defeat to New Zealand and losing their long-serving leader.
+
+Sexton, 38, retired immediately after the 28-24 Paris loss in October but has been credited with having a lasting impact on senior members of Andy Farrell’s squad, including new skipper Peter O’Mahony.
+
+“I suppose you’re very hopeful that the work we’ve done with all of the players kind of comes through, but you’re a bit nervous that it might not happen as well,” O’Connell said of the new era.
+
+“We’re only two games in so we’ve plenty of battles ahead of us.
+
+“I think one thing that maybe Johnny has given a lot of the guys is he’s shown how much you have to care about the team and how much you have to care about how you prepare.
+
+“He’s been a great example to some of the guys that are going to end up as leaders in the team.
+
+“While he’s gone, his legacy from how he used to go about his business still lives on with us.
+
+“A lot of the guys – Peter O’Mahony, Caelan Doris, James Ryan, Iain Henderson, Garry Ringrose – they’ve a few of his qualities in them that helps us arrive to a good place every Saturday when we play.”
+
+Ireland resume their title defence at home to Wales on February 24, ahead of March appointments with England and Scotland.
+
+Many pundits already feel it is a formality that Farrell’s men will become the first side to claim back-to-back Grand Slams in the Six Nations era.
+
+Former Ireland captained O’Connell, who won the competition three times as a player, thinks players are adept at “ignoring the bigger picture”.
+
+“We talk about winning, for sure, we always want to win the tournaments we’re playing in and we talk about winning them but once we’ve cleared that up, we don’t really talk about it much more,” said the 44-year-old.
+
+“We just focus on the next game. We focus on what needs to be better for the next game and get excited about doing the things we feel might lead to a performance.
+
+“It’s something that the players do really well. It’s a practised skill being next-game focused.
+
+“Andy’s big into it; Joe Schmidt (former Ireland head coach) was big into it back in the day and a lot of the players are big into it because it helps them prepare properly by ignoring the bigger picture.”

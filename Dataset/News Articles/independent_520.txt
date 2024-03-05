@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A robotic moon lander built by Houston-based company Intuitive Machines has been successfully launched by SpaceX from Florida.
+
+The Nova-C Odysseus lander took off atop SpaceX’s Falcon 9 rocket from Cape Canaveral in Florida at 6:10 am GMT.
+
+Following the launch, SpaceX’s reusable Falcon 9 rocket’s first stage landed back – completing the booster’s 18th launch and landing.
+
+The Odysseus lander is expected to touch down on the Moon on 22 February at a site called Malapert A, which is in a crater near the Moon’s south pole.
+
+“Deployment of Intuitive Machines IM-1 confirmed. The lander is now beginning its multi-day journey to the Moon’s South Pole,” SpaceX posted on X following successful launch.
+
+The lander would operate for about two weeks – or one lunar day – on the Moon during which it would conduct several science missions.
+
+The 675kg (1,488lb) lander carries with it 12 payloads, including a Nasa instrument known as Scalpss (Stereo Cameras for Lunar Plume-Surface Studies) a four-camera system to capture Odysseus’s descent to the lunar surface.
+
+Over 100 tiny sculptures by the artist Jeff Koons are also on board.
+
+The instruments would help shed more light on the Moon’s plume and surface interactions, space weather, radio astronomy, precision landing technologies, as well as a communication and navigation node for future autonomous navigation on the lunar surface, Nasa said.
+
+IM’s mission is also expected to provide insights into the Moon’s surface environment and help pave the way for SpaceX’s Human Landing System that Nasa hopes would put Artemis astronauts on the Moon.
+
+The Intuitive Machines mission, if successful, could make it the first private company to land on the Moon, and would also be the first US landing on the lunar surface since Nasa’s 1972 Apollo 17 mission.
+
+Previous private Moon landing efforts have been unsuccessful.
+
+Last month, US spacecraft Peregrine operated by US company Astrobotic failed to touch down on the Moon following a fuel leak.
+
+In 2019, the Beresheet lander built by Israel’s SpaceIL crashed during descent and last April, the Hakuto-R M1 lander by Japanese company ispace was also destroyed as it attempted to land.

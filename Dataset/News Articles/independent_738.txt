@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+FIA president Mohammed Ben Sulayem admits motorsport needs to place “more attention” on Africa as Formula 1 looks to return to the continent in the near future.
+
+F1 has not raced in Africa since 1993, when the South Africa Grand Prix at Kyalami circuit outside Johannesburg was dropped from the calendar.
+
+The sport embarks on a record 24-race calendar this year but Africa remains the only continent that does not stage a race.
+
+Lewis Hamilton and Max Verstappen have led calls for a return to South Africa and while that is off the table for 2024 – and signs of a sudden introduction in 2025 appear remote – Ben Sulayem acknowledged the need to focus more intensely on motorsport in Africa.
+
+“We have very good contacts in Africa, more attention should be focused on Africa,” Ben Sulayem told German outlet Motorsport-Magazin.
+
+“We have a good vice president in Africa, we are strengthening the clubs there.
+
+“In South Africa, they have a lot of history in motorsport. Since last year, there has been a lot of talk about Formula 1 coming back to Kyalami. That would be a big thing for Africa. We are also thinking about an electric championship that would like to have Africa involved. That would be good too.”
+
+F1 was seemingly close on reaching an arrangement with Kyalami in 2023 for a race, before issues arose surrounding the long-term sustainability of the event following a change of promoter. South Africa’s failure to condemn the actions of Vladimir Putin after Russia’s invasion of Ukraine has also contributed.
+
+FIA president Mohammed Ben Sulayem says F1 needs to place ‘more attention’ on motorsportAfrica (Getty Images)
+
+It has also handed a short-term lifeline to Spa-Francorchamps. The Belgian Grand Prix was expected to make way for South Africa, but Spa now has a contract with F1 until 2025.
+
+Ben Sulayem also spoke in depth about how motorsport’s governing body are looking to strengthen ties in Africa at a grassroots level.
+
+“We call it ‘Motorsport in a Box’, this is a box that you get from the FIA,” he said. “It contains very simply equipment such as timing and telephones. Then you can at least do speed tests.
+
+“If we want to grow there, we can’t do it from above. I can’t give orders, the water doesn’t flow downwards here. It’s the other way around, it goes from the bottom up.
+
+“You have to start at the bottom. That’s why we recently launched ‘Motorsport in a Box’, we’re sending it to them and we’re going to get them involved in motorsport.”
+
+The 2024 F1 season starts in Bahrain on Saturday 2 March.

@@ -1,0 +1,59 @@
+Earlier today I set you three puzzles for 12-year-olds, used by the charity Axiom Maths, whose mission is to help top performing children from low incomes continue achieving well throughout secondary school.
+
+1. Backwards multiplication
+
+What four-digit number reverses itself when multiplied by 4? As in, what are the digits a, b, c and d such that the number abcd x 4 = dcba?
+
+(In this problem, the letters a, b, c and d all stand for different digits.)
+
+Solution 2178 x 4 = 8712
+
+STEP 1 a can only be 1 or 2, because four times a number greater than 3000 will be greater than 12,000, so have five digits, not four;
+
+STEP 2 The solution must be even (since all multiples of 4 are even) and so a must be 2.
+
+STEP 3 We know that 4 x d is a number ending in 2. By working through the four times table we get to d = 3 or 8
+
+STEP 4 d can only be 8 or 9, as 4 x 2 thousand-and-something is at least 8 thousand and something; so d is 8; so 4 x b (possibly plus a carry) is less than 10, otherwise d would have to be 9, so b = 1 or 2, and so must be 1 as it has to be different from a.
+
+STEP 5. c x 4 + carry of 3 has ones digit 1, so c x 4 has units digit 8, so c can only be 2 or 7 and so must be 7 as it has to be different from a.
+
+2. Really secret Santa
+
+A group of nine secret agents: 001, 002, 003, 004, 005, 006, 007, 008 and 009 have organised a Secret Santa. The instructions are coded, to keep the donors secret.
+
+Agent 001 gives a present to the agent who gives a present to agent 002
+
+Agent 002 gives a present to the agent who gives a present to agent 003
+
+Agent 003 gives a present to the agent who gives a present to agent 004
+
+and so on, until
+
+Agent 009 gives a present to the agent who gives a present to agent 001
+
+Which agent will agent 007 get her present from?
+
+Solution 002
+
+The easiest way to do this is draw a circle and then fill it in.
+
+3. Trapezium, or trap-difficultum?
+
+Here’s a trapezium, with two parallel horizontal sides. Where would you put a vertical line in order to divide the shape into two parts of equal area?
+
+Solution
+
+Find the midpoint of each non-parallel edge. Find the midpoint of the line joining these two points. Put a vertical line through this point.
+
+View image in fullscreen On both sides of the trapezium, the shaded and non-shaded triangles have the same area.
+
+I hope you enjoyed these puzzles. I’ll be back in two weeks.
+
+For more about Axiom Maths please read the original post or go to their website.
+
+If you are a parent or a school who is interested in getting involved for September 2024, you can fill in the Axiom Maths form here.
+
+This article was amended on 5 February 2024. The answer to the first question is 2178, not 2187 as an earlier version said.
+
+I’ve been setting a puzzle here on alternate Mondays since 2015. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.

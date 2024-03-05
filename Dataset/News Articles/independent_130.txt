@@ -1,0 +1,67 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ukraine is pioneering war-time science by rolling out mobile laboratories with new technology capable of processing DNA samples in minutes to identify the dead.
+
+It cuts down the time taken to identify those killed in Russia’s ruthless invasion from potentially years to just over an hour.
+
+The new DNA machines, provided by Western donors including the French authorities and the Howard G Buffett Foundation in the United States, are being driven around the country in police vans allowing teams to process evidence in real time.
+
+The authorities say it will substantially speed up the identification of thousands of its dead and the collection of war crime evidence for tens of thousands of cases they are building against Russia since it invaded in February 2022.
+
+The mobile DNA units being used in Ukraine (Bel Trew/The Independent )
+
+The DNA matching has been slow with the country’s chief police investigators saying that relying on the pre-war process which requires sending samples to a handful of machines in the west of the country or even aboard, could have delayed matches by years. International experts warned the country could spend “decades” trying to find and identify all of its dead.
+
+But results could be immediate thanks to the specialised labs – which appear in The Independent’s documentary, The Body in the Woods, being released today (1 March).
+
+“Before, because of the huge number of dead there was a huge queue for DNA analysis in the labs we had available in western Ukraine,” explained Serhiy Boliniov, the chief investigator in Kharkiv, in the north-eastern region of the country.
+
+Last year, the Kharkiv authorities found more than 400 bodies in a mass grave in the city of Izyum, which is located within the Kharkiv region, and was occupied for five months by Russian forces.
+
+“It is my estimate that it would have taken up to five years to extract and analyse the DNA from those bodies using our pre-existing system. We would have had to have told relatives ‘you are in queue and someday we will get your DNA matches’. That has changed.”
+
+The graves in the woods in Ukraine filmed for The Body in the Woods documentary (Bel Trew/The Independent )
+
+He said the new machines, which can be easily transported in vans the police are now driving around the country, can process DNA samples in just 100 minutes.
+
+“We have four machines in Kharkiv reign, with one stationed in Izyum. Before the waiting list would have lasted years, relatives looking for thier missing loved ones would have had to have travelled far to the laboratories, now we can make matches in a few hours.”
+
+In an interview with The Independent for The Body In the Woods, Ukraine’s top war crimes prosecutor Yuriy Belousov warned there could be as many as 100,000 Ukrainian civilians killed since Moscow’s men invaded last February. That number is more than ten times the official figures released by the United Nations which admits it has a woefully low estimate.
+
+Mr Belousov added that the Ukrainians still have more than 3300 bodies which are yet to be identified as they have struggled to deal with the numbers, particularly after uncovering multiple mass graves in recently liberated areas.
+
+Bel Trew interviewing Ukrainian police for her The Body in the Woods documentary (The Independent)
+
+At the same time, the county is building over 24,600 war crime cases against Russia according to Vasyl Malyuk, the head of the domestic intelligence agency who gave an exclusive interview with The Independent this week.
+
+He said, in total, they are working on 64,000 criminal proceedings related to Russia’s military actions in Ukraine.
+
+The International Criminal Court is, meanwhile, investigating allegations of war crimes and genocide in Ukraine.
+
+The nine DNA machines in the country will be part of that evidence gathering. At least one portable device in Ukraine was provided by the French in July. Another six have been provided by Howard G Buffett, a philanthropist and son of billionaire investor Warren Buffett.
+
+Four of Howard G Buffett’s machines are in Kharkiv. “The machines were made to identify the bodies of US soldiers killed on the battlefield. For us these bodies have been buried for a significant amount of time, they are degraded so we have had special training to be able to extract DNA.”
+
+“We are pioneering science,” he added.
+
+“We are targeting our funding in Ukraine to quickly fill the needs we see on the ground. When I walked through the mass grave sites with the Kharkiv police I could immediately see the enormous scale of the war crimes investigations they are conducting. They are also doing this work while Russians continue to target and shell civilians daily”, Mr Buffett continued.
+
+“The only way to collect and process all this evidence quickly and at scale is using rapid DNA machines. It’s also complementary to other support we are providing to investigate war crimes. Hopefully, this work will eventually bring families justice and closure.”
+
+As part of The Body in the Woods, The Independent filmed the process of collecting DNA samples from charred and decomposing bodies in morgues including those in Kharkiv. Located in the northeast of the country, along the border with Russia, the staff have to work in labs with sandbagged windows as they are under missile file. The sheer number of bodies means they have to store the overflow in shipping containers and railway trucks.
+
+Watch The Body in the Woods trailer
+
+Official trailer: The Body in the Woods
+
+The Independent also filmed the DNA process in Kyiv, where the capital’s regional police force has two of the new machines and accompanying vans.
+
+“With the help of these machines we went from taking well over a month to establish each DNA match to just 24 hours,” said Lieutenant Colonel Oleksandr Serhienko, a top investigator in Kyiv region’s police department.
+
+“With this device, we will be able to speed up our work. We will be able to go to a crime scene or a mass grave, identify it, and conduct rapid DNA analysis on the spot.
+
+“We will be able to identify the deceased more quickly, within 24 hours.” It is a game changer he added. The machines have already been used in Kyiv to identify the bodies of those who were killed in territory occupied by Moscow’s forces.
+
+To find out more about our new Independent TV smart TV app click here.

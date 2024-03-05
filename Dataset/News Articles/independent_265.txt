@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average price paid for motor insurance in the final quarter of 2023 was around a third, or £157 in cash terms, higher compared with a year earlier, according to the Association of British Insurers (ABI).
+
+Between October 1 and December 31 2023, the average price paid for private motor cover was £627, up from £470 during the same period a year earlier.
+
+The ABI pointed to surging costs for insurers, such as longer repair times, higher repair costs, and the rising price of replacement vehicles.
+
+Rising repair costs are due to a mixture of the price of labour, energy costs, and vehicles becoming more sophisticated, with electric vehicles requiring more specialist expertise to repair, the ABI said.
+
+Its motor insurance premium tracker analyses nearly 28 million policies sold in a year and is based on the price customers pay for their cover rather than what they are quoted.
+
+Rising repair costs and other factors outside of insurers' control mean there is no single action that could bring down premiums Mervyn Skeet, Association of British Insurers
+
+Mervyn Skeet, the ABI’s director of general insurance policy, said: “We’re acutely aware of the impact that rising motor insurance premiums continue to have on motorists.
+
+“Rising repair costs and other factors outside of insurers’ control mean there is no single action that could bring down premiums. However, we are determined to do all we can to put the brake on.
+
+“We are working with our members to understand what actions can be taken to help motorists manage costs. The cost of paying monthly (premium finance) is one of a number of topics we continue to discuss with our members and the Financial Conduct Authority (FCA).
+
+“We’ve also been very clear, and continue to underline, that cutting insurance premium tax would provide immediate relief for stretched consumers.”
+
+The ABI estimates that insurance premium tax currently adds around £67 to the average motor premium. The tax is levied on insurers but the cost is passed on to customers through the prices they pay.
+
+Recent research by consumer group Which? indicated that in September 2023 those paying monthly for an annual policy faced paying around £309 more on average over the year than those paying in one go.
+
+Younger motorists, who often pay the highest premiums, may be more likely to pay monthly, Which? said.
+
+Specialist brokers may be able to help people who are finding it hard to get insurance. The British Insurance Brokers’ Association can help put people in touch with a specialist broker.
+
+A Financial Conduct Authority spokesman said previously that the body has already told insurers they must ensure their products provide fair value and it expects firms to continue to support customers in financial difficulty and reflect on whether they can do more to support people with lower financial resilience.

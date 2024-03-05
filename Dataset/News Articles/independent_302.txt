@@ -1,0 +1,25 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lenders are continuing to chop mortgage rates, with a string of new announcements.
+
+According to financial information website Moneyfacts, the average two-year fixed homeowner mortgage rate on Tuesday morning was 5.62%, down from 5.66% on Monday.
+
+The average five-year fixed homeowner mortgage rate on Tuesday morning was 5.24%, falling from 5.28% on Monday.
+
+It wasn't that long ago that we saw lenders only dipping their toe into rate reductions, but now we are seeing some lenders dive head-first and offering larger reductions Elliott Culley, director at Switch Mortgage Finance
+
+HSBC UK said on Tuesday that rates have been cut on its homeowner mortgage range by up to 0.40 percentage points.
+
+An HSBC UK spokesperson said: “We’re pleased to announce cuts to mortgage rates across our UK residential range for first-time buyers and home movers, as well as some reductions on our switcher range.”
+
+The Mortgage Works (TMW) said that from Wednesday, its reduced rates for buy-to-let customers will include a two-year fixed-rate deal at 3.69% for people with a 35% deposit who are looking to buy a home or remortgage.
+
+Joe Avarne, senior manager, buy-to-let mortgages at TMW said: “These changes demonstrate our continued support to landlords and the sector.”
+
+NatWest, Metro Bank and TSB are also among the lenders to be making reductions.
+
+Elliott Culley, director at Switch Mortgage Finance, told website Newspage: “As each day passes, mortgage lenders are becoming more confident in the stability of the current market.
+
+“It wasn’t that long ago that we saw lenders only dipping their toe into rate reductions, but now we are seeing some lenders dive head-first and offering larger reductions.”

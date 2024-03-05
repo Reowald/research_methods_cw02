@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Elon Musk is funding a court case that claims that attacks Disney for making clear “that only one orthodoxy in thought, speech, or action was acceptable in their empire”.
+
+The case is being brought by actor Gina Carano, and accuses Disney of unfairly firing her from her role in The Mandalorian over her tweets. She argues that she was dismissed from the company in 2021 for voicing conservative opinions on social media, including on what was then Twitter.
+
+But the case is as notable for one party who is not involved in it: Elon Musk and his company, X. It is helping to fund the proceedings, apparently as part of a commitment to free speech.
+
+Last summer, as Mr Musk was looking to promote the newly-renamed X platform as a host for free speech, he made a commitment to fund court cases brought by those who felt they had been unfairly treated because of their posts on the site.
+
+““If you were unfairly treated by your employer due to posting or liking something on this platform, we will fund your legal bill,” he said in a tweet in August. He made clear that there would be no limits to the funding and that anyone interested should get in touch.
+
+Carano’s case, related to The Mandalorian, is seemingly also being advertised in that manner. ““Please let us know if you would like to join the lawsuit against Disney,” he wrote in a new tweet.
+
+“As a sign of X Corp’s commitment to free speech, we’re proud to provide financial support for Gina Carano’s lawsuit, empowering her to seek vindication of her free speech rights on X and the ability to work without bullying, harassment, or discrimination,” said Joe Benarroch, X’s head of business operations, in a statement to Reuters.
+
+But Mr Musk’s decision to fund the lawsuit might also be the result of personal animosity between him and Disney chief executive Bob Iger. The two have been in a public confrontation for months.
+
+That appears to have begun when Disney joined many other companies in boycotting advertising on X, last year, in response to Elon Musk’s apparent endorsement of an antisemitic post.
+
+Mr Musk then attacked Mr Iger on stage during an event, telling him to “go f*** yourself”, and said that he should be “fired immediately”.
+
+More recently, Mr Musk has posted a range of tweets attacking Disney. “Disney sucks”, he posted on Wednesday, and he shared what appeared to be an internal Disney document promoting diversity in another tweet.
+
+Disney did not immediately respond to a request for further information on the case and its dispute with Mr Musk.

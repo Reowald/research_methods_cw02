@@ -1,0 +1,227 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Staycations made a huge comeback following the Covid pandemic, but there’s no reason to give up on them now that you’re free to travel wherever you want. Going on holiday a little closer to home can save time, money and is often the more environmentally friendly option. Plus, there are so many great options in the UK that you’ll be spoilt for choice.
+
+The Cotswolds is a stunning destination for those who don’t want to travel far – from its photogenic honey-stone cottages to its postcard-perfect country pubs. If you’re lucky, you might even spot some of its celebrity residents.
+
+The area stretches over Gloucestershire, Oxfordshire, Somerset, Warwickshire, Wiltshire and Worcestershire and delivers both charm and outstanding natural beauty. For your stay, opt for a countryside estate, manor house or cosy boutique B&B. Options are plentiful, so read on to find the right hotel that’ll make you feel at home.
+
+The best hotels in the Cotswolds are:
+
+Best for dreamy escapes: Buckland Manor
+
+Neighbourhood: Chipping Campden
+
+From glorious fireplaces to flagstone floors, this old manor cannot be faulted for its looks (Booking.com)
+
+If you’re after serenity, look no further. Secluded Buckland village is at the end of a narrow road that passes through increasingly beautiful landscape, its old manor house dramatically set just under the Cotswold escarpment. With its lawns, gables and mullion windows, this is now a sublimely old-school country house hotel. Step inside and you’ll feel as if you’re in a grand yet very comfortable aristocratic home. There are glorious stone fireplaces, rugs on flagstone floors, oil paintings and comfy sofas. Dubarry boots are available, ready for you to head out on some of the prettiest walks in the region, or simply stay put on the wonderful 10-acre grounds. Afterwards, you can dine in style – the cuisine of chef Mark Potts is a treat.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Buckland Manor - A Relais & Chateaux Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for amazing views: The Painswick
+
+Neighbourhood: Painswick
+
+The George suite has a spacious balcony that comes with stunning views (The Painswick)
+
+Take in the views across miles of the glorious Painswick valley – a bucolic landscape dotted with sheep. The very best vistas are surely from the sitting room balcony at The Painswick. Glamorous, hip and comfy in equal measure, this boutique hotel is set on a steep hill near the heart of its namesake town. There’s an arty, funky vibe here, with eye-catching installations offset by original features of the Palladian-style, early 19th-century mansion. The 17 bedrooms are the relaxing side of chic – think soft throws and soothing shades, with splashes of vivid colour. From glorious afternoon teas to exquisite dinner dishes (including a six-course tasting menu), this is a fabulous foodie destination, too.
+
+Price: doubles from £217
+
+Book now
+
+Best for a brilliant welcome: The Old Stocks Inn
+
+Neighbourhood: Stow-on-the-Wold
+
+It’s contemporary furnishings give this hotel a modern-day feel (The Old Stocks Inn)
+
+What a charmer of a venue. This townhouse hotel exudes welcome, thanks to its young team (who ensured it was shortlisted in the Caterer’s Best Employer 2022 award – a veritable hospitality industry gold star). Here, you’ll find a winning combo of looks, with contemporary Scandi furnishings offsetting atmospheric vestiges of age – from beams and exposed stone walls to wonky floors here and there. It’s just off-centre in Stow (opposite a set of historic stocks, hence its name). The Old Stocks has plenty of epicurean appeal too: the hotel does a great line in cocktails – to drink in the bar or the adjacent cocktail parlour – and the restaurant is a magnet for locals, which is the best of accolades, in our book.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Old Stocks Inn here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for serene green: Barnsley House
+
+Neighbourhood: Cirencester
+
+The hotel’s garden in all of its glory in May (Barnsley House)
+
+Manor house hotels couldn’t come much more stylish than glorious Barnsley House, with its cinema, spa, elegant dining and 18 gorgeously chic bedrooms (those in old stables are spectacular, the Potager room has wonderfully rural overtones). But all these attributes are marvellously upstaged by a garden of absolute delights. In spring, the magnolia and narcissi are breathtaking; in early June, the wow factor is the fabulous laburnum walk; during all seasons, the kitchen garden, complete with well-clipped hedging, is a beautiful place of productivity. And there are sweeping lawns and vistas to take in, too. You tread on pretty much hallowed ground here: the garden was created by renowned garden designer Rosemary Verey, who owned the property from the 1950s to her death in 2001.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for village vibes: Thyme
+
+Neighbourhood: Southrop
+
+Thyme has an outdoor swimming pool and spa access (Thyme)
+
+Dotted throughout Southrop Manor’s sprawling 150-acre estate, you’ll find the cosy pub (currently in the final throes of a stylish revamp), 17th-century cottages, spectacular restaurant and al fresco pool that make up Thyme, which is not so much a hotel as a village within a village. Guests have the run of the place, swanning from central-hub-cum-watering-hole Baa (which also happens to be a bar, set in former lambing sheds) to the first-class Meadow Spa that offers probiotic treatments in soothing surroundings. When it comes to sleeping, 31 restful, neutral-hued rooms are set in restyled farmhouse buildings, a former rectory and state-of-the-art new courtyard cottages. Inspired by produce from Thyme’s own expansive veg garden chef Charlie Hibbert offers exquisite dishes in magnificent Ox Barn restaurant.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Thyme here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for stately grandeur: No 131 The Promenade
+
+Neighbourhood: Cheltenham
+
+Antique knick-knacks and traditional looks give this hotel a homey feel (No 131 The Promenade)
+
+If you have designs on one day rattling around a grand Georgian mansion, head to No 131 Cheltenham, which is spread across not one but three Georgian mansions (one of which can be rented in its entirety for OTT weddings and events). Traditional on the outside and eclectic on the inside, this good looker from the team behind The Lucky Onion is a (really big) home away from home. Each of its 36 opulent rooms is decked out in statement wallpapers, industrial lights and moody blues with brassy touches, while antique knick-knacks rub up against artworks by David Hockney and Banksy. The newest addition is sumptuous Japanese restaurant, Yoku.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for grown-up glamping: The Fish
+
+Neighbourhood: Farncombe Estate
+
+Each tree house comes with a bunk-bedded room for children (The Fish)
+
+With shepherd’s huts, forests prime for stomping and family-friendly tree houses poking out from towering silver birch trees, The Fish is a veritable playground for the Cotswolds set who want lashings of luxe with their long country walks. Set on 400 glorious acres, it’s dog-friendly, romance-friendly (we’re talking twin soaking tubs and prosecco in the minibar) and seafood-focused, with elegant restaurant Hook serving up poached fish, tender mussels and Porthilly oysters that are a bracing coastal walk on a plate.
+
+Price: Doubles from £170
+
+Book now
+
+Best for dining: The Wild Rabbit
+
+Neighbourhood: Chipping Norton
+
+Menus are based on what’s in season, and while dishes are not cheap, they’re worth splurging on (The Wild Rabbit)
+
+The most genteel sort of pub with rooms, The Wild Rabbit is actually a meticulously transformed 18th-century coaching inn. Set just a few fields apart from Daylesford’s Bamford spa and organic farm shop (where posh sorts get their eggs and kale), the hotel is a brilliantly mellow space filled with blonde wood, stone and nature-inspired touches, like tree-trunk four-poster beds and twig coat hooks. But grub is the real name of the game here and menus are based on what’s in season on the Daylesford Estate. Dishes are not cheap but they are certainly worth the money.
+
+Price: Doubles from £175
+
+Book now
+
+Best for romance: Lucknam Park
+
+Neighbourhood: Colerne
+
+Set in a 500-acre estate, everything about the Lucknam is superlative (Lucknam Park)
+
+Is there anything Lucknam isn’t good at? From its Michelin-star restaurant to its award-winning spa, everything here is superlative – including the gloriously glossy horses that trot round the on-site stables. Set in a 500-acre estate, guests at this grand 43-bedroom property (alongside three cottages) have access to tennis courts, croquet lawns and manicured gardens. Rooms and suites – which are of the chinoiserie silk and chandeliers variety – look out onto green views, while, downstairs, chef Hywel Jones (who earned the opulent restaurant its Michelin star almost two decades ago) does wonders with hearty meats and seasonal ingredients, such as wild garlic, morels and lemongrass.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Lucknam Park Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for boutique chic: Foxhill Manor
+
+Neighbourhood: Farncombe Estate
+
+The rooms come with rolling views of the Cotswolds (Foxhill Manor)
+
+This small and intimate modern manor has only eight rooms, so you’re unlikely to get trampled by a rush of welly boots on your way to breakfast. Here, privacy is king, and you’re as welcome to hole up in your airy room as you are to settle down withthe head chef in the cushion-strewn dining room to discuss menu options. Grounds are pretty and well-maintained; ask the kitchen to pack you a picnic and head out to explore the 400-acre woodland on your doorstep, or Dormy House and its bounty of high-end amenities are just a short transfer away.
+
+Price: Doubles from £645
+
+Book now
+
+Best for families: Calcot & Spa
+
+Neighbourhood: Tetbury
+
+Have a soak (with champagne in hand) in the hotel’s hot tub (Calcot & Spa)
+
+For a family-friendly space that welcomes tiny tearaways with open arms, this country house hotel is decidedly chic. Drop the small ones off in the play zone for mask-making, den-building or other such mucky craftwork with the enduringly cheery staff, then make straight for the heated indoor pool or al fresco hot tub for a champagne-in-hand soak. The 35 rooms are splashed with Farrow & Ball and decked out in restful neutrals, and many of them sit under sloping eaves or ancient beams. Newly refurbished, The Hive offers an informal space to enjoy a bite to eat or some evening cocktails.
+
+Price: Doubles from £264
+
+Book now
+
+Best for contemporary country-pile chic: The Slaughters Manor House
+
+Neighbourhood: Lower Slaughter
+
+The chic bar at The Slaughters Manor House (The Slaughters Manor House)
+
+Forget opulent chandeliers and duck-printed cushions, Slaughters Manor House takes the country-house archetype and hurls it gleefully out the window. This place looks more like a boutique city crashpad than a stuffy country grande dame, with rose gold and marble in the dining room and strokeable aubergine and taupe in the bedrooms. Nineteen rooms and suites make The Slaughters wonderfully intimate, and some even open up onto their own private gardens. The restaurant in the manor’s old chapel combines glamour (big windows, white tablecloths, great flowers) with the hugely applauded culinary creativity of head chef Nik Chappell.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Slaughters Manor House here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best spa hotel: Dormy House
+
+Neighbourhood: Farncombe Estate
+
+Enjoy a massage at the hands of the skilled therapists at the hotel’s spa (Dormy House)
+
+Think of welcoming Dormy House as your secretly posh uncle’s second home, with 38 rooms and a spa so decorated with awards it draws in zen-seekers from across the country. The owners are Nordic, so interiors are suitably Scandi-inspired, with clean lines and calm, quiet washes of colour on the walls. At the property’s heart is a 17th-century farmhouse, replete with flagstone floors and flames crackling in imposing stone fireplaces. If you don’t fancy clay-pigeon shooting or quad-biking around the estate, surrender to the salt-infusion steam room or the hands of the skilled massage therapists for an afternoon of knot-busting.
+
+Price: Doubles from £309
+
+Book now
+
+Read more of our UK hotel reviews:
+
+Read more on England travel:

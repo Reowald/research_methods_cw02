@@ -1,0 +1,47 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Microsoft is planning a future “where every screen is an Xbox”, according to a leaked memo.
+
+The company has announced a series of unexpected changes that will bring games that were previously exclusive to Xbox onto rival consoles.
+
+But that appears to be just one part of a broader plan to bring Xbox “everywhere” – pushing it across PCs, TVs using cloud gaming and other consoles such as the Nintendo Switch.
+
+At first that will see several exclusive Xbox games will be soon making their way to rival consoles, the video gaming brand and its parent company, Microsoft.
+
+But that may be part of a broader plan that will bring a “different vision for the future of gaming”, according to a memo leaked by the Verge. “This is a future where Xbox is everywhere—consistent with our promise to empower players to ‘play the games you want, with the people you want, anywhere you want’”, the memo read.
+
+The demo was sent to staff before a special edition of the Official Xbox Podcast, in which Microsoft Gaming CEO Phil Spencer confirmed that four Xbox games will no longer be exclusive.
+
+That means players should be able to access them on other companies’ platforms.
+
+Mr Spencer did not provide a firm time frame, or identify the four games, but said that two will be “community-driven” games and two will be smaller titles.
+
+“The teams that are building those games have announced plans that are not too far away,” he said. “I won’t be talking about the titles specifically, but I think when they come out, it’ll make sense.”
+
+He did say that Microsoft-owned Bethesda titles Starfield and Indiana Jones were not among them.
+
+Makers of gaming hardware often license popular video games in hopes of getting consumers to buy the devices that hold their exclusive rights.
+
+Xbox‘s announcement on Thursday suggests that the brand is rethinking that strategy.
+
+While Microsoft maintained that there was no fundamental change to its exclusivity approach, Mr Spencer noted that he believes games that are exclusive to one piece of hardware “are going to be a smaller and smaller part of the game industry” within the next five or 10 years.
+
+Microsoft has already been moving away from this through its “Game Pass” subscription service that works something like a Netflix for video games.
+
+The tech giant’s recent acquisition of video game maker Activision Blizzard allows that service to grow even further.
+
+On Thursday, Xbox president Sarah Bond announced that the first Activision Blizzard game on Xbox Game Pass will be Diablo IV, starting March 28.
+
+“It’s all part of our commitment to make Xbox, the Xbox experience, and the games that we build as widely available as possible,” Bond said.
+
+Xbox, which has previously ranked third in sales behind PlayStation and Nintendo, is expected to see a significant boost from the Activision Blizzard roster - which, beyond Diablo, also includes blockbuster games like Call of Duty and Overwatch.
+
+Revenue for Microsoft’s Windows-led personal computing business, which includes Xbox games and services, already grew 19% to 16.89 billion US dollars (£!3.4 billion) in the fourth quarter of 2023 - largely reflecting Activision Blizzard’s impact.
+
+Microsoft’s Xbox-related revenues grew by 61% for the period, although the company attributed 55 points of that figure to the addition of Activision Blizzard.
+
+Microsoft completed its purchase of Activision Blizzard for 69 billion dollar (£54.8 billion) back in October, nearly two years after announcing the deal. The Redmond, Washington-based tech giant had to fend off ample global opposition from antitrust regulators and rivals over competition concerns.
+
+Additional reporting by agencies

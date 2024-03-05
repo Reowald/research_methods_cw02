@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Some 3.17 million low income households were struggling to pay their energy bills to heat draughty homes in 2023, official figures show.
+
+In England, official statistics consider a household to be in fuel poverty if their home has a poor energy efficiency rating of band D or below and their disposable income after housing and fuel costs is below the poverty line.
+
+The data from the Department for Energy Security and Net Zero shows 13% of households in England were in fuel poverty last year, largely unchanged from 13.1% in 2022.
+
+The figure would have been more than 3.5 million households in fuel poverty without Government support including energy bill payments and the cost-of-living income payments given to people on low incomes, the data showed.
+
+The data also reveals well over a third of households (36.4%) or some 8.91 million were forced to spend more than 10% of their income, after housing costs, on domestic energy bills, up from 6.66 million in 2022.
+
+Due to energy improvements there has been a slight increase in the proportion of low income households living in a property with a fuel poverty energy efficiency rating of Band C or higher, pulling them out of fuel poverty according to the statistics.
+
+Some 54% of all low income households live in a property with an energy rating of C or above, up from 53.1% in 2022, the figures show.
+
+The fuel poverty gap – the reduction in fuel costs needed for a household not to be in fuel poverty – jumped in 2023 to £417, from £348 the year before.
+
+Simon Francis, co-ordinator of the End Fuel Poverty Coalition, said the figures do not paint the “true picture of suffering” as they exclude millions of homes in certain energy performance categories and many people who receive a Warm Home Discount for their bills.
+
+He added: “The numbers of households paying more than 10% of their income on energy is truly shocking, far exceeding previous estimates.
+
+Progress on tackling fuel poverty is flatlining, despite the ongoing energy crisis, which has forced those on the lowest incomes to freeze in their own homes Georgia Whitaker, Greenpeace UK
+
+“The reality is that household energy debt is now at record levels, millions of people are living in cold, damp homes and children are suffering in mouldy conditions.
+
+“The wider impact of high energy bills is also clear to see with households having to cut back on spending so much that the UK has now entered a recession.”
+
+Greenpeace UK climate campaigner Georgia Whitaker said: “Progress on tackling fuel poverty is flatlining, despite the ongoing energy crisis, which has forced those on the lowest incomes to freeze in their own homes.
+
+“The cheapest and most effective way to help is to insulate homes, but Government funding for energy efficiency schemes was pushed off a cliff edge by ministers over a decade ago.”
+
+She criticised moves to remove the legal requirement on private landlords to insulate homes, and urged Prime Minister Rishi Sunak to “drop his anti-green agenda” as measures – such as insulation – to tackle the climate crisis also ease the cost of living.
+
+A Department for Energy Security and Net Zero spokesperson said: “We’re providing an average of £3,700 per household to help with bills, and the latest figures show that our energy bill support schemes and progress in making homes more energy efficient have protected hundreds of thousands of households from fuel poverty.
+
+“We’ve halved inflation, and energy prices are now significantly lower than their peak last year – but we recognise the cost-of-living challenges that families are still facing and will continue to target support at those most in need.”

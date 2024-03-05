@@ -1,0 +1,53 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mercedes team principal Toto Wolff has no concerns over Lewis Hamilton’s integrity ahead of the seven-time world champion’s drawn out move to Ferrari.
+
+Hamilton is entering the first year of a new two-year deal with Mercedes worth £100million, but shocked the world of Formula One by activating a release clause in the agreement to join Ferrari from 2025.
+
+Wolff insisted he would not hold a grudge against Hamilton after the 39-year-old broke the news over breakfast at Wolff’s home in Oxford on Wednesday, and also has no concerns about the Briton sharing sensitive information with his future team.
+
+“I’ve always tried to be transparent and fair and nothing’s going to change in that respect in 2024,” Wolff said. “We owe it to our principals and our racing intent and I will ensure that the drivers respect that.
+
+“In terms of development going forward, it’s something we need to look at. When it comes to 2025 we will evaluate later in the season what it means in terms of technical information.
+
+“But it’s not something that bothers me at all. We have engineers that go to other teams and the notice periods are sometimes as short as six months.
+
+“I don’t have any doubt in Lewis’ integrity in terms of sharing information. We want to make sure that this is a successful season for both drivers and for Mercedes and all of us will give our utmost to achieve that.”
+
+Wolff revealed he had heard rumours of Hamilton’s move earlier this week, but made no attempt to change his mind.
+
+“When we signed the contract with Lewis we opted for a shorter term so the events are not a surprise, maybe the timing,” Wolff said.
+
+“We were very aligned when went into the Christmas period. You need to ask Lewis why he changed his mind. How he framed it to me is perfectly understandable.
+
+“He needed a new challenge, he was looking for a different environment and that it was maybe the last possibility to do something else.
+
+“We are big boys, we knew that signing a short-term contract it could be of benefit for both sides. We couldn’t commit for a longer period and he has taken the option to exit.
+
+“We totally respect that you can change your mind and switching to Ferrari, maybe rolling the dice a bit, I can follow that decision. Every driver dreams of being in the red car.
+
+“My first thought was practical. The team’s mind kicked in. Now, having slept a few nights on it, it means our professional journey comes to an end, but it doesn’t mean that our personal relationship ends.
+
+“I’ve found a friend, we’ve built a relationship over the last 10 years and he faced a very, very difficult situation, taking a decision of where to drive, maybe for the first time in 10 years without being able to brainstorm with me and therefore I will always respect the difficulty of the situation that he faced.
+
+“In the future we will discuss whether this could have been done in a different way but I hold no grudge.”
+
+Wolff said he would love Hamilton to win a record eighth world title this season after controversially missing out in the final race of 2021, but conceded that would be an uphill task given Red Bull’s recent dominance.
+
+I hold no grudge Toto Wolff on Lewis Hamilton's switch to Ferrari
+
+“Is it realistic we are competing for a world championship against Max [Verstappen] in a Red Bull? If I’m a probability person the odds are against us. But nevertheless we will give it our best shot,” Wolff said.
+
+“There’s a friend side in me that says he should have an eighth [title] because that was taken away from him so if he wins that in 2024 that would be a great thing.
+
+“Going forward, competing on track, I’d rather us win.”
+
+Wolff refused to be drawn on who would replace Hamilton in 2025 as he noted that the likes of Charles Leclerc and Lando Norris had recently signed new deals with Ferrari and McLaren respectively, but praised George Russell as a lead driver in waiting.
+
+“We have such a solid foundation, such a quick and talented and intelligent guy in the car,” Wolff said. “We just need to take the right choice for the second seat and it’s not something I want to be rushed in.
+
+“I guess that a few contracts have been signed a few weeks ago that we would have looked at that could have been interesting, but in a way I always like change because change provides you with opportunity.
+
+“Maybe it’s a chance to do something bold.”

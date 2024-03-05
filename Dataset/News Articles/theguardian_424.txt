@@ -1,0 +1,29 @@
+The mainstay of casual conversation – the unexpected state of the weather – is under existential threat. Scientists plan to make forecasts so accurate they will be able to determine weather patterns a month into the future.
+
+Barbecue misery and Wimbledon washouts could take a serious hit - thanks to the new 15-year research programme that has been launched by Reading University, in partnership with the Met Office and the European Centre for Medium-Range Weather Forecasts. The aim is to transform our ability to unravel the minute influences that determine weather patterns and uncover the limits of predictability in the real world.
+
+“A major goal of our work is to be able to say what the weather will be like a month ahead,” said Prof Rowan Sutton, research dean for the environment at Reading – though he stressed that it would not be possible to predict, precisely, a month ahead whether a particular day would be sunny or rainy.
+
+“However, we would hope to be able to say we are likely to experience a period of very wet and windy weather – or enjoy sunny weather – four weeks in advance of a given date,” he added. “That will not guarantee you have sunshine for your wedding day but it will undoubtedly have lots of useful applications – for farmers or energy companies, for example.”
+
+Accurate advance weather forecasts will become increasingly important as the planet heats and more and more extreme weather events occur, say scientists. Worsening storms and droughts will mean that highlighting their arrival time will be increasingly important in saving lives and property.
+
+Meteorologists can currently make forecasts more than a week ahead with reasonable accuracy. These save the UK billions of pounds a year by providing warnings about forthcoming storms, floods, droughts, and the potential for airline flight disruption, while also helping energy companies estimate how meteorological conditions will affect power generation.
+
+This is a major improvement on the 1970s, when forecasts were only accurate a day or two in advance. “As a rule of thumb we have improved the predictability of our weather forecasts by a day every decade since the middle of the last century,” said Prof Sarah Dance, an expert in data assimilation at Reading’s department of meteorology.
+
+To achieve this precision, massive streams of data are collected from automated weather stations that dot the countryside, deepwater buoys that warn of incoming Atlantic storms, weather balloons, transponders on aircraft and ships and satellites. Billions of bytes of information are then channelled into some of the world’s most powerful supercomputers, which create models of weather patterns and the changes that are likely to affect them. The end result has been the creation of forecasts of astonishing accuracy for many days in advance.
+
+Now scientists want to push these developments ever further – though meteorologists acknowledge there will be limits to such improvements. The number of variables involved in calculating weather patterns is vast, and will eventually combine and overwhelm efforts at long-term prediction. However, there are ways to overcome some of these uncertainties, they say, and the new Reading University programme – entitled Advancing the Frontiers of Earth System Prediction – is designed to tackle them.
+
+“Cities provide a good example,” says Prof Chris Merchant, an expert in ocean and earth observation. “Buildings and roads are not included in current climate models, yet they can have a profound influence on the weather.
+
+“Consider London and a place like Hyde Park. Sometimes it is a cool place during a heatwave. At other times, it can be very warm. It depends on how much moisture there is in the ground. Factors like that need to be included in the data we use to make our forecasts,” added Merchant, leader of a project that is part of the Reading forecast programme.
+
+Understanding cities’ responses to weather could often be far more complex than that of the countryside, he added. “You might get heavy rain but current models cannot differentiate between gardens and parks or concrete and roads. The stuff we use to build a city can have an impact and we need to include variables like these in our models.”
+
+Another issue concerned the use of data, added Dance. “At present, we can only use about 5% of the data we get from all our sources. We need to find more ways to make use of that data and work on finer and finer scales. That will certainly give us a more accurate picture of what is going on.”
+
+This point was backed by Prof Pier Luigi Vidale, the programme’s science director. “We are starting to resolve things at finer and finer resolutions, not just in the atmosphere but in the oceans, which gives us a much better understanding of how they transport heat from the equator to the pole and influence the ways that storms develop and bring winds and rain to our shores. That will also help our forecasts.”
+
+The results of the programme would be important on many levels, he added. “At present, we don’t fully understand how predictable the real world is. So we are trying to develop a theoretical understanding of what is going on and use that to find out what are the limits to predictability. But it is not just an intellectual exercise. If we get this right, we are going to make a huge, huge difference to people’s lives.”

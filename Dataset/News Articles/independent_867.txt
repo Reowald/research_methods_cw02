@@ -1,0 +1,57 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Whether you’re away on holiday or lounging in the sun at home, needing a siesta after lunch or a disco nap before dinner on a hot summer’s day is normal.
+
+But how can you tell when warm weather-induced drowsiness is something more serious? We asked doctors to explain…
+
+What is heat exhaustion?
+
+“Prolonged exposure to the heat can cause heat exhaustion. It is the body’s response to excessive loss of water and salt,” says Dr Preethi Daniel, deputy medical director at London Doctors Clinic.
+
+“Symptoms may be characterised by heavy sweating, rapid breathing, headache, high temperature, nausea, a faster and weak pulse, light-headedness, feeling fatigued and heat cramps.”
+
+Older people, babies, children and those with chronic illnesses are much more likely to develop heat exhaustion.
+
+“Symptoms are usually the same in adults and children, and can make children tired and floppy,” says Dr Luke Powles, associate clinical director at Bupa Health Clinics.
+
+While not life-threatening, heat exhaustion is a warning sign that you need to cool down promptly to prevent progression to heat stroke, which means getting out of the sun immediately.
+
+“Remove any unnecessary clothing, lie down and raise your feet so they are above the level of your heart and drink plenty of water,” says Powles.
+
+“You can also use a cool sponge to cool your skin. Make sure someone stays with you until you feel a bit better – which you should do in half an hour or so.”
+
+If you don’t start to cool down after 30 minutes, seek medical help, as you may have developed heatstroke.
+
+What is the difference between heat exhaustion and tiredness?
+
+“Heat exhaustion is the direct result of spending too much time in the sun and often raises your core body temperature to over 38 degrees, which isn’t an indicator of general tiredness,” says Dr Carolyn Barshall, GP at independent charitable hospital King Edward VII’s.
+
+“Whereas tiredness can be caused by many lifestyle factors, such as disordered sleeping patterns, alcohol and poor diet.”
+
+Daniel adds: “If you have a lack of energy or aches and pains, consider it tiredness, but if you have any of the other symptoms mentioned above, it could be heat exhaustion.”
+
+What is heatstroke?
+
+“Heatstroke is the end result of overheating,” says Daniel. “Our internal temperature rises and creates confusion, drowsiness and can lead to seizures.”
+
+Much more serious than heat exhaustion, it can cause a change in mental status such as, Barshall says: “Confusion, delirium, combativeness, seizures, loss of consciousness, and a core body temperature above 40 degrees.”
+
+Symptoms may also include skin that’s not sweating even when it feels hot, fast breathing or shortness of breath.
+
+“Heat exhaustion and heatstroke are often confused, but there is a difference,” says Powles.
+
+“Heatstroke should be treated as an emergency, whereas with heat exhaustion, the person needs to be cooled down.”
+
+If you suspect someone has heatstroke, you should call 999 or seek emergency help immediately.
+
+How to stay safe in the sun
+
+To prevent heat exhaustion during summer, it’s important not to spend too long in the sun and to stay hydrated.
+
+“Avoid direct sunlight between 11am and 3pm, and wear light-coloured, loose clothing,” says Daniel.
+
+“Drink plenty of cold drinks and water throughout the day, and limit alcohol intake.”
+
+To help little ones, she says: “You can keep a pram or buggy cool by covering it with a damp cloth and refreshing it every 30 minutes.”

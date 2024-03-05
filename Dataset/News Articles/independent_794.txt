@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Vandals have targeted a driverless taxi in San Francisco, smashing its windows, covering it in paint and torching it.
+
+Fireworks were also placed inside the car during the incident on Saturday evening, according to a report in The Autopian, though no passengers were inside at the time.
+
+The vehicle involved was owned and operated by Waymo, the autonomous driving unit of Google’s parent company Alphabet.
+
+Footage of the incident was captured by Frisco Live 415 and posted to YouTube, together with a video showing firefighters dealing with the aftermath.
+
+A spokesperson for Waymo confirmed that one of its vehicles had been targeted and said it was working with local safety officials to respond to the situation.
+
+“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said.
+
+“The vehicle was not transporting any riders and no injuries have been reported.”
+
+The vandalism comes amid increasing frustration with driverless cars in San Francisco, which is one of only two cities in the US to authorise their use on public roads.
+
+The California Department of Motor Vehicles (DMV) has already banned Waymo rival Cruise from operating robotaxis, while city officials have blamed the technology for obstructing emergency vehicles and causing traffic.
+
+Earlier this month, a self-driving car collided with a cyclist after reportedly failing to spot it behind a truck at a four-way intersection.
+
+“The cyclist was occluded by the truck and quickly followed behind it, crossing into the Waymo vehicle’s path,” a Waymo spokesperson said at the time.
+
+Police and regulators in California are currently investigating the accident, which left the cyclist with minor injuries. It was the ninth vehicle collision involving an autonomous vehicle in California this year, according to the DMV’s logs.
+
+A pair of Super Bowl ads on Sunday also rallied against the technology, calling for a boycott of Tesla for allegedly selling “defective self-driving software”.
+
+The electric car maker recalled around 2 million vehicles last year following a report from the National Highway Traffic Safety Administration (NHTSA), which concluded that there was a flaw with Tesla’s Autopilot feature.

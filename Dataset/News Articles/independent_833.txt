@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A finance worker in Hong Kong was duped into paying $25m by fraudsters posing as his company’s London-based chief financial officer on a video call using deepfake technology.
+
+The worker, a clerk at the company, attended a video call in which he thought several members of the staff were present, but they were all deepfake recreations, according to Hong Kong police.
+
+Deepfakes are images or videos generated using artificial intelligence technology that depict a person’s likeness.
+
+“Because the people in the video conference looked like the real people, the informant [clerk]...made 15 transactions as instructed to five local bank accounts, which came to a total of HK$200 million,” acting senior superintendent Baron Chan told reporters at a press conference on Friday.
+
+Police said they were highlighting the incident as it is the first deepfake conference scam involving a large sum in Hong Kong.
+
+In previous scams involving the controversial technology, victims were tricked in one-on-one video calls.
+
+X blocks some Taylor Swift searches as pornographic deepfake images circulate online
+
+Officers suspect the deepfake was created based on past genuine online conferences attended by the staff.
+
+“This time, in a multi-person video conference, it turns out that everyone you see is fake,” Mr Chan told local news.
+
+“I believe the fraudster downloaded videos in advance and then used AI to add fake voices to use in the video conference,” he said.
+
+After making the transaction of about $25m as instructed on the call, the worker then realised it was a scam a week later, upon inquiring with the company’s headquarters.
+
+Police said two to three employees of the company were reached out by fraudsters using similar tactics, adding that they are still investigating with no arrests made in the case.
+
+“We want to alert the public to these new deception tactics. In the past, we would assume these scams would only involve two people in one-on-one situations, but we can see from this case that fraudsters are able to use AI technology in online meetings, so people must be vigilant even in meetings with lots of participants,” Mr Chan said.
+
+To avoid falling victim to such deepfake scams, police advise people to confirm details via regular communication channels, and ask questions during video conferences to ensure that the participants are real.

@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Haas F1 team owner Gene Haas insists he has “no interest in being 10th anymore” as he explained why Guenther Steiner departed this week.
+
+Steiner, who had been in charge of the American-owned team since their debut in F1 in 2016, left his role as team principal in a shock announcement on Wednesday.
+
+The popular Italian-American, known for his X-rated outbursts on Netflix’s Drive to Survive, has been replaced by his former right-hand man Ayao Komatsu as team boss.
+
+And owner Haas has now delved into the reasons why a change of direction was sought, following a disappointing 2023 campaign where they finished in last place for the second time in three years.
+
+“It came down to performance,” Haas told the F1 website. “Here we are in our eighth year, over 160 races – we have never had a podium. The last couple of years, we’ve been 10th or ninth.
+
+“I’m not sitting here saying it’s Guenther’s fault, or anything like that, but it just seems like this was an appropriate time to make a change and try a different direction, because it doesn’t seem like continuing with what we had is really going to work.
+
+“I like Guenther, he’s a really nice person, a really good personality. We had a tough end to the year. I don’t understand that, I really don’t. Those are good questions to ask Guenther, what went wrong.
+
+“At the end of the day, it’s about performance. I have no interest in being 10th anymore.”
+
+Gene Haas (right) parted ways with Guenther Steiner earlier this week (Getty Images)
+
+Haas added that the focus is now “all about winning”, imploring the team to perform better given the resources available, including an engine partnership with Ferrari.
+
+“I’m embarrassed that we haven’t been able to do better with it [the Ferrari support]”, said Haas. “But going forward, I want to take advantage of good equipment that a lot of other teams don’t have.
+
+“It’s really all about winning. We have a great team, we have great engines, we have really great drivers. There’s no reason why we are 10th. I can’t understand how we can be with all the equipment and people we have.”
+
+Komatsu’s first race in charge is the 2024 F1 season-opener in Bahrain on Saturday 2 March.

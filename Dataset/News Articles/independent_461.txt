@@ -1,0 +1,305 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+London is known for many things – thriving art and culture, great dining and more old buildings than you can shake a stick at – but England’s capital isn’t normally a place you’d think of for a family getaway. However, you’d be missing a trick.
+
+With museums and theatres aplenty, huge parks on seemingly every corner, must-see attractions (Sea Life London, Warner Bros. Studio Tour, London Dungeons and Madame Tussauds just for starters), a stay in the Big Smoke means you’ll never be stuck to find something every member of the family will enjoy.
+
+That said, there’s a whole raft of things to consider when travelling with children, from dining options and proximity to those must-see attractions to noise levels and, of course, cost (the capital’s not known for being the cheapest place, especially when you’ve got kids in tow).
+
+So, we’ve pounded the city’s pavements to find you the best family-friendly places to stay in the capital – from Victoria to the less-obvious but ultra-cool Clerkenwell. Whether you’re after spacious family suites or interconnecting rooms, free meals for the kids, complimentary activities and swimming pools, or a home-from-home, complete with kitchenettes and added extras, such as toys, games and treats, there’s something that will suit you and yours. And as well as five-star luxury, we’ve also included some stylish budget options.
+
+Best for five-star bargain hunters: The Goring
+
+Neighbourhood: Belgravia
+
+Barbara the sheep is the hotel’s mascot (The Goring)
+
+Known for its royal credentials, The Goring remains owned and run by the family who built it back in 1910. Although there’s an old-fashioned English feel to this lavish five-star hotel, with Gainsborough silk-lined walls and a royal warrant, there’s a surprisingly homely atmosphere, plus friendly staff who make children feel welcome.
+
+The personalised service is special – children can expect teddy-shaped cakes, a perfectly selected welcome gift (tied beautifully with ribbon), a card bearing their name and a bedroom strewn with cuddly sheep toys (The Goring’s mascot is Barbara the Sheep). The utmost delight was elicited by a wooden chest filled with immaculate fancy dress costumes.
+
+Parents can take a breather while children dig into the “For Kids’ Eyes Only” pack, containing an activity book, colouring crayons to doodle with and a Goring Passport to keep a personal record of their London trip and stamps collected from each area of the hotel.
+
+There’s an extensive children’s menu in the Michelin-starred restaurant, a library for children, and the concierge will advise on family-friendly attractions. The garden – a centre court-sized lawn bordered with herbs and flowers – is ideal for a run around.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Goring here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for park visits: Royal Garden Hotel
+
+Neighbourhood: Kensington
+
+The Royal is right next to Kensington Gardens (Royal Garden Hotel)
+
+The Royal Garden goes all out for children, offering a tipi (available in larger rooms) filled with cushions, a torch to play explorers in the bedroom, plus a branded backpack containing a quality stationery set and an activity pack. Choose from connecting rooms or executive rooms large enough for two adults and two children.
+
+The location means children can run around Kensington Gardens and Hyde Park and its excellent Diana Memorial Playground, and the hotel loans Mini Micro scooters plus helmets. The Science Museum and Natural History Museum are a short walk away, too.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for junior culture vultures: Haymarket Hotel
+
+Neighbourhood: West End
+
+A stay here puts you in the heart of Theatreland (Haymarket Hotel)
+
+This hip five-star hotel has a bright, friendly atmosphere that matches Kit Kemp’s colourful and quirky interiors. Ideal if you’re seeing a show as a family, the Haymarket is in the heart of Theatreland.
+
+The generous welcome amenities for children are of the highest quality – think mini bathrobes and slippers, cookies and milk in bottles with striped paper straws at bedtime, and a specially chosen gift and book.
+
+Children are welcome in the hotel’s lounges where there are games for all ages, while smiley staff are happy to provide additional entertainment. There’s also a separate children’s menu in the Brumus restaurant, which offers plenty to tempt little tastebuds.
+
+Don’t miss out on the basement’s funky, pink-lit swimming pool, which offers inflatables for water fun.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for luxury self-catering: Taj 51 Buckingham Gate Suites & Residences
+
+Neighbourhood: Victoria
+
+A Junior Suite at The Taj (Taj 51 Buckingham Gates Suites & Residences)
+
+If you want the convenience of ample child-friendly space, a large kitchen complete with mod-cons and an array of treats, the apartments and suites at Taj 51 will not disappoint. This hotel – comprising Victorian townhouses and a quiet courtyard set back from the bustle of Victoria – boasts a vast, neutrally decorated, contemporary two-bedroom apartment. It also includes a play mat on which to put the activity books and crayons located within the goodie bags given to children on arrival.
+
+Expect animal-themed organic toiletries for the littlest family members, rubber ducks, mini bathrobes and slippers, and a turn-down service with warm milk, homemade cookies and sweet smoothies. Choose DVDs from the selection catering for the whole family and enjoy complimentary popcorn and soft drinks in the rooms.
+
+If you’re tempted by the afternoon tea menu, children aged four to 11 can tuck into the treats for half price.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for bookworms: Brown’s Hotel
+
+Neighbourhood: Mayfair
+
+Beds comfy enough to jump on (Brown’s Hotel)
+
+Since its 1837 opening, Brown’s has welcomed illustrious guests, from Winston Churchill to Rudyard Kipling (The Jungle Book was completed here). Children get their own check-in at Brown’s – in the heart of exclusive Mayfair, with the open spaces of Green Park a short walk away – and that’s just the start of the many surprises to make children feel spoilt.
+
+A hand-written note welcomed our two children to their tent to play hideaway, and as part of the Monkey Turndown Service, a plush Jellycat monkey (the hotel’s mascot Alby) sits on their bed, which is decked with embroidered bedding.
+
+The decor here is elegant: sage greens in our room and hand-painted walls elsewhere. There is also a beautifully illustrated Albemarle storybook for bedtime reading, and milk and home-baked cookies, while a popcorn machine was a fun addition to our room.
+
+A VIP membership card allows children to borrow books from the reception’s “library”, while they can also expect their own toiletries and rubber ducks. Parents can request equipment – from bottle steriliser and baby monitor to films and games consoles. The concierge will even create a bespoke teen itinerary on request.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for eco-friendly family fun: The Zetter Hotel
+
+Neighbourhood: Clerkenwell
+
+Goodies for children at The Zetter (The Zetter Hotel)
+
+In a converted Victorian warehouse in a quiet enclave in cobble-stoned Clerkenwell, the boutique Zetter Hotel is the hippest option for families – it’s also environmentally friendly. Water from a borehole beneath the building is decanted into glass bottles in the bedrooms, and there are no throwaway activity packs here – instead, kids are treated to a basket full of age-appropriate books to borrow, and a cuddly teddy to keep.
+
+There are also mini robes in the rooms, and chemical-free Ren toiletries, which are gentle enough for the whole family, while baby video monitors and a childminding service are available on request. Cots and an extra bed for children aged two to 16 years can be added to Deluxe Rooms for free, and interconnecting rooms have their own adjoining corridor. If you’re travelling with a baby, the pantry will come in useful both for milk storage and preparation – and adult caffeine hits.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Zetter Townhouse Clerkenwell here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for oodles of room: The Landmark London
+
+Neighbourhood: Marylebone
+
+Child-friendly rooms at The Landmark (The Landmark London)
+
+What you really need with young children is space – and at 592ft sq, the smallest rooms at the Landmark are bigger than many London flats. Floor-to-ceiling windows, plus creams and golds ramp up the glamour of this grande dame hotel.
+
+You’ll find a tent and headlamps for children to play camping, plus a Landmark teddy to take home, and freshly baked cookies on arrival. Don’t miss the treasure hunt for a reward on completion. There’s also a chlorine-free swimming pool, ideal for little ones’ sensitive skin, with children’s hours, so you don’t have to worry about disturbing other guests.
+
+Family bedrooms accommodate two adults and two children in double beds, and there’s plenty of space for extra beds and cots, which are provided on request, as are highchairs, bottle warmers, baby bath tubs and potties.
+
+The sun-drenched Winter Garden restaurant offers children-sized breakfasts, such as pancakes with caramelised bananas and Nutella. An extensive family-friendly DVD menu is useful for rainy days, too.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for large families: Rubens at the Palace
+
+Neighbourhood: Victoria
+
+Activity packs await children at Rubens at the Palace (Rubens at the Palace)
+
+There’s an opulent splendour to this hotel, where the bedrooms have silk wall coverings and chandeliers. Children can expect an activity pack and cookies waiting in their bedrooms, and the hotel will provide everything from night lights to bathroom steps to make travelling with little ones easier.
+
+Also available are movies, PlayStation consoles and games. There’s a “director of fun” who can help to plan activities, and children can take part in a Rubens Pastry Experience to decorate and take away their own cupcake.
+
+There are plenty of room options for families. The larger suites accommodate two under-12s, while the many interconnecting rooms in the family wing accommodate up to 11. There’s a special afternoon tea option for children, while the main restaurant has breakfast options such as pancakes that are sure to go down well with your little ones. Children under 12 dine for free.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Rubens At The Palace here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for central London attractions: Park Plaza County Hall
+
+Neighbourhood: Waterloo
+
+The Park Plaza is perfectly placed for London views (Park Plaza County Hall London)
+
+If you want to be within a few minutes’ walk of some of central London’s best attractions – including the London Aquarium, London Eye and the South Bank’s venues and restaurants – Park Plaza County Hall is ideal.
+
+The rooms, neutrally decorated in cream and wood, are more business-like than characterful, but the views over the City, the Shard, Houses of Parliament or the London Eye make up for it. The mini kitchenettes with microwave and kettle make travelling with babies easier, and there’s a family area at breakfast, plus a children’s menu.
+
+The Family Getaway package includes up to 25 per cent off the best flexible rate, with children staying (and eating) for free, while breakfast for all the family is included in the price. Interconnecting rooms are available, and all studio rooms include a sofa bed – or splash out on a penthouse on the 14th floor for the ultimate view.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for families on a budget: Premier Inn Bank (Tower)
+
+Neighbourhood: The City
+
+Double rooms at the Premier Inn Bank (Premier Inn Bank – Tower)
+
+If you’re looking for a budget option, you’ll be pushed to beat Premier Inn’s value for family stays in central London. What the hotel lacks in ambience and frills, it makes up for in comfort. You get sizeable rooms with Hypnos beds – many king-size – and two pull-out or sofa beds or a cot for children (under-16s stay for free). This branch, a short walk from the Tower of London, has nine adjoining rooms.
+
+For children, there are in-room goodie bags containing sweets, crayons and colouring material. On weekends, in every family room, children receive a sweet treat on their bed.
+
+Look out for themed activities taking place during some weekends, where staff dress up – think pirates or Disney. With one dining adult, up to two under 16s get a free breakfast.
+
+Price: Doubles from £191, room only
+
+Book now
+
+Best for waterfront wandering: Bingham Riverhouse Hotel
+
+Neighbourhood: Richmond
+
+The terrace at Bingham Riverhouse Hotel (Bingham Riverhouse Hotel)
+
+Situated between central Richmond and quieter Petersham, the Bingham is a smart and beautifully kept boutique hotel haven in a Georgian townhouse with a home-from-home attitude and an unbeatable riverfront position. Staff are friendly, easy-going and welcoming, just what you want for a relaxed stay with children, and nothing is too much trouble. Need a baby bottle warmed in the early hours, or more entertainment for the younger guests? No problem.
+
+Appropriate-aged books and colouring pencils were left in our room for the children to borrow during our stay. Babysitting can be organised if you want to spend time in the Bhuti yurt, where you can enjoy yoga classes among other activities (your stay allows you 50 per cent off the price of classes and workshops). You can also enjoy the tasting menu in Steven Edwards’ restaurant, where high chairs are available – although there’s no children’s menu.
+
+Among the 15 rooms are two sets of interconnecting rooms, while extra beds for children can be added elsewhere. The copper baths are more practical for younger children than the usual showers (although there are fabulous monsoon showers here), and the hotel has two cloakrooms with changing facilities.
+
+Best of all is the large, pretty terrace garden overlooking the river, where parents can relax and enjoy a drink with a view while watching their children run around.
+
+Borrow bicycles from the hotel and take the cycle path along the river or Richmond Park, where the children can try out horse riding at Stag Lodge Stables.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Bingham Riverhouse here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for personalised touches: The Athenaeum Hotel & Residences
+
+Neighbourhood: Mayfair
+
+Luxury awaits at the Athenaeum Hotel & Residences (The Athenaeum Hotel & Residences)
+
+Staff at the Athenaeum Hotel bend over backwards to ensure their littlest guests’ every whim is catered for. This is a home-from-home but of the most luxurious and spoiling kind.
+
+The Children’s Concierge organises bedtime milk and cookies, and other activities. Our children were delighted at the generous assortment of toys (from the hotel’s own toy store) to keep them entertained during their stay, while you’ll be provided with quality kites to be flown at Green Park opposite, plus bird food for feeding the ducks at St James Park. The location is perfect for introducing youngsters to London sites, such as Buckingham Palace.
+
+Stay in one of the 18 luxury apartments for practicality and space, with the top-notch housekeeping of a hotel. Cots are beautifully made up in the main bedroom and pop-up bunk beds or sofa beds are made up in the lounge, while interconnecting apartments are ideal for longer family stays. Luxury bathrooms include organic toiletries for little ones. Here, kitchens are compact but fully equipped with smart mod cons, and there’s a dining area and sitting room.
+
+Of course, you don’t have to cook – the on-site restaurant has options for children, or youngsters can order from the main menu with a discount of 50 per cent. Then again, you could always book one of the hotel’s babysitters and head out on the town, sans kids.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more about England travel:

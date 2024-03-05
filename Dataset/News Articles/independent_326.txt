@@ -1,0 +1,43 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Brendon McCullum insisted England’s best chance of turning the tide in India is to keep trusting in their methods as he resists calls to adapt despite a humbling defeat in Rajkot.
+
+Michael Vaughan described a 434-run loss in the third Test – their heaviest since 1934 – as a “wake-up call” on X, while Nasser Hussain indicated in the Daily Mail that “tweaks” to the ‘Bazball’ approach are a must.
+
+The suggestions of two former England captains are likely to fall on deaf ears as McCullum sticks to his guns despite going 2-1 down in a five-match series which resumes in Ranchi on Friday.
+
+McCullum, who has won 14 of 21 Tests as England head coach after taking charge of a team triumphant in one of their preceding 17, accepts criticism will come his way but he and skipper Ben Stokes feel that putting limitations in place can only have a disruptive effect.
+
+“The positivity and confidence within the environment needs to remain,” McCullum said. “If we do that we give ourselves the best opportunity with the talent we possess to bounce back.
+
+“That messaging that comes from myself and the skipper will never change regardless of how we’re going. I don’t want our guys to ever doubt themselves otherwise we go back to where it was beforehand.
+
+“When you start retreating a little bit on what you’ve done before and what you’ve said you’re trying to achieve, you’re literally living and dying every day by your results and that’s not what this team is about.
+
+“This team is about trying to keep pushing the game forward, to try and entertain and ultimately win. It didn’t work this time around but you can only do that by providing an environment where the guys feel safe and feel they can take on the world.”
+
+Brendon McCullum (Ajit Solanki/AP) (AP)
+
+Joe Root spilled a catch in the first innings of the Test that would have left India 47 for four before they made 445 and was then out to a reverse ramp as England crumbled from 224 for two to 319 all out, with the tourists out of the game from that point on.
+
+Root, left nursing a sore thumb that is not thought to be serious, is yet to reach 30 in this series, while fellow Yorkshireman Jonny Bairstow is also struggling, out for nought and four in recent days.
+
+The pair average around 50 under Stokes and McCullum, with Bairstow setting the template for the era in the summer of 2022 with four hundreds in six Tests at a jaw-dropping strike-rate of 96.59.
+
+“Jonny’s not scored the volume of runs he would have wanted and a couple of times he’s got out kind of mildly for someone who’s got the power game he’s got,” McCullum said.
+
+“I don’t have concerns over him. I’m not blind but he’s done so well for us. We know that a top-quality Jonny Bairstow is as good as anyone in any conditions so we’ve got to keep on giving him confidence and block out a lot of the external noise.
+
+This team is about trying to keep pushing the game forward, to try and entertain and ultimately win. It didn’t work this time around but you can only do that by providing an environment where the guys feel safe and feel they can take on the world Brendon McCullum
+
+“Joe will be fine. It’s a great compliment to be in a funk after three Test matches. He just has to keep backing himself and wait for the luck to turn his way.
+
+“The fact he’s missed out in three Tests, does that surely not just mean that he’s closer to getting a big score? It’s Joe Root, crikey. I mean, seriously? The law of averages suggests he’ll fill his boots in the next two Tests.”
+
+Stokes has opened the door to resuming bowling competitively for the first time since last summer’s Ashes although McCullum admitted he may have a role to play in reining him in.
+
+“Ben is clever,” McCullum added. “He won’t bowl unless he thinks he’s legitimately able to bowl. The problem would be if he starts getting into a spell and then he can’t get out of the spell.
+
+“If he does get that bit between his teeth, let’s see where the danger lies and try and pull him away from it. But it’s good that he’s actually getting into a state where he thinks he might bowl.”

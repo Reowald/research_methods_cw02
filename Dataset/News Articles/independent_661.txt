@@ -1,0 +1,55 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Announced in the June State of Play, Resident Evil 4 is a remaster of the original classic that will be released on PS5 and PS VR2, with updated controls, graphics and gameplay in a similar vein to the recent remakes of RE2 and RE3 respectively.
+
+The original Resident Evil 4 was released on the Nintendo GameCube in 2005 and has since been ported to just about every modern platform under the sun. There’s even been a version of the game released for virtual reality platforms.
+
+The original game has long been considered one of the best ever made, and the fourth mainline entry into the series was revolutionary in third-person shooters as well as taking Resident Evil into a new action-oriented direction.
+
+It was the first game in the series to introduce an over-the-shoulder camera, an inventory management system as well as a new setting for the series outside of the infamous Racoon City. Every subsequent Resident Evil game released after RE4 has been heavily influenced by its design, such as RE7: Biohazard and the more recent RE8: Village.
+
+To find out more about when Resident Evil 4 will be released, what new features to expect and when the game will be available to pre-order then keep reading the rest of the article below.
+
+‘Resident Evil 4’ release date
+
+Kicking off PlayStation’s State of Play event in June, a new trailer for Resident Evil 4 was shown with a few brief glimpses of what players can expect to see in the game.
+
+Most importantly, at the beginning of the trailer, a release date was shared: 24 March 2023. And players will be pleased to know that the game is scheduled for release on PS5, Xbox series X/S and PC.
+
+Will ‘Resident Evil 4’ introduce a major new gameplay feature?
+
+Capcom’s most recent showcase event, which was streamed on 13 June, gave fans their first glimpse of some gameplay footage from the upcoming game, complete with the game’s trademark over-the-shoulder camera angle. And what jumped out at us is how main protagonist Leon Kennedy is seen walking while aiming his weapon.
+
+As any veterans of the Resident Evil game franchise will know, players have until now had to stand their ground when a weapon is drawn – it wasn’t possible to move while aiming at the enemy.
+
+You can make your own mind up on this by skipping to the 1:08.18 mark in the Capcom stream below.
+
+Capcom also reminded us at the event how the Resident Evil 4 remake will be updated with “modern flourishes” and the Manado bad guys have been entirely redesigned.
+
+Game director Yasuhiro Anpo said: “The experience of being attacked by hordes of crazed ganado is truly an iconic moment from Resident Evil. In order to truly bring out the concept of ‘terror of people controlled by madness’, the ganado have been completely redesigned.”
+
+Will ‘Resident Evil 4’ be available on PS VR2?
+
+After the announcement trailer, a shot of the main protagonist, Leon Kennedy, was shown from behind with the caption: “PlayStation VR2 content is also in development”.
+
+It’s currently unconfirmed if this will be a full virtual reality port of the game or additional content, but Resident Evil 7: Biohazard, was also available in full on the PS VR and RE: Village is also receiving a port for PS VR2 later this year. Find out more about upcoming PS VR2 titles in our explainer guide.
+
+What will ‘Resident Evil 4’ be about?
+
+According to a blog post on PlayStation’s website, it appears that the remake of Resident Evil 4 will follow along with the events of the original: “Six years have passed since the biological disaster in Racoon City,” writes Edvin Edsö, promotion producer at Capcom.
+
+Read more: I’ve been tracking PS5 stock for an entire year, here’s how to actually get the console
+
+“Leon S. Kennedy, one of the survivors of the incident, has been recruited as an agent reporting directly to the president.
+
+“With the experience of multiple missions on his back, Leon is sent to rescue the kidnapped daughter of the president of the United States. He tracks her to a secluded European village, where there is something terribly wrong with the villagers. And the curtain rises on this story of gruelling survival horror and rescue.”
+
+If you want to play the last game featuring Leon Kennedy as a protagonist, then the remake of Resident 2 from 2019 is where his story last left off. The game is currently available on PS4 at Amazon (£15.85, Amazon.co.uk).
+
+The game is also receiving a free visual enhancement on PS5 an Xbox series X/S versions of the game when it is released later this year.
+
+Voucher codes
+
+For more on virtual reality, we’ve rounded up the 10 best VR headsets for truly immersive gaming

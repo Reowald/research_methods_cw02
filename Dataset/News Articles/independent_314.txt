@@ -1,0 +1,57 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Fewer big money prizes will be available in NS&I’s Premium Bonds prize draw from March.
+
+One finance expert described the announcement as “the biggest sign yet” that a rates bonanza enjoyed by savers in recent months is coming to an end.
+
+Savings giant NS&I said the prize fund rate will be reduced, from 4.65% to 4.40% from the March 2024 draw.
+
+The odds of any £1 Premium Bond number winning a prize will remain the same, at 21,000 to one.
+
+The changes will mean that an estimated 85 prizes of £100,000 will be up for grabs in March, down from 91 in January.
+
+There will be around 170 £50,000 prizes in March, down from 182 in January.
+
+In a dynamic savings market, it's important that our rates are set at an appropriate position against those of our competitors as we work towards meeting our annual net financing target Andrew Westhead, NS&I
+
+The number of £25,000 prizes is expected to decrease from 365 to 339 between January and March.
+
+The estimated number of £1 million prizes will remain the same, at two.
+
+There will, however, be more £25 prizes available, with the number increasing from 1,037,784 in January to around 1,435,338 in March.
+
+NS&I is backed by the Treasury and it is set targets for the net amounts of financing it should raise. It has a duty to balance the interests of savers, taxpayers and the wider financial services sector.
+
+Figures released by NS&I last year showed it delivered £7.7 billion of net financing in the second quarter of 2023/24, taking its half-year total to £9.8 billion.
+
+Its net financing target for 2023/24, set at the Spring Budget 2023, is £7.5 billion, with room for manoeuvre of plus or minus £3 billion.
+
+NS&I retail director Andrew Westhead said: “These changes reflect our requirement to strike a balance between the interests of our savers, taxpayers and the stability of the broader financial services sector.
+
+“In a dynamic savings market, it’s important that our rates are set at an appropriate position against those of our competitors as we work towards meeting our annual net financing target.
+
+“After these changes, the Premium Bonds draw in March is expected to pay out over 5.7 million tax-free prizes totalling more than £444 million to savers across the UK.”
+
+It doesn’t need to attract more cash, so it’s applying the brakes Sarah Coles, Hargreaves Lansdown
+
+Sarah Coles, head of personal finance, Hargreaves Lansdown, said: “The coffers are full to bursting at NS&I.
+
+“It doesn’t need to attract more cash, so it’s applying the brakes, and Premium Bond holders are paying the price. If this doesn’t halt the flow of cash, there may well be more cuts on the cards.”
+
+Ms Coles added: “Premium Bonds are its biggest product, so it’s likely to hope that, by tinkering with the prize fund, it will avoid spending too much money on attracting more cash than it really wants. The risk is that if the money keeps coming, NS&I may well cut the rate again.”
+
+She continued: “Now that so many easy-access accounts are keeping pace with inflation, it’s important to be aware you’re paying the price for an outside chance of winning a life-changing sum of money. For many people, the certainty of a savings rate will still hold appeal, in which case it’s worth shopping around among the smaller banks, building societies and savings platforms for the best possible rate.”
+
+Savings rates have been raised generally amid increases in the Bank of England base rate, but bank rate rises have been put on pause amid signs that inflation is easing. There are also expectations that the base rate will be cut at some point.
+
+Laura Suter, director of personal finance at AJ Bell, said: “This is the biggest sign yet that the rates bonanza enjoyed by savers is coming to an end.
+
+“This rate cut marks the end of 18 months of Premium Bond prize fund increases from NS&I. The Government-backed provider has been increasing the prize fund on Premium Bonds consistently since 2022 as base rate rose and the saving war heated up. But that has reached its peak: the Premium Bond expected prize fund is dropping to 4.4% from March, from the current 4.65%.”
+
+Ms Suter added: “This is another signal for savers to shop around and nab the best rates before they fall further.”
+
+Myron Jobson, senior personal finance analyst at interactive investor, said: “It is seemingly a case of my cup runneth over for the UK Government-backed savings bank, which has already smashed its £7.5 billion fundraising target for 2023/24 in just six months.”
+
+He added: “More broadly, the top savings deals continue to drop like flies, on expectation that interest rates will fall quicker than initial predictions.”

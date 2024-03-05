@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Japan’s Jaxa space agency announced on Thursday the success of its Slim Moon spacecraft in its unprecedented “pinpoint” landing within 100m (328ft) of its intended target on the lunar surface.
+
+The probe, dubbed Smart Lander for Investigating Moon (Slim) touched down on the Moon on Saturday, making Japan the fifth country to put a spacecraft on the moon.
+
+However, the spacecraft appears to be facing technical problems unable to generate electricity on the lunar surface since its landing.
+
+Jaxa said Slim is facing the issue likely because its solar panels are angled wrong, but added a change in the sunlight’s direction could power it up again.
+
+While the spacecraft has been communicating with Earth since landing, Jaxa said its batteries are running out.
+
+The Japanese space agency suspects the problem may be due to the probe landing at the wrong angle so that its solar panels did not face the sun.
+
+Researchers are attempting to maximise “the amount of science” they can conduct with Slim to gather as much data from the moon before the probe’s batteries run out.
+
+But the spacecraft has still achieved one of its main intended goals of precision landing on the lunar surface within a 100m-radius target, rather than the usual kilometres achieved by previous Moon landers.
+
+Space Race Heats Up in 2024
+
+With its successful landing, the probe has also made Japan the fifth country to reach the Moon, after the US, the Soviet Union, China, and India.
+
+The spacecraft was launched to the Moon aboard a Mitsubishi Heavy H2A rocket in September and orbited Earth initially before entering lunar orbit on 25 December.
+
+While on Saturday Jaxa’s mission control said everything was going as planned and that Slim was on the lunar surface, the agency did not mention whether the landing was successful after the probe was supposed to have arrived.
+
+Jaxa mission control control kept saying it was “checking its status” and that more information would be given soon.
+
+Representatives then confirmed that communications had been made with the spacecraft, but said it appeared to be losing power.
+
+Thursday’s announcement confirms that the probe’s “pinpoint landing” technology is a success, promising greater control and accuracy for future Moon landing missions.

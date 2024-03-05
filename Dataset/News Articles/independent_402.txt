@@ -1,0 +1,33 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mark Cavendish’s career has taken him all over the world, from Rio de Janeiro to Melbourne, from the Arctic circle to South Africa. But not, it turns out, to one of the great breeding grounds for cycling’s mountain goats, Colombia.
+
+That changed recently when he arrived in South America for the Tour Colombia, which begins on Tuesday, a six-day race returning to the calendar after a four-year hiatus. It is the start of Cavendish’s more unusual route towards his ultimate goal this summer, like every year, winning at the Tour de France.
+
+“I can’t believe it after so many years, but it’s my first time in Colombia,” Cavendish said ahead of the race, speaking by Lake Sochagota three hours north of the capital, Bogota. “We spent a week in Medellin which was incredible, and then we came up here to Paipa [where the race starts]. The only problem was I couldn’t breathe for two weeks. But now I understand why riders from Colombia just play with us when they come down to sea level.”
+
+Cavendish has been undergoing an intense three weeks of altitude training in Colombia. He will be judged on the sprints at the Tour de France as he tries to clinch one more stage win – his 35th – and break clear of the Tour record he shares with the great Eddy Merckx. But to be on the startline for the sprint-friendly days in the Tour, he will first have to scale some gruelling climbs inside the time cut.
+
+The Tour is always dubbed brutal and unforgiving when the route is released, but this year’s race will be particularly challenging for a power rider like Cavendish, with four summit finishes as well as a day riding over treacherous gravel. “I’m a little bit in shock after seeing the presentation,” Cavendish said of the route when it was unveiled back in October. “I really thought last year was hard. This is – I can’t even – it’s a very, very, very hard Tour de France.”
+
+And so with a gruelling Tour comes gruelling preparation. It is not all about readying himself for what might be his final Tour, though: Cavendish has come to Colombia to win.
+
+“Of course, I always think about the Tour de France,” he said on Monday. “I’ve always thought about the Tour de France in my whole career. But that doesn’t mean you take the rest of the races easy. As a sprinter especially, you’re marked on your wins. Second, third, fourth or fifth doesn’t matter, you’re rated by your wins, so it’s always important to win throughout. And both on a physical and mental point, the motivation you get from victories early in the year can carry you through to July.”
+
+He is armed with a strong Astana Qazaqstan team which includes his long-time sidekick Michael Morkov and fellow leadout man Cees Bol. Their main rival for the sprints is Colombia’s very own Fernando Gaviria, a former teammate of Cavendish at QuickStep now riding for Movistar.
+
+Fernando Gaviria will provide stiff competition for Cavendish this week (AP)
+
+Colombia is one of the most passionate corners of the cycling world, and yellow flashes of the country’s football shirt can always be seen along the Champs-Elysees in great numbers on the final day of the Tour de France. It is a productive county too with a long tradition stretching back to Luis Herrera, Colombia’s first Tour de France stage winner, achieved upon Alpe d’Huez in 1984. A raft of talented climbers have come through over the past decade, including grand tour winners Nairo Quintana, Richard Carapaz and Egan Bernal, and they are all racing this week, with Bernal representing a Colombian national team rather than the absent Ineos Grenadiers.
+
+The return of the Tour Colombia is an important milestone: since Bernal’s Tour de France glory in 2019, things have gone downhill for the country’s cycling stock. Bernal suffered a career-threatening training crash; Quintana tested positive for tramadol at the 2022 Tour de France, twice; another star, Miguel Angel Lopez, is currently suspended while he is investigated over an anti-doping violation.
+
+The Tour Colombia was cancelled during the pandemic and then collapsed due to a lack of funding, but it finally returns and will provide a stage to showcase Colombian talent, as well as the country itself. Only three WorldTour teams have entered this hastily arranged edition – Movistar, EF Education and Astana – but there is hope that it will be the start of a flourishing race in years to come.
+
+For Cavendish, it is the start of what he hopes will be a memorable year. Last year was supposed to be his last, but such was the agonising way his Tour de France ended – literally in the case of his broken collarbone, psychologically with his near miss in Bordeaux the day before – that he had to come back for one more tilt at writing new history.
+
+He will be 39 and an underdog at the Tour among the best sprinters on the planet, but he is still fiercely competitive with ferocious acceleration in his thighs, and the Tour Colombia offers a chance to hone his racing instincts up against Gaviria, a man with legs a decade younger.
+
+“We’ve got a very strong team, and I know Fernando has a strong team with Movistar too,” Cavendish said. “But like we’ve seen with the road championships in Colombia, there are a lot of domestically based riders who can spring a surprise. We’ll just enjoy it and see how it goes.”

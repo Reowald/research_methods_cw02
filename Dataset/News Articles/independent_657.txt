@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+This week marks the beginning of the public access Overwatch 2 beta, which will allow existing players a chance to play the game ahead of its official launch.
+
+Activision Blizzard released the original back in May 2016 and since then has seen a large number of players fight head-to-head in its hero-based first-person shooter, with characters like Tracer, Reaper and Doomfist.
+
+Some of these infamous heroes will be making a return in the new title, as well as being joined by some new faces.
+
+Essentially a soft launch, Overwatch players who have a registered account on Battle.net will be able to try out new game modes in the sequel, such as “Push”, as well as playing as the latest hero in the series, Sojourn.
+
+To find out how to sign up for the open beta, keep reading the rest of the article below.
+
+How to sign up for the ‘Overwatch 2’ open beta
+
+The open beta for Overwatch 2 will be available to play on Tuesday 28 June at 7pm BST on both consoles and PC.
+
+In order to sign up for a chance to join the open beta, players will need to register their interest on the official Overwatch 2 website prior to this start date. If they are successful, players will receive an email for their registered Battle.net account.
+
+When the beta is opened, a small number of players will initially be able to take part, with further access granted over the next few days. A larger intake is due to take place on 5 July with the goal to have all players who opted-in to beta access no later than 14 July.
+
+Voucher codes
+
+If you’re looking for discounts on technology or videogames then try one of these codes:
+
+Read more: Best VPNs
+
+Looking to get your hands on a new Nintendo console? These are the best deals on the Switch this month

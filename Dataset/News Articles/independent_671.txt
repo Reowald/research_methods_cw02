@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Carlos Sainz admits he was shocked by news of Lewis Hamilton’s future transfer to Ferrari.
+
+Hamilton, 39, will depart Mercedes at the end of the 2024 season and replace the Spaniard in 2025.
+
+Sainz, speaking for the first time since the blockbuster move was announced, said: “I was a bit surprised, like everyone in the Formula 1 world.
+
+“From my side you can understand I got to know the news a bit earlier than anyone else and I had some weeks to reflect and prepare and some weeks to also get ready for the car launch and the first race of the season.
+
+“That gave me a bit of time to digest it and to draw my own conclusions and to focus on the 2024 season.
+
+“I have had lot of messages of support which I would like to thank the F1 world for and friends back at home, who have been very supportive and very encouraging.”
+
+Sainz, 29, was speaking at Ferrari’s launch as they unveiled the challenger they hope will be able to challenge Red Bull’s Max Verstappen.
+
+However, Hamilton’s switch to Ferrari leaves two-time race winner Sainz looking for a seat.
+
+Sainz, the only driver outside of Red Bull to claim a victory last year, said: “My next team, I don’t know yet and I have time to decide when that happens next. There are plenty of options out there.
+
+Carlos Sainz (right) admitted being replaced by Lewis Hamilton came as a surprise (Scuderia Ferrari/PA) (PA Media)
+
+“I am approaching the most important three or four years of my career and I want to make sure that I am in the right place. I am going to listen to all the options so when I take the decision I have give myself enough time with enough information.
+
+“It is completely possible to separate one from the other. I have a good management team that will take care of that so my full focus will be on the first race in Bahrain and I am going to start the season as strongly as I can. The other thing will sort itself out as time goes by.
+
+“The fact that I am not going to be a Ferrari driver in 2025 does not mean we don’t want to become champions together this year or win races.”
+
+PA contributed to this report

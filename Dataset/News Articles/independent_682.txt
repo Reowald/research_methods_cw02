@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+McLaren's new MCL38 Formula 1 car made its track debut at a soggy Silverstone on Wednesday with team chief executive Zak Brown setting out a target of wins as well as podiums this season.
+
+The former champions finished fourth overall in 2023 with Britain's Lando Norris and Australian rookie Oscar Piastri.
+
+Norris finished on the podium seven times, including six second places, while Piastri was second in Qatar and third in Japan.
+
+"We feel good, it's been a good winter. We're happy with the development," Brown told Sky Sports television. "It feels like we've continued on our development pace from where we were in the second half of last year.
+
+"So as long as the data is accurate I think we should start pretty strong. Of course you never know what the competition is doing but we definitely feel we've taken a step forward."
+
+McLaren Formula 1 Team reveals the MCL38 (PA)
+
+Norris has yet to win a race in 104 starts while Piastri has only 22 grands prix under his belt but Brown said a first win for the team since Daniel Ricciardo's 2021 victory at Monza could be on the cards.
+
+"I think I'd say ambition versus expect because you ultimately don't know what the competition has done and no-one's standing still," Brown said when asked what he expected from the team.
+
+"Our hopes, our goals, our ambition is definitely to take a step forward.
+
+"We finished fourth in the championship last year but in the second half of the year we were the second or third quickest team. So our ambition is to move forward from there.
+
+"We see no reason why... we can't be winning races at some point over the year. So lots of podiums and some wins or certainly the ambition."
+
+Both drivers are signed on long-term contracts, with Norris's announced last month and before the driver market went into overdrive with news of Lewis Hamilton's switch from Mercedes to Ferrari in 2025.
+
+Brown said that signing was not hastened by any heads-up about Hamilton's move.
+
+"We'd signed him up previously. We were just waiting for him to get back (from the winter break) to actually make the announcement," he said.
+
+"It was less about knowing specifically what was going on with Lewis and Ferrari and Mercedes as much as knowing Lando's top of everybody's list, ours' included."
+
+Reuters

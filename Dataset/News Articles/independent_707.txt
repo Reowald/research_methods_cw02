@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mercedes boss Toto Wolff hinted that the team will make a “bold” move to replace Lewis Hamilton after their star driver chose to join Ferrari next year.
+
+Seven-time F1 world champion Hamilton, who won six of his seven titles at Mercedes, will leave the Silver Arrows at the end of the year to take up a “multi-year contract” at Ferrari in 2025.
+
+It leaves Wolff, who has worked with Hamilton for the last 11 years, needing to find a new driver to partner George Russell next year.
+
+Drivers such as Carlos Sainz, Lando Norris, Alex Albon and Fernando Alonso have all been immediately linked and while Wolff did not give names, he gave a strong indicator on the direction Mercedes may take in their search for a replacement.
+
+“I always like change because change equals opportunity,” he told journalists on Friday.
+
+“In the same way we embraced the Nico [Rosberg, retiring suddenly in 2016] situation, I’m looking forward to taking on his challenge with my colleagues. Maybe it’s a chance to do something bold.
+
+“If you’d told me two days ago that Lewis would go to Ferrari I wouldn’t have believed you.
+
+“Things can change quickly. Contracts can change. Who knows what might happen in the driver market.”
+
+Wolff also explained that Hamilton told him of his decision over coffee at the Mercedes chief’s home in Oxford on Wednesday.
+
+He added that he was not surprised by Hamilton’s decision but perhaps more so by the timing, with less than a month until the new season.
+
+Mercedes boss Toto Wolff spoke to the media on riday after Lewis Hamilton’s Ferrari decision (PA Archive)
+
+“When we signed the contract with Lewis we opted for a shorter term, so the events are not a surprise, maybe the timing,” he said.
+
+“How he framed it to me is perfectly understandable. He said he was looking for a new challenge, a new environment.
+
+“We are big boys. We knew that by signing a short-term contract it could be beneficial for both parties. We couldn’t commit for a longer period and he has taken the option to exit.
+
+“So in a way, we totally respect that you can change your mind. There’s different circumstances, and maybe switching to Ferrari, rolling the dice a bit, I can follow that decision.”
+
+Wolff added that he does not yet know if Hamilton’s race engineer Peter Bonnington will follow the 39-year-old to Ferrari, but revealed the man colloquially referred to as “Bono” reacted with astonishment when he was told of Hamilton’s departure.
+
+“I think this is a discussion which everyone needs to have in the months to come,” he said. “And as much as I’ve spoken with Bono already when I told him he said: ‘Is it April 1st?!’
+
+“It’s something we will discuss in the future.”

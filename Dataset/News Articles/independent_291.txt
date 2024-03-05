@@ -1,0 +1,73 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+There were around 60,000 fewer property millionaires across Britain by the end of 2023 than a year earlier, analysis suggests.
+
+About 670,100 homes have a value of £1 million or more, according to property firm Savills.
+
+The total number of property millionaires fell by 8.3% (60,260) during the year to the end of 2023, with higher mortgage costs and tougher housing market conditions having an impact.
+
+But the total is still up by 28% (146,490) compared with 2019 – before the impacts of the coronavirus pandemic prompted a “race for space” with more people working from home and buying properties in more rural locations.
+
+Britain’s £1 million home market is now valued at £1.32 trillion, down from £1.43 trillion in 2022, researchers said.
+
+Increased mortgage costs and a rebalancing of demand back to city living have meant about 30% of those whose homes crossed the £1 million threshold, have, for the time being at least, become aspiring million pound homeowners once again Lucian Cook, Savills
+
+Lucian Cook, head of residential research at Savills said: “The race for space and dash to the countryside from mid-2020 drove a sharp increase in the number of £1 million homes outside of London and other urban settings.
+
+“However, increased mortgage costs and a rebalancing of demand back to city living have meant about 30% of those whose homes crossed the £1 million threshold, have, for the time being at least, become aspiring million pound homeowners once again.”
+
+London recorded the smallest decrease in property millionaires (4%) in 2023, followed by Scotland (5%), Savills found.
+
+At the other end of the spectrum, Wales, the South East and East of England and Yorkshire and the Humber all recorded a 13% annual fall in property millionaires.
+
+However, Wales (113%), as well as the North East of England (79%) and the East Midlands (79%) have seen the most significant uplifts in housing stock valued at £1 million or more since 2019.
+
+Here are the estimated numbers of homes worth £1 million-plus across Britain in 2023 and the annual change, followed by the annual change in percentage terms, according to Savills:
+
+– London, 330,668, minus 12,280, minus 4%
+
+– South East, 155,085, minus 23,166, minus 13%
+
+– East of England, 62,812, minus 9,688, minus 13%
+
+– South West, 45,735, minus 5,918, minus 11%
+
+– West Midlands, 19,918, minus 2,723, minus 12%
+
+– North West, 18,848, minus 2,230, minus 11%
+
+– Yorkshire and the Humber, 10,978, minus 1,694, minus 13%
+
+– Scotland, 10,931, minus 550, minus 5%
+
+– East Midlands, 8,397, minus 1,116, minus 12%
+
+– Wales, 4,239, minus 660, minus 13%
+
+– North East, 2,489, minus 264, minus 10%
+
+And here are the increases in the estimated number of million pound homes compared with 2019, according to Savills:
+
+– London, 30,570, 10%
+
+– South East, 44,268, 40%
+
+– East of England, 21,120, 51%
+
+– South West, 20,441, 81%
+
+– West Midlands, 8,017, 67%
+
+– North West, 6,180, 49%
+
+– Yorkshire and the Humber, 4,297, 64%
+
+– Scotland, 4,545, 71%
+
+– East Midlands, 3,700, 79%
+
+– Wales, 2,250, 113%
+
+– North East, 1,102, 79%

@@ -1,0 +1,29 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The parents of a six-year-old child who was allegedly “scarred and disfigured” after an in-flight meal burned their daughter are suing United Airlines for $75,000.
+
+The incident occurred when the six-year-old, referred to as O.F. in the lawsuit, was on a United Airlines flight with her mother from Israel to New Jersey in July 2022.
+
+During the flight, a hot meal in a tray was given to O.F.’s mother by a flight attendant, then her mother placed the meal down on a fold-down tray table in front of her child.
+
+The lawsuit, which was filed last week, claims the tray table was defective and slanting down, resulting in the meal sliding off and landing in the girl’s lap.
+
+“The food contents on O.F.’s meal tray were unreasonably hot and caused O.F. to suffer severe burn injuries,” the lawsuit alleged.
+
+The mother said in the suit that she “requested prompt medical attention” for her child, but alleged that employees could not provide adequate care “partly because United did not equip the aircraft used for the flight with reasonable medical supplies to treat burn injuries.”
+
+The parents are suing the airline for $75,000 (Getty)
+
+For the remainder of the flight, they claimed that their child was in “extreme discomfort” and is now “scarred and disfigured” from the incident.
+
+The parents are accusing the airline of negligence, claiming that they failed to provide food for their child at a reasonably safe temperature, to maintain, inspect, and repair tray tables on the aircraft, and to provide access to medical equipment and care on the flight, among other accusations.
+
+The lawsuit also added that United failed to warn the girl or the mother that the tray table was defective.
+
+The parents want damages for medical care and treatment in the past and in the future.
+
+They are requesting compensatory damages in an amount exceeding $75,000 and a jury trial.
+
+United Airlines told The Independent they cannot comment on pending litigation.

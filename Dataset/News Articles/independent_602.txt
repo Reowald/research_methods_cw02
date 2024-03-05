@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+SpaceX has performed a crucial test of its Starship rocket ahead of the next launch attempt of the Mars-bound craft.
+
+The upper stage Starship, which will sit atop a Super Heavy booster during the next flight test, was anchored to a launchpad at SpaceX’s Starbase facility in Texas, before all six of its Raptor engines were fired up on Wednesday.
+
+“Flight 3 Starship completed a full-duration static fire with all six of its Raptor engines,” SpaceX wrote in a post to X, formerly Twitter.
+
+The private space firm shared slow motion and drone video shots of the engine test, showing all six Raptors firing successfully.
+
+When fully stacked, Starship is the tallest and most powerful rocket ever built, however it is yet to deliver a payload to orbit.
+
+SpaceX has already performed two flight tests, with the first one in April ending in a fiery explosion when the two stages attempted to separate. The second test last month achieved separation but both stages broke apart shortly after.
+
+No date has been set for the next launch attempt but SpaceX boss Elon Musk hinted last month that flight tests could occur more frequently in the future after engineers were able to build a launchpad that could withstand the massive forces exerted at lift off.
+
+“Just inspected the Starship launch pad and it is in great condition,” he wrote on X.
+
+“No refurbishment needed to the water-cooled steel plate for next launch. Congrats to SpaceX team and contractors for engineering and building such a robust system so rapidly!”.
+
+Ship 28 is one of three upper-stage prototypes under development at SpaceX’s Starbase facility, according to Next Spaceflight, alongside two Super Heavy boosters.
+
+SpaceX will need to wait for approval from regulators, including the US Federal Aviation Administration (FAA), before any Starship launch can be attempted.
+
+SpaceX is expected to ramp up testing of its Starship rocket in 2024, having already secured a multi-billion dollar contract with Nasa to use the next-generation rockets in its Artemis program.
+
+Mr Musk’s firm is one of several private companies contracted to develop rockets and other technologies for the program, which will see the US space agency aim to establish a presence on the Moon.
+
+The tech billionaire’s ultimate aim is to build a fleet of Starships in order to set up a permanent human colony on Mars, which he claims will be possible before 2050.

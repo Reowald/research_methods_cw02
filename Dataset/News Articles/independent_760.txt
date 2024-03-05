@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+WhatsApp is making a series of changes to its terms and conditions.
+
+The new changes are WhatsApp’s response to new European regulations, the Digital Services Act and the Digital Markets Act, which require companies to be more clear about how they moderate and deliver content.
+
+The new terms will include extra information about what is or is not allowed on the app, give more information about an EU requirement that will force companies such as WhatsApp to allow users to send messages to users on other third-party apps, and will include more information about how content is moderated on the Channels feature.
+
+(AFP via Getty Images)
+
+The requirement to allow messaging to other apps – which the European rules call “interoperability” – is perhaps the most significant change to the new rules. They note that some data will be sent to those third-party messaging services, and therefore might not be subject to WhatsApp’s privacy commitments.
+
+In addition to those changes made in response to European rules, the minimum age to use WhatsApp in Europe and the UK will fall from 16 to 13. It is currently 13 in other countries including the US, and WhatsApp said it had made the decision to ensure consistency.
+
+WhatsApp’s update to its terms and conditions have proven controversial in the past. In late 2020 and early 2021, it introduced new rules about data sharing – which prompted a major outrage that led many to suggest they would be quitting the app.
+
+This time around, WhatsApp stressed that it remained committed to user privacy.
+
+“These updates for users in the European Region do not change our commitment to user privacy and do not expand any data sharing when messaging other WhatsApp users,” a WhatsApp spokesperson said in a statement.
+
+“Wherever you are in the world, we protect all personal messages with end-to-end encryption, which means no one, not even WhatsApp, can read or listen to them.”

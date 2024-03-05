@@ -1,0 +1,19 @@
+You can enable subtitles (captions) in the video player
+
+The FT's first Tech Champions survey, in 2021, focused on companies' responses to the Covid pandemic. If that now seems like a distant memory, it is because the disruptions have kept on coming. Little wonder that the word permacrisis has now entered the global lexicon.
+
+Businesses today are having to rethink their supply chains as Russia's war with Ukraine continues, and tensions simmer between the US and China. At the same time, persistent inflation and governments' attempts to rein it in are squeezing budgets. Pressure to switch to green energy is still growing as climate change bites. This year, the world experienced the hottest June to August period ever recorded.
+
+Meanwhile, the rise of artificial intelligence is presenting a threat to established ways of working and an opportunity for innovation. The need to decarbonise underpins the business models of several of this year's tech champions. Carbon data company Sylvera combines sophisticated technology and carbon measurement methodologies to assess climate action investments, including carbon credits. The aim is to help investors ensure that their money is genuinely contributing to a sustainable future.
+
+One way to achieve that is to prevent or even reverse deforestation, which is among the aims of Norwegian company Kebony. Its technology gives fast-growing softwoods the same toughness and durability as tropical hardwoods. That makes them more usable in construction and other areas, potentially addressing both carbon emissions and deforestation. Meanwhile, another Scandinavian company Too Good To Go, based in Denmark, is trying to reduce food waste by making it easier for retailers to sell discounted produce that would otherwise go to waste at the end of the day. A B Corp, Too Good To Go also campaigns on food labelling to curb waste.
+
+Tackling climate change will also mean switching to greener energy, which is where Reactive Technologies comes in. It focuses on inertia in electrical grids, in effect, their reserve of energy in the event of a power failure. By measuring this more accurately, Reactive enables energy operators to get a clearer picture of how robust their networks are, and how best to transition from fossil energy to renewables.
+
+Another company trying to put the latest data into decision-makers' hands is health data analytics group Airfinity. It uses machine learning to provide more accurate forecasts of disease spread and likely developments in various health scenarios.
+
+But where will tomorrow's data crunchers and tech experts come from? Coding platform Imagi believes in starting them young. The education start-up aims to make coding fun for children, with a long-term goal of increasing the number of female coders.
+
+Clever coding is at the heart of DeepL's product. The German company uses proprietary tweaks to neural networks to provide high quality translations in multiple languages. WorldRemit is also helping people to connect, this time financially. In a world where large numbers of people are working far from home, its technology makes it easier for users to transfer money internationally.
+
+Our final tech champion is UK-based WindRacers. Its autonomous drones, which are able to fly beyond visual line of sight, are designed to perform tasks ranging from environmental monitoring to delivering humanitarian aid in remote regions. Read about these, and all the shortlisted companies, at ft.com/tech-champions.

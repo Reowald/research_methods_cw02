@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly three years after its initial much-maligned release, and 18 months after its next gen upgrade, Cyberpunk 2077 has its first and last DLC.
+
+Cyberpunk 2077: Phantom Liberty takes place after the main story and also introduces a whole new section of Night City for the player to explore.
+
+It features an entirely new story, new quests, characters, and abilities which are set to hopefully enhance the gameplay experience. It also arrives with a major update to the base game - dubbed update 2.0.
+
+What is Cyberpunk 2077: Phantom Liberty?
+
+Cyberpunk 2077: Phantom Liberty is described by developers CD Projekt Red as “a new spy-thriller adventure for Cyberpunk 2077”. Bridge of Spies, James Bond, Ocean’s Eleven, and Bourne Identity were also cited as inspiration, so they really went in on big spy flicks.
+
+The new adventure will also be set in a new area of Night City - Dog Town. Dog Town is described by CD Projekt Red as “a ruined city-within-a-city ruled by a trigger-happy militia.”
+
+The update also features Idris Elba, starring as Solomon Reed. Reed is described as a masterful, yet tortured sleeper agent who’s proven himself countless times in covert intelligence missions over the years for the NUSA’s Federal Intelligence Agency.
+
+When is Cyberpunk 2077: Phantom Liberty released?
+
+Cyberpunk 2077: Phantom Liberty is officially released on September 26 for PS5, Xbox Series X/S and PC.
+
+What is Cyberpunk 2077 update 2.0?
+
+As the name suggests, it’s a huge update to both the base game and the DLC, the buggest changes include:
+
+Redesigned skill trees and perks
+
+Updated cyberware and new capacity system
+
+Vehicle combat and car chase improvements
+
+Combat AI improvements
+
+How much will Cyberpunk 2077: Phantom Liberty cost?
+
+Phantom Liberty will cost $30 (£25 in the UK) if you already own the game. Alternatively, if you don’t, you can buy the base game and the expansion bundle for $80 or £52 currently in the UK.
+
+What are the reviews saying?
+
+The reviews for Cyberpunk 2077: Phantom Liberty are overwhelmingly positive so far with many lauding the DLC for being the game many hoped it would be at launch. The Verge wrote that it is “finally where it should have been from the start” while Polygon praised the location, “Dogtown is littered with colorful and cunning new characters touting weapons as dangerous as their attitudes.”

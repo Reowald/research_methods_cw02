@@ -1,0 +1,35 @@
+A man who thought he had won a $340m Powerball jackpot is suing the lottery after the game’s administrators said their website only showed his numbers as the winning combination by mistake.
+
+Washington DC resident John Cheeks purchased a Powerball lottery ticket at the center of the dispute on 6 January 2023. Although Cheeks did not see the Powerball drawing the following day, he saw his numbers posted on the DC lottery’s website two days later.
+
+The digits on his ticket were a combination of family birthdays and other numbers of personal significance. Speaking to NBC Washington, Cheeks said, “I got a little excited, but I didn’t shout, I didn’t scream. I just politely called a friend. I took a picture as he recommended, and that was it. I went to sleep.”
+
+But then things for Cheeks took a turn for the worse when he went to the office of lottery and gaming (OLG) to redeem his ticket. Court documents allege that administrators denied Cheeks’ jackpot claim, saying in a letter to him: “Petitioner’s prize claim was denied … because the ticket did not validate as a winner by the OLG’s gaming system as required by OLG regulations.”
+
+Cheeks also said that he received an odd request from a claims staffer who allegedly told him, “Hey, this ticket is no good. Just throw it in the trash can.”
+
+Cheeks recalled, “I gave him a stern look. I said, ‘In the trash can?’
+
+‘Oh yeah, just throw it away. You’re not going to get paid. There’s a trash can right there.’”
+
+Cheeks did not discard his ticket. Instead, he put it in a safe deposit box, reached out to an attorney and sued Powerball. Other defendants named in Cheeks’s lawsuit include the Multi-State Lottery Association and game contractor Taoti Enterprises.
+
+In a court declaration, Taoti project manager Brittany Bailey said that on 6 January 2023, the company’s quality assurance team was conducting testing of a task involving a changing of time zones for the Powerball website from Coordinated Universal Time to Eastern Standard Time.
+
+At 12.09pm that day, the Taoti quality assurance team accidentally posted test Powerball numbers on the game’s live website rather than a development environment which mimicked the site but was not viewable to the public, according to Bailey.
+
+Bailey added that the test numbers were not the numbers drawn for the 7 January 2023 Powerball drawing. They also could not have been the numbers drawn because the incorrect ones were posted on 6 January, a day prior to the drawing.
+
+On 8 January, the incorrect lottery numbers were listed next to the actual winning numbers on the DC Lottery website. Upon realizing the error on 9 January, the Taoti development team took down the numbers, Bailey said.
+
+Despite Taoti’s claims, Cheeks’s attorney Richard Evans told NBC Washington: “They have said that one of their contractors made a mistake. … I haven’t seen the evidence to support that yet.”
+
+He went on to add, “Even if a mistake was made, the question becomes: What do you do about that?”
+
+Evans argued that there is precedent for such a situation. Last November, the Iowa Lottery posted the wrong Powerball numbers, citing a “human reporting error”. However, the Iowa Lottery said that the temporary winners – people who had the numbers at issue – could keep their prizes, which ranged from $4 to $200.
+
+“A mistake was admitted to by a contractor and they paid the winnings out,” Evans said.
+
+Powerball is played in 45 states as well as DC, Puerto Rico and the US Virgin Islands. A Powerball ticket costs $2 in most states, and players can pick their own numbers or have a computer make the selection.
+
+The odds of winning the jackpot are staggeringly small, at one in 292.2m.

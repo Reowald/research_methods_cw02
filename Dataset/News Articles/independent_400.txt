@@ -1,0 +1,47 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+No dramatic late victory, no enormous surprises at the top - but the 2024 Formula E season opener certainly lived up to expectations regardless, with Pascal Wehrlein taking both pole position and the chequered flag for Porsche in Mexico City.
+
+The German was in title contention for much of last year before falling away towards the end - much as his team did in their own title race - but has made the best possible start to Season 10, holding off Envision’s Seb Buemi and Jaguar’s Nick Cassidy, who took second and third on the podium respectively.
+
+It was not, of course, the dream start to the season for all that each of the 22 on the grid would have envisaged. Within just ten laps, Antonio Felix Da Costa had retired, Lucas Di Grassi spun off at turn 11 and Robin Frijns smashed into the wall just after the Foro Sol, wrecking his car and bringing out the yellow flag in the process. Before even all that, though, Sergio Sette Camara saw his car wheeled to the grid...and wheeled back off again, unable to fire up and facing a first round DNS.
+
+But for Wehrlein it was the perfect start, his second-ever win in Mexico City and an early lead in the title race, in front of a sold-out Autodromo Hermanos Rodriguez, 40,000 motor racing enthusiasts who seemed to be half there for the sporting occasion and half there for alternative entertainment.
+
+Perhaps it’s the location, the mindset of the local fanbase - it had more of a feel of a baseball game at times than an hour-long, fast-paced spectacle, with plenty of racegoers milling about in the fan zone or concourses during the on-track action, even leaving the Foro Sol grandstand five laps before the race’s conclusion, heading down to the podium arena early.
+
+After all, there’s far more here than just the race itself. The fan zone incorporates both live music entertainment and a host of intended educational sections, ecological and sustainability-related for the most part, while the Girls On Track initiative continues to promote the inclusion of females in motorsport, or at least showing them the pathways to involvement. And a helicopter actually, circling relentlessly overhead.
+
+Oh, and the small matter of Usain Bolt.
+
+Usain Bolt in the GenBETA Formula E car (Formula E)
+
+The eight-time Olympic gold medallist made a surprise guest appearance as part of a promotion: the fastest man in the fastest electric vehicle, driving the record-breaking GenBETA car ahead of the main event and taking part in the grid walk just prior to the race.
+
+Jake Dennis (left) heads to his car as Usain Bolt walks the Formula E grid prior to the race in Mexico City (Karl Matchett)
+
+Bolt holds the men’s 100m world record of 9.58 seconds, but smashed that time - obviously - in the specially modified version of the Gen3 car used in Formula E races, piling through the 100m track in 4.36s. “This is the first time in my life I’m comfortable saying something is faster than me,” he joked.
+
+“It is like a rocket ship on wheels. Getting the chance to drive it was a mind-blowing experience. The power from the start was such a surprise and the adrenaline you got is on a different level, easily. Driving the GenBETA was like nothing I’ve experienced before; I was told that as soon as you drive, you don’t want to stop or get out and they were right. I would do it every day if I could.”
+
+He didn’t get to do so once the lights turned green, but the link-up definitely achieves one thing: it will spread word of Formula E far quicker and to much more of a new audience than a generic race weekend would have done, even a season opener. That ability to reach new potential fans is crucial to the continued growth of the championship and, having previously seen the likes of Jaden Smith and Trent Alexander-Arnold among those to link up with FE or teams within, it’s clear that crossovers remain an intriguing way to lure in new eyeballs.
+
+CEO Jeff Dodds had spoken about wanting Formula E to make a lot more noise, be forcibly noticeable; this is a pretty good way of doing so.
+
+Bolt and last season’s Formula E champion Jake Dennis (Formula E)
+
+Meanwhile, after meeting Bolt the day before raceday, last year’s champion Jake Dennis failed to make the duels after finishing only seventh in his qualifying group following a most unlike-him error early on. The returning Nyck de Vries, now with Mahindra, finished last in that particular group, but McLaren’s Jake Hughes impressed to make the duels, losing in the quarters to eventual second-spot Buemi.
+
+Swiss racer Buemi did briefly overhaul Wehrlein in the opening laps, but when pushing wide for Attack Mode was overtaken by his German rival - and that was effectively that, with Wehrlein only increasing his lead from that point onwards.
+
+Porsche’s Pascal Wehrlein tops the podium after winning in Mexico City (Getty Images)
+
+Dennis finished in ninth, two behind Hughes, with Jean-Eric Vergne’s sixth-place finish for DS Penske notably taking him past the 1000-point marker in Formula E history.
+
+Wehrlein, speaking after the race, revealed that Porsche’s renewed focus on improving in qualifying paid early dividends - though is holding off saying it’s job done, having impressed in Mexico himself previously.
+
+“Our focus in the off-season was qualifying, it was one of our weaknesses last year - I hope we did a good step forward and that it’s not just Mexico,” he said. “The race was not an easy one, I couldn’t save a lot of energy but I saw one mistake from Seb to put him out of the slipstream and after that it was a very good day.”
+
+An understatement for sure, with 28 points straight onto the board and Porsche’s 99X - so dominant last season with six wins between their own team and powertrain customer side Andretti - quickly looks the package to watch again in 2024.

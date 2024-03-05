@@ -1,0 +1,57 @@
+Zapping the brain with electrical currents could prevent dementia symptoms up to 20 years before they start, a study in mice suggests.
+
+Researchers in Tel Iviv, Israel, found they could stop the decay of brain cells and prevent memory loss and cognitive decline when they targeted the areas of rodents' brains that are damaged during Alzheimer's.
+
+Once a month, electrodes that were surgically attached to their brains, the team delivered low-level electrical waves to stop harmful proteins from forming in the brain and the brain's memory center from shrinking.
+
+They found that the electrical currents prevented deterioration that could be a sign of Alzheimer's, which they say would be equivalent of early as 10 to 20 years before diagnosis in humans.
+
+Alzheimer's disease is the most common form of dementia, an umbrella term used to describe a range of progressive neurological disorders, which impact memory, thinking and behavior. According to the Alzheimer's Association, more than six million Americans have the condition, and 73 percent are age 75 or older
+
+Study author Dr Inna Slutsky said: 'This indicates a potential for predicting the disease in the dormant state, before the onset of cognitive decline.'
+
+The team analyzed changes in the brain that occur during sleep, which they said is often when early signs of the condition develop.
+
+To test this, the researchers put the mice to sleep with anesthesia to study changes occurring in the hippocampus, the brain's memory center.
+
+The team used anesthesia based on data suggesting that anasthetics can lead to a buildup of toxic proteins that can lead to Alzheimer's.
+
+Study author Dr Inna Slutsky said that these signs of decline could appear years before symptoms of dementia. 'Anesthesia reveals a pathophysiology in the brain activity in the animal model,' she said.
+
+'We think that there are mechanisms that compensate for that same pathology while awake and thus prolong the pre-symptomatic period of the disease.'
+
+The researchers found that the mice experienced 'silent seizures' in the hippocampus while sleeping, which look like seizures on brain scans but don't cause any outward symptoms. Healthy mice, however, had reduced activity.
+
+They said that the silent seizures could be signs of the brain deteriorating.
+
+To prevent this excess activity, the team used deep brain stimulation (DBS), a surgical procedure where electrodes are placed in specific areas of the brain. These electrodes are connected by wires to a device placed under the skin near the chest.
+
+The device sends electrical pulses any time the brain produces abnormal signals, such as those that result in memory issues, balance problems, and speech difficulties.
+
+The team noted that patients with Alzheimer's have several signs of deterioration in their brains. This includes the build-up of the proteins amyloid-beta and tau, which can destroy brain cells responsible for memory.
+
+Additionally, the brain's memory and learning center - the hippocampus - shrinks, and there is increased activity in it during sleep. This leads to memory loss.
+
+The researchers focused on finding protective measures against this decline.
+
+Shiri Shoob, lead study author and a doctoral sudent at Tel Aviv University, said: 'As early as 10-20 years before the appearance of the familiar symptoms of memory impairment and cognitive decline, physiological changes slowly and gradually occur within the patients’ brains.'
+
+In the study, published in November in the journal Nature Communications, Ms Shoob's team found that DBS suppressed that excess activity, preventing cognitive decline as early as 20 years before Alzheimer's onset.
+
+In the study, researchers connected the electrodes to the nucleus reuniens, a small part of the brain that connects the hippocampus to the thalamus, which regulates sleep. This was done once per month.
+
+DBS has also been used in the US to treat neurological disorders like Parkinson's disease, epilepsy, essential tremor, dystonia, and obsessive-compulsive disorder.
+
+'When we tried to stimulate the nucleus reuniens at high frequencies, as is done in the treatment of Parkinson’s, for example, we found that it worsened the damage to the hippocampus and the silent epileptic seizures,' Ms Shoob said.
+
+'Only after changing the stimulation pattern to a lower frequency were we able to suppress the seizures and prevent cognitive impairment.'
+
+'We showed that the nucleus reuniens had the ability to completely control these seizures. We could increase or decrease the seizures by stimulating it.'
+
+The team plans to pursue human clinical trials next.
+
+Alzheimer's disease is the most common form of dementia, an umbrella term used to describe a range of progressive neurological disorders (those affecting the brain), which impact memory, thinking and behavior.
+
+Common symptoms include memory loss, poor judgment, confusion, repeating questions, difficulty communicating, taking longer to complete normal daily tasks, acting impulsively, and mobility issues.
+
+According to the Alzheimer's Association, more than six million Americans have the condition, and 73 percent are age 75 or older.

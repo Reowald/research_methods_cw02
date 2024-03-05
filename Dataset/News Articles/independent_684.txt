@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lewis Hamilton has already been in contact with soon-to-be Ferrari team-mate Charles Leclerc – as Carlos Sainz, the driver forced to make way for the seven-time world champion, revealed the shock switch came out of the blue.
+
+Hamilton, 39, will leave Mercedes at the end of this year after agreeing a blockbuster move to Ferrari in 2025 – the biggest transfer in Formula One history.
+
+Hamilton is set to make his first public appearance since news broke of his decision to quit Mercedes when the Silver Arrows unveil their new car at Silverstone on Wednesday.
+
+Hamilton will appear alongside team principal Toto Wolff and fellow Brit George Russell.
+
+On Tuesday, Ferrari took the wraps off the contender they hope will allow them to challenge Red Bull and Max Verstappen when the new season starts in Bahrain next month.
+
+But it was Hamilton’s name which dominated proceedings – despite the Ferrari PR machine attempting to restrict questions about their star signing.
+
+Hamilton will partner Leclerc at Ferrari after the Monegasque signed a new long-term contract, understood to run until 2029, just days before the British driver’s move was announced.
+
+“This kind of deal is not finalised overnight, and I was aware of those discussions (with Hamilton) before I signed my deal so it did not come as a surprise,” said Leclerc, 26.
+
+“Obviously, Lewis is an incredible driver, the most successful in history, and he brings a lot of experience to the team.
+
+“I had discussions with Lewis, especially when everything was announced and official. We texted each other.
+
+“He is a great champion with so much success. It is always interesting to have a new team-mate, because you learn different ways of driving and working, and even more so when my new team-mate is a seven-time world champion.”
+
+Ferrari have not won a drivers’ title since 2007, but they hope Hamilton – a winner of a record 103 races – can fire them to that elusive title. Hamilton will be 40 when he makes his transfer from Mercedes.
+
+“It is a huge opportunity for the team and we are sure that Lewis will bring us a decent step for the future,” said Ferrari team principal Fred Vasseur, who played a prominent role in Hamilton’s formative career in Formula Two.
+
+“I have had a good relationship (with Hamilton) for 20 years, and we were always in contact speaking about different things. It was not the easiest call of my life (to tell Sainz), but one of the most difficult was with Toto.”
+
+Hamilton’s switch leaves Sainz – the only driver outside of Red Bull to win a race last year – scrambling for a seat.
+
+“I was a bit surprised, like everyone in the Formula One world,” said the Spaniard, 29.
+
+“From my side you can understand I got to know the news a bit earlier than anyone else, and I had some weeks to reflect, prepare and get ready for the car launch and the first race of the season. That gave me a bit of time to digest it and to draw my own conclusions.
+
+“I don’t know the identity of my next team. But there are plenty of options out there.
+
+“I am approaching the most important three or four years of my career and I want to make sure that I am in the right place.”

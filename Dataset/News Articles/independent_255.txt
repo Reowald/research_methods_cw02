@@ -1,0 +1,71 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average UK house price jumped by £3,785 month on month in January, marking the fourth month in a row of increases, according to an index.
+
+Property values typically rose by 1.3% compared with December, Halifax said.
+
+House prices increased by 2.5% annually – the highest annual growth since January 2023.
+
+Kim Kinnaird, director, Halifax Mortgages, said: “This is the fourth consecutive month that house prices have risen and, as a result, the pace of annual growth is now 2.5%, the highest rate since January last year.
+
+“The recent reduction of mortgage rates from lenders as competition picks up, alongside fading inflationary pressures and a still-resilient labour market, has contributed to increased confidence among buyers and sellers. This has resulted in a positive start to 2024’s housing market.
+
+“However, while housing activity has increased over recent months, interest rates remain elevated compared to the historic lows seen in recent years and demand continues to exceed supply.
+
+“For those looking to buy a first home, the average deposit raised is now £53,414 – around 19% of the purchase price. It’s not surprising that almost two-thirds of new buyers getting a foot on the ladder are now buying in joint names.
+
+“Looking ahead, affordability challenges are likely to remain and further modest falls should not be ruled out, against a backdrop of broader uncertainty in the economic environment.”
+
+After suffering the effects of 14 consecutive rate rises last year, house prices are getting stronger as multiple interest rate cuts are expected in 2024 Tom Bill, Knight Frank
+
+Alice Haine, personal finance analyst at Bestinvest by Evelyn Partners, the wealth manager, said: “Interest rates have remained on pause at a 16-year high of 5.25% since August 2023 and, with inflation expected to retreat rapidly in the coming months, cuts are expected as soon as the summer.
+
+“The improving outlook has resulted in better mortgage rates and affordability levels for first-time buyers and those looking to refinance.”
+
+Tom Bill, head of UK residential research at estate agent Knight Frank, said: “After suffering the effects of 14 consecutive rate rises last year, house prices are getting stronger as multiple interest rate cuts are expected in 2024.
+
+“The number of new buyers registering and offers being submitted have increased since lenders dropped their prices last month, which suggests demand and activity levels will only get stronger, leading to a modest single-digit price increase this year.”
+
+Sarah Coles, head of personal finance, Hargreaves Lansdown, said: “We’re still a long way from a sellers’ market, but if you have been trying in vain to persuade buyers to see your home for months, it’s a really positive development. However, sellers shouldn’t get carried away with pricing, because this bounce may not last.”
+
+Marc von Grundherr, director of estate agent Benham and Reeves, said: “The general view is that 2024 will be a far more fruitful year for the UK property market and we’re already seeing early signs of this.”
+
+We would now hope that the the Bank of England gradually starts slashing interest rates in order to further to stimulate growth in the housing market Nathan Emerson, Propertymark
+
+Verona Frankish, chief executive of Yopa, said: “Looking ahead, it’s likely that, not only has the property market bottomed out with respect to the decline in house prices seen last year, but it’s also likely that interest rates have now peaked.”
+
+Nathan Emerson, chief executive of property professionals’ body Propertymark, said: “We would now hope that the the Bank of England gradually starts slashing interest rates in order to further to stimulate growth in the housing market.”
+
+Nicky Stevenson, managing director at estate agent group Fine & Country, said: “A strong start to 2024 should provide further confidence to sellers, and encourage a greater number of listings.”
+
+Iain McKenzie, chief executive of the Guild of Property Professionals, said: “If you are looking at marketing your property this year, your local estate agent is likely to have the best idea of prices in your part of the country. We have seen such wildly different trends across the UK over the past year, so a local perspective is crucial in securing the best price possible.”
+
+Matt Thompson, head of sales at London-based estate agent Chestertons, said: “The gradual introduction of more attractive mortgage products boosted buyer confidence in January, resulting in more buyers entering the market. This increase in activity was further driven by pent-up demand from house-hunters who were unable to find a property last year.”
+
+– Here are average house prices followed by the annual change, according to Halifax:
+
+East Midlands, £236,862, 0.5%
+
+Eastern England, £327,270, minus 2.0%
+
+London, £529,528, minus 0.4%
+
+North East, £169,505, 2.0%
+
+North West, £229,707, 3.2%
+
+Northern Ireland, £195,760, 5.3%
+
+Scotland, £206,087, 4.0%
+
+South East, £379,220, minus 2.3%
+
+South West, £295,399, minus 1.4%
+
+Wales, £219,609, 4.0%
+
+West Midlands, £251,185, 0.7%
+
+Yorkshire and the Humber, £207,602, 2.8%

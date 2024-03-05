@@ -1,0 +1,81 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Xenoblade Chronicles 3 is one of the most highly anticipated releases for the Nintendo Switch this year and with an earlier release date than scheduled, fans of the longstanding JRPG series can finally experience a new story that connects the two previous titles.
+
+The latest in the series introduces six playable characters in a brand-new setting that sees two countries locked in an endless conflict, with new protagonists, Noah and Mio.
+
+In our preview of Xenoblade Chronicles 3, we praised it for refining “its previous formula to bring its explorable open worlds into a more meaningful exploration experience”.
+
+In the third installment, Monolith Soft has managed to deliver one of its most ambitious games yet, by marrying the themes and mechanics of previous Xenoblade titles in a satisfying way, while doing well to depart from its biggest flaws.
+
+For our full review, keep reading the rest of the article below.
+
+Set in the world of Aionios where adults have a fixed lifespan of 10 years (Nintendo)
+
+Rating: 9/10
+
+9/10 Release date: 29 July 2022
+
+29 July 2022 Platforms: Nintendo Switch
+
+Nintendo Switch Age Rating: 12+
+
+Xenoblade Chronicles 3 is set in the world of Aionios, which sees two nations, Agnes and Keves, interlocked in an endless conflict. To add to the bleakness, the standing armies between the two countries comprise young adults with a fixed lifespan of 10 years.
+
+They’re born, they train, they fight and – if they’re lucky enough to survive – they shuffle off the mortal coil in a “homecoming ceremony”, where they’re (quite literally) played out by flautists known as “off-seers”.
+
+When two off-seers from opposing sides, Noah and Mio, are both assigned to recover a mysterious artefact beyond the frontlines, fate binds them together. Along with four of their allies, they must travel across the vast continent to try and bring an end to the cycle of violence.
+
+Xenoblade Chronicles 3 sees two countries fighting an endless war (Nintendo)
+
+With certain similarities to the rest of the trilogy, Xenoblade Chronicles 3 does a better job by far of conveying the rules of its world and making it compelling at the same time. While it certainly wastes no time decrying the horrors of war with the subtlety of brick through a window, the existentialism that permeates through Noah and Mio’s journey as the cast race against the clock is palpable.
+
+Read more: 18 best Nintendo Switch games for every kind of player
+
+With only a few months left before her own “homecoming”, the stakes for Mio are lofty enough to carry the whole journey, which is only bolstered by the performances of the supporting cast.
+
+Each of the six party members are given plenty of time to have meaningful arcs completed by the journey’s end, which is only stifled now and then by the game’s occasionally clunky dialogue.
+
+There are six characters to play as, all with their own unique backstories (Nintendo)
+
+As with previous titles, Xenoblade Chronicle 3’s, combat works with battles happening in real time. The six core characters can be swapped between them freely, with each one taking on a different role in combat. While different roles become available throughout the campaign, there are three different types of roles that each character can adopt: attacker, defender and healer.
+
+Defensive classes are able to draw attention of enemies and soak up the majority of damage, while attackers have much less health but are able to perform stronger attacks by flanking opponents.
+
+Healers, as you might have guessed, can equip players with buffs while also replenishing their health. It’s a system that works favourably until characters start facing much stronger opponents.
+
+Each character assumes a different role in combat: offensive, defensive or healer (Nintendo)
+
+If a character falls in battle, the only way to revive them is with a healer, and if all healers are downed, it’s already game over.
+
+“Arts” can also be performed with unique talent arts, which are unique to each character. Once enough of these have been performed in a battle, a chain attack can be performed, which sees all playable characters take turns inflicting damage, and this multiplies for a more substantial combo.
+
+The introduction of “Ouroboros form” also sees two characters combine into one entity for a limited time to perform highly charged attacks and gain temporary invincibility.
+
+Ouroboros form sees two characters combine for a limited time (Nintendo)
+
+While this form is only temporary, it can be quick to overheat, meaning that overclocking this ability can lead characters to overheat for a longer cooldown time. It adds another level of depth to combat management, and while it fans the flames of the on-screen chaos, it can turn the tide of battle if characters are up against the ropes.
+
+Read more: Nintendo Switch deals 2022 in July
+
+At first glance, the battle system is deeply opaque, with flashing visuals and audio cues creating a flurry of rising numbers leading to sensory overload. However, after spending time playing with its many systems, it’s a gradual learning experience that takes time to unfold. Even after reaching the climax of the final act, it still felt like there was more to Xenoblade Chronicles 3 below its glittery surface.
+
+There’s a vast world to explore (Nintendo)
+
+There’s heavy references to tutorials as the onion skin is slowly peeled back on these intertwining systems and, gratefully, these are all catalogued for later reference, along with training drills to refamiliarise yourself if a quick hands-on run-through is required.
+
+It’s a small wonder more games don’t have this feature included. If you’re inclined to put a game down for weeks at a time, then forget how to play it once you return only to give up on it entirely, this is the ideal solution to that age-old problem.
+
+Read more: 13 best gaming chairs for total focus and comfort
+
+This isn’t the only quality of life feature that’s been implemented in Xenoblade Chronicles 3. One of the biggest drawbacks of 2 was its unclear navigation, which meant getting lost in its world was far too easy, for all the wrong reasons.
+
+When navigation assistance is enabled, an ebbing red line gently guides players towards the correct path. Without funneling the player through its expansive environments, it simply readjusts based on the party’s position if players are prone to wander, and is never so intrusive as to force players down a particular route.
+
+The verdict: ‘Xenoblade Chronicles 3’
+
+Xenoblade Chronicles 3 is the strongest entry into the series yet, while simultaneously managing to bridge the themes and mechanics of the first two games in a meaningful way. Even after the credits roll close to the 60-hour mark, each of the character’s personal journeys are fulfilling and memorable, while contending with heavier subject matter than the series has been known for.
+
+It’s also bolstered by its satisfying combat loop, which may look more intimidating on the surface but continues to reveal itself as the game progresses. Fans of Xenoblade Chronicles will find plenty to adore about this title, and while it’s a hard sell for anyone else that would prefer a faster pacing, it’s more about journeying through Aionios’s expansive continent than where it ends up.

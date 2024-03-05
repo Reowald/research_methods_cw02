@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A new “easy read” guide to help people with learning disabilities spot the signs of scams has been launched.
+
+Mencap and UK Finance’s Take Five to Stop Fraud campaign has launched the guide to give people accessible advice on crimes such as romance and impersonation scams.
+
+Becoming a fraud victim could strip someone of crucial independence and confidence, Mencap warned.
+
+Typically, people with a learning disability need more time to learn and process information, and they may need extra support to develop skills, complete tasks and interact with others, those behind the initiative said.
+
+People with a learning disability may be more at risk of being targeted, potentially missing subtle warning signs of the social engineering tactics criminals use in these crimes.
+
+Many people with a learning disability successfully manage their own money, which means they maintain freedom to make choices about their own lives. The outcome, then, of being a victim of fraud could come at more than just a financial cost Jackie O'Sullivan, Mencap
+
+These types of fraud are also more likely to involve criminals manipulating victims into making repeated payments over an extended period, leading to substantial financial loss.
+
+Impersonation scams are one of the most common forms of authorised push payment (APP) fraud, where people are tricked into transferring money to a fraudster.
+
+More than £76.1 million was stolen through impersonation scams in the first six months of 2023 alone. Around £43.5 million of this was criminals impersonating police or bank staff to trick victims into making payments, while £32.6 million was other forms of impersonation, such as utility companies, communications providers or government departments.
+
+Romance scams are where criminals make people they meet – often online through social media or dating websites – believe they are in a relationship in order to convince them to make payments to them. Around £18.5 million was stolen from victims in this way in the first six months of 2023 – a 26% increase on the previous year.
+
+Jackie O’Sullivan, acting chief executive at Mencap, said: “Many people with a learning disability successfully manage their own money, which means they maintain freedom to make choices about their own lives. The outcome, then, of being a victim of fraud could come at more than just a financial cost, potentially stripping them of crucial independence and confidence.
+
+“Providing accessible information about potential scams is one important step to protecting people with a learning disability from fraud.”
+
+Ben Donaldson, managing director of economic crime at UK Finance, said: “Fraud is by far the most common crime in this country, accounting for over 40% of all reported offences. The ruthless criminals responsible will try to target us all.
+
+“Impersonation and romance scams are among the most heartless forms of fraud because they involve the callous manipulation of the victim, which can cause emotional and psychological harm.
+
+“We want everyone to be able to keep themselves safe from crime. That’s why we have developed this guide to ensure people with a learning disability have clear, accessible advice they can use to spot the tell-tale signs of fraud and protect themselves.”
+
+The guide can be found by visiting www.mencap.org.uk/easyread/how-protect-yourself-scams.

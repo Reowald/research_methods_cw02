@@ -1,0 +1,57 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Blind and partially sighted people may soon be helped to find their way around indoors by robot guide dogs.
+
+Experts from the University of Glasgow are helping to develop the RoboGuide, an AI-powered four-legged robot dog capable of chatting to humans.
+
+The initiative aims to help the visually impaired move more freely around museums, shopping centres, hospitals and other public places.
+
+The robot uses a series of sensors to accurately map and assess its surroundings.
+
+Software developed by the team allows the RoboGuides to learn optimal routes between locations and interpret sensor data in real-time to help it avoid hitting moving obstacles while guiding a human.
+
+They can also understand speech, giving it the ability to provide verbal responses in turn.
+
+Olaoluwa Popoola, of the university’s James Watt School of Engineering, is the RoboGuide project’s principal investigator.
+
+He said: “Assistive technologies like the RoboGuide have the potential to provide blind and partially sighted people with more independence in their daily lives in the years to come.
+
+“One significant drawback of many current four-legged, two-legged and wheeled robots is that the technology which allows them to find their way around can limit their usefulness as assistants for the visually impaired.
+
+“Robots which use GPS to navigate, for example, can perform well outdoors, but often struggle in indoor settings, where signal coverage can weaken.
+
+“Others, which use cameras to ‘see’, are limited by line of sight, which makes it harder for them to safely guide people around objects or around bends.”
+
+The ongoing development of the RoboGuide was showcased at the university’s Mazumdar-Shaw Advanced Research Centre on Thursday.
+
+Developers say the prototype uses a number of cutting-edge technologies, and they aim to have a complete version available in the coming years.
+
+There are an estimated 2.2 billion people in the world living with some form of vision loss, with around two million people in the UK affected.
+
+Professor Muhammad Imran, dean of graduate studies at the James Watt School of Engineering, is co-investigator on the project.
+
+He said: “Our assistive technology project for the visually impaired embodies innovation, fostering inclusivity.
+
+“In Glasgow, we’re pioneering world-changing technologies that hold the potential to transform lives and reshape societal norms.
+
+“This achievement was made possible through collaboration with industry and charity partners and co-creating the design with the invaluable input of end users.”
+
+The Forth Valley Sensory Centre Trust (FVSC) and the Royal National Institute of Blind People (RNIB) Scotland have lent their support to the development of the RoboGuide.
+
+The guide was trialled and tested for the first time with volunteers from both organisations at the Hunterian Museum in Glasgow in December.
+
+The robot helped volunteers find their way around and provided interactive spoken guidance on six different exhibits.
+
+Wasim Ahmad, of the James Watt School of Engineering and another co-investigator on the project, said: “Ultimately, our aim is to develop a complete system which can be adapted for use with robots of all shapes and sizes to help blind and partially sighted people in a wide range of indoor situations.
+
+“We hope that we can create a robust commercial product which can support the visually impaired wherever they might want extra help.”
+
+Jacquie Winning, chief executive of the FVSC, said: “Mobility is a big issue for the blind and partially sighted community.
+
+“RoboGuide is a wonderful solution to that problem, and we are delighted to help test this innovative and creative robot.”
+
+James Adams, director of RNIB Scotland, added: “We’re delighted to be supporting the research and development of technology that could be part of making the world more accessible and empowering blind and partially sighted people to live their lives confidently.”
+
+The nine-month research project has been supported by funding from the Engineering and Physical Sciences Research Council.

@@ -1,0 +1,13 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+About a third (34%) of workers will be looking for a better-paid job in the months ahead, and just over a quarter (26%) will look to take on additional paid work to help make ends meet, according to a survey.
+
+Just over two-fifths (43%) of people questioned said they had already changed their shopping habits, switching to more budget supermarkets, the research for financial services provider Canada Life found.
+
+A further 28% are considering making such changes in the short-term future.
+
+About half (52%) currently or will go out less often to save money, with 54% currently or planning to eat out less often.
+
+The research was based on a survey of 2,000 adults across the UK in November 2023 by Opinium.

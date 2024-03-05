@@ -1,0 +1,31 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nick Taylor believes it may be too late to change the unruly behaviour of spectators at the WM Phoenix Open.
+
+Taylor birdied three of his last four holes in regulation and both holes of a play-off with Charley Hoffman to win his fourth PGA Tour title in dramatic fashion on Sunday.
+
+However, the 35-year-old’s victory was somewhat overshadowed by ugly scenes at TPC Scottsdale, with Zach Johnson and Billy Horschel exchanging angry words with fans on the final day and one man arrested after jumping over the ropes and diving into a greenside bunker on the 16th.
+
+Tournament officials were also forced to shut spectator gates earlier than planned after being overwhelmed by the turnout and sales of alcohol were temporarily halted.
+
+“From the videos that I’ve seen, those instances are unfortunate, but I don’t think it’s a standalone, it’s been like that for a bit,” Taylor said in a press conference ahead of the Genesis Invitational.
+
+“But I think the cat’s probably out of the bag. I don’t know how much they can change. I think it’s a week where the classic line is that I can do this for one week but multiple weeks, probably not.
+
+“It’s a shame when only a very small percentage of fans are like that, it gets exposed a bit, but the majority of the fans are great, they’re just trying to watch some good golf and cheer.
+
+“[Bad behaviour] needs to be cut out. I don’t know how they’re going to be able to do that.
+
+“I think this year again with the weather [delays], everybody getting in the same area waiting around, it was probably a perfect storm to cause some of that a little more, but I’m not sure how they would reel it back to be honest.”
+
+Taylor revealed he has surprisingly never met Genesis Invitational host Tiger Woods, who will also make his first competitive appearance of 2024 at Riviera Country Club.
+
+The 15-time major winner underwent ankle surgery in April last year after withdrawing from the Masters during the third round and did not compete again until the Hero World Challenge in December.
+
+Woods finished 18th in the 20-man field in the Bahamas, but the 48-year-old said he was pleased with his progress and believes it is realistic to compete in one tournament a month this season.
+
+Neither of the last two winners of the Genesis Invitational are in the field this week, Joaquin Niemann (2022) and Jon Rahm (2023) having subsequently joined LIV Golf.
+
+Rahm’s victory 12 months ago was his third of the year and fifth in his last nine worldwide starts, the Spaniard’s 10th PGA Tour title eclipsing the tally of his compatriot and idol Seve Ballesteros.

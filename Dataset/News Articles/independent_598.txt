@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Earth’s immense gravitational pull may act as a built-in defence system that could protect the planet from catastrophic civilisation-ending killer asteroids, a new study suggests.
+
+Tidal forces, which determine how the Moon causes tides in Earth’s oceans, can in some cases be strong enough to tear up objects in space in a process called tidal disruption, say researchers.
+
+Citing an example, scientists say pieces of the comet Shoemaker-Levy 9 were ripped apart by Jupiter’s tidal forces in the early 1990s, leading to much smaller pieces of the space rock crashing onto the planet.
+
+However, until now astronomers have not found enough evidence of Earth-like terrestrial planets tidally disrupting passing asteroids.
+
+Even though modeling studies have suggested that near-Earth asteroids (NEAs) can be destroyed by tidal forces during close and slow encounters with the Solar System’s first four rocky planets, such tidal disruptions of NEAs have not been directly observed.
+
+Such disruptions have also not been attributed to any particular families of NEAs, scientists say.
+
+In a new piece of research that is yet to be peer-reviewed, a team from Lulea University of Technology in Sweden provides evidence for the tidal disruption of NEAs during close encounters with the Earth and Venus. The study has ben posted as a preprint in arXiv.
+
+Researchers had previously assessed over six years’ worth of asteroid data collected by the Catalina Sky Survey – a Nasa-funded programme that detects NEAs.
+
+However, these observations underpredicted the number of certain asteroids at the distances at which Earth and Venus orbit the Sun.
+
+The missed asteroids, researchers then found, were mostly small ones circling the Sun almost on the same plane as the orbits of the Earth and Venus.
+
+2023 in review: ESA's JUICE mission to SpaceX's Starship launches, another landmark year for space
+
+Scientists now suspect these missed asteroids could be tidally disrupted fragments of larger asteroids.
+
+Researchers modeled a scenario in which asteroids facing the gravitational pull of the rocky planets – Mars, Earth, Venus and Mercury – lose about 50 to 90 per cent of their masses.
+
+They found that these smaller fragments generated from the gravitational pull can account for the previously underpredicted asteroids.
+
+While tidal disruption by Earth and the Moon may tackle some of the killer asteroids threatening Earth, scientists say it could generate more smaller NEAs likely to strike the planet in a future passby.
+
+“The fragments resulting from a tidal disruption will remain on planet-approaching orbits also for some time after a tidal-disruption event,” researchers wrote in the study.
+
+“Some fragments may therefore undergo further tidal disruption during subsequent close encounters with the planet, and thus increase the number of resulting fragments whereas some may impact the planet,” they said.
+
+But these smaller space rock fragments do not pose an extinction-level threat, scientists added.

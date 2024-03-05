@@ -1,0 +1,53 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Some claims management companies (CMCs) have inadequate systems in place to differentiate between regulated and unregulated activity, the City regulator has said.
+
+The Financial Conduct Authority (FCA) said some firms had charged significantly higher fees for unregulated claims.
+
+The FCA published a review into CMCs carrying out unregulated claims activity. It was concerned that consumers may mistakenly assume that all the services CMCs offer come within its regulation.
+
+We are disappointed to find that some firms have inadequate systems and controls in place to differentiate between regulated and unregulated claims activity and some are charging significantly higher for unregulated claims Sheldon Mills, FCA
+
+This assumption can mislead consumers about the level of protection they have, and give unregulated activities extra credibility, the regulator said.
+
+CMCs, which help people to make a claim in return for a fee, were brought under the FCA’s regulation from April 2019.
+
+Firms handle a range of claims for compensation or other benefits.
+
+CMCs must be authorised by the FCA if they provide services for claims concerning financial services and products; personal injury; employment matters such as unfair dismissal; criminal injury; housing disrepair; and certain industrial injuries benefits.
+
+But some types of claims services fall out of the scope of the FCA’s regulation.
+
+The FCA said it issued substantive information requests to 26 CMCs offering unregulated claims services for matters such as tax, timeshare, diesel emissions and flight delay claims.
+
+The regulator used additional scrutiny where unregulated claims activity accounted for a significant portion of the business and, in some instances, it visited the business premises.
+
+Some firms in the sample had undertaken very little, or no regulated claims management activity, the FCA said.
+
+Some firms have applied to cancel their FCA permissions following its contact, and around 70% have stopped unregulated claims activity.
+
+The FCA said on its website: “When complying with our rules, CMCs can deliver wider benefits to society including by helping raise awareness of the opportunity to claim and acting as an additional check and balance on the redress system.
+
+“Our vision is for CMCs to be trusted providers of high quality, good value services that help people pursue legitimate claims for redress.
+
+“We expect all firms to take account of our findings of this multi-firm work and make necessary changes.”
+
+Firms must regularly review their regulatory permissions to ensure these are up to date, and apply to remove them if they are not needed, the regulator said.
+
+Under the consumer duty, which came into force from July last year, firms must ensure that communications are likely to be understood by the consumers they are intended for, and that these communications equip consumers to make decisions that are effective, timely and properly informed.
+
+The duty requires firms to act in good faith, and to give consumers the right information to make decisions.
+
+In accordance with the duty, CMCs must ensure that their products and services provide fair value.
+
+Where fees for the unregulated claims exceed those charged for the regulated claims services, the FCA said it strongly urges CMCs to keep in mind the spirit of the consumer duty, and whether the services they are providing represent fair value for the consumer.
+
+Sheldon Mills, executive director of consumers and competition at the FCA, said: “Since taking over the regulation of CMCs, we have been working assertively to raise standards, so CMCs are considered trusted providers of high quality, good value services that help people pursue legitimate claims for redress.
+
+“We are disappointed to find that some firms have inadequate systems and controls in place to differentiate between regulated and unregulated claims activity and some are charging significantly higher for unregulated claims.
+
+“Although we don’t have regulatory oversight of the unregulated activities, we consider that firms will want to satisfy themselves on whether this is appropriate.
+
+“We expect all firms in this market to take account of the findings we’ve published today and make any necessary changes. We will take tough action if we find firms aren’t complying.”

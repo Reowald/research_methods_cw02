@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The latest details have been revealed after Apple’s new $3,499 headset was torn apart.
+
+The Apple Vision Pro includes displays in front of the eyes that are 50 times more dense than the latest iPhone.
+
+That is according to iFixit, a company that breaks down new products when they are released. It had already revealed some information taken from breaking the headset apart.
+
+Chief among its earlier findings was the discovery of what iFixit called the “achilles heel” of the device. That is the large “EyeSight” display on the front that projects people’s eyes onto the device – and which appears to have made it much heavier and harder to make.
+
+This time around, however, iFixit said that it had dug “much, much deeper into those dual displays, the multitude of sensors, the lenses, and that beautifully-overengineered battery pack”. And it had found “utterly incredible” specs in the Vision Pro, it said.
+
+The teardown found that the displays are almost so detailed that they are like two 4K displays in front of each eye. That makes for “certainly the highest-density display that we’ve ever seen”, iFixit said, and means that you can fit around 54 Vision Pro pixels into a single iPhone pixel.
+
+Still, the company does note that the headset might not always be a suitable replacement for a monitor with that many pixels. That is because a virtual display in the headset will mean only seeing some of those pixels – “while you will totally be able to use your Mac in your virtual world, you will prefer an actual 4K or 5K monitor for fine work”, iFixit said.
+
+The company also broke apart the external battery pack that powers the headset. It includes temperature sensors and accelerometers – to ensure that it does not get too hot, and perhaps so it knows it can know when it is inside someone’s pocket.
+
+In conclusion, the company gave the headset a 4/10 score for repairability. But it noted that it was hard to score because parts of the headset are so different: the pieces that touch the face can be swapped out, for instance, and so can the battery, but some of the parts inside the headset are difficult to even open up.

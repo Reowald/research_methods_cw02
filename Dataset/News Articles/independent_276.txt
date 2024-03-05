@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The proportion of easy access savings accounts offering branch access to customers has been shrinking, according to a financial information website.
+
+Two-fifths (40%) of easy access accounts in the savings market do not offer branch access, Moneyfactscompare.co.uk said.
+
+Five years ago, in January 2019, a third (33%) of easy access accounts on the market did not offer branch access, and a decade ago, in January 2014, the proportion was 29%.
+
+In January 2023, 37% of easy access accounts did not have branch access.
+
+The proportion of easy access accounts with online access is on the increase.
+
+More than two-thirds (69%) offer online access, up from 60% five years ago, and 54% a decade ago.
+
+Older savers might prefer to manage their finances in branch for accessibility reasons, but it is clear to see how they could be missing out on a better return if they are not able to manage an account online Rachel Springall, Moneyfactscompare.co.uk
+
+Rachel Springall, a finance expert at Moneyfactscompare.co.uk, said: “Savers looking for an easy access account will find most options offer online access, but there is a decline in accounts that allow branch access.
+
+“This has been a growing trend over the years, and in fact the percentage of easy access accounts that do not offer branch access has now grown to 40%, up from 29% a decade ago.”
+
+Ms Springall pointed out that savers who are unable to manage their accounts online could be missing out on significant returns, with the top deals offering around 5% in interest.
+
+She said: “Older savers might prefer to manage their finances in branch for accessibility reasons, but it is clear to see how they could be missing out on a better return if they are not able to manage an account online. A saver earning just 1% for a year on a £20,000 pot would take home £200 in interest, whereas earning 5% would result in £1,000.
+
+“Consumers may wish to have the option of managing their finances in branches, but it will be more time-efficient for savers to shop around online to find the best interest rates.
+
+“There are savings providers who do not offer any branch access, such as some challenger banks who prefer to digitise their offers to streamline retail banking, and in fact a few institutions only offer online access.”
+
+Last week, Yorkshire Building Society reported that 550,000 members used passbooks – a physical record of money paid into or taken out of a savings account – between January and September last year.
+
+The Yorkshire also commissioned Opinium to survey 2,000 UK adults in October 2023 about how they operate their finances.
+
+It found that 57% like to operate their finances online and 47% enjoy managing their money using apps.
+
+But more than a fifth (22%) said they prefer visiting their local branch to complete their banking, rising to almost a third (31%) of people aged over 55.
+
+More than a quarter (27%) of people surveyed said they visit their local branch at least once a month.

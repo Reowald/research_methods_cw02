@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Quadrantid meteor shower is expected to light up skies above North America this week bringing in about 120 streaks of shooting stars per hour at its peak.
+
+Astronomers say the event could peak from late night of 3 January to dawn of 4 January with the potential to be the strongest meteor shower of 2024.
+
+The Quadrantid meteor shower, which is one of four major meteor showers every year – including Lyrids, Leonids, and Ursids – is expected to peak at about 7:53 am EST (12:53 GMT) on 4 January, according to Earthsky.com.
+
+But unlike the other meteor showers whose peak may last for about two days, the Quadrantids’ peak lasts only a few hours.
+
+This is due to the shower’s thin stream of particles and since the Earth crosses the stream at a perpendicular angle, according to Nasa.
+
+In 2024, the meteor shower’s short peak is expected to last just for six hours with its climax likely to occur in daylight.
+
+The shower gets its name from the now-defunct constellation Quadrans Muralis and is also called Bootids after the modern constellation, Boötes.
+
+Under a dark sky with no Moon, over 100 shooting stars per hour could be visible, each traveling at speeds of about 41 kilometers (25.5 miles) per second.
+
+But the event in 2024 may not be spectacular since a bright last quarter moon will be in the sky as the Quadrantids peak.
+
+Man captures streaking meteor on dash cam video
+
+Meteors are dusty trails left in orbits by leftover comet particles and bits from broken asteroids.
+
+As the Earth passes through these debris trails, these bits of space rocks disintegrate and catch fire in the atmosphere, leaving colorful streaks in the sky.
+
+Unlike most meteor showers that originate from comets, the Quadrantids is from an asteroid that takes about 5.5 years to orbit the Sun once.
+
+Due to the constellation’s position, the Quadrantid meteor shower will only be visible in the Northern Hemisphere.

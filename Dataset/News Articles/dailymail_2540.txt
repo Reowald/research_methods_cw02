@@ -1,0 +1,135 @@
+The Concorde flew its final flight almost exactly 20 years ago - yet it continues to capture the imaginations of Americans old and young.
+
+Concordes were taken out of service in 2003, about three years after Air France flight 4590 crashed, killing 113 people.
+
+But last week, NASA unveiled its quarter-billion-dollar supersonic X-59 jet, an experimental aircraft that the agency will use to give rise to a new frontier of supersonic passenger jets - Concorde successors.
+
+The new 100-foot-long plane has a 30-foot wingspan and can reportedly cruise at 925 miles per hour, 1.5 times the speed of sound. Compare this to the commonplace Boeing 737 MAX 10, which is 143 feet long with a 117-foot wingspan and a cruising speed of 521 miles per hour.
+
+Because it can break the sound barrier, the plane earned the moniker the 'son of Concorde'. But one of the lead engineers who developed it scoffs at the nickname, saying it's so much more than that.
+
+'The X-59 is not - I repeat not - the son of Concorde, other than the general wing shape,' Peter Coen, mission integration manager for NASA's Quesst mission, told DailyMail.com. The X-59 is an experimental jet that will be NASA's proving ground for ushering in a new era of supersonic flight, he said.
+
+NASA's new experimental supersonic jet is dubbed the X-59. It debuted this month, and it will be the space agency's practical laboratory for developing new supersonic jet technologies. The X-59 is slower than the Concorde, but for good reason: NASA aims to diminish the trademark 'sonic boom' of supersonic jets into a 'thump,' one that will make it possible for the supersonic passenger jets of the future to fly over populated areas
+
+To minimize turbulence that leads to sonic booms, the X-59 did away with a front-facing cockpit window. Instead, it features cameras that feed a 4K monitor
+
+The new jet has room for exactly one person: the pilot. And it's actually about 30 percent slower - by comparison, the Concorde could travel 1,350 miles per hour, twice the speed of sound.
+
+But that's for good reason.
+
+While the old Concorde could carry passengers across the Atlantic Ocean in about three hours, Federal Aviation Administration (FAA) regulations forbade it from flying overland routes across the US due to its thunderous 'sonic boom'.
+
+The new, quieter jet could pave the way for the FAA to lift this ban and revolutionize domestic travel in the US, said Coen who has been working on supersonic-related projects at NASA for 30 years.
+
+In theory, the X-59 could fly from New York City to Los Angeles in under three hours, but it will never fly passengers because it is a prototype plane that will solely be used for research.
+
+NASA's ultimate goals for the plane are to develop quieter supersonic flight, bring that technology to passenger planes, and overturn a 50-year FAA ban on overland supersonic flights in the US, said Coen.
+
+The X-59, built by Lockheed Martin for $247.5 million, is the flagship aircraft of the Quesst mission.
+
+'The features in the X-59 are features that you would see in a future supersonic airliner,' he said.
+
+These include sculpted, swept-back wings set far back on the craft; a tail that creates lift; and an engine that is mounted high up on the plane, above the wings.
+
+NASA's X-59 is designed to break the sound barrier much more gently than the Concorde or other jets, producing a 'thump' rather than a 'boom'
+
+That goal is still a few years down the road, but if all goes according to plan, in 2026 NASA will begin flying the X-59 over select communities in the US to determine whether it is quiet enough to get federal regulators to reconsider the aviation rule that has stood since 1973.
+
+Even on an optimistic timeline, the FAA rule change probably won't happen until early in the 2030s. But airline manufacturers are very interested in developing supersonic passenger jets, Coen said. So it's possible that these new crafts would come soon after the rules allow their use.
+
+Flying across the Atlantic Ocean is a simple task for a supersonic jet, according to Chris Combs, director of the University of Texas at San Antonio's aerospace engineering program. After all, the Concorde did it for decades.
+
+'The X-59 is just a tech demonstrator that is not going to leave US airspace,' Combs said.
+
+But once the details eventually fall into place, and customers are comfortable with supersonic flight, Combs confirmed that it's realistic to imagine flights from New York to Los Angeles taking less than 3 hours - less than half the time they take now.
+
+The real feat will be flying over land without disturbing everybody who lives within earshot of its flight path.
+
+That's where Coen and his team come in.
+
+This concept art shows what a future supersonic airliner may look like, as inspired by the technology developed on the NASA X-59
+
+The X-59 will be significantly quieter than existing supersonic jets, NASA claimed. According to this diagram from the space agency, the X-59's 'sonic thump' will be about as loud as hearing a car door slam from 20 feet away
+
+When a plane flies faster than the speed of sound, which is about 761 miles per hour, its shockwaves reverberate through the air, converge, and reach observers as a sonic boom.
+
+This two-part blast hits your ears with about the same sound intensity as a rock concert.
+
+When airplane technology developed to the point that faster-than-sound travel became possible, the US military flew supersonic jets over the country and asked people whether they were too loud.
+
+The answer was a resounding 'yes,' so the Federal Aviation Administration (FAA) banned supersonic flight over the US in 1973.
+
+The X-59 could change things, though, Coen said.
+
+One of the experimental jet's main selling points is that it will break the sound barrier so quietly that it can fly over populated areas, producing more of a supersonic 'thump' than a 'boom.'
+
+When an airplane flies through the air, Coen explained, it is constantly colliding with the air, creating turbulence at every point of contact - the wings, the engine, the nose.
+
+Normally, these pressure disturbances are pushed out in front of the plane.
+
+But when a supersonic aircraft collides with the air, the plane is moving too fast for the pressure changes to get out in front, and the pressure changes instantly.
+
+Any time the plane pushes air out of the way, these collisions create shockwaves that reverberate in a cone shape behind the craft.
+
+Anyone who is within this cone will hear a sonic boom as the plane passes overhead - a jarring experience for anyone who experiences it, especially if it's unexpected.
+
+The X-59 is just a demonstration vehicle at the moment. NASA announced plans to start flying it over some US locales to gather public input on how disruptive its sonic thumps are
+
+'After working on it for quite some time, we realized that the trick to quieting sonic boom is to control the strength and position of those shockwaves,' Coen said. 'You want them to be relatively the same strength and relatively evenly distributed along the length of the airplane.'
+
+This keeps the shockwaves as individual waves traveling from the plane to the ground, preventing the noisy collisions that make a sonic boom.
+
+With the engine situated in the aircraft's upper section, and with its long tapered nose breaking up the shockwaves that usually cause sonic booms, the experimental craft is meant to produce a sedate 'thump' compared to the Concorde's famous 'bang bang' sonic boom.
+
+In numbers, these changes should bring the 'perceived level decibels' down from 105 to 75, Coen said - about 65 decibels on the scale that most people are familiar with, roughly as loud as riding inside a car.
+
+The sonic boom was a central problem for the Concorde early on, as both the United States and the state of New York banned or attempted to ban its flights, before eventually allowing them - not without public outcry over the noise.
+
+So it would be a big deal if the X-59 can actually slip through the air quietly.
+
+Figuring out the right shape is just one part of the Quesst mission, though, Coen said.
+
+This Lockheed Martin concept image shows another possible configuration for a future overland supersonic plane, whose engines are situated on top of its sculpted wings
+
+After NASA takes the new aircraft for its first flight this year, the agency will run it through the full course of flight tests for about one more year, Coen predicted.
+
+Once they're satisfied it's safe, they will do acoustic validation, which is making sure the plane is making the right thump.
+
+Then, in late 2026, it will start flying the X-59 over five or six yet-to-be-announced US communities and surveying people on the ground about the noise, Coen said.
+
+The results of these tests, which should last about 2.5 years, will be central to NASA's Quesst mission.
+
+The X-59's long nose makes up about a third of the aircraft's length, and is a crucial part of keeping it quiet at high speeds
+
+NASA hasn't named which cities will get X-59 flyovers, but Coen said they will be determined by how close they are to a suitable airfield - one with a long enough runway, a secure hangar, and light enough traffic that the plane won't risk wasting fuel while waiting for other planes to land.
+
+Meanwhile, NASA is working with the International Civil Aviation Organization to establish guidelines for acceptable levels of sound from future supersonic airplanes. The community testing will provide data on establishing those limits, Coen said.
+
+And if all goes according to plan, the new standard will be brought forward at a meeting in 2031.
+
+'If it is shown as possible to fly overland without creating noise problems at supersonic speed, it opens up many more routes for a potential carrier, perhaps making the entire endeavor a more easily justified business venture,' Combs said.
+
+And if supersonic passenger jets do come to market, they probably won't look exactly like the X-59, whose small cockpit certainly can't fit a family and their luggage.
+
+The aircraft industry has been eager for supersonic airplanes to become popular, but they have been hesitant to enter the field without clear guidelines. The Quesst mission aims to establish those guidelines
+
+But the overall design and strategies from the X-59 will inform their designs.
+
+'There'll be heritage or DNA if you wish from the X-59 in these future airliners,' Coen said.
+
+The Concorde could cross the Atlantic in about 3 hours, with the fastest crossing taking just 2 hours, 52 minutes, and 59 seconds in 1996.
+
+Since the Concorde was retired in 2003, airline companies have been interested in supersonic flight, but the FAA ban has limited that progress, Coen said.
+
+'It’s simply more about a company proving they can make it economical and making the appropriate investment,' Combs said. 'I think after Concorde there is clearly a lot of caution about that within the industry.'
+
+Generating a quiet supersonic plane is just part of the project, NASA aerospace engineer Peter Coen said. NASA also must seek community input to make sure it's actually not too loud
+
+The X-59 is central to the long-term goals of making supersonic flight a regular occurrence, but it's not the end goal, Coen pointed out.
+
+Aside from the design processes that belong to Lockheed Martin, NASA will make the plane's geometry and technology, as well as acoustic testing and community response data, available to aircraft manufacturers to encourage the industry to expand into this area.
+
+'Industry is definitely interested in supersonic flight,' Coen said. And the whole Quesst mission was spurred by the aircraft industry pushing for some updated guidelines, Coen added.
+
+'They certainly don't want to design an airplane if they don't know what the requirements would be,' he said.

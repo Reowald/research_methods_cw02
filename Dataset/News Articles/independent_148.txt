@@ -1,0 +1,35 @@
+Sign up for the View from Westminster email for expert analysis straight to your inbox Get our free View from Westminster email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+View from Westminster email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Everyone agrees that AI is already doing a great deal of good things – it is, for example, speeding up and making more reliable the analysis of mammograms.
+
+The technology is moving at the speed of light, and will undoubtedly do even more good in the future. Clearly we, as a country, need to harness our many assets to make the most of it. The government’s response to this new technological frontier, however, seems on the small side.
+
+We need an AI workforce strategy as urgent and as longsighted as the NHS workforce strategy. We need to make sure that AI is part of a levelling up agenda, spreading its opportunities and drawing on the talent of every region, including Scotland and Wales.
+
+We need the coordination of all the public sector organisations that are finding their way forward on it, but doing so separately by trial and error. And we need to see data as part of our infrastructure development, as important as the roads and railways we use to go to work.
+
+In order to ensure this technology can have a smooth trajectory of development here in the UK, we also need robust regulations which enable AI to flourish, but can identify and prevent problems before they arise.
+
+The usual pattern of regulation is primary legislation, supplemented by secondary legislation, passed by parliament with implementation by regulators empowered by the statutes.
+
+But the problem with AI is that while it is moving at great speed, the pace of enacting legislation is painfully slow – even more so when parliament is seeking to get its head around something new and complicated. What happens is that our laws are already years out of date by the time they get royal assent.
+
+It was 10 years from the time of David Cameron’s first announcement to the passing of the Online Safety Bill. That is a hopeless timescale for AI regulation. We can’t pass laws for regulation which make any sense when we can’t even fully envisage the thing being regulated. And although we know it will, we can’t fully predict how AI is going to develop over time.
+
+The answer is not to leave it all to the government to regulate by executive power. These are important public policy issues, and parliament must hold the ring. It can’t be left to the regulators to decide the policy. Parliament must decide public policy, and the regulators’ role must be to implement it.
+
+We can get swift, smart laws and regulations through parliament, expertly and in real-time. But to do so we need to change our parliamentary process to meet this challenge. We could power up the Science, Innovation and Technology Committee (perhaps jointly with the Business and Trade Select Committee) with extra resources and, through primary legislation, give the select committees power, on behalf of parliament, to regulate.
+
+The statute would give the select committee broad power to regulate. Parliament would then, in the usual way, keep the select committee’s work under review. That way you’d get a committee of members of parliament with genuine expertise, and get parliament’s built-in authority to regulate at the pace that AI is developing.
+
+There are many precedents for parliament adopting new processes when we need to – and new processes for regulating AI is a classic case for change.
+
+A problem which the government has not recognised is the danger of AI being the domain of the “tech bro” culture, and bias and discrimination becoming embedded in data sets, thereby entrenching the discrimination that it is public policy to root out. Discrimination on grounds of sex, race, or social class is bad enough when you can clearly see it and challenge it. But hidden bias which is unchallengeable will be dreadful. It will potentially halt the progress we’ve made towards equality and even turn the clock back if it pollutes our data sets and is written into algorithms. Among many organisations in this space, the Open Data Institute (ODI) makes the case for a commitment to strong data infrastructure as a vital step towards tackling inequalities, biases, and discrimination.
+
+There’s already an invidious “tech bro” culture in AI. Research by the Fawcett Society earlier this year found that nearly half of men working in the sector thought that it wouldn’t benefit from a gender balance in the workforce, and one in five think women are less suited to jobs in it. This attitude, the research showed, deters women from staying in the sector and thereby robs it of the talent of half the population.
+
+We’ve all got a stake in the advance of AI. We all need a say, through parliament, in how it’s regulated – and women, as well as men, are needed to take it forward.
+
+Harriet Harman is Labour MP for Camberwell and Peckham

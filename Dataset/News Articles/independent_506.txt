@@ -1,0 +1,53 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Which is more annoying: a four-hour delay when you are flying out, or when you are returning?
+
+The former can be frustrating, and on a relatively quick trip erodes the time you can spend in your destination.
+
+But at least I had something to look forward to. Coming home, once you have checked in for your flight you just want the journey to end as soon as possible.
+
+From somewhere like Mexico’s Yucatan Peninsula, ideally you would take off at sunset after a fulfilling final day, arriving back early in the morning UK time after an eight-hour, 5,000-mile trip.
+
+But for reader Leon, that wasn’t what happened. “A week ago I arrived back from Cancun into Manchester,” he writes. “We were due to arrive at 5.55am but in fact landed at 9.46am.
+
+“By the time we got to the gate and opened the aircraft door it was 10.08am: they had trouble lining up the airbridge. So this put our delay at four hours and 13 minutes.
+
+“I have filled the form out with the airline and they have offered us compensation at £260 per person which is for delays under four hours.
+
+“The compensation they are paying out is based on the landing time and not, as I’ve read how delays are calculated, the time the aircraft doors open. Am I correct, and how do we pursue this? There’s a group of us on Facebook.”
+
+The apparently trivial matter of when precisely the door of an aircraft was first opened after arrival in Manchester means a difference of hundreds of pounds for Leon – and, for the airline, that trivial problem of lining up the airbridge could involve tens of thousands of pounds.
+
+Under air passengers’ rights rules – known as EC261 and transposed into British law after Brexit – delay compensation is triggered if you arrive three hours late at your destination and the airline is responsible.
+
+The amount depends on the length of your flight. Leon’s was clearly over the long-distance threshold of 3,500km (2,175 miles). Because of the bizarre way that European lawmakers created the rules (and judges interpreted them), the flight-delay compensation deal is this:
+
+Up to 2 hours and 59 minutes: zero.
+
+3 hours to 3 hours 59 minutes: £260
+
+4 hours and above: £520
+
+In other words, if the delay tips beyond four hours, the compensation doubles. The fact that Leon has been offered £260 shows that the airline takes responsibility. But is it enough?
+
+The official definition used to calculate a delay is not when the plane touched down, nor when it reached the gate at Manchester airport. As Leon points out, the critical moment is when the door was opened.
+
+Unless the airline can demonstrate that a door was open before 9.55am, then everyone on board is due the full £520 per person.
+
+You can see, therefore, why an airline might try it on: the total bill could easily top £100,000. With carriers so hard-pressed by the effects of the coronavirus pandemic, who wouldn’t seek to halve the damage?
+
+The Facebook consortium could demand documented evidence (for example, official logs) to support the “under four hours” assertion. If it is not forthcoming, the group could engage a lawyer. But this case also underlines just how crazy the rules are – and how badly they need to be made more sensible and equitable for both travellers and airlines.
+
+Agreed, that four-hour delay (plus or minus a few minutes) must have been frustrating. But it Is it really appropriate that the airline hands over more than most passengers paid for the flight in the first place – and that the difference between a three-hour and a four-hour delay should be worth £260?
+
+A three-hour delay for a middle-distance flight actually earns more (£350) than a long-haul trip, while on a short hop compensation shrinks to £220.
+
+Bureaucrats in Brussels, European parliamentarians (including British MEPs) and out-of-touch judges have combined to come up with a ludicrous law.
+
+Post-Brexit, the UK has compounded the madness by copying and pasting the flight-delay legislation – pausing only to convert the euro compensation amounts into sterling.
+
+A half-hearted consultation on domestic flights is under way, which will link the amount of compensation to the fare paid and reduce the burden on airlines.
+
+You might think cutting compensation for flight delays is anti-consumer. But the present system is a lottery that increases costs for airlines to the benefit of a few passengers. It’s time for a fair and measured way for airlines to atone for the delays they cause.

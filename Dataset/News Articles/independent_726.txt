@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Charles Leclerc has signed a new deal at Ferrari, keeping him with the Scuderia beyond the 2024 season.
+
+Monegasque driver Leclerc has been with Ferrari since 2019 and has claimed five victories with the team, though is without a win since July 2022.
+
+However, Ferrari have been keen to tie the 26-year-old down to fresh terms, with his old contract expiring at the end of the new season.
+
+That new extension has now been confirmed and although the length has not been publicised, various Italian media outlets state that it runs until 2029.
+
+"I’m very pleased to know that I will be wearing the Scuderia Ferrari race suit for several more seasons to come," Leclerc said.
+
+"This team is my second family ever since I joined the Ferrari driver academy in 2016 and we have achieved a lot together, fighting through thick and thin over the past five years.
+
+"However, I believe the best is yet to come and I can’t wait for this season to start, to make further progress and be competitive at every race.
+
+"My dream remains that of winning the World Championship with Ferrari and I’m sure that in the years ahead, we will enjoy great times together and make our fans happy."
+
+Charles Leclerc has signed a new deal with Ferrari (Tim Goode/PA) (PA Wire)
+
+Leclerc finished second in the drivers’ championship in 2022, though his title challenge to Max Verstappen fell away after winning two of the opening three races.
+
+The Monegasque has impressed the most in qualifying - claiming 23 pole positions in total - but has struggled on a Sunday converting pole to a race victory.
+
+Ferrari team principal Fred Vasseur added: “Charles’ bond to the Scuderia goes beyond that of just a driver and a team, as he has been part of the Ferrari family for eight years now.
+
+“His values and those of our team are intertwined and so it was natural for us to be in agreement on extending our collaboration.
+
+“We know him for his incessant desire to push himself to the limit and we appreciate his extraordinary abilities when it comes to fighting and overtaking in a race. We are determined to give Charles a winning car and I know that his determination and commitment are elements that can make the difference in helping us reach our goals.”
+
+Leclerc’s last win came in Austria in July 2022, while his team-mate Carlos Sainz won last year’s Singapore Grand Prix - the only non-Red Bull victory of the 2023 season.
+
+Sainz’s deal runs out at the end of this year, with negotiations believed to be ongoing regarding an extension.
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

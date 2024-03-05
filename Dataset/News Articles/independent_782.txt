@@ -1,0 +1,79 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+We make the best cars,” proclaimed a defiant Elon Musk at a business event last November. "Whether you hate me, like me, or are indifferent: do you want the best car, or do you not want the best car?”
+
+Budget permitting, it’s a question that tens of millions of people weigh up as they shop for a new vehicle. But as competition heats up in the electric vehicle (EV) market, there is increasing reason to doubt that the best electric car will be made by Tesla.
+
+“I can’t tell you how many people who, without question, without any consideration of an alternative, bought a Tesla a year ago – or five years ago in my case – who are [now] quite open the next time around to consider other brands,” Len Sherman, a former auto industry consultant who is now a professor at Columbia Business School, tells The Independent.
+
+Once unchallenged for the EV crown, Tesla now faces growing rivalry not only from specialist EV firms such as Rivian and Lucid Motors but traditional household names such as Toyota, General Motors, BMW, and Volkswagen. In 2024, for the first time ever, Tesla was overtaken in EV sales numbers by the Chinese electric giant BYD.
+
+At the same time, global demand for EVs has hit a speed bump as mainstream buyers remain sceptical of the technology and leery of high prices, leading many big auto companies to slash their investments.
+
+All of which raises the stakes for Tesla’s ongoing issues with the quality of its cars. Having rapidly built its own manufacturing and dealership system in the space of two decades, it remains dogged by reports of scratched bodywork, ill-fitting components and broken control systems.
+
+Nor are all these problems mere aesthetic niggles. The company, which did not respond to an interview request from The Independent, is under investigation by US regulators for a host of issues including alleged steering failures and “phantom braking”.
+
+Last June, a Washington Post investigation found that Tesla’s vaunted “autopilot” technology has been linked to 736 of the 807 US crashes involving driver assistance technologies since 2019
+
+Meanwhile, Musk’s control of Tesla is also under pressure after a Delaware court ruled that he cannot keep a corporate payout worth nearly $56bn (£44bn). In a scathing decision, judge Kathaleen McCormick said that Musk had used his influence over a pliant board of directors to effectively award himself an “unfair” level of compensation.
+
+Tesla remains a powerful company, and its share price has somewhat recovered from the rough 2022 that slashed its market valuation from more than $1 trillion to just under $384bn. But even its supporters are worried about the choppy seas ahead.
+
+“It [is] very hard to quantify where Tesla’s going to be in the next, let’s say, two years,” says Ross Gerber, a longtime Tesla shareholder who until recently put the company as the top pick in the investment fund he runs. “I could tell you a great story, and I can tell you a horrible story. I just don’t know which one I’m going to get.”
+
+Dom Giovanni is audibly exasperated as he pokes and prods at the nooks and crannies of a brand-new $120,000 Tesla Model S Plaid.
+
+Pulling rubber door seals free of their seating, and making the trunk lid wobble on its hinges with one finger, he finally exclaims: “It looks like toddlers put this together during recess!2
+
+Giovanni’s viral TikTok video back in 2022 exposed many non-Tesla drivers to the occasional growing pains of one of the world’s youngest car companies.
+
+Today, while many owners (and Musk himself) say that quality is improving, complaints about poorly put-together vehicles or glitchy electronics are still common on social media and owners’ forums – even for luxury models with high price tags.
+
+One owner of a second-hand 2021 Tesla Model X, who asked to remain anonymous lest they face blowback from Musk, tells The Independent how Tesla delayed repairing a misaligned axle for three months because it couldn’t get spare parts for a separate, less serious issue, sometimes cancelling appointments just a few days in advance.
+
+When she finally saw a technician, they failed to repair the problem, causing the front axle to become misaligned as well. Tesla then initially tried to wriggle out of paying for it, even though the vehicle was sold through a company-approved used car dealer and still under warranty.
+
+Annual surveys by the market intelligence firm JD Power have consistently shown Tesla cars as among the least reliable, with 257 problems for every hundred new vehicles compared to an industry average of 192. The company fares a little better with Consumer Reports, coming in 14th out of 30 with a reliability score below 50 per cent.
+
+To be fair, these figures are slightly better than those of other battery-powered cars. According to JD Power survey director Frank Hanley, EV drivers tend to report more problems, both because the cars often have more high-tech features that can go conspicuously wrong and because many people are not yet familiar with their particular quirks and drawbacks (such as consuming more power in cold weather).
+
+Nevertheless, Sherman says such issues are a “serious problem” for a company facing stiffer competition in a slower-growing market. “When I brought my [Tesla], it was a no-brainer; there was no alternative,” he says. “Overall I’m very happy with the product. But I also know about these little aggravations, and I sense as an owner that the company doesn’t really care about those things.”
+
+In fact, a Reuters investigation last December accused Tesla of systematically suppressing evidence of serious design flaws, while attempting to push the repair costs onto drivers. It even allegedly created a secret team to cancel thousands of repair appointments about faulty range estimates, in order to save money and relieve its inundated service infrastructure.
+
+“Any automaker will tell you that the last thing you want to play around with is the quality of your car,” says Gordon Johnson, chief executive of the market data firm GLJ Research and a longtime Tesla critic.
+
+He cites the case of Omar Awan, a Florida doctor who burned to death inside his crashed Tesla Model S in 2019. His wife has alleged that police were unable to rescue him because the car’s electronic doors refused to open, which Tesla denied.
+
+“I would never sit in a Tesla car, because more than likely it’s going to be okay, but I know it’s dangerous,” Johnson says.
+
+Tesla’s quarterly earnings call for the final three months of 2024 was, by all accounts, a disaster. Even Dan Ives, a Wall Street analyst well-known for his optimism about the company, called it a “trainwreck”.
+
+The biggest problem was declining operating profits, driven by drastic price cuts that Tesla had been forced to adopt in 2023 in order to keep shifting cars.
+
+That underscores the breadth of Tesla’s potential storms, which go far beyond build quality and safety. To Gerber, the real issue is that Tesla is reaching the limit of how many people it can reach without spending serious money on advertising – something that Musk has always resisted in favour of generating positive word of mouth from his loyal followers.
+
+“There’s still a lot of misperceptions about EVs among traditional car buyers,” argues Gerber. “And so what’s happened is Tesla’s run into a wall where they’re forced to lower prices to generate demand because they’re not advertising.”
+
+Sherman, meanwhile, fears that Musk is straying from his famous “master plan”, which aimed to prove the viability of EVs with an expensive, high-end car for early adopters before building down towards the mass market with progressively cheaper models.
+
+Instead, Sherman points out, the company’s long-awaited low-cost compact EV appears to have been “put on ice” while Musk concentrates on his flashy new Cybertruck and a super-fast reboot of its original Roadster sports car.
+
+Tesla boss Elon Musk introduces the newly unveiled all-electric battery-powered Tesla Cybertruck at Tesla Design Center in Hawthorne, California on 21 November 2019 (AFP/Getty)
+
+“He put the company’s growth trajectory on the back burner for many years. That’s gonna come back and haunt him,” says Sherman.
+
+Johnson, who believes Tesla’s share price will drop from around $190 today to only $23.50 by the end of the year, does not share Sherman’s admiration for Musk as a market-shifting innovator. For him, Tesla is the epitome of the emperor’s new clothes, a struggling car company inexplicably valued like a tech company thanks to hype and persiflage.
+
+But whatever your view of him, no one disputes that Tesla will probably stand or fall along with its volatile chief executive.
+
+“Musk is the only person on the planet who could have dragged the entire Earth into the EV market on his back,” says Sherman. “The trouble is, it’s now a mature company, it’s not just a crazy start-up ... you need a different set of parenting skills when you’re raising a teenager than when you’re raising a baby.”
+
+To Gerber, who briefly campaigned for a board seat last year in the hope of rebalancing the company away from Musk’s whims, Tesla is a “dictatorship” whose domination by one man makes it hard to rely on in future.
+
+That court judgement in Delaware, he argues, will open the company to any number of other lawsuits unless and until it makes its board meaningfully independent. Yet Musk himself is all but certain to resist that, leaving the company “stuck” with an inflexible leader.
+
+That is why Gerber’s fund has now sharply reduced its investment in Tesla. “We had to protect our clients, to make sure that it’s not going to make or break their retirement,” he says. “Once I have a clear view of which direction this is all going to go, I may either sell the rest of my stock – or buy more.”

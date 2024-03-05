@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa has postponed the launch date of its Artemis mission to put boots on the Moon to 2026 in order to give its commercial partners, including Elon Musk’s SpaceX, more time to develop their technology.
+
+The space agency announced this plan to push back the mission by around 12 months on Wednesday.
+
+“In order to safely carry out our upcoming #Artemis missions to the Moon with astronauts, we are now targeting September 2025 for Artemis II and September 2026 for Artemis III,” Nasa said in a post on X.
+
+Artemis II will take a four-person crew around the Moon without landing on it while Artemis III is expected to put humans back on the Moon for the first time since the 1970s.
+
+The Moon-landing mission was planned for 2025, but has now been pushed further into 2026.
+
+Nasa said the final mission of the programme – Artemis IV – remains on track for 2028.
+
+The Artemis programme involves Nasa collaborating with commercial partners including Mr Musk’s SpaceX, Amazon chief Jeff Bezos’ Blue Origin, as well as Boeing, Lockheed Martin, and Northrop Grumman.
+
+Artemis II will “test Nasa’s foundational human deep space exploration capabilities, the Space Launch System (SLS) rocket and Orion spacecraft, for the first time with astronauts and will pave the way for lunar surface missions, including landing the first woman and first person of colour on the moon,” Nasa said.
+
+The following Artemis III mission is even more complex, involving two astronauts who will launch on a SpaceX SLS rocket and travel to the moon on the Orion spacecraft, with the capsule then docking with an orbiting SpaceX Starship to bring them to the surface.
+
+Critically for this mission, SpaceX must also develop spacecraft with in-orbit refueling capabilities as the Starship rocket must refuel in space before picking up the crew.
+
+After delivering the astronauts to the Moon, Starship must then launch from the Moon’s surface and dock back with Orion.
+
+“We are returning to the Moon in a way we never have before, and the safety of our astronauts is NASA’s top priority as we prepare for future Artemis missions,” Nasa administrator Bill Nelson said in a statement.
+
+NASA, UAE partner on space station orbiting moon
+
+The missions would require critical environmental control and life support systems to look after astronauts.
+
+Nasa said it is testing components to keep the crew safe and ensure mission tests uncover issues that require additional time to resolve.
+
+“Teams are troubleshooting a battery issue and addressing challenges with a circuitry component responsible for air ventilation and temperature control,” the American agency said.
+
+“As each crewed Artemis mission increases complexity and adds flight tests for new systems, the adjusted schedule will give the providers developing new capabilities – SpaceX for the human landing system and Axiom Space for the next-generation spacesuits – additional time for testing and any refinements ahead of the mission,” it added.
+
+Artemis III will also need new special spacesuits for whose development Nasa selected Axiom Space in 2022 at a contract value of $228.5m.
+
+Meanwhile, adding to the delay, Nasa is also investigating issues with the space capsule Orion’s heat shield, its life support system, and abort system.
+
+“Crew safety is and will remain our number one priority,” Amit Kshatriya, deputy associate administrator of Nasa’s Exploration Systems Development, said.

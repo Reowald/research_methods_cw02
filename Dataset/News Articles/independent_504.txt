@@ -1,0 +1,67 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+What should be a summer of joy is looking more like a summer of hell for some travellers, as large-scale cancellations of flights continue – with everything from strikes to Covid-19 jeopardising further trips.
+
+A fresh wave of cancellations expected to be made this for the remainder of the summer. So how confident can people with holiday bookings be about their plans going ahead?
+
+Where were the big problems this weekend – and what were the causes?
+
+In sheer numbers of flights grounded, London Heathrow was worst affected – with British Airways cancelling well over 200 flights in advance due to staff shortage. Virgin Atlantic’s first arrival from New York was grounded due to cancellations stipulated by Heathrow airport last Thursday.
+
+Problems increased on Saturday afternoon when the fuelling system failed at Heathrow. In addition, Covid intervened and a number of Lufthansa flights to and from Germany, and Aer Lingus flights to Ireland, were cancelled due to crew catching coronavirus.
+
+At Gatwick, easyJet, Wizz Air and British Airways once again cancelled many flights because of a lack of resources, with a significant number at short notice – and some due to strikes by easyJet cabin crew based in Spain.
+
+Similar problems are continuing this week, with further strikes threatened by passenger service agents working for British Airways at Heathrow and by pilots on the Scandinavian airline SAS.
+
+In addition, there were the usual technical problems such as the Belfast-Liverpool round trip on easyJet on Sunday night.
+
+Are more cancellations expected this week?
+
+One reason for the many cancellations is that some airlines have overpromised the schedules they have the resources to operate. They did this partly to preserve slots – the precious permissions to land and take off – at key airports.
+
+They are incentivised to do so by the “use it or lose it” policy which means they must use the slots at least 70 per cent of the time this summer.
+
+On 21 June the UK government announced it was granting a “slot amnesty” meaning carriers can cancel some of the flights for which they have already started selling tickets, knowing that the permits will be preserved for next summer. They have until Friday 8 July to finalise their plans – and a small proportion of passengers will find their flights axed.
+
+Is my holiday likely to be affected?
+
+Statistically, that is extremely unlikely. Ryanair, Jet2 and Tui say they have no plans to make pre-emptive cancellations.
+
+British Airways and easyJet will not say when they might ground further flights for the summer, but affected passengers are likely to be told this week. The slots must be handed back by Friday 8 July – with at least two weeks’ notice given. That means the first affected weekend could be 23-24 July.
+
+Which flights are likely to be affected by cancellations?
+
+BA and easyJet are grounding flights mainly on routes where they have multiple daily frequencies – such as Alicante, Amsterdam, Malaga, Nice and Faro. The idea is that passengers whose flights are cancelled can be accommodated on the airline’s flights a few hours before or after.
+
+Airlines will also be keen to preserve slots at foreign airports, too, which could otherwise be lost.
+
+What are my rights?
+
+You could take a refund, but that is unlikely to be the ideal solution for people who have flights booked.
+
+Under European air passengers’ rights rules, any passenger whose flight is cancelled can insist on being rebooked on the same day if a seat is available, even if it requires the airline that grounds the original departure to pay for a ticket on a rival carrier. Assuming two weeks’ warning is provided, no cash compensation is payable.
+
+Surely everyone’s a winner if there’s less on-the-day flight chaos?
+
+There are many losers, from the airport retailers who have fewer potential customers to serve to the tourist industries in destination countries. The passenger, too, is poorly served when cancellations are made – because the supply of seats means fares are higher and availability is poorer.
+
+Will any airlines move in?
+
+That was the government’s stated hope. The Department for Transport (DfT) said: “Slots that are handed back would be available for other airlines to use in the current season before being returned to the airlines that normally own them in the next season.” Realistically, though, the only operators likely to benefit are cargo carriers who can act fairly nimbly. No airline is likely to start marketing flights at a few weeks’ notice – and, by September, appetite for slots will have shrunk.
+
+Where does blame lie for the chaos?
+
+While British Airways and easyJet have questions to answer about whether they have behaved anti-competitively by sitting on slots, the underlying cause is over-optimistic assumptions of the aviation industry combined with an unprecedented appetite for travel.
+
+There is staff shortage across the many highly specialised roles in aviation – brought about by factors including the extreme travel restrictions imposed during the coronavirus pandemic and the shortage of labour partly precipitated by Brexit.
+
+To get you and your baggage safely to your destination requires syncronisation at check-in, the security search, the boarding gate, on the apron (baggage handlers, refuellers, dispatchers), air-traffic control and on board the plane: pilots and cabin crew.
+
+Everyone is working at full stretch, with no resilience to cope with the usual summer problems of storms, strikes and systems failures – let alone the high levels of Covid infections that are causing cancellations on Lufthansa and Aer Lingus.
+
+When will it end?
+
+I predict the key date for a return to calm is Monday 5 September, when demand will collapse as millions resume work or school.

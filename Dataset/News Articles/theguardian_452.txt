@@ -1,0 +1,43 @@
+Today’s problems come from Axiom Maths, a charity that that takes high-attaining primary school children and provides them with maths enrichment during secondary school.
+
+One of Axiom’s main activities is to organise ‘maths circles’, in which small groups of pupils get together to tackle fun problems. Such as the ones below, which are aimed at children aged 11/12, and form the basis for further explorations.
+
+1. Backwards multiplication
+
+What four-digit number reverses itself when multiplied by 4? As in, what are the digits a, b, c and d such that the number abcd x 4 = dcba?
+
+(In this problem, the letters a, b, c and d all stand for different digits.)
+
+2. Really secret Santa
+
+A group of nine secret agents: 001, 002, 003, 004, 005, 006, 007, 008 and 009 have organised a Secret Santa. The instructions are coded, to keep the donors secret.
+
+Agent 001 gives a present to the agent who gives a present to agent 002
+
+Agent 002 gives a present to the agent who gives a present to agent 003
+
+Agent 003 gives a present to the agent who gives a present to agent 004
+
+and so on, until
+
+Agent 009 gives a present to the agent who gives a present to agent 001
+
+Which agent will agent 007 get her present from?
+
+3. Trapezium, or trap-difficultum?
+
+Here’s a trapezium, with two parallel horizontal sides. Where would you put a vertical line in order to divide the shape into two parts of equal area?
+
+I’ll be back with the solutions at 5pm UK later today. Meanwhile, NO SPOILERS. Please discuss your favourite quadrilaterals. Trapezia are not the only fruit.
+
+UPDATE: Read the solutions here.
+
+Often the discussion around maths education centres around low achievers. Axiom Maths is designed for high achievers. It wants to address the problem that children who do well at primary school but are from low income households often do not live up to their potential. According to the charity, of the children who aged 11 are on free school meals and are top maths performers, half of them will no longer be top performers by the time they are 16.
+
+Axiom Maths partners with state schools to identify children who “have a head and a heart for maths” and then sticks with them for five years, providing problems, social groups and more.
+
+If you are a parent or a school who is interested in getting involved for September 2024, you can fill in the Axiom Maths form here.
+
+Thanks to Axiom Maths for today’s puzzles.
+
+I’ve been setting a puzzle here on alternate Mondays since 2015. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.

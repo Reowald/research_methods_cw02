@@ -1,0 +1,45 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average monthly rent being asked outside London reached a record £1,280 in the final quarter of 2023, according to a property website.
+
+Rightmove, which released the index covering Britain, said agents are receiving 11 inquiries typically per available rental property.
+
+But it added that 2024 is expected to be a year when the pace of rental growth slows down.
+
+A 0.2% quarterly increase in asking rents in the last three months of 2023 was the smallest jump since 2019, indicating that the pace of rent rises is slowing.
+
+There have also been signs that more tenants are hitting the limits of what they can pay, with nearly a quarter (23%) of rental properties needing a reduction in advertised rent, compared with 16% a year earlier.
+
+Advertised rents in the final quarter of 2023 were, on average, 9.2% higher than a year earlier.
+
+Despite being a significant increase, Rightmove said it was the lowest annual growth in rents seen since 2021.
+
+In London, asking rents also hit a record high, at £2,631 per month on average. This was a 0.2% quarterly increase, and 6.1% higher than a year earlier.
+
+Rightmove said it is the first time that annual growth in asking rents in London has been in single digits since 2021.
+
+The property website predicts that rents will be 5% higher outside London by the end of 2024, and 3% up in London.
+
+We can’t keep seeing double-digit rent rises every year as tenant affordability simply cannot keep up Tim Bannister, Rightmove
+
+One of the main contributors to the slowing of rent rises, and the anticipation of a further slowdown in 2024, is an improvement in the balance of supply and demand in the rental market, the website said.
+
+But it added that the rental market is still very busy compared with pre-coronavirus pandemic levels.
+
+Rightmove’s director of property science, Tim Bannister, said: “The trend of rent growth gradually slowing continues, with an improvement in the supply and demand of rental properties having a big contribution to that.
+
+“We can’t keep seeing double-digit rent rises every year as tenant affordability simply cannot keep up, and 2024 is the year we think there will be a much smaller increase in advertised rents of 5% outside of London, and 3% in the capital.”
+
+Rightmove’s report also quoted agents’ views.
+
+Hayley Brinn, director at the Total Letting Service, said: “The market is still really busy, and the high number of applicants per property is being exacerbated by some landlords leaving the market.
+
+“Prices appear to be levelling out now as more choice becomes available, with tenants becoming more price-sensitive, or just reaching the maximum of what they can afford to pay. The prices of larger properties in particular are slowing down, unless the landlord accepts an offer.
+
+“Some tenants are reluctant to move unless they have no choice, due to the risk of being charged higher rents elsewhere, while other tenants who may want to move are stuck due to their current rent being below market value, and the price gap to move to a larger house is out of their reach.
+
+“Rent prices slowing this year would benefit these tenants wanting to move.”
+
+Peter Lee, director at Redbrik in Sheffield, said: “It’s important that landlords are up to date on the latest market trends and activity in their area so that they can price accurately, and secure the best tenant for the long term, and minimise void periods.”

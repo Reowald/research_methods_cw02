@@ -1,0 +1,69 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average price tag on a home jumped by more than £3,000 month-on-month in February, according to a property website.
+
+Across Britain, the average new seller asking price increased by 0.9% or £3,091 this month to £362,839, Rightmove said.
+
+The website said the increase is in line with the seasonal rise it would expect in February.
+
+In signs of growing market momentum, the average asking price is also up by 0.1% compared with a year earlier, following a period of annual falls in every month since August 2023.
+
+The number of sales agreed in the first six weeks of this year is also 16% higher than in the same period last year, Rightmove said.
+
+Sellers who are serious about moving this year would be well-advised to ride this wave of increased buyer confidence with an attractive asking price Tim Bannister, Rightmove
+
+Tim Bannister, Rightmove’s director of property science, said: “Mortgage rates have fallen considerably from their peak and are now remaining broadly stable after the uncertainty of late 2022 and 2023.
+
+“Momentum to move in 2024 is continuing to build, but prospective sellers mustn’t get carried away. Buyers now have more choice of property for sale and many are still very price-sensitive, with mortgage rates remaining elevated. Sellers who are serious about moving this year would be well advised to ride this wave of increased buyer confidence with an attractive asking price before any pre-election jitters or unexpected events dampen the momentum.”
+
+Rightmove said properties that are over-priced are being left on the shelf by price-sensitive buyers. The website’s analysis indicates that sellers who price correctly initially are far more likely to find a buyer and sell their property faster.
+
+The report also quoted the views of estate agents.
+
+Michelle Niziol, chief executive at IMS Property Group in Oxfordshire said: “It’s been a positive start to the year, particularly when compared to the slower pace of this time last year.
+
+“There’s a sense of optimism, helped hugely by mortgage rates dropping in recent months, which now seem to have settled and remained stable, giving prospective buyers assurance and confidence. With lower mortgage rates on offer and more properties for sale, now is a good opportunity for any would-be buyers out there.
+
+“Despite the affordability constraints, we are still seeing a good level of activity in the first-time buyer market, which is encouraging the next time buyers to review their situation and supporting movement further up the property ladder. There is a good audience of buyers out there for properties priced well, also providing opportunities for those looking to sell.”
+
+Kate Eales, deputy head of residential at Strutt & Parker said: “Activity is trending upwards compared to this time last year, which is encouraging, but the market remains price sensitive. Motivated sellers need to be realistic with listing prices and take advice on how to effectively position their sale in the current market.”
+
+Jimmy Waight, head of sales at John D Wood & Co in London said: “We are witnessing a good start to the year in London’s property market, with buyers acting earlier than usual. The surge in activity can be attributed to the decreasing and now stabilising mortgage rates, which have prompted many individuals who postponed their moves last year amid uncertainty to now re-emerge.”
+
+Last summer looks like it may have been the high watermark for rental growth Aneisha Beveridge, Hamptons
+
+Rightmove’s report was released as a rental index from property firm Hamptons said that average rents on newly-let properties across Britain rose by 8.3% annually in January to £1,324 per month.
+
+Hamptons said it marked the slowest pace of growth for 13 months and the first time in six months that growth was in single digits.
+
+In January, 59% of landlords re-letting a home achieved a higher rent than they had previously, compared with 81% in January 2022 and 79% in January 2023, Hamptons added.
+
+The bulk of the rent increases during 2022 and 2023 were driven by landlords of smaller homes, the report said. This was a reflection of higher demand for cheaper properties in the cost-of-living squeeze.
+
+Aneisha Beveridge, head of research at Hamptons, said: “Last summer looks like it may have been the high watermark for rental growth.
+
+“Since then, fewer landlords have been putting up the rent. Where they have, in cash terms, monthly increases have tended to be in double rather than triple figures.”
+
+At the end of January, there were 34% more homes on the market to rent across Britain than at the same time last year. This is primarily a reflection of the increased time it takes to let a property, rather than a big increase in the number of new rental homes coming onto the market, the report said.
+
+Hamptons’ index uses data from the Countrywide Group to track changes to the cost of renting. The index is based on the 90,000 homes let and managed by Countrywide each year.
+
+Here are average monthly rents in January and the annual increase in percentage and cash terms, according to Hamptons:
+
+London, £2,315, 8.1%, £174
+
+East of England, £1,292, 13.1%, £149
+
+South East, £1,407, 7.7%, £101
+
+South West, £1,156, 5.3%, £59
+
+Midlands, £950, 10.0%, £86
+
+North of England, £885, 8.2%, £67
+
+Wales, £801, 4.5%, £34
+
+Scotland, £916, 9.9%, £82

@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Massachusetts is seeking to become the first state to ban people from wearing Apple Vision Pro headsets while driving a car.
+
+The move follows a spate of videos appearing to show drivers wearing the mixed reality headsets behind the wheel.
+
+“They’re all over the internet, these idiots driving Teslas with their hands up in the air,” state representative William Straus told The Boston Globe, who first reported the story.
+
+Videos of people wearing the $3,499 headset while driving have received tens of millions of views on X, formerly Twitter, prompting authorities to warn against the trend.
+
+A video of a man in a Tesla Cyber Truck wearing a Vision Pro was shared by US Transport Secretary Pete Buttigieg, who urged people not to wear them.
+
+“Reminder – ALL advanced driver assistance systems available today require the human driver to be in control and fully engaged in the driving task at all times,” Mr Buttigieg wrote on X.
+
+David Reich, spokesperson for the National Road Safety Foundation, added: “You can’t be doing that while you are driving.”
+
+Apple Vision Pro users have also shared videos of themselves wearing the headset in other inappropriate scenarios, with popular YouTuber Casey Neistat filming himself wearing it while skateboarding down a busy New York street.
+
+Apple has also warned owners of the Vision Pro, which is currently only available in the US, to keep safety in mind while using it.
+
+“Never use Apple Vision Pro while operating a moving vehicle, bicycle, heavy machinery, or in any other situations requiring attention to safety,” the gadget’s user guide notes.
+
+“Always remain aware of your environment and body posture during use. Apple Vision Pro is designed for use in controlled areas that are safe, on a level surface. Do not use it around stairs, balconies, railings, glass, mirrors, sharp objects, sources of excessive heat, windows, or other hazards.”

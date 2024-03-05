@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+SpaceX has launched the first satellites for its Starlink phone service that will allow smartphones to connect to the space internet network when out of range of terrestrial cell towers.
+
+The Direct to Cell service will beam signals from space directly to phones in order to provide voice, text and data connectivity when users are in “dead zones”.
+
+Partnerships with phone carriers in the US mean that regular 4G LTE smartphones will be able to connect to the new Starlink network without any additional hardware or software installed.
+
+“Starlink satellites with Direct to Cell capabilities enable ubiquitous access to texting, calling, and browsing wherever you may be on land, lakes, or coastal waters,” Starlink’s website states.
+
+“Direct to Cell works with existing LTE phones wherever you can see the sky. No changes to hardware, firmware, or special apps are required, providing seamless access to text, voice, and data.”
+
+The service will only support texts when it first rolls out in 2024, with voice calls and data capabilities coming in 2025.
+
+Six next-generation Starlink satellites launched aboard a Falcon 9 rocket from the Vandenberg Space Force Base in California, joining more than 5,000 older-generation Starlink satellites already in low-Earth orbit.
+
+Starlink satellites with Direct to Cell capability pictured before launch (SpaceX)
+
+Among the network providers lining up to offer the satellite phone service are T-Mobile in the US, KDDI in Japan, Optus in Australia, One NZ in New Zealand, Rogers in Canada and Salt in Switzerland.
+
+“Today is another step forward in keeping our customers connected even in the most remote locations for added peace of mind when they need it most,” T-Mobile executive Mike Katz said in a statement shared with The Independent.
+
+“Today’s launch is a pivotal moment for this groundbreaking alliance with SpaceX and our global partners around the world, as we work to make dead zones a thing of the past.”
+
+In September, SpaceX revealed that its existing Starlink network, which requires ground-based satellite dish receivers, has more than 2 million subscribers around the world.
+
+SpaceX boss Elon Musk announced that the satellite internet business had achieved “breakeven cash flow” for the first time. The tech billionaire has previously stated his intention of using the profits generated from Starlink to fund his goal of establishing a permanent human colony on Mars by 2050.

@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Since the events started in 2011, Nintendo Direct live-streams have become the gaming giant’s favourite way to announce new titles and show off gameplay for its big upcoming releases.
+
+It’s also a great opportunity for the company to showcase some of its smaller publishers and the games they’re working on.
+
+We’re particularly fond of the format as it gives us a much better idea of what Nintendo is willing to share more publicly and narrows down what we can expect in future announcements. And now, the next one is set to focus on the upcoming competitive shooter, Splatoon 3.
+
+We can expect to see around 30 minutes of brand new footage going into greater detail around the game’s plot, new characters and more. There might even be some more information on the limited edition Splatoon 3-themed Switch OLED model.
+
+Nintendo also makes a habit of releasing some games and demos on the e-shop immediately after the event has ended, so we’ll get to see if that’s the case for this highly anticipated upcoming title.
+
+To find out how to watch the event and when it starts, keep reading the rest of the article below.
+
+How to watch the Nintendo Direct August 2022 event
+
+Nintendo confirmed that the next Direct event would focus entirely on Splatoon 3 and would air on 10 August 2022 at 3pm CEST. If you want to watch it in the UK, that means it is expected to start at 2pm BST. The live-stream page can be found on Nintendo’s YouTube channel.
+
+You can also watch the live-stream using the video above. Make sure that you click the bell icon to set a reminder for when the event starts so you don’t miss it.
+
+Splatoon 3 has already been confirmed for a 9 September 2022 release date, and, much to the joy of Nintendo Switch fans, it’s expected to come with new game modes, weapons, fashion accessories and more. Returning game modes such as the co-operative “Salmon Run” will also be featured, as well as a story mode starring Agent 3 titled “Return of the Mammalians”.
+
+Pre-orders for Splatoon 3 are available now, find out where you can get the best deals using our pre-order guide.
+
+Want to get the new Switch OLED? Find out where to buy the limited edition Splatoon 3 version of the console.

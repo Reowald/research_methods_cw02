@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Hideo Kojima, the legendary games designer, is considering legal action after being falsely accused of being an assassin.
+
+In recent days, claims have spread across the internet that linked Mr Kojima with the assassination of Shinzo Abe, the former Japanese prime minister who was shot in public last week.
+
+The claims appear to have begun with racist trolls, who posted them apparently knowing them to be false. But they quickly took off across the internet, with some seemingly sharing them believing them to be true.
+
+The posts appear to have started on controversial forum 4chan. There, users shared pictures of Mr Kojima and labelled him as a “left-wing extremist” and suggested he had a criminal record, in what appeared to be an intentionally false claim.
+
+However, they were then shared by many others including French politician Damien Rieu. Mr Rieu later said on Twitter that he had “naively” mistaken a joke post for real information, and apologised to Mr Kojima and to fans of his games.
+
+The claims were also broadcast on European news television. Many of those original reports have since been deleted.
+
+Mr Kojima now says he is considering legal action against some of those who made the claims. He made the announcement through his production company, Kojima Productions.
+
+“Kojima Productions strongly condemns the spread of fake news and rumors that convey false information,” the production company said in a tweet. “We do not tolerate such libel and will consider taking legal action in some cases.”
+
+Mr Kojima is famous for the creation of a number of games, including the Metal Gear Solid series. In 2015, he separated from Konami, where he had done much of his work, and founded Kojima Productions as an independent company.

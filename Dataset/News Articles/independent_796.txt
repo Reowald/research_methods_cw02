@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The reelection campaign for US President Joe Biden has joined TikTok, despite the White House banning government agencies from using the app.
+
+The first video on the platform, which is owned by Chinese tech giant ByteDance, appeared on Sunday during the NFL’s Super Bowl.
+
+By Monday morning, the @bidenhq account had gained more than 30,000 followers, with the video receiving 3.4 million views and 356,000 likes.
+
+ByteDance is under review in the US for potential national security concerns, with some lawmakers calling for an outright ban over fears that the Chinese government could access people’s data or use it as a tool for propaganda.
+
+Last year, the Biden administration ordered government agencies to remove TikTok from federal government-owned phones and devices.
+
+TikTok has maintained that it would not share US user data with the Chinese government and has taken substantial measures to protect the privacy of its users. The company did not immediately respond to a request for comment on Sunday.
+
+Biden campaign advisors said in a statement it would “continue meeting voters where they are,” including on other social media apps like Meta Platform’s Instagram and Truth Social, which is owned by former US President Donald Trump.
+
+The campaign is taking “advanced safety precautions” for its devices and its presence on TikTok was separate from the app’s ongoing security review, a campaign official added.
+
+Mr Trump, the Republican frontrunner in the presidential race, does not have an official account on TikTok.
+
+The video posted by the Biden-Harris HQ TikTok account made light of a fringe conservative conspiracy theory that the Super Bowl was rigged in favour of the Chiefs, in order for pop superstar Taylor Swift, who is dating Chiefs tight end Travis Kelce, to announce an endorsement of Biden.
+
+Amid rapid-fire questions asking the president to choose from one of two options, Biden was asked if he was “deviously plotting to rig the season so the Chiefs would win the Super Bowl” or whether the Chiefs were simply just a good football team.
+
+“I’d get in trouble if I told you,” Mr Biden joked.
+
+The typically young demographic of TikTok users means political campaigns around the world are increasingly turning it to target younger voters.
+
+Roughly a third of 18-29 year olds in the US use the app to get news, according to data published by Pew Research in late 2023.
+
+Additional reporting from agencies.

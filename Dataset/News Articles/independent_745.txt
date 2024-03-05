@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mercedes will continue to provide the engines for Williams F1 team until at least 2030, taking the agreement beyond 15 years and into the next power unit regulations.
+
+Williams, now led by former Mercedes strategist and Toto Wolff’s former right-hand man James Vowles, have been powered by Mercedes-AMG since 2014.
+
+While Mercedes won eight constructors’ titles on the bounce from 2014-2021, Williams have struggled towards the back of the pack since 2017 though did enjoy a resurgence last year to finish seventh overall.
+
+“Today’s news highlights the strength of the Mercedes-Benz offering in F1 and importantly not only validates, but reinforces, our overall motorsport strategy,” said Mercedes F1 CEO Wolff.
+
+“Since 2014, we have continued to build and develop our relationship with Williams. As the team continues to put the foundations in place to challenge at the front of the grid, we look forward to supporting them with our power unit supply."
+
+It is the continuation of a strong partnership between the two teams. Mercedes drivers past and present, such as Nico Rosberg, Valtteri Bottas and George Russell, have started their F1 careers at Williams before advancing to one of the sport’s modern heavyweights in Mercedes.
+
+A press release announced that the development of the new power unit, amidst new regulations in 2026, has already begun at Mercedes’ performance powertrains HQ in Brixworth.
+
+Mercedes and Williams have extended their power-unit partnership until 2030 (Getty Images)
+
+Williams team principal Vowles added: "We have enjoyed a long-term partnership with Mercedes-Benz, and we are thrilled to extend this collaboration into the next era of Formula 1.
+
+“The expertise, support, and technology that Mercedes brings to the table align perfectly with our team’s aspirations in the medium and long term.
+
+“This long-term agreement with Mercedes is a positive step and forms part of our strategic objectives for the future, whilst we will still retain our design and manufacturing expertise and capabilities in-house."
+
+Mercedes will go racing this year with Lewis Hamilton and Russell as team-mates for the third year running, while Alex Albon leads Williams’ line-up alongside Logan Sargeant, who was retained by Vowles despite scoring just one point in his rookie season last year.
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

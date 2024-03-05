@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Max Verstappen says the timing of Lewis Hamilton’s 2025 move to Ferrari is a “bit awkward” but insists he was “not surprised” by the Mercedes driver changing teams.
+
+Seven-time world champion Hamilton shocked the world of Formula 1 a fortnight ago with the news that he will leave Mercedes at the end of the 2024 season following 12 years and six titles with the Silver Arrows.
+
+Hamilton, 39, will join Ferrari next year and team up with Charles Leclerc, leaving Carlos Sainz without a seat currently for 2025.
+
+Verstappen, who came out on top in the fierce and memorable 2021 title battle against Hamilton, spoke to the media at Red Bull’s 2024 F1 car launch on Thursday and commented on the morale in the team amid the ongoing probe into Christian Horner’s conduct.
+
+Yet on Hamilton’s impending move to Ferrari, Verstappen said: “I think at the end of the day, seeing him go to Ferrari is not a surprise. If that’s your goal as a kid or your dream, then you go right.
+
+“The only thing for me was I think that it was a little bit leaked of course and then they had to announce it. Because to announce something that big that early in the season – for sure for the rest of the year [it] is a bit awkward even though you have had a lot of success together as a team, you can’t be included in everything anymore.
+
+“But him going to Ferrari? It’s not shocking.”
+
+Verstappen added that, with a whole 24-race season to come, the move may make things “a bit weird” at Mercedes as Toto Wolff looks to the future.
+
+“For sure he [Lewis] has a great relationship with everyone [at Mercedes] and Toto,” Verstappen said. “But Toto knows and Toto will tell him at some point ‘we’ve had a lot of success, but you can’t be part of meetings anymore’.
+
+“That’s normal in F1 but it’s probably a bit weird. But you are professional enough to deal with that.
+
+Max Verstappen insists he was ‘not shocked’ by Lewis Hamilton’s move to Ferrari (Getty Images)
+
+“At the end of the day, I think you are professional enough to just deal with what you have. It’s not like they are suddenly enemies or whatever, he has achieved so many great things at that whole team, they’re still behind him, but after a point you know that you can’t share certain stuff.
+
+“But once he’s sitting in the car, they will still go flat out for him to try and win races as well.”
+
+Verstappen also dismissed the notion he could join Ferrari in the near future, reiterating his commitment to Red Bull. The three-time world champion has a deal until 2028 with the Milton Keynes-based team.
+
+“My dream is to win races. I have a lot of respect for the brand Ferrari and of course I hope to see a lot of different teams competing for wins.
+
+“But at the moment I’m very happy where I’m at so I don’t see myself leaving at the moment.”
+
+Verstappen will be the favourite when the new F1 season begins with the Bahrain Grand Prix on 2 March.

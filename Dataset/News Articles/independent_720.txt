@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Andretti have confirmed work has already started on their F1 car and hires have been made from top-tier teams – even though their entry into the sport is yet to be confirmed.
+
+The American team – owned by Michael Andretti, the son of 1978 F1 world champion Mario – are a famous name in IndyCar and Formula E but want to become Formula 1’s 11th team in the near future.
+
+While their extensive application to join F1 was approved by the sport’s governing body the FIA last year, the matter is now in the hands of Formula One Management (FOM) to consider on a commercial basis.
+
+The reception from the current 10 teams is said to be mixed. While McLaren boss Zak Brown has spoken of his support for Andretti’s inclusion, Mercedes chief Toto Wolf has been vocally opposed to their potential entry.
+
+Andretti confirmed a partnership with General Motors at the start of 2023, with the American automotive and motorsport giants joining forces and GM represented by the Cadillac brand. Thus, the Andretti Cadillac team would be formed.
+
+Andretti also detailed at the start of last year that the team’s intention is to compete with at least one American driver. Colton Herta, one of Andretti’s IndyCar drivers who missed out on an F1 seat due to not having the requisite superlicence points, would be the current frontrunner.
+
+Despite their bid to join the sport currently being discussed and analysed, work has already begun on a car model in the wind tunnel, as reported by The Athletic. A satellite base has been set up at Silverstone, while 120 people are currently working on their F1 operation.
+
+“It’s a team that wants to do it properly and wants to win,” said newly-appointed F1 technical director Nick Chester.
+
+“You don’t want to be anywhere that doesn’t have that ethos. As I started talking before I joined, the resource behind it, the effort that was going to go behind it to make it win, just made it very, very attractive.
+
+Michael Andretti is leading the charge as his team target an entry into F1 (AP)
+
+“We’ve had people joining from Red Bull, Ferrari, Mercedes, McLaren. They all wanted a new challenge. It’s that real potential to shape departments which is very attractive.”
+
+Andretti are targeting an entry into the sport as early as next year though 2026 – when new regulations come into force – could be more realistic.
+
+“Time is always of the essence in F1,” Michael Andretti, the team’s CEO, said.
+
+“We’ve been working as fast as we possibly can to ensure we have as competitive a car and as strong a team as possible when we do take our place on the grid.
+
+“As Mohammed (Ben Sulayem, FIA president) has said a number of times, the benefits we will bring to the sport and the championship are so obvious,” said Andretti.
+
+“I can’t imagine anyone would want to try to stop us, and deprive racing fans of the opportunity to see a genuine American works team going head-to-head with the legendary names currently competing in F1.”

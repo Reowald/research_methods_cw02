@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa has released a treasure trove of images of over a dozen nearby galaxies taken by the James Webb Space Telescope, revealing the structure and formation of these cosmic entities in “mind-blowing” new detail.
+
+The new set of images reveals stars, gas, and cosmic dust that make up 19 nearby galaxies in exquisite detail that may help researchers uncover the origins of these intricate structures.
+
+Previously, astronomers have imaged such spiral galaxies, appearing face-on from Earth, using space- and ground-based telescopes in a range of wavelengths from radio to ultraviolet light.
+
+Now, scientists have obtained the highest-resolution images ever taken of these galaxies in near- and mid-infrared wavelengths using the Webb telescope.
+
+“Webb’s new images are extraordinary. They’re mind-blowing even for researchers who have studied these same galaxies for decades,” Janice Lee, a project scientist at the Space Telescope Science Institute in Baltimore, said.
+
+It’s More Likely Than Ever that Perseverance Has Already Found Life on the Red Planet
+
+Bubble-like and filament structures part of the galaxy are resolved down to the smallest scales ever observed in the new images, telling a story about the star formation cycle, researchers say.
+
+“I feel like our team lives in a constant state of being overwhelmed – in a positive way – by the amount of detail in these images,” Thomas Williams, a postdoctoral researcher at the University of Oxford in the UK, said.
+
+Images taken by Webb’s Near-Infrared Camera (NIRCam) have captured millions of stars part of the galaxies’ spiral arms in exquisite detail, sparkling in blue tones.
+
+Some of the stars can be seen spread throughout the spiral arms, while others are clumped more tightly together in star clusters.
+
+Image of face-on spiral galaxy, NGC 628 as taken by Webb telescope (Nasa)
+
+Data from the telescope’s Mid-Infrared Instrument (MIRI) revealed glowing dust in the space around and between stars, and also showed stars that haven’t yet fully formed.
+
+“These are where we can find the newest, most massive stars in the galaxies,” Erik Rosolowsky, a professor of physics at the University of Alberta in Canada, said.
+
+These cosmic structures could be particularly seen in the image of the barred spiral galaxy NGC 1300, which is located about 69 million light-years away from Earth in the constellation Eridanus.
+
+Images of 19 face-on spiral galaxies taken by the James Webb Space Telescope (Nasa)
+
+Images captured by the most powerful telescope launched to space also show large, spherical shells in the gas and dust, which researchers believe were likely created by stars exploding and carving out giant holes in space.
+
+Studying the new images could provide key insights into how galaxies build, maintain, and shut off star formation, scientists say.
+
+Researchers also suspect there is a sign of a yet-undiscovered active supermassive black hole lurking in the images.
+
+“Stars can live for billions or trillions of years. By precisely cataloging all types of stars, we can build a more reliable, holistic view of their life cycles,” Adam Leroy, a professor of astronomy at the Ohio State University said.

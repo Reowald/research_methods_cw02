@@ -1,0 +1,45 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ireland forwards coach Paul O’Connell believes being without star full-back Hugo Keenan against Wales could be a blessing in disguise.
+
+Keenan suffered a knee issue during Sunday’s 36-0 Guinness Six Nations win over Italy and did not take part in physical training on Thursday.
+
+The influential 27-year-old, who is yet to be ruled out of the round-three clash with Warren Gatland’s men on February 24 in Dublin, has been virtually ever-present in the number 15 jersey during the past three years.
+
+Aside from Keenan, only the injured Jimmy O’Brien and out of favour Michael Lowry have started at full-back for Ireland since the end of 2020.
+
+“He didn’t train today but he hasn’t been ruled out for the Welsh game yet,” O’Connell said of Keenan.
+
+“He’s progressing with his rehabilitation. He was there at training today and he took part in all the organisational bits.
+
+“He plays a big role. He’s obviously injury-free for a very long time, he’s an excellent player.
+
+It's probably good for us in some ways because it makes us play someone else there if he doesn't make it Paul O'Connell on Hugo Keenan
+
+“It’s probably good for us in some ways because it makes us play someone else there if he doesn’t make it.
+
+“But I’m not sure yet where he’s at. He was around training today so we’d be hopeful.”
+
+Fly-half Jack Crowley filled in for Keenan in the closing stages against the Azzurri, while Ciaran Frawley is another potential replacement.
+
+Current squad members Jordan Larmour and Jacob Stockdale were given opportunities at 15 early in Andy Farrell’s reign but have barely featured in selections since.
+
+“At full-back, you’re covering the back field defensively and he (Keenan) has a lot of work to do in attack as well,” said O’Connell.
+
+“There’s a lot of IP (intellectual property) that we might miss out on if he wasn’t playing.
+
+“He also plays a big leadership role for us. He’s a very smart guy, he’s a problem-solver within the group, he’s highly regarded within the group.
+
+“Whether he’s there or not, he’ll continue to play that role.”
+
+Reigning champions Ireland top the table following back-to-back bonus-point wins over France and Italy.
+
+Keenan was the only member of Farrell’s squad to sit out Thursday’s session.
+
+Captain Peter O’Mahony, prop Tadhg Furlong and centres Bundee Aki and Garry Ringrose each featured following their respective injury issues.
+
+Former Ireland skipper O’Connell believes Ringrose, who is yet to feature in this year’s tournament due to a shoulder problem, is on track to return against Wales.
+
+“It looks like it, he trained today, we didn’t do a massive session,” he said. “He’s in good shape.”

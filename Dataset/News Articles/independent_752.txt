@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Alfa Romeo have clarified their team name change for the 2024 F1 season, announcing that they will be known as Stake F1 Team.
+
+The Sauber works team seemingly confirmed their name change last month. After agreeing a new sponsorship deal with Australian streaming platform Kick.com, the FIA entry list for 2024 stated their name as Stake F1 Team Kick Sauber.
+
+However, two years until German giant Audi take over the team – which has been on the grid since 1993 – Sauber have clarified their name for the new season, dropping the Kick Sauber.
+
+Casino and sports betting platform Stake were the main sponsor of the team last year. The team will launch their 2024 car at a presentation in London on Monday 5 February.
+
+“Last season represented the start of Stake’s journey in Formula One, and the brand’s new role headlining Stake F1 Team represents the natural and exciting next step on this path,” said team representative Alessandro Alunni Bravi.
+
+“Stake not only successfully tapped into Formula One’s growing fan base to enhance its own community; but also introduced a completely new audience to the sport, something that benefitted not only our team but also everyone else in F1.
+
+“We had the opportunity to participate in some incredible activations with some of Stake’s ambassadors, including Argentine football legend, Sergio Aguero and Indian-Canadian rapper Karan Aujla.
+
+“2024 will be a new page and the chance to do more, better, and reach even farther: we are looking forward to an even more exciting calendar of events in this new season.”
+
+Stake, like the other nine teams on the grid, have stuck with their driver pairing for the 2024 season, with Valtteri Bottas and Zhou Guanyu team-mates for the third straight year.
+
+The 2024 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

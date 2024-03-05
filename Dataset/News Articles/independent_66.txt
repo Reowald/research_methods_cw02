@@ -1,0 +1,217 @@
+You can enable subtitles (captions) in the video player
+
+Making our societies carbon free is now the name of the game in international politics. We need to fend off the climate emergency caused by a warming planet. And the war in Ukraine has shown the geopolitical risk of relying too much on fossil energy. But it's a huge challenge.
+
+Fossil fuels are so embedded in so many invisible ways. The difficulty of getting rid of them is much, much greater than people realise.
+
+Does it also have to mean a radical change in our lifestyle?
+
+It's much more finding a diversity of solutions rather than just more consumption.
+
+In this film I will argue that with the help of technology we can decarbonise the economy without people in the rich world having to sacrifice the activities we like while continuing to lift people in poorer countries into middle-class lifestyles.
+
+One can see it as a race between technology, which should make us hopeful, and politics, which is going to be a source of anxiety and concern.
+
+Welcome to Free Lunch on Film, the series where I take controversial economic ideas that I find appealing and put them to the test.
+
+Most countries have set a goal of net zero carbon by 2050, emitting no more than they remove from the atmosphere. But we're nowhere near a path to net zero. If we continue as now the planet will warm more than the 1.5 degrees above pre-industrial temperatures where scientists warn of intolerable climate damage.
+
+But we have faced a global climate challenge before - and solved it. This is not just a spray can. It's an example of how technology can save the environment while letting us lead our lives as before.
+
+Forty years ago the world was worrying about the hole in the atmosphere's ozone layer, which raised the risk of skin damage and cancer from ultraviolet light. The hole was caused by chlorofluorocarbons, or CFCs, molecules released by everyday products like spray cans and fridges.
+
+We observed a 35 per cent decrease of the total ozone overhead.
+
+So in 1987 every country in the world signed the Montreal Protocol, which banned CFCs. And it worked. The ozone in the atmosphere stabilised and the hole is shrinking.
+
+But we still have spray cans. We still have fridges and air conditioners. Companies found new ways to make the same things without CFCs. So as consumers we've had to sacrifice nothing. My hope is that we can get rid of greenhouse gases in the same way with carbon-free substitutes for the things our lifestyles depend on.
+
+This view has a name: techno-optimism. I foresee a completely decarbonised economy where we still travel much as before, where we keep consuming goods from around the world, we continue to put up large buildings, and still enjoy economic growth. But some see this as an irresponsible fairytale.
+
+Many of my FT colleagues doubt we can even achieve net zero carbon on time without massive disruption and economic fallout.
+
+You know, it's a very different situation to CFCs. We didn't have countries and companies relying very heavily on these chemical compounds. And it was really easy to swap them for harmless ones. Unfortunately, we're not in the same situation with fossil fuels yet.
+
+For all that, I think techno-optimism has a lot going for it. Let me tell you why. Ten years ago, on a trip to Japan, I saw the world's first mainstream electric car, the Nissan Leaf. Until then, electric cars had seemed geeky, unpractical, and with looks only a mother could love. But the Leaf, it just seemed remarkably normal.
+
+On the other side of the world, one country has since taken to electric cars like no other. I've travelled to Norway to witness the country's record uptake of electric vehicles, because the electric car is a perfect illustration of this idea that we can decarbonise our economies without depriving ourselves of anything that we value.
+
+This car emits no carbon, nor does the electricity that powers it, because Norway has always run its grid on hydroelectricity. And yet, the driving experience is no worse than an equivalent internal combustion engine. If anything, it's quite a bit better.
+
+The first time I drove an electric car was back in 2006. It was a Norwegian electric car called Think. And it made me quite amazed.
+
+Christina Bu heads up Norway's Association for Electric Vehicle Drivers. With 100,000 members, it's the largest in the world.
+
+It's incredible. Back in 2010 most people were opposed to everything I was talking about with electric cars.
+
+Last year, nearly two-thirds of new passenger cars were electric. That's compared to just 3 per cent back in 2011.
+
+Nobody at that time would have believed standing here now, in the city of Oslo almost 30 per cent of all passenger cars are fully electric. There are charging stations everywhere. People are using them. It's become the new normal. And it's happened very fast.
+
+And it's not happened just by chance.
+
+Well, it's all about politics, really. Norwegians are not more environmentally friendly or anything else. And we have rugged mountains, long distances. So it's not really the country where you would think we would first start with a total revolution really in the way we drive cars. But it has happened because of strong policies over time.
+
+The key has been to make EVs as affordable and attractive as conventional cars.
+
+The most important policies have been tax exemptions and taxing polluting cars heavily, so that electric cars can compete on the price tag when you buy it. In most other countries EVs are still a lot more expensive.
+
+And with additional incentives like lower tolls and cheaper parking, it's not just the tech-savvy going electric.
+
+Because incentives are there, they still choose to buy or drive an electric car. And I think that is the key. We will never succeed with cutting emissions in time if we have to wait for everyone to care about the climate.
+
+So the big question is, can other countries follow Norway's lead and make car transport carbon-free? And not only that, decarbonise every other activity as well? Well, let's look at where CO2 comes from. Some three-quarters of it is from the use of energy, above all in industry, buildings, and transport. After that, it's agriculture at nearly one-fifth of all emissions.
+
+Some think that that's just too much to eliminate by 2050.
+
+We often think, well, we've got electric cars. We know how to decarbonise electricity. But unfortunately, electricity only makes up about 18 per cent of final global energy consumption.
+
+And we need a lot more energy that is currently fossil-fuelled to make stuff like steel, and cement, and plastic, and ammonia, all of these things that are really crucial to our modern way of living. And it's very difficult to see how we can decarbonise them in time to reduce emissions by nearly half by 2030, and then to almost nothing by 2050.
+
+Now, critics think technology can't save us in the time we have left. Instead, they say we must limit economic growth and simply accept having less. But who's right?
+
+Here's a helpful way to think about it. This equation is called the Kaya Identity. It shows the key factors behind total carbon dioxide emissions. Total CO2 depends on the number of people in the world and CO2 emissions per person, which in turn break down further into each person's average income or GDP per capita and the average CO2 emitted per dollar of income.
+
+So this Kaya Identity shows that decarbonisation must logically happen in one of three ways. We can shrink the world's population. We can limit and reduce incomes. Or we can lower the amount of CO2 emitted for each dollar of GDP.
+
+Let's put to one side the prospect of reducing the population, which I for one find both immoral and unrealistic. Then, net zero carbon can only be achieved by cutting economic production, degrowth, or finding ways to produce without emitting greenhouse gases: green growth.
+
+That's a debate our next expert has thought deeply about.
+
+We can't have it all. We can't get rid of climate change, and just have perfectly free choices, and enjoy the things exactly as we did before.
+
+Diana Urge-Vorsatz is a vice-chair on the Intergovernmental Panel on Climate Change, which has warned against any further delay in cutting emissions. An environmental scientist in Hungary, she's already changing to a low-carbon lifestyle.
+
+I do try to travel much less by plane unless I really cannot have an alternative. We allow a lot of our garden to be taken over by green vegetation, which cools both the garden environment, and our house. I don't buy almost anything new.
+
+To Diana Urge-Vorsatz we have to reduce our material consumption. But that doesn't have to mean our well-being will suffer.
+
+So technology alone won't fix all of climate change. Nevertheless, this does not necessarily mean giving up all the things or even some of the things that you said: simply changing our lifestyle, focusing more on well-being rather than focusing on consumption and consuming stuff. We are happier if we have a better work-life balance, if we are healthier, if we have more education, if communities are stronger and better.
+
+That sounds fine in theory. But if it's difficult to reduce the amount of carbon in our consumption, it can be even harder to demand that people should consume less.
+
+Especially people who are poor to begin with, like many in India or China, two of the world's biggest emitters, or in other developing countries.
+
+So the question is, whose consumption are you going to shrink?
+
+Economist Arvind Subramanian is a former chief economic adviser to the Indian government.
+
+And if you think you're going to shrink that of those who are living at barely frugal levels of consumption, I mean, that would be completely unethical and unconscionable. It's completely clueless politically.
+
+Not only that, he says the rich world is guilty of rank hypocrisy in what it demands from poorer countries.
+
+We won't allow fossil fuels in developing countries. Whereas in advanced countries themselves, you still allow, you will have natural gas, even if you don't have coal, you're going to have some form of fossil fuels. So the kind of implicit hypocrisy suggests that you, the poor, you use a lot of fossil fuels. Tough luck for you. You have to kind of adjust.
+
+If it's callous to suggest degrowth for poorer countries, then perhaps we can focus it on the consumption of the rich.
+
+Degrowth scenarios also never assume that those segments of the population who don't have yet adequate diet or adequate access to education and health would need to degrow. Not at all. They still very much need to grow.
+
+Letting the poor enjoy economic growth need not threaten net zero. Why? Because carbon emissions are astonishingly unequal.
+
+I think it's a very important fact to understand that about one-tenth of the global population is responsible [for] well over half of all global carbon emissions. And it's also true the other way around. Over half of the world's population emits less than a tenth of all global emissions. So even if they grow tremendously we won't even notice it in our emissions.
+
+But even reducing growth only for the rich is not straightforward.
+
+It's not as if you have a certain average level of income where you reduce one and therefore you can transfer that costlessly to the poor. If rich countries start slowing down and you get degrowth, our export markets are going to be affected. Our access to technology and cheaper inputs are going to be affected. Degrowth in one place means negative repercussions for the other parts of the world.
+
+All these problems with degrowth convince me that it cannot address the challenge of climate change. I think that leaves us with only one option: green growth.
+
+If techno-optimists are right, it's not our consumption we need to cut but the amount of carbon we emit in satisfying it. And ideally, we'll cut it fast enough to keep economic growth going while moving towards net zero carbon.
+
+As the experts put it, we need to decouple growth from emissions. Many countries have managed this. Their consumption is growing, but emissions are falling. The question is whether the rest can do the same and whether all countries can do it fast enough.
+
+In some sectors, decoupling growth from emissions is definitely doable. We have the technology to produce zero carbon electricity from renewables like wind and solar energy, and from non-renewable but emissions-free nuclear power.
+
+Decarbonising electricity is really the low hanging fruit. It's really the easiest, because we have the technology, we know how to do it. Nonetheless, you still have to invest a huge amount in electricity grid systems to make it all work at scale.
+
+This will cost trillions of dollars. But once done we can decarbonise other sectors by electrifying them. Electrification of transport is well under way. And for heavy transport, hydrogen is another carbon-free alternative. The big challenge is flying.
+
+It's really difficult. We just don't have electric planes yet. And it's going to be difficult because of the physical density of kerosene versus lithium-ion batteries to imagine how that gets done very quickly. We're not talking about a massive contributor to the problem yet, but it is growing very fast.
+
+Next is energy used in industry. We have the potential to electrify or use hydrogen in many industrial processes too, even if much is still experimental.
+
+We actually do know how to make green steel, for example. That's being done in a really interesting way in Sweden. But it's really expensive.
+
+What about construction? It releases carbon dioxide both from the energy needed to put up buildings and also from the process used to make materials like cement. But the search for alternatives is on.
+
+We have many skyscrapers today, which are mostly built from timber. Nevertheless, timber is not available in most of the world in quantities that we need for new construction. But the good news is that you can also use other bio-based materials: agricultural waste, straw. These are all excellent building materials. And we have very high-tech alternatives for cement and partially also steel.
+
+Then there are the big emissions from agriculture and other uses of land.
+
+We need a fundamental change of how we make agriculture. The present practices are very unsustainable, the big monocultures, and not only for climate change, but also for biodiversity and also for soil health. So that's where we really have to go for much smaller fields, much more diversity of things that we produce. We have to go for dietary change as much as we can.
+
+Here's the bottom line. In some areas, like ground transport, it's technologically feasible, even easy, to take the carbon out. In other areas, it's more costly, more difficult, maybe even impossible to do by 2050: flying, cement making, meat production.
+
+And here is the strongest argument that decarbonisation will require us to give up some of the things we value in our economic well-being. If that's the case it may seem like techno-optimism won't save the day after all.
+
+But there are other ways we can bridge this gap to net zero, which also rely on better or smarter uses of technology. We can be more efficient in how we consume so that less of the production is wasted. This goes back to the Kaya Identity. In green growth, we want to reduce carbon dioxide emissions per dollar of income.
+
+That can be done in two ways: by reducing energy intensity, the energy used in one dollar's worth of economic activity, or by reducing carbon intensity, the carbon emitted by using one unit of energy. So we can in fact decarbonise while keeping our consumption the same, by keeping our homes warmer with better insulation, for example, or by taking the waste out of our food habits or building designs.
+
+But to really be more efficient we'll need more than individual change. Energy needs depend on our wider systems. For example, how much we design our cities to depend on cars.
+
+Yes, we do need systemic change, because it means we have to do our cities completely differently. Significantly less cars, which means we'll need significantly less steel, much less concrete for parking lots, for roads, while still having the same access to mobility.
+
+Now, if we can't eliminate all the carbon we emit, then another way to get to net zero is to suck out the remaining carbon from the atmosphere, as trees do. And the easiest way to do that is to plant more trees, which is what they do here at the Forest of Marston Vale in the east of England.
+
+We can certainly plant more trees. But it's a race between the trees and the fossil fuels, essentially. And at the moment the more that we extract and use fossil fuels the more difficult it is to imagine that forests and indeed oceans are going to be able to continue to absorb the CO2 pollution.
+
+If planting more trees isn't enough, then we come to the more speculative possibilities of negative carbon technologies: carbon capture and storage.
+
+We talk about technologies like direct air capture and even carbon capture and sequestration. These things in 2022 really don't exist at scale. And not only do they not exist at scale, but the policies needed to increase them at scale don't exist.
+
+I just feel that we've underinvested globally in this. We've all gotten a bit enamoured of renewables. And therefore, that's where all the R&D effort, and the excitement, and entrepreneurship has been. If we focused a little bit more attention on that, maybe we'll get a lot more action on this as well.
+
+As you can see, the debate about how far technology can get us is far from settled. So where does that leave us?
+
+If we can't be sure that we can take enough carbon out of the atmosphere, then the aim must be to put as little as we can into it. And it's clear to me that we can make large parts of our economy emissions-free if we do three things: electrify everything we can, make all that electricity carbon-free, and push for technological advances to decarbonise the rest.
+
+For those three things to happen, we need two 'Is': incentives and investments. The Norwegian experience with electric cars shows the power of incentives. Get the price right and people will switch.
+
+If we can do it, any other country can do it as well. It's all about deciding that this is where we're going to go and implement policies to make it happen.
+
+But switching also requires huge investments to scale up existing tech, like batteries and hydrogen-powered lorries, to build smart grids to manage electricity, and to advance the tech that is still at its early stages, like green steel and electric planes. These investments are driven by incentives too, of course. It has to cost you to emit carbon.
+
+So if I'm running a steel factory and selling my steel around the world, and I'm told, well, if you want to make that green, you're going to have to buy a whole lot of new equipment, and you may have to double the price of it, I'm not really going to be terribly keen to do that. And in the absence of a carbon price that's going to essentially force me to do it, why am I going to do it?
+
+A carbon price means quite simply paying for emissions. The more carbon used the higher the price. If designed well it creates an incentive to switch to greener tech. The good news is that carbon pricing is starting to happen in earnest. Canada and Norway have set carbon taxes on a path to well above $100 per tonne by 2030.
+
+In the EU some industries have to buy allowances to emit carbon and the market price of those allowances reached record highs in early 2022. And with a war in Ukraine fossil fuels themselves are already becoming very expensive.
+
+But there is still a long way to go, as investors are just starting to look away from carbon-based energy to green tech. When that switch happens it will be deeply disruptive. Anything based on carbon becomes pricier. And workers in carbon-intensive activities will be hit too.
+
+If you were to go and close down every aluminium smelter, every steelmaking outlet, if you went about trying to really radically decarbonise quickly, people would be thrown out of work.
+
+Given all this, do I really believe we can reach net zero without big sacrifices?
+
+I started out asking how our lives will change if we reach net zero by 2050. That's a big 'if'. Politicians face difficult decisions. We have to transform our industry and our energy. Huge amounts have to be invested into new technology.
+
+And a lot of that will feel like a cost. There'll be new taxes, lots of expensive equipment to invest in, and some jobs will be lost. But taxes on carbon can be redistributed to those who have the most to lose.
+
+I am very much in favour of a carbon fee and dividend policy, where instead of just putting a carbon price on something and then the government taking the money and using it to build new schools, hospitals, whatever it feels like, you return it to people in the form of a cheque, a dividend.
+
+If greater investments mean we'll have to consume a little less now, they do safeguard higher standards of living in the future. So in a net zero world I believe we won't feel deprived of much that we enjoy today. Nor will we stop the world's poor from moving into middle-class lifestyles.
+
+Maybe we'll fly a little less, cut back a bit on meat, pay slightly more for everything from food to gadgets. We'll organise our lives in a more energy-efficient way.
+
+But here is what has really struck me. The experts I've spoken to think that decarbonisation will be difficult, yes. But not painful. Quite the opposite.
+
+With electric cars and electric vehicles we can continue the life that we like living today without too much sacrifice. Of course, we should have public transport, bikes and so on, in the cities. But we do need vehicles to work our lives.
+
+The only way we get to net zero is if growth happens and standards of living rise. We'll have cracked the energy use, the energy access problem. So a net zero world, if we get it, is going to be, I think, unambiguously positive for everyone in the world.
+
+I think the greatest thing about it will be that we are going to have much more free time. And as a result, I won't be consuming that much. For example, I hope that I won't need to have my own car, but I still can get to anywhere I want to.
+
+If we're buying our food more locally, it tastes better, it might last longer. There are lots of ways of imagining that a decarbonised life is not that hugely different to the one that we lead at the moment, and in many ways hugely better.
+
+This doesn't sound like a life of sacrifice. But we do have an enormous job to do and not a moment to lose. Every second of delay puts that net zero goal further from reach.
+
+Where we will have to accept fundamental change is in our politics. We'll need a much greater more active role of the government in our economy, taxes that drive us away from carbon, and policies that make for less consumption and more investment.
+
+The reward comes in greener tech-driven policies that decarbonise and protect our material well-being. What I hope and believe is that this means having more for less: more economic growth, with ever less fossil energy. In this sense, I think techno-optimists can agree with degrowth advocates on one thing. We need to embrace cutting carbon radically and fast.
+
+But unlike the degrowthers, techno-optimists think people will respond to that by developing and adopting green technology so economic growth doesn't need to suffer. Because if we try to hold back growth itself and not how it's generated, then I'm certain people will rebel.
+
+We will reach net zero in ways that make European middle-class lifestyles available and sustainable to everyone on the planet. Otherwise, I fear we won't get there at all.
+
+And finally, we'd love to hear what you think. So please share your comments.

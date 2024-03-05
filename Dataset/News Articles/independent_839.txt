@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Tesla is recalling almost 2.2 million vehicles in the United States due to an incorrect font size on its instrument panel for the brake, park and antilock brake system (ABS) warning lights.
+
+The recall does not require owners to bring their vehicles into a Tesla service centre. Instead, Tesla began releasing an over-the-air software update free of charge.
+
+“Warning lights with a smaller font size can make critical safety information on the instrument panel difficult to read, increasing the risk of a crash,” a recall notice by the National Highway Traffic Safety Administration, obtained by CBS, said.
+
+The incorrect font size did not meet the requirements of federal motor vehicle safety standards.
+
+The notice lists the makes, models and model years as:
+
+TESLA/CYBERTRUCK/2024
+
+TESLA/MODEL 3/2017-2023
+
+TESLA/MODEL S/2012-2023
+
+TESLA/MODEL X/2016-2024
+
+TESLA/MODEL Y/2019-2024
+
+The NHTSA reportedly said it found the issue during a routine safety compliance audit, according to the Associated Press.
+
+Tesla has also identified three warranty claims that are potentially related to the problem but has had no reports of crashes or injuries, the outlet also said.
+
+The potential number of units affected stands at 2,193,869. Owner notification letters are expected to be mailed on 30 March 2024.
+
+It was only a few months ago that Tesla recalled two million vehicles in the United States to install new safeguards in the autopilot system after a years-long investigation by the NHTSA. The system was announced to be fixed by a software update that installed alerts to better ensure drivers are paying attention when autopilot is engaged, according to CBS.
+
+The NHTSA has also reportedly announced that they have upgraded another investigation into some Tesla vehicles over the alleged loss of steering control, reported by Reuters. The investigation covers around 334,000 Model 3 and Model Y vehicles from the 2023 model year.
+
+Reuters said the upgrade in the investigation follows a report they published in December, which claimed to have found tens of thousands of Tesla owners experiencing premature failures of suspension or steering parts over at least seven years, the outlet reported.
+
+The probe was initially opened as a preliminary evaluation into the loss of steering control in July by the NHTSA, which claimed it has now identified a total of 2,388 complaints, the outlet said.
+
+The Independent has contacted Tesla for comment.

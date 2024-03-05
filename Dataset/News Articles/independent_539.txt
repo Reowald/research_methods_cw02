@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Elon Musk has said his start-up firm Neuralink has successfully implanted a computer chip into a human’s brain for the first time.
+
+The entrepreneur said the patient is “recovering well”.
+
+Neuralink aims to give those with paralysis the ability to control their devices, including their smartphone, using just their thoughts, and is currently being trialled to test the functionality of its interface and the surgical robot used to implant the chips.
+
+Neuralink says the threads of its implant are so fine that they cannot be inserted by the human hand, so a specially designed and built Neuralink surgical robot carries out the procedure.
+
+Mr Musk hinted at a positive start to the trial, posting to X, the social media platform he owns, that “initial test results show promising neuron spike detection” – in reference to the cells that use electrical and chemical signals to send information around the brain and to the rest of the body.
+
+The billionaire Tesla and SpaceX boss said the brain chip company’s first product was called “Telepathy”.
+
+“Enables control of your phone or computer, and through them almost any device, just by thinking,” he wrote on X.
+
+“Initial users will be those who have lost the use of their limbs.
+
+“Imagine if Stephen Hawking could communicate faster than a speed typist or auctioneer. That is the goal.”
+
+Neuralink was granted clearance in the US last year for its first trial to test its chips in humans.

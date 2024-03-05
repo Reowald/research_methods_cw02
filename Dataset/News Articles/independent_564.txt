@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Astronomers have found the oldest black hole ever.
+
+The objects dates back to the very beginning of the universe, more than 13 billion years ago. The discovery of such a massive black hole so early in the universe appears not to fit with our current understanding of how they form and grow, the researchers who found it said.
+
+It is “eating” its host galaxy – and will eventually do so with such violence that it destroys the galaxy around it. Its young host galaxy, named GN-z11, is aglow with the swirl of activity inside: while black holes cannot be seen, they can be deduced from the trail of destruction they leave around the, including a bright glow.
+
+The host galaxy is small, at 100 times smaller than our own Milky Way galaxy. The black hole is likely to be responsible: the gas that it is pushing out is probably slowing down the creation new stars, and is thought to be on a path to destroying both the galaxy and then itself.
+
+The discovery is a “giant leap forward” for science in a number of ways, scientists said. That includes the highly detailed James Webb Space Telescope that was required to see such distant objects in such detail.
+
+“It’s a new era: the giant leap in sensitivity, especially in the infrared, is like upgrading from Galileo’s telescope to a modern telescope overnight,” said Roberto Maiolino from the University of Cambridge. “Before Webb came online, I thought maybe the universe isn’t so interesting when you go beyond what we could see with the Hubble Space Telescope.
+
+“But that hasn’t been the case at all: the universe has been quite generous in what it’s showing us, and this is just the beginning.”
+
+Astronomers believe supermassive black holes found at the centre of galaxies like the Milky Way grew to their current size over billions of years.
+
+However, the size of the new discovery suggests they might form in other ways.
+
+They might be born big, or they can eat matter at a rate that is five times higher than had been thought possible.
+
+“It’s very early in the universe to see a black hole this massive, so we’ve got to consider other ways they might form,” said Professor Maiolino.
+
+“Very early galaxies were extremely gas-rich, so they would have been like a buffet for black holes.”
+
+Standard models suggest supermassive black holes form from the remnants of dead stars, which collapse and may form a black hole about a hundred times the mass of the Sun.
+
+The newly-detected black hole would take about a billion years to grow to its observed size, if it had grown in this way.
+
+However, the universe was not yet a billion years old when this black hole was detected.
+
+Like all black holes, this young black hole is devouring material from its host galaxy to fuel its growth.
+
+However, the study suggests it gobbles matter much more vigorously than others.
+
+Additional reporting by agencies

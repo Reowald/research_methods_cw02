@@ -1,0 +1,55 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average price tag on a home jumped by around £4,500 month-on-month in January, according to a property website.
+
+Across Britain, the average price of a property coming on the market increased by 1.3% or £4,571 month-on-month, to £359,748, Rightmove said.
+
+Despite the increase, average asking prices are still 0.7% lower than a year earlier.
+
+Rightmove said the volume of new properties coming onto the market for sale is 15% higher than a year ago.
+
+Competitive pricing from sellers is still vital, with the number of new properties coming to market outpacing an increase that is also being seen in buyer demand, the website said.
+
+The number of potential buyers contacting estate agents about homes for sale in the first week of 2024 was 5% higher than in the same period last year, with the growth in activity strongest in London and the North East of England, Rightmove said.
+
+It added that the number of sales being agreed as January gets under way has been higher than the start of last year.
+
+Tim Bannister Rightmove’s director of property science said: “After a stop-start market in 2023, the initial signs suggest a smoother year for movers in 2024.
+
+“More new sellers are now entering the market, and with more confident pricing. While the increased level of buyer activity that we’re also seeing may justify some of this increased pricing confidence from sellers, it’s important that sellers who are keen to find a buyer don’t get carried away with New Year enthusiasm when setting their price expectations.
+
+“Elevated mortgage rates and the wider cost-of-living squeeze are still limiting buyers’ spending power.
+
+“Accurate and realistic pricing for their local area is the recipe for success for sellers looking to get moving in 2024.”
+
+After a stop-start market in 2023, the initial signs suggest a smoother year for movers in 2024 Tim Bannister, Rightmove
+
+The report also quoted the views of estate agents.
+
+Chris Rowson, managing director at Sharman Quinney in Cambridgeshire, said: “Future sellers are getting their valuation appointments booked in, future buyers are inquiring and getting their viewings booked in and we’re also seeing really high demand for mortgage appointments, as movers seek to understand their affordability and position at the start of the year.
+
+“Most importantly, we’re seeing offers being made, and a high number at that. It is early days and not a time to get carried away, but we’ve had a good start.”
+
+Paul Bayliss, director at the Square Room Estate Agents on the Fylde Coast in Lancashire, said: “We’ve seen a lot of activity from first-time buyers, now ready to make their move at the start of the year, and with mortgage rates more settled, we’re also starting to see upsizers return who are now more confident to take out a larger mortgage for a bigger home.
+
+“The market is just getting started, but we’re optimistic about what 2024 can bring.”
+
+The report was released as estate and lettings agent Hamptons said the average private rent on a newly-let property in Britain increased by 10.2% annually in December, marking the strongest end-of-year annual growth since its records started in 2014.
+
+The average monthly rent on a newly-let property in December 2023 was put at £1,340.
+
+The 10.2% annual increase in rental prices could have cost the average tenant who moved into a new home an average of £124 per month more in rent, equating to an extra £1,488 per year.
+
+As mortgage rates continue their downward path, some of the upward pressure on rents should reduce, Hamptons predicted, as remortgaging costs for some landlords may be less steep than they were in 2023.
+
+Slightly lower mortgage rates in 2024 should alleviate some of these pressures and take some of the heat out of the rental market Aneisha Beveridge, Hamptons
+
+Aneisha Beveridge, head of research at Hamptons, said: “Pressures on the rental market show few signs of abating.
+
+“Rental growth has been more persistent than wider inflation, predominantly due to the scale of the costs faced by most landlords as a result of higher interest rates.
+
+“Slightly lower mortgage rates in 2024 should alleviate some of these pressures and take some of the heat out of the rental market, but tenants will probably continue facing bigger rent increases than they did pre-Covid.”
+
+The Hamptons lettings index uses data from the Countrywide Group to track changes to the cost of renting and is based on achieved rather than advertised rents.

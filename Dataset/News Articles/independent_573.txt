@@ -1,0 +1,57 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have discovered a gargantuan ring-shaped structure – about 1.3 billion light-years in diameter – that they say is so big it challenges our understanding of the universe.
+
+Dubbed the Big Ring, this ultra-large structure – with a circumference of about four billion light-years – was observed in the remote universe, around 9.2 billion light-years away.
+
+Made up of galaxies and galaxy clusters, the diameter of the Big Ring appears to be roughly 15 times the size of the Moon in the night sky as seen from Earth.
+
+It is the second cosmic structure of such size identified by Alexia Lopez, a PhD student at the University of Central Lancashire (UCLan) who also discovered the Giant Arc – spanning 3.3 billion light-years of space – around three years ago.
+
+She said: “Neither of these two ultra-large structures is easy to explain in our current understanding of the universe.
+
+“And their ultra-large sizes, distinctive shapes, and cosmological proximity must surely be telling us something important – but what exactly?”
+
+Ms Lopez’s findings – presented at the 243rd meeting of the American Astronomical Society (AAS) – appear to challenge the cosmological principle, which states that on a large scale, the universe should look roughly the same everywhere.
+
+The general consensus is that large structures are formed in the universe through a process known as gravitational instability but there is a size limit to this, which is about 1.2 billion light-years.
+
+Anything larger than that would not have had sufficient time to form.
+
+Ms Lopez said: “The cosmological principle assumes that the part of the universe we can see is viewed as a ‘fair sample’ of what we expect the rest of the universe to be like.
+
+“We expect matter to be evenly distributed everywhere in space when we view the universe on a large scale, so there should be no noticeable irregularities above a certain size.
+
+“Cosmologists calculate the current theoretical size limit of structures to be 1.2 billion light-years, yet both of these structures are much larger – the Giant Arc is almost three times bigger and the Big Ring’s circumference is comparable to the Giant Arc’s length.
+
+“From current cosmological theories we didn’t think structures on this scale were possible.”
+
+There are also similarly large structures discovered by other cosmologists – such as the Sloan Great Wall, which is around 1.5 billion light-years in length, and the South Pole Wall, which stretches 1.4 billion light-years across.
+
+But the biggest single entity scientists have identified is a supercluster of galaxies called the Hercules-Corona Borealis Great Wall, which is about 10 billion light-years wide.
+
+For comparison, the observable universe is approximately 93 billion light-years in diameter.
+
+Both the Big Ring and the Giant Arc appear in the same neighbourhood, Ms Lopez said, near the constellation of Bootes the Herdsman.
+
+While the Big Ring appears as an almost perfect ring on the sky, analysis by Ms Lopez suggests it has more of a coil shape – like a corkscrew – with its face aligned with Earth.
+
+The Big Ring and the Giant Arc, both individually and together, gives us a big cosmological mystery as we work to understand the universe and its development Alexia Lopez, University of Central Lancashire PhD student
+
+Ms Lopez said: “This data we’re looking at is so far away that it has taken half the universe’s life to get to us – from a time when the universe was about 1.8 times smaller than it is now.
+
+“The Big Ring and the Giant Arc, both individually and together, gives us a big cosmological mystery as we work to understand the universe and its development.”
+
+Ms Lopez, along with her adviser Dr Roger Clowes, also from UCLan, and collaborator Gerard Williger from the University of Louisville, US, used a technique called the magnesium II (MgII) to make the discoveries.
+
+It involves turning quasars – extremely energetic and luminous celestial objects found at the centres of some galaxies – into giant lamps to observe cosmic matter and galaxies in the universe that would otherwise remain unseen.
+
+Commenting on the research, Professor Don Pollacco, of the department of physics at the University of Warwick, said a lot more research needs to be done to be certain about the discovery of these ultra-large structures.
+
+He said: “The likelihood of this occurring is vanishingly small so the authors speculate that the two objects are actually related and form an even larger structure.
+
+“So the question is how do you make such large structures?
+
+“It’s incredibly hard to conceive of any mechanism that could produce these structures so instead the authors speculate that we are seeing a relic from the early universe where waves of high and low density material are ‘frozen’ in to extragalactic medium.”

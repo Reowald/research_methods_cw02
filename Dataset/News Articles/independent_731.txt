@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+McLaren boss Zak Brown has urged Formula One and the governing FIA to ensure Red Bull and sister team AlphaTauri do not gain an unfair advantage from closer ties.
+
+Red Bull have owned two teams since 2006, when the Austrian energy drink brand bought the failing Italy-based Minardi and renamed them Toro Rosso, again changing the name in 2020 to AlphaTauri.
+
+AlphaTauri are undergoing a further rebranding this season, with Laurent Mekies the new team boss and Peter Bayer as chief executive, and are planning closer ties with Red Bull in Milton Keynes.
+
+Brown told reporters at his team’s Woking headquarters that he was concerned by the tightening Red Bull alliance and the issue needed to be addressed.
+
+Faenza-based AlphaTauri have traditionally served as a feeder outfit for Red Bull Racing, bringing on young drivers within the Red Bull junior programme, and Brown referred to them as a B team.
+
+“This A/B team and co-ownership, which is a whole other level of A/B team, is of big concern to us and the health of the sport and the fairness of the sport,” he said.
+
+“The thing I would like to see us as a sport focus on, and where we sit on the regulation side, is the A/B team co-ownership.
+
+AlphaTauri and Red Bull have ofted shared a close relationship (Getty Images)
+
+“I believe it’s a serious issue for the fairness of the sport, for the fans. That’s why it’s pretty much not allowed in any other form of major sport.
+
+“I’d like to see us as an industry focus on that before it gets to a level of being where Formula One once was, which is very out of balance because people are playing by the rules but a different set of rules.”
+
+Red Bull team boss Christian Horner said last month that AlphaTauri operated independently from his team.
+
+“They take benefit of the parts that are allowed to be transferred, like the gearbox and the suspension and so on, in the same way that Williams and Aston Martin have done so with Mercedes or Haas with Ferrari,” he added.
+
+“They’re designing their own car, they’ve got their own ideas.”
+
+The FIA’s single-seater head Nikolas Tombazis said last month that the governing body was aware of concerns and would be issuing further guidance.
+
+Formula One has a budget cap to prevent teams from massively outspending others, as they did in the past, and to make the racing more competitive.
+
+Champions Red Bull Racing won 21 out of 22 races last season, the most dominant performance in the history of the sport, with Max Verstappen taking his third title in a row.
+
+AlphaTauri, who have experienced race-winning Australian Daniel Ricciardo cementing his comeback before a possible move back up to Red Bull, finished eighth out of 10 teams overall.

@@ -1,0 +1,35 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A small asteroid detected only hours before entering the Earth’s atmosphere burned up in the skies above Berlin into a harmless fireball on Sunday.
+
+The entry of the space rock, dubbed 2024 BXI, into the Earth’s atmosphere was unique as it was first detected only hours before impact.
+
+This marks only the eighth time an asteroid has been spotted before it hit the Earth, researchers say.
+
+The asteroid was discovered by Hungarian astronomer Krisztián Sárneczky about three hours before its impact, according to the International Astronomical Union.
+
+Nasa confirmed the discovery about 20 minutes before impact.
+
+“Heads Up: A tiny asteroid will disintegrate as a harmless fireball west of Berlin near Nennhausen shortly at 1:32am CET. Overseers will see it if it’s clear!” Nasa posted on X on Saturday evening.
+
+The asteroid, previously known under its temporary designation Sar2736, measured about a meter wide and was captured on camera as it appeared and disappeared in the skies above Berlin for a short span of a few seconds around 00:33 UT.
+
+Astronomers suspect it may have started disintegrating about 50km (30 miles) west of Berlin, dropping some smaller space rocks along the way.
+
+The asteroid’s sighting is also unusual as about 99 per cent of near-Earth asteroids smaller than 30m (98 ft) across are yet undiscovered, according to the European Space Agency.
+
+It is even more difficult to accurately predict where such small asteroids could impact Earth, but their potential threat to life on the planet remains low.
+
+Nasa and some space agencies across the globe have teams monitoring large asteroids that could be more dangerous to the planet.
+
+The American space agency’s NEO Surveyor satellite planned for launch in 2027 is expected to help find even more asteroids.
+
+Scientists are also probing ways to deflect and detonate explosives on asteroids to safeguard Earth.
+
+Nasa’s Dart mission launched in 2022 successfully changed the course of asteroid Dimorphos by slamming a refrigerator-sized spacecraft onto it.
+
+The demonstration showed the method can be effective in moving an Earth-threatening asteroid before it reached the planet.
+
+Researchers are also exploring the use of nuclear devices to alter the trajectory of catastrophic space rocks.

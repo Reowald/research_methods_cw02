@@ -1,0 +1,45 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Guenther Steiner has left Haas with immediate effect in a shock announcement from the American-owned Formula 1 team.
+
+The Italian-American has been replaced as team principal by former right-hand man and director of engineering Ayao Komatsu, with the Japanese 47-year-old now running the day-to-day operation of the team.
+
+Steiner, 58, was the primary architect of the F1 team owned by Gene Haas. Having sought investment for an American team since the start of the the 2010s, Haas made their debut in Formula 1 in 2016 and Steiner guided them to a best-finish of fifth in 2018.
+
+Steiner, known for his colourful language and entertaining appearances on Netflix’s Drive to Survive, has committed the last decade and beyond to the team, making this announcement just seven weeks out from the 2024 F1 season something of a surprise. The Independent understands Steiner and Haas had differing opinions on the direction the team should take to get back to fighting in the midfield.
+
+The official Haas press release on Wednesday evening was notable for the absence of any quotes from Steiner himself. It follows speculation that technical director Simone Resta has also left the team, though Resta’s position was not mentioned.
+
+“I’d like to start by extending my thanks to Guenther Steiner for all his hard work over the past decade and I wish him well for the future,” said team owner Haas.
+
+“Moving forward as an organisation it was clear we need to improve our on-track performances. In appointing Ayao Komatsu as team principal we fundamentally have engineering at the heart of our management.
+
+Guenther Steiner has left the Haas F1 team just weeks before the new season begins (Getty)
+
+“We have had some successes, but we need to be consistent in delivering results that help us reach our wider goals as an organisation.
+
+“We need to be efficient with the resources we have but improving our design and engineering capability is key to our success as a team. I’m looking forward to working with Ayao and fundamentally ensuring that we maximise our potential – this truly reflects my desire to compete properly in Formula 1.”
+
+It is unknown if Steiner is now planning on joining forces with another team or taking a leave of absence from the sport. He is due to appear at the motoring show Autosport International in Birmingham on Saturday.
+
+He is also in line to be a producer on a new “single-camera workplace comedy” show on US broadcaster CBS.
+
+Haas driver Kevin Magnussen said on Twitter/X: “Thanks, Guenther. Thanks for taking me on the journey in 2017 and thanks for bringing me on board again in 2022.
+
+“It has been both fun and tremendously challenging – but never boring. So long and all the best.”
+
+The press release also said that a European-based chief operating officer will soon be appointed to manage all non-competition matters and departments.
+
+Komatsu said: “Having been with the team since its track debut back in 2016, I’m obviously passionately invested in its success in Formula 1. I’m looking forward to leading our programme and the various competitive operations internally to ensure we can build a structure that produces improved on-track performances.
+
+New team principal Ayao Komatsu with Haas driver Kevin Magnussen (Getty)
+
+“We are a performance-based business. We obviously haven’t been competitive enough recently which has been a source of frustration for us all.
+
+“We have amazing support from Gene and our various partners, and we want to mirror their enthusiasm with an improved on-track product. We have a great team of people across Kannapolis, Banbury and Maranello and together I know we can achieve the kind of results we’re capable of.”
+
+Steiner retained both Kevin Magnussen and Nico Hulkenberg as drivers after the 2023 season, despite the team finishing bottom of the standings for the second time in three years.
+
+The 2024 F1 season starts on Saturday 2 March with the Bahrain Grand Prix.

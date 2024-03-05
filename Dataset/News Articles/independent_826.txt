@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Google says it is working on a YouTube app for Apple’s Vision Pro, amid questions over some notable absences the platform.
+
+YouTube was one of a number of companies that chose not to make their apps available on the platform when it launched on Friday. Netflix, Spotify and others also said that they would not have an app available at launch.
+
+Developers can choose either to redevelop an entirely new app for the headset, or allow users to download their iPad app and use that in the new operating system, but YouTube was among companies who decided to do neither. Given that the latter option allows developers to make an app available with no special effort, some have suggested the decision could be an intentional snub.
+
+There has been speculation over whether the companies had run into some kind of disagreement, or whether the lack of availability was because of technical problems.
+
+In the time since it’s launch last week, however, the Vision Pro appears to have become a success – so much so that it has swiftly led to people being mocked for using it in inappropriate situations. Another unofficial YouTube app also appears to have had some success: Juno, designed by Christian Selig, has proven popular since it was launched.
+
+“We’re excited to see Vision Pro launch and we’re supporting it by ensuring YouTube users have a great experience in Safari,” a YouTube spokesperson told The Verge. “We do not have any specific plans to share at this time, but can confirm that a Vision Pro app is on our roadmap.”
+
+At the moment, users are forced to access YouTube through the Safari web browser that is built into the headset. That comes with a variety of drawbacks, however, including the fact that 3D and 360-degree videos cannot be accessed on the web version of YouTube.
+
+At launch, Apple said that there were more than 600 specially made apps and games available for the Vision Pro, and more than a million converted iPad apps that would be available to download. The 600 included many other streaming services, including HBO’s Max and Disney+.

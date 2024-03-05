@@ -1,0 +1,57 @@
+The world stands on the brink of a productivity revolution as artificial intelligence (AI) creates a new wave of opportunity for businesses of all sizes.
+
+Whether it’s using chatbots or more advanced AI, uncovering deeper insights about customer needs, or speeding up product development, no business wants to miss out on the uplift in output offered by AI. For some organisations, the arrival of generative AI tools such as ChatGPT and Dall-E, which generate content and images, has further boosted the business cases for adopting an AI strategy.
+
+But while business leaders are keen to make the most of the technology’s advantages, they’ll also need to understand the wider responsibilities that come with it (for example, considerations around data privacy, unintentional bias, and copyright infringement) and how to make the most of opportunities that are evolving quickly.
+
+To help boardroom executives and IT leaders navigate a successful AI strategy, Michael Wignall, director of infrastructure in the Customer Success Unit at Microsoft’s Azure business, sets out the first five steps he believes leaders should take ahead of utilising AI.
+
+1 Make AI part of a broader cloud computing strategy
+
+First and foremost, says Wignall, businesses should think about collaborating with an established technology provider.
+
+AI works best when it is part of a broader cloud computing strategy, which is where IT operations are outsourced to externally run data centres, such as the cloud platform offered by Microsoft Azure, he says.
+
+“AI is born in the cloud, and you need to be in the cloud to take advantage of this wave of innovation,” he adds. He points to the three main components of AI – computing power, data and algorithms – all of which are best provided through a cloud service. He believes businesses should adopt a “cloud native” approach, where their entire AI infrastructure is built on a cloud platform.
+
+Such an approach brings many benefits, including: cost savings achieved by paying for only the resources used, rather than maintaining and updating costly on-premises equipment; flexibility and scalability, which allows customers to easily add or remove resources as needed; access to enhanced security tools, which can better detect, assess and warn customers about threats to their data; and disaster recovery, as in the cloud data can be easily backed up and quickly restored in the event of an outage or disaster.
+
+2 Locate your data
+
+Next, businesses need to get a firm handle on where data is located in their organisations and then migrate it to the cloud platform.
+
+Success in AI depends on analysing large sets of relevant data. To fine-tune AI to achieve the best business results, it should be powered by the company’s own data from customer lists, inventories, sales information, financial and other key data. “It’s about making sure that your data platform and your data strategy are the best they can be and that you know where your data is located and how to access it,” says Wignall.
+
+Overall, organisations need to become more data literate. “To succeed with AI, most of our customers, big or small, need to create a more data-led corporate culture,” he adds.
+
+3 Protect your data
+
+Once the cloud infrastructure is in place and the relevant data is migrated, the next crucial step is to protect and secure that data. With all of a company’s key data in one place – the cloud – it’s important to have peace of mind when multiple threats, such as hackers, exist. “Make sure you are protected with best-in-class security capabilities, with well-defined policies and governance around who can access the data as well as the ability to audit what they do with it,” says Wignall.
+
+He adds that Azure offers a full set of built-in security capabilities with products such as Microsoft Defender for Cloud, a cloud native cybersecurity platform. Meanwhile, Microsoft Purview offers unified data governance, allowing users to map their data landscape and ensure their data complies with rules and regulations.
+
+View image in fullscreen Generative AI will help designers and engineers with rapid prototyping. Photograph: Westend61/Getty Images
+
+4 Decide what functions or tasks to use AI for
+
+With the infrastructure, data and security in place, businesses can move on to deciding the best uses for AI – whether to automate office processes, extract insights from data, handle copywriting or a range of other tasks.
+
+Over the past five years, general AI has offered what are known as “cognitive services” such as data analytics and product recommendations.
+
+Generative AI takes the technology to a new level. With a few keystrokes, users can create content such as reports, adverts, images, copy, automatic emails and personalised connections with users.
+
+Generative AI can also analyse a large selection of documents, call centre logs or financial results and summarise the information in a short precis.
+
+Microsoft is building a range of AI capabilities into its workplace tools through Copilot, which combines AI with applications such as Word, Excel and Teams – for instance, automatically summarising the main points of a Teams meeting.
+
+Another area that can be enhanced by generative AI is rapid prototyping, where designers and product engineers can develop their ideas in days or hours rather than weeks or months.
+
+5 Put in place responsible AI policies
+
+Once a company puts these steps in place, its AI strategy is ready for rollout. But before launch, the business should make sure it has implemented responsible AI policies throughout. The business must make sure that the AI is not embedding bias, that it has adequate governance around its use, that it is being used ethically and does not produce unexpected or unwanted results.
+
+Microsoft provides responsible AI policy guidance and offers tools to check for bias, ensure inappropriate data is excluded and run sentiment checks that vet the output. Ultimately, though, it is essential the business makes sure responsible AI policies are in place.
+
+With many organisations just setting out on their AI journey, Wignall sums up the thinking that businesses should adopt when considering AI: “Urgency is key. Partnership is key. Cloud is key. Prioritise the business benefits that matter to your organisation. And get started today.”
+
+Read more

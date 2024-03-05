@@ -1,0 +1,49 @@
+Three robots are growing vegetables on the roof of the University of Melbourne’s student pavilion. As I watch, a mechanical arm, hovering above the crop like a fairground claw machine, sprays a carefully measured dose of water over the plants.
+
+The greens themselves look fairly terrestrial – cos lettuce, basil, coriander and moth-eaten kale – but they are actually prototypes for a groundbreaking research mission to grow fresh food in outer space.
+
+The project leader, Prof Sigfredo Fuentes, leans over and picks a tiny caterpillar from a kale leaf. “We had a real plague of cabbage moths last week, but it’s OK; the kale’s just here to distract them from the other vegetables.”
+
+Prof Fuentes is part of the wonderfully named Australian Research Council Centre of Excellence in Plants for Space – a seven-year collaboration between five Australian universities – which has partnered with 38 organisations, including Nasa, to crack the code of fresh, nutritious “space food”. That’s food that isn’t thermostabilised (where heat is used to destroy harmful organisms), irradiated or served in freeze-dried packets. “You’ve seen The Matrix, yeah?” Fuentes says. “The gruel they eat on the ship? That’s kind of what we’re dealing with up there.”
+
+View image in fullscreen Specially-designed robots tend to vegetables being grown for the ‘plants in space’ project. Photograph: Penny Stephens/The Guardian
+
+Space gruel might be OK for short voyages, but with Nasa planning to send crewed missions to the moon and Mars in the next couple of decades, it’s falling to scientists to find a better solution. In other words, to grow food in space. Potentially indefinitely.
+
+“You have to think in terms of time and weight. Mars is a three-year round trip. Each astronaut is allotted about 850kg on the spacecraft, and that includes all food, gear, everything!” Fuentes says. “We need to find a way to make food not only healthier and tastier, but also recyclable, more sustainable.”
+
+Problems also arise when people have to eat the same thing, even a small rotation of similar things, over and over again. Studies show that diversity of food is very important for astronauts. Menu fatigue, particularly when you’re living in a metal box floating in existential darkness, can lead to appetite loss, shrinking body mass, nutritional deficiencies and other issues.
+
+To solve this riddle, the University of Melbourne team – which includes Dr Claudia Gonzalez Viejo and Dr Nir Lipovetzky – are using open-source robotic farming machines called farmbots and a combination of digital sensors, AI and facial analysis to measure how food grows in certain conditions, and how microgravity affects our experience of eating it.
+
+View image in fullscreen Guardian Australia reporter James Shackell tries out the project’s zero-gravity chair, which simulates microgravity positions. Photograph: Penny Stephens/The Guardian
+
+Each farmbot can be programmed to plant seeds, then irrigate them efficiently, harvest crops, spray for disease, and even record things such as temperature and growth rates. Lipovetzky wanders over and hands me a delicate circuit board that looks very expensive. I try not to drop it. “This is our e-nose,” he says. “It can ‘smell’ different aroma profiles given off by the plants. Combined with the soil sensors on the farmbots, it lets us see exactly what each plant needs at any given time.”
+
+“The idea is to make everything automated for long-term missions,” adds Fuentes. “Imagine a smart fridge in space, where everything is grown and extracted from plants, even stuff like antibiotics, painkillers and plastics. [The e-nose] can sense when inventory is running low, then start growing the food and materials automatically. The astronauts won’t need to be agronomists – everything is covered using AI.”
+
+The team is even looking at 3D-printed food made from organic materials, as well as microencapsulation. “Like Willy Wonka’s three-course-meal-in-a-candy, you know?” Fuentes laughs. “We can now release different flavours using microencapsulation, and each aroma or taste will arrive on your tongue at a different time.”
+
+View image in fullscreen Cutting-edge digital technologies and AI are being used to create innovative food solutions. Photograph: Penny Stephens/The Guardian
+
+View image in fullscreen Astronauts won’t need to be agronomists to produce fresh salad vegetables – space farming will be done by AI. Photograph: Penny Stephens/The Guardian
+
+Wonka-style pill meals are still being researched, although Nasa has been aware of the benefits of microencapsulation for some time. It’s hard to say when this technology will go into orbit.
+
+skip past newsletter promotion Sign up to Five Great Reads Free weekly newsletter Each week our editors select five of the most interesting, entertaining and thoughtful reads published by Guardian Australia and our international colleagues. Sign up to receive it in your inbox every Saturday morning Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Our next stop is one of the university’s “immersion rooms”: a semi-circular room with a curved wall stretching 180-degrees, on to which the team projects a rotating closeup image of the Earth taken from low orbit. In the centre of the room, bathed in atmospheric blue light, is what I’ve come here to try: the so-called “zero-gravity chair” used to simulate microgravity positions. It turns out to be less hi-tech than I’d expected – “recliner” might be a more accurate description.
+
+“Believe it or not, this is the best way to simulate the effects of microgravity while on Earth,” Fuentes says. “And it only costs, like, $100. Very good for siestas.”
+
+The chair tips me back 170-degrees, just past the point of equilibrium, and I can feel the fluid in my inner ear go “blip”. All I can see is the curvature of the Earth, slowly spinning in blackness. Then a touchscreen tablet is shoved in front of my face. This is the second half of the ARC Centre’s research efforts. To measure the sensory effect of food in space, you have to get people to eat food in space-like conditions. Today I’m trying Fuentes’ pet project: space beer.
+
+A camera on the tablet measures my blood pressure, heart rate and facial expressions as I drink Heineken upside down from a child’s sippy cup (the team’s first batch of homegrown beer is still brewing, so we’re using a commercial stand-in for today’s experiment). The whole thing is managed through a biosensor app. I record my experience on the tablet, picking from a list of emojis that seem to represent everything from mild satisfaction to abject terror.
+
+View image in fullscreen Researchers hope to test how astronauts will react to food grown this way. Photograph: Penny Stephens/The Guardian
+
+The team will use this data to help build algorithmic models – so-called digital twins – that could predict how humans will react to certain plant-based foods in space. Not just how they taste, but the feelings and emotions they generate in the people who eat them. Hopefully, this data will be fed to Nasa’s Artemis program for long-term missions to the moon and Mars.
+
+It’s hard to say exactly when we will see the fruits, so to speak, of the team’s labour in space – interstellar agronomy isn’t something you want to rush – but the project has seven years to collect its findings and test various plants’ performance. This should sync nicely with Nasa’s timetable – the US government agency is looking to send crewed missions to Mars as early as next decade.
+
+Fuentes says it’s not just about nutrition. “One of the plants we’re working with is strawberries. Their aroma can generate an emotional response, which is very important for astronauts … In the darkness, strawberries smell like home.”

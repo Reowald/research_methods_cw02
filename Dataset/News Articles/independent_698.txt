@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Alex Albon’s Williams boss James Vowles has issued a hands-off warning to both Mercedes and Red Bull after revealing his star driver is under contract for next season.
+
+Lewis Hamilton’s shock move from Mercedes to Ferrari for 2025 has set Formula One’s transfer market into overdrive, with the London-born Albon mooted as a possible replacement for the seven-time world champion.
+
+Albon, 27, has also been linked with a return to Red Bull, with Sergio Perez’s contract due to expire at the end of the year.
+
+But speaking at Williams’ season launch, team principal Vowles said: “Alex is signed with Williams until the end of 2025.
+
+“It is not something I have been very public about because I have not felt the need to.
+
+“It is our job at Williams to create an environment that deserves someone of the calibre of Alex. He is an incredible driver that deserves his place towards the front of the grid.
+
+“Some of his drives last year were no different to other champions I have worked with in the past.
+
+“He and I have good chats about how we want to move forward, and how we want to move forward is by having our journey together in this team for a long time.
+
+“But would I stand in Alex’s way? I have the responsibility of Williams on my shoulders and that is the most important thing to me, not the responsibility towards one individual, in this case Alex, but to the team.”
+
+Albon finished last year with an impressive 27 points to help Williams land seventh in the constructors’ championship, the team’s best result for six seasons.
+
+He was dropped by Red Bull at the end of 2020 but the world champions still hold him in high regard.
+
+Asked if Vowles’ revelation means he will remain with Williams for at least the next two seasons, Albon said: “Let’s see. Time will tell.
+
+“The real focus is on 2024 and making progress for 2025. That is where I am at.
+
+“If the team is where I want them to be, it will be a long-term contract and we are going to go all the way or nothing.”
+
+Meanwhile, F1 bosses have confirmed a rejigged running order for the six sprint weekends this season.
+
+Qualifying for the sprint will now take place on Friday, with the grid for Sunday’s grand prix decided on Saturday following the shortened race.
+
+The new season starts in Bahrain on March 2.

@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A US spacecraft involved in the first American attempt to land on the Moon in more than 50 years is headed back down to Earth, its maker said.
+
+The private mission by Pittsburgh-based space company Astrobotic, dubbed Peregrine Mission One, set off from Earth last Monday and was schedueld to land on the lunar surface on 23 February.
+
+But a fuel leak sealed its fate, and about 30 hours after launch the company admitted the spacecraft had “no chance” of achieving a soft landing on the Moon.
+
+In its latest update on the spacecraft, the firm said it was “on a path towards Earth” and that it would “likely” burn up on re-entry.
+
+“Our latest assessment now shows the spacecraft is on a path towards Earth, where it will likely burn up in the Earth’s atmosphere,” Astrobotic posted on X, without sharing much information on when the re-entry is expected to happen.
+
+“We have been evaluating how best to safely end the spacecraft’s mission to protect satellites in Earth orbit as well as ensure we do not create debris in cislunar space,” the company said in a blog post on Monday.
+
+The Peregrine spacecraft – the first ever private US Moon lander mission – has been in space for over six days and continues to leak propellant, according to Astrobotic, which said its teams were “working tirelessly” to stabilise the vehicle.
+
+After the probe was hit by an “anomaly” which caused the fuel leak, the company’s engineers oriented the spacecraft towards the Sun so that its solar panel could absorb sunlight and charge its battery.
+
+NASA Delays Artemis III Moon Landing To 2026 Amid Tech Hurdles
+
+The spacecraft, now about 376,600 km (234,000 miles) away, will soon re-enter Earth’s atmosphere, the company said, adding that it is working with Nasa and the US government to evaluate the vehicle’s controlled re-entry path.
+
+“We do not believe Peregrine’s re-entry poses safety risks, and the spacecraft will burn up in Earth’s atmosphere,” the firm said in a blog post.
+
+“We will continue to operate the spacecraft and provide status updates through the end of the mission,” it said.

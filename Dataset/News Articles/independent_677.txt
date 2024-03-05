@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Red Bull senior advisor Helmut Marko has broken his silence over the Christian Horner investigation.
+
+The F1 team’s boss is being investigated by Red Bull Racing’s parent company Red Bull GmbH over alleged behavioural grounds.
+
+There is very little detail surrounding the complaints, with Horner strongly refuting all allegations made against him.
+
+The 50-year-old attended a hearing in London last Friday, meeting with the external barrister appointed by Red Bull GmbH.
+
+And Marko has reiterated that there is an “ongoing process,” though the Briton is on the ground in the factory at Milton Keynes.
+
+As the F1 2024 campaign draws closer, Marko was quoted by OE24 on Horner’s situation and whether he will attend the RB20 launch.
+
+“I can’t tell you that and I can’t say anything else on this subject,” Marko told OE24.
+
+“As long as the investigation is ongoing or there is no result, you won’t hear anything from me. It is an ongoing process.”
+
+However, Marko has also provided a confident outlook for the team ahead of the season opener in Bahrain on 2 March, despite expectations that Mercedes, Ferrari and even McLaren could provide a tougher challenge this season.
+
+He added: “Fortunately, our car is ready and we are well prepared.”

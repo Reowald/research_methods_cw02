@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Most next-generation gaming talk is focused on the Xbox series X and PlayStation 5, but we’ve always admired just how affordable the cut-price Xbox series S is – and now it’s cheaper than ever.
+
+Thanks to a sale at Very, the Xbox series S can be snapped up for £224 (Very.co.uk), which is a saving of £25 compared with the regular retail price. What’s more, the deal is for the console on its own and not as part of a pricier bundle.
+
+We think that’s a fantastic price for a console that can play the same games as its larger Xbox series X sibling, and the Very deal also includes free click-and-collect.
+
+Although more than £200 cheaper than Microsoft’s Xbox series X flagship, the series S includes the same features, such as ‘quick resume’ for starting games instantly, right where you left off, plus support for Dolby vision and Dolby true HD with atmos, four terraflops of processing power, and support for 4K streaming.
+
+Keep reading the article below for more information on how to pick up an Xbox series S at a discounted price.
+
+Xbox series S: Was £249, now £224, Very.co.uk
+
+(Amazon)
+
+CPU: 8X Cores @ 3.6 GHz (3.4 GHz w/SMT) Custom Zen 2 CPU
+
+8X Cores @ 3.6 GHz (3.4 GHz w/SMT) Custom Zen 2 CPU GPU: 4 TFLOPS, 20 CUs @1.565 GHz Custom RDNA 2 GPU
+
+4 TFLOPS, 20 CUs @1.565 GHz Custom RDNA 2 GPU Memory: 10GB GDDR6 128 bit-wide bus
+
+10GB GDDR6 128 bit-wide bus Storage: 512GB Custom NVME SSD
+
+512GB Custom NVME SSD Resolution: 1,440px up to 120 frames per second
+
+The Xbox series S is far more compact that the series X, while supporting the same Xbox ‘velocity’ architecture for next-generation games, and hardware-accelerated DirectX raytracing for lifelike in-game lighting.
+
+Games can be played at a frame rate of up to 120fps, just like the Xbox series X, and the cheaper console has the same access to more than 100 high-quality games when you subscribe to Xbox Game Pass Ultimate. Or you can buy your games one by one (the old fashioned way) and download them to the console.
+
+Differences between the series S and series X include the fact the former does not have a disc drive, and at 512GB its storage capacity is half that of the series X. The cheaper console also misses out on 4K gaming, as it instead plays games at a resolution of 1,440px. That said, it can still stream movies and TV shows in 4K from services such as Netflix (with a relevant subscription, of course).
+
+Simply put, this is the cheapest way to get into next-generation gaming, and would serve as a great upgrade for those still using a previous-gen Xbox one, without costing anywhere near as much as the Xbox series X or PS5.
+
+Buy now

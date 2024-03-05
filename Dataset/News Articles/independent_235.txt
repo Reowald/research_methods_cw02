@@ -1,0 +1,57 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Sales of retirement annuities reached a post-pension freedoms high last year, according to the Association of British Insurers (ABI).
+
+Annuity sales soared in 2023 with a total sales value of £5.2 billion, a 46% increase compared with 2022, the association said.
+
+This is the highest annual value since 2014, when the pension freedoms were announced which granted retirees more flexibility over how to access their retirement savings.
+
+The freedoms, which came into force from 2015, gave over-55s a range of options over how to use their defined contribution (DC) pension pot. Generally, people can take up to 25% of their pension as a tax-free lump sum.
+
+Securing a guaranteed income for life remains an important part of the mix of options for people to consider at, and during, retirement Rob Yuille, ABI
+
+Before the freedoms, many would have bought an annuity, which provides retirees with a guaranteed income. Annuities had become controversial because of disappointing rates and concerns that not enough people were shopping around to get the best deals for their needs.
+
+The ABI suggested strong sales reflected higher interest rates, as more people have been looking to secure a reliable retirement income.
+
+Last year included a bumper fourth quarter which saw £1.5 billion in annuity sales, off the back of a strong third quarter when sales totalled £1.4 billion, the ABI said.
+
+Level-only annuities, which pay the same income every year but can be vulnerable to inflation, remained the more popular version of the product, the ABI said. This type of annuity has a higher starting income than an escalating annuity – which provides an income that increases every year.
+
+Last year also saw nearly two-thirds (64%) of annuity buyers shop around – taking an annuity from a different provider from the one they held their pension savings with.
+
+However, only 29% of customers who bought an annuity did so with the help of professional advice.
+
+Rob Yuille, head of long-term savings policy at the ABI, said: “Securing a guaranteed income for life remains an important part of the mix of options for people to consider at, and during, retirement, and it’s great to see more people taking advantage of the protection they have to offer.
+
+“It is also encouraging to see more people exploring the market to secure a higher income.
+
+“However, we’d like to see more people taking advantage of professional advice and new forms of targeted support for consumers to ensure they can enjoy the best possible retirement.”
+
+While people can always consult a financial adviser to help them start to make decisions around which annuity types are most suitable for their needs, there is also free impartial guidance available from Pension Wise, a service from MoneyHelper Pete Cowell, Standard Life
+
+Stephen Lowe, group communications director at retirement specialist Just Group, said: “It’s good to see the majority are finding their way to the best deals which is a significant improvement on the past, but there are too many people still missing out.”
+
+Pete Cowell, head of annuities at Standard Life, part of Phoenix Group, said: “Annuities have benefited from rising interest rates and it’s clear that customers and advisers are responding to this, and seeing the benefits of having a guaranteed income as part of the wider mix of retirement income solutions.”
+
+He added: “While an annuity cannot be changed once it’s set up, there are various annuity options available and different ways annuities can be used. Annuities can also be purchased in stages throughout retirement or later in life, to help combat the effects of inflation on hard-earned savings.
+
+“Average annuity rates are currently over 6.6% for a healthy 65-year-old (a £50,000 pension pot with no additional benefit features) and people should remember the importance of shopping around when looking for the best rate.
+
+“While people can always consult a financial adviser to help them start to make decisions around which annuity types are most suitable for their needs, there is also free impartial guidance available from Pension Wise, a service from MoneyHelper.”
+
+Sir Steve Webb, a former pensions minister who is now a partner at consultants LCP (Lane Clark & Peacock), said: “Whilst pension freedoms rightly gave people choice about whether to buy an annuity, it remains the case that the certainty of an annuity will be the right answer for some people.
+
+“In particular, managing a pension drawdown pot into your 70s and 80s is likely to be increasingly challenging, especially when you have little idea how long the pot needs to last.
+
+“For many people a mix of the flexibility of drawdown and the security of an annuity is likely to be a good outcome, especially with improved annuity rates, so it is welcome to see renewed interest in these guaranteed income products.”
+
+Helen Morrissey, head of retirement analysis at Hargreaves Lansdown said: “Annuities had a bumper year in 2023 hitting £5.2 billion in sales according to the ABI. It marks a year where this product once relegated to the sidelines took centre stage once more as soaring interest rates pushed incomes skyward.
+
+“Annuities should always be part of the discussion when you need a level of guaranteed income in retirement but their reputation for being inflexible and offering poor value for money put many people off.
+
+“However, as interest rates soared so did annuity incomes. In the aftermath of the mini-budget they hit a peak of £7,586 per year for a 65-year-old with a £100,000 pension according to data from HL’s (Hargreaves Lansdown’s) annuity search engine.
+
+“They’ve since pulled back a little – the same person can get up to £7,117 – but they still offer good value so we can expect interest to remain high.”

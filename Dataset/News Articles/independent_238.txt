@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Drivers can slash the cost of their car insurance premiums by having a single year of no-claims discount, new data has revealed.
+
+Car insurance premiums drop by £745 after one year of no-claims discount, according to new research from comparison site Compare the Market. Furthermore, premiums also fall considerably in the second year of no-claims, dropping by £354 and by £219 in the third year.
+
+Drivers who make no claims over an ‘extended’ period could experience significant savings, too, with the price difference in insurance premiums for drivers without no claims compared to those with ten years of no claims being £1,772 on average.
+
+Though Compare the Market does say that a number of factors influence premium costs – including the driver’s age and address, the make and model of the car and the keeper’s annual mileage – having a no-claims discount could make an ‘additional’ difference to the cost of cover.
+
+Julie Daniels, motor insurance expert at Compare the Market, comments: “The easiest way to check your no claims discount policy is to look at the documentation provided by your insurer, which may have been sent in the post or might be available online.
+
+“If you cannot find the details in your renewal notice or other paperwork, you may wish to get in touch with your provider directly.”
+
+The average quoted price of motor insurance jumped by 67.2% in the year to November, according to Consumer Intelligence (Ben Birchall/PA) (PA Archive)
+
+Rising insurance costs have rocked motorists, with Compare the Market’s data showing that coverage has increased by £546 – or 54 per cent – year-on-year for drivers with one year of no claims. This carries on to increases of £441 for drivers with two years of no-claims and £342 for those with three years. Drivers with ten years of no-claims bonus have experienced a rise of £186 for their premiums on average, too.
+
+Earlier this year Research group Which? revealed why some drivers are paying hundreds more for their car insurance.
+
+The consumer group used data from comparison website Go.Compare to find the average difference between prices paid by annual and monthly customers between December 2018 and September 2023.
+
+Motor insurance customers who buy cover monthly can end up paying hundreds of pounds more than those who pay for policies annually – and the gap appears to be growing in cash terms.
+
+Younger motorists, who often pay the highest premiums, may be more likely to pay monthly
+
+In September 2023, those paying monthly for an annual policy faced paying around £309 more on average over the year than those paying in one go, according to the research.
+
+The average annual cost of monthly payments was £892, while the cost of paying annually in one go was £583.
+
+In September 2022, the average gap was £251 (£738 for monthly payments versus £487 for paying annually).
+
+In December 2018, the typical gap was £207 (£460 for paying annually versus £667 for paying monthly).
+
+Younger motorists, who often pay the highest premiums, may be more likely to pay monthly, Which? said.

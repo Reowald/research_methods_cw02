@@ -1,0 +1,209 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Whether you’re gliding down a sweeping staircase, sipping cocktails on the terrace or reclining for post-dinner drinks, a night in a country house hotel is an easy way to inject some glamour and relaxation into your life.
+
+But not all manor house hotels are created equal. Some offer luxurious, cosseting experiences, like facials, spa treatments and full-body massages, or five-star services like valet parking, where your car (no matter how messy it is) is spirited away the second you step from it. Others are smaller and more affordable – family-run perhaps – with access to great walking and fine food.
+
+At most country house hotels you can expect period features, a fireplace or two, a good-quality restaurant, gardens to explore and a fabulous rural location.
+
+Here, we select our favourite manor house hotels across England, Scotland, Wales and Northern Ireland for different types of breaks in the UK, for everyone from couples to families.
+
+The best country and manor houses in the UK are:
+
+Best manor house hotels in England
+
+Best for five-star luxury: Lime Wood Hotel
+
+Location: Hampshire
+
+Pavillion 1 Bedroom, Lime Wood Hotel (Jake Eastham)
+
+Covered in wisteria, Lime Wood Hotel leaves guests staying in its 33 bedrooms feeling thoroughly spoiled. Set in the heart of the New Forest, the multi-level spa has sylvan views from all angles, including from the sauna. There is a lap pool indoors, while outside is a steaming hot pool with loungers and a rooftop herb garden to relax in. Dine on dreamy Italian food from celebrity chef Angela Hartnett or try the Raw & Cured food bar for something different. Admire the black-and-white floor tiles from a bar stool in the courtyard or retire to one of a range of sumptuous suites, including a lakeside cabin.
+
+Doubles from £405.
+
+Book now
+
+Best budget escape: Tickton Grange
+
+Location: Yorkshire
+
+Tucked away in Yorkshire’s rolling hills (Tickton Grange)
+
+Located in the gently rolling hills of the Yorkshire Wolds, this ivy-clad mansion has neat Georgian proportions, sweeping lawns and little luxuries like Bramley toiletries, all at an affordable price. The house is family-run and service has a personal touch. The 21 bedrooms are spread over the main house, former stables and cottages. Modern country house interiors feature statement chairs and patterned neutrals. The hotel restaurant serves local produce with panache, while the lounge bar has button-back chairs by the fireside for a nightcap. Outside lies 20 acres of gardens and woodland.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for romantic couples retreats: Gilpin Hotel & Lake House
+
+Location: Cumbria
+
+Gilpin Hotel Spa Lodge (Gilpin Hotel & Lake House)
+
+This country house has been modernised and extended to offer extra luxury, privacy and a spa, which suits couples looking for a boujie escape. You’ll still find roaring fires and Georgian windows in the main house but Scandi-style cabins dot the grounds and an entire wing of suites have their own hot tubs. Lake Windermere is nearby for romantic strolls, but Gilpin also has a further six bedrooms in its Lake House, set a mile away beside a private lake with its own spa. The hotel has three new restaurants to try, so couples have plenty of options for intimate dinners together.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Gilpin Hotel & Lake House here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for families: Woolley Grange
+
+Location: Wiltshire
+
+The swimming pool at Woolley Grange is a big hit with kids (Woolley Grange)
+
+From the partly free drop-in creche to the heated outdoor pool, cinema room and garden games, this multi-gabled mansion offers lots for families. Set between Bradford-on-Avon and Bath, the house feels more “lived-in” than others. But nearly all rooms are large enough to take extra beds. Parents can escape for a treatment in the spa or the whole family can swim in the indoor pool. The sitting room is a handsome spot, with its ornate ceiling and large fireplace. Or pause for a cocktail on the terrace, while the kids whoop from an impossibly tall tree swing nearby. In summer, safari tents with full bathrooms, decking and proper beds set up camp alongside a pop-up pizzeria.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Woolley Grange - A Luxury Family Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for history: The Grove Hotel
+
+Location: Hertfordshire
+
+The Grove Hotel, Hertfordshire (The Grove Hotel, Hertfordshire)
+
+This Grade II-listed mansion is a fascinating place, where fragments of Bronze Age pottery were once found. In the 18th-century, the artist George Stubbs created his popular horse paintings in the stables. Out by the terrace, the black walnut tree grew from a sapling presented by Captain Cook; in the 1800s ,the house was a destination for weekending aristocrats and Queen Victoria. Following a mammoth restoration 20 years ago, there is now a spa and golf course set within 300 acres, plus five restaurants, including the gorgeous Glasshouse. The ghost of a lord on horseback apparently still chases foxes through the grounds...
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best spa hotel: Lucknam Park
+
+Location: Wiltshire
+
+The spa pool is a treat (Lucknam Park)
+
+The spa is the ultimate treat at this Palladian mansion and equestrian centre. Flames flicker in a bank of polished stone alongside a serene 20m indoor pool. Exit via swim-through doors to enjoy a quietly bubbling hydrotherapy pool with views onto trees. Therapists offer the very latest treatments from 111SKIN – expect a sauna, steam room and Japanese salt room. Eat at the adjacent brasserie or, for a more formal splurge, at the Michelin-starred restaurant Hywel Jones. Rooms have a historic feel, with smatterings of four-poster beds and fireplaces. New, high-spec cottages in the grounds are a private option for groups.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Lucknam Park Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best gardens: The Newt
+
+Location: Somerset
+
+Hadspen House’s glorious gardens include an orchard maze (The Newt)
+
+Wrapped in gardens that include an orchard maze, a gardening museum, an apiary, deer park and a treetop walkway, honey-stone Hadspen House, renamed as The Newt, is an indulgent retreat. Facilities at the mansion near Bruton are top-notch. The main restaurant is accompanied by a contemporary garden eatery and there are tasting tours of the hotel’s cider house. The rustic-chic, brick spa is centred on an indoor-outdoor pool and features a hammam. There is another pool at the Farmyard, a converted dairy farm with all-day dining and more rooms half a mile away (bikes are provided). The hotel recently unveiled a Roman villa on its grounds, making it the ideal spot for your inner archaelogist.
+
+Doubles from £520.
+
+Book now
+
+Best manor house hotels in Wales
+
+Best for countryside walks: Palé Hall
+
+Location: Powys
+
+A handy base for romps in Dee Vally or Snowden (Palé Hall)
+
+On the eastern fringe of Snowdonia National Park, this imposing and attractive hall makes a handy base for romps in the Dee Valley or ascents of Snowdon. Bala Lake is nearby, where there are watersports to occupy your attention. The hotel is part of the Relais & Chateaux group and the restaurant holds a Michelin green star for sustainable, gourmet dining. Follow a grand, wood staircase up to 18 tasteful bedrooms, with heritage beds and furniture, opulent curtains and prettily patterned wallpaper. Grand rooms have fabulous views; the Llangollen room features an elegant slipper bathtub. The grounds roll down to meet a river and contain four garden suites.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best manor house hotels in Scotland
+
+Best dog-friendly hotel: Forss House Hotel
+
+Location: Thurso
+
+Miles of forest, riverside and coastal walks are accessible from this Highland home from home (Forss House)
+
+Facing a bend in Forss Water, Forss House is located in the rugged northern Highlands. Miles of forest, riverside and coastal walks are reached from its doorstep. Three room types are suitable for dogs and, for £15, each will get a doggy bed and special treats. Pooches are even welcome to eat with guests in the conservatory, where food from the two AA rosette restaurant is served. The hotel is remote enough for northern lights spotting. Indoors, the 14 bedrooms feature cushioned or wood-panel headboards and the best bathrooms have marble tiles and freestanding, rolltop baths.
+
+Doubles from £89.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best manor house hotels in Northern Ireland
+
+Best by the sea: Slieve Donard
+
+Location: Newcastle, Northern Ireland
+
+There’s a baronial Scottish air about this red-brick beatuy (Slieve Donard)
+
+With the Mourne Mountains as a backdrop and beside a long slither of beach, Slieve Donard is an impressive pile, with a baronial Scottish air about its red-brick turrets. The hotel was built by the railway as an “end-of-the-line” destination, opening in 1898. Charlie Chaplin stayed in 1921 and the bar is named after him. Now, there is an acclaimed golf course and an inviting indoor spa pool with floor-to-ceiling windows facing the beach and mountains. Some of the rooms have sea views and afternoon tea is served downstairs. Some of the restaurants are being refurbished this spring but diners have a wide choice available.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:

@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+India’s first mission to observe the Sun from space achieved an important landmark on Saturday, with the Aditya-L1 spacecraft reaching its destination about one-tenth of the way between the Earth and our nearest star.
+
+“I’ve safely arrived at Lagrange Point L1, 1.5 million km from my home planet. Excited to be far away, yet intimately connected to unravel the solar mysteries,” Isro’s Aditya-L1 account posted on X.
+
+The spacecraft successfully entered into a halo orbit around Sun-Earth Lagrange Point 1 (L1) at 4pm India time (10.30am GT) on Saturday, prime minister Narendra Modi announced.
+
+At L1, the spacecraft will be able to maintain its position relative to the Sun and Earth without expending energy, held in perfect balance between the two celestial bodies’ gravitational fields.
+
+“India creates yet another landmark. India’s first solar observatory Aditya-L1 reaches it’s destination,” Mr Modi posted on X.
+
+“It is a testament to the relentless dedication of our scientists in realising among the most complex and intricate space missions. I join the nation in applauding this extraordinary feat,” he added.
+
+The Aditya-L1 spacecraft was launched from India’s main space centre Sriharikota on 2 September, just days after Isro made history by landing a probe on the Moon’s south pole.
+
+The L1 vantage point, which is about 1.5 million km from Earth, will allow the satellite to maintain an uninterrupted view of the Sun and study solar winds and other processes on the star’s surface.
+
+Isro plans to keep the spacecraft trapped in orbit in the L1 point, only occasionally performing manoeuvres to hold it in place if required.
+
+ISRO & SpaceX Join Forces For GSAT-20 Satellite Launch
+
+The probe carries with it seven scientific payloads developed by Isro and a number of domestic research institutes, including the Indian Institute of Astrophysics (IIA), Bengaluru, and the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune.
+
+Using data from the payloads, scientists will study the Sun’s different layers including its photosphere, chromosphere, and the outermost corona layer, providing insights into the effect of solar radiation on satellites in orbit.
+
+Previous studies have shown that energy particles emitted by the Sun in the form of solar storms can hit satellites circling Earth, sometimes causing communication blackouts.
+
+Since various forms of radiation do not reach the surface of the Earth, they cannot easily be studied by instruments on the planet’s surface.
+
+However, such studies can be carried out in space, using satellites far outside the Earth’s atmosphere.
+
+So far, Isro has performed several health checks on the payloads aboard the Aditya-L1 mission spacecraft and found them to be in optimal working condition.
+
+Saturday’s manoeuvre comes following a year of several successful missions by Isro, including the launch of the country’s first dedicated probe to study black holes.

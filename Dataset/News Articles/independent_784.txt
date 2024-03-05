@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Facebook has gone down, according to thousands of its users.
+
+Problems appeared to be spread across the world, with users in a variety of countries reporting problems.
+
+Users reported seeing a blank white page instead of the familiar news feed.
+
+Some reported that they were able to get online through the app version of the social network, rather than the website.
+
+The issues began around lunchtime in the UK, according to tracking website Down Detector.
+
+Unlike many other websites and services, Facebook and Meta do not run a devoted server status page to track outages. The company does have a business focused update page – which tracks the “Status and outages of Meta business products” – but that only showed problems with the Meta Business Suite that meant that advertisers were struggling to send inbox messages on Instagram.
+
+Facebook outages are often brief and the company rarely comments on them before they are resolved. But there are notable exceptions: in 2021, for instance, Meta products were hit by a huge outage that took services offline for hours.
+
+Later, Meta said that was the result of a single wrong command that had been used during a “maintenance job”. It was part of an attempt to fix the “backbone” that connects Facebook’s data facilities together.
+
+“During one of these routine maintenance jobs, a command was issued with the intention to assess the availability of global backbone capacity, which unintentionally took down all the connections in our backbone network, effectively disconnecting Facebook data centres globally,” said Santosh Janardhan, Facebook’s vice president of engineering and infrastructure, then.

@@ -1,0 +1,41 @@
+A pioneer in the insurance comparison industry, today, Confused.com serves millions of consumers a year, helping them find the best prices to protect the things they love, power their homes and finance big purchases. At a time of rising living costs and economic uncertainty, consumers are increasingly seeking informed, trusted advice that enables them to make confident financial decisions. According to Mintel, 73% of UK adults have used a financial comparison website within the past year as they strive to find the best deals on financial products quickly and easily.
+
+In such an aggressive and fast-moving sector, Confused.com must continually deliver a superior customer experience to maintain its competitive edge. This relies on understanding exactly what customers need and why, to ease anxiety so often associated with financial decisions. Being truly customer-centric is reliant on optimising data, as Nick Sharp, director of data and technology, Confused.com, explains: “Delivering a seamless customer journey, enabling real-time interactions, personalised experiences, and offering a range of tooling beyond the price comparison itself is all about being data-led. It’s about making decisions based on data insights.”
+
+Confused.com’s traditional in-house data framework was frustrating this ambition. “When you have an on-premises infrastructure and simple integrations, you are dealing with silos,” says Sharp. “We wanted to bring that together to deliver a more cohesive customer journey. Making financial decisions can be overwhelming – our aim is to reduce that burden as much as possible.”
+
+This need prompted the company to seek help from long-term partner Microsoft, which also works with many of Confused.com’s partners, giving it peace of mind that the technology company understood how it wanted to enhance customers’ experience. Confused.com chose to migrate to Microsoft’s cloud computing platform, Azure, a solution that enables it to manage and store its data securely, as well as giving it access to multiple applications, services and tools. “Microsoft’s maturity and range of assets made it appealing,” says Sharp. “The cost element was important too, as well as the huge support offered by Microsoft, which made it a very easy six-month migration.”
+
+The migration to Azure, and becoming cloud native, has initiated a culture shift at Confused.com, putting technology at the forefront of the business and allowing it to innovate and challenge the market. “It focused minds on how technology could enable us to go beyond delivering the basic service and actually scale up what we were doing, helping us to derive greater insight and make a bigger difference to customers,” says Sharp. “It has empowered us to position ourselves as thought leaders, and that mindset is driving success.”
+
+Considering Confused.com’s panel of partners was key to the decision. The company’s motor panel alone currently has more than 150 providers, and the numerous data feeds between customers and partners need to be robust and fast. “That was a driving factor for choosing Azure, as well as the ability to experiment, and scale,” says Sharp. “It was also about leveraging cloud technology and Azure’s out-of-the-box and customisable solutions.”
+
+As Sharp says: “If we get the right message to the right customer at the right time, they are so much more likely to buy.” It was this need to deliver exactly what the customer is looking for at any given moment that also attracted Confused.com to Azure. Its generative AI enables companies to quickly build intelligent apps and scale them, training them to work with its customer data. “That is really where we’re seeing the uplift,” says Sharp.
+
+View image in fullscreen View image in fullscreen Migrating to the Azure platform has freed up staff to work on the ‘more gnarly stuff’, rather than repetitive tasks
+
+For Confused.com, the technology has supercharged its marketing, improving spend by 10% through data enrichment and personalised offers and recommendations. “That relevance to customers shows we’re getting things right.”
+
+Sharp adds that the integration of AI aligns with the company’s commitment to being a customer champion. “By leveraging AI for personalised services and gaining insights into customer needs, we can continue disrupting the insurance industry for the benefit of our customers.”
+
+After all, people visit Confused.com seeking advice and reassurance. “For example, can we make any recommendations based on the information a customer has provided? If they are actively telling us they are interested in a product, or if there are any nuances we can respond to, we can be extra helpful,” says Sharp. “It allows us to anticipate what customers need and potentially save them even more time and money by alerting them to the most relevant product at the right time and at competitive prices.”
+
+A key part of elevating technology to a more central role was using Azure’s AI capability to automate, freeing employees from repetitive tasks to focus on what Sharp describes as “the more gnarly stuff”. He says: “We can tackle the problems that haven’t been solved for customers – that’s where we can really add value – making that content relevant and personalised, and unearthing insights.”
+
+Sharp adds that the impact of Azure goes beyond the company’s technologists. “All of our employees benefit from AI – ultimately it helps them to do their job better, spending more time helping customers to save money, and adding greater value.”
+
+View image in fullscreen ‘It’s a gamechanger knowing we don’t have to build everything ourselves,’ says Sharp
+
+While use of Azure’s AI tools doesn’t remove the need for human input, Sharp says it is hugely valuable for generating ideas and starting conversations, as well as improving efficiencies. “It allows us to worry less about the infrastructure provisioning and scaling because that is all taken care of. Both AI and the cloud keep us operating at speed and meeting customer demand – that is where it matters and where we want our team spending their time.”
+
+Since implementing Azure, Confused.com has reduced its analytics lead time by 50%, thanks to improved availability, speed, and richness of data, which is driving informed decisions. This benefits customers directly. “Customers rely on us for timely data products and services, they are not just simply getting a price,” says Sharp. “We are looking at the full customer journey, identifying friction points and experimenting and addressing them quickly, and we are able to swiftly respond to customer feedback.”
+
+The company’s ceaseless drive to add value to customers has also been realised by Azure, allowing the company to introduce cashback and rewards, which are customised incentives rooted in data. “We are now able to give much more back to customers and make sure the experience is optimum,” says Sharp. “That additional capability has been enabled by our migration to Azure.”
+
+Confused.com has big plans to continue building on its partnership with Microsoft and its success with Azure, and Sharp says it will carry on leveraging Microsoft’s latest off-the-shelf components and solutions to solve problems. “It’s a gamechanger knowing we don’t have to build everything ourselves or find our own solutions. We can tap into the expertise of a partner that truly understands our industry.”
+
+He adds that the “ultimate dream” is simplification of the customer journey: “The more we can remove the friction points, the closer we can get to automatic switching. It’s great from a technology stance but it’s also great from a customer stance too. With so many people feeling the pinch at the moment, where people spend their money is important. So for us, saving people time, money and allowing them to make confident decisions, at no cost to them, is now more important than ever.”
+
+Azure’s cloud and AI capabilities are playing a key role in ensuring that Confused.com remains dominant in a fierce market. “It is amazing being fully cloud native, and AI promises to be a very exciting next chapter,” says Sharp.
+
+Read more

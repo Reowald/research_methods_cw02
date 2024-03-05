@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Xbox has confirmed the first game coming to Xbox Game Pass in July – the open world shooter Far Cry 5 will join the service on 1 July.
+
+Ubisoft’s explosive adventure game joins a handful other titles already scheduled to land on Xbox Game Pass in July, and will be playable on console, PC and via the cloud.
+
+The addition of Far Cry 5 means that Game Pass continues to expand its library of top-class games, which includes some of the next-gen console’s best titles in Forza Horizon 5, Halo Infinite and Microsoft Flight Simulator.
+
+Xbox hasn’t yet released an official list of games coming to Game Pass in July. A quirk of the calendar meant that Far Cry 5’s Game Pass debut next month was listed alongside the complete list of Game Pass games in June.
+
+As always, Xbox giveth with one hand and taketh away with another. The Netflix-style rolling library of games on Game Pass means that a bunch of titles are set to disappear just as new ones begin to arrive.
+
+If you want to know which titles are leaving Game Pass in June and which games we know are coming in July, keep reading below. If the list looks a bit aneamic right now, don’t fret – Xbox has yet to properly unveil the first batch of July games. Check back with us for updates.
+
+Games coming to Game Pass July 2022
+
+Far Cry 5 – 1 July
+
+Matchpoint Tennis Championships – 7 July
+
+As Dusk Falls – 19 July
+
+Games leaving Game Pass June 2022
+
+FIFA 20
+
+Jurassic World Evolution
+
+Last Stop
+
+MotoGP 20
+
+Voucher codes
+
+If you’re looking for discounts on technology or video games then try one of these codes:
+
+Still struggling to get your hands on an Xbox series X? Follow our buying guide for the latest information

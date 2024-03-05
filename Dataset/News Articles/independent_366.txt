@@ -1,0 +1,17 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Naomi Osaka’s run at the Qatar Open ended in the quarter-finals with a narrow defeat by Karolina Pliskova.
+
+The former world number one was through to the last eight at a tournament for the first time in nearly two years following her maternity break but she could not capitalise on good starts in both sets.
+
+Instead it was Pliskova, champion at the Transylvania Open last week, who continued her winning run by triumphing in two tie-breaks for a 7-6 (6) 7-6 (5) victory.
+
+The Czech moves on to face top seed and two-time defending champion Iga Swiatek, who remained unstoppable in Doha, defeating Victoria Azarenka 6-4 6-0.
+
+Having trailed 4-3 in the opening set, world number one Swiatek raced through nine games in a row to stay on course for a third straight title.
+
+The other semi-final will be between in-form third seed Elena Rybakina and unseeded Anastasia Pavlyuchenkova.
+
+Pavlyuchenkova matched her best run at a WTA 1000 with a 7-5 6-4 win over Danielle Collins while Rybakina came from 4-1 down in the first set to defeat Leylah Fernandez 6-4 6-2.

@@ -1,0 +1,45 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Infinity Ward have announced the release date for the highly anticipated next installment in the Call of Duty franchise.
+
+Titled Modern Warfare 2, the next game is a sequel to the 2019 reboot with iconic characters such as Captain Price returning. It’s not to be confused with the original Call of Duty: Modern Warfare 2 which was originally released in 2009.
+
+The Call of Duty series is returning to a modern setting, after a brief excursion with 2020’s Call of Duty: Cold War and 2021’s Vanguard, which was set in the Second World War. Modern Warfare 2 is expected to include updates to the popular free-to-play battle royale Warzone but no detail on its release have yet been made.
+
+While the logo and name was formally revealed back in April, the developer has now officially announced its release date and fans will be pleased to know that they won’t have to wait long to get their hands on the upcoming game.
+
+If you want to know when Modern Warfare 2 is being released and what platforms the game will be available on, then keep reading the rest of the article below.
+
+When is ‘Call of Duty: Modern Warfare 2’ being released?
+
+In a video posted on the official Call of Duty YouTube channel, Infinity Ward revealed the artwork that will be featured on the game’s box.
+
+The video is captioned: “Task Force 141 makes its massive return with a global squad of iconic veterans, these Operators include Captain John Price, Simon ‘Ghost’ Riley, John ‘Soap’ MacTavish, Kyle ‘Gaz’ Garrick and introducing Mexican Special Forces, Colonel Alejandro Vargas”.
+
+Captain Price, “Ghost” and “Soap” will be familiar names to longtime fans of the series, as main characters in previous Modern Warfare games. The actor who voices Captain Price, Barry Sloane, even posted a picture on Twitter confirming his involvement with the game:
+
+At the end of the announcement video, Modern Warfare 2’s release date is revealed as 28 October 2022, which is much sooner than other recent Call of Duty titles. For context, Vanguard was released on 5 November 2021.
+
+Platforms have yet to be revealed but it’s expected that the game will appear on Xbox series X/S, PS5, Xbox One, PS4 and PC.
+
+Will ‘Call of Duty’ become Xbox exclusive?
+
+Since Microsoft’s acquisition of Call of Duty publisher Activision, there has been concerns that the title could be migrating towards Microsoft-exclusive platforms (Xbox and PC) but what are the chances of that actually happening?
+
+Since the news broke in February 2022 of the acquisition, Microsoft has maintained that Call of Duty will never be an Xbox exclusive title in no uncertain terms.
+
+In a blog post Microsoft president, Brad Smith, stated: “To be clear, Microsoft will continue to make Call of Duty and other popular Activision Blizzard titles available on PlayStation through the term of any existing agreement with Activision. And we have committed to Sony that we will also make them available on PlayStation beyond the existing agreement and into the future so that Sony fans can continue to enjoy the games they love.”
+
+More recenly, the acquisition is currently being investigated by the Competitions and Markets Authority, which has until 1 September to declare whether the deal is likely to harm competition.
+
+Will ‘Call of Duty: Modern Warfare 2’ be on Steam?
+
+Since 2017, Call of Duty’s PC version has been exclusively available on Activision Blizzard’s own Battle.net launcher. Now, it has been confirmed that Call of Duty: Modern Warfare 2 will be appearing on Steam as well as Battle.net. This will be welcome news to anyone who prefers to launch their games via Steam than Battle.net. Pre-purchase is available now for £59.99 (Steampowered.com).
+
+Voucher codes
+
+For discounts on games and offers on consoles, try the links below:
+
+Looking to upgrade your set up? Read our buying guide for the best computer monitors

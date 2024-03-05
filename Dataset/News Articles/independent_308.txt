@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+One in three (34%) people do not feel confident about their financial resilience and ability to withstand unexpected expenses, a survey indicates.
+
+Six in 10 (59%) people do feel confident about their financial resilience, the YouGov research, carried out for HSBC UK found. The remaining 7% said they did not know.
+
+The research also indicated slightly more people (41%) feel confident about achieving their financial goals this year than those who are not confident (36%).
+
+It is obvious that the increased cost-of-living is still a source of concern for many Steve Reay, HSBC UK
+
+The proportions of people who said their finances had improved/remained stable or worsened since May 2023 were fairly evenly split.
+
+Nearly half (49%) of people said their finances had improved or remained stable, while 47% said their finances had worsened.
+
+Steve Reay, a financial wellbeing expert at HSBC UK, said: “While it is reassuring to see the level of financial optimism among consumers, it is obvious that the increased cost-of-living is still a source of concern for many.
+
+“We have worked hard over the last year to educate and empower people with regard to their finances, and a key part of this is helping to build financial resilience.”
+
+During 2023, HSBC UK’s financial wellbeing team held webinars that were attended by more than 50,000 people. The webinars were open to customers and non-customers.
+
+YouGov surveyed more than 2,100 people across the UK for HSBC UK in November 2023.

@@ -1,0 +1,25 @@
+Sign up to IndyEat's free newsletter for weekly recipes, foodie features and cookbook releases Get our food and drink newsletter for free Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyEats email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Perfect Cellar has teamed up with The Independent to bring you an evening of wine tasting and exciting discounts.
+
+Join master sommelier Christopher Delalonde, sommelier Jon Cellier and IndyEats editor Hannah Twiggs as they bring their passion for high-quality wines to our studio and your dinner table.
+
+Wine is personal, and only you can dictate which wine is perfect for you. In this expert session, Christopher, Jon and Hannah will lend a helping hand, guiding you to your perfect wine, to build your perfect cellar.
+
+The tasting will focus on two delicious wines from Perfect Cellar, Château Chantelune 2020 and Keet First Verse 2019.
+
+The panel will be discussing their flavour profiles and optimum food pairings, and if you’d like to purchase ahead of the event The Independent has an exclusive 25% off code just for attendees. All you need to do is sign up here and we’ll email you the details.
+
+There will also be exclusive offers and discounts issued to all those joining the event on the night.
+
+Perfect Cellar’s wines are made by producers who have a true passion for making outstanding wines year after year, using sustainable methods to protect their vineyards and heritage, yet delivering incredible products at a great price point.
+
+Our virtual tasting event will take place on Tuesday 27 February on Zoom, between 6.30pm and 7.30pm GMT.
+
+Once signed up you will be able to ask questions to our food and wine experts.
+
+For more information and to sign up for a free ticket click here.
+
+You can also post questions in the comments of this article.

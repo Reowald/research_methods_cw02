@@ -1,0 +1,15 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+One in 20 (5%) people feel that Valentine’s Day has become too expensive to celebrate, a survey has found.
+
+Those who will be spending money to celebrate the day on February 14 typically pay around £39, with 7% of this group spending between £91 and £100, according to the research carried out by Opinium.
+
+Nearly a fifth (18%) of people surveyed said that they believe Valentine’s Day is over-commercialised.
+
+But one in 12 (8%) said they love the day as it is an excuse to be romantic, and 3% said it is their favourite day of the year.
+
+Going out for a meal and cooking for each other were found to be the most popular ways people like to treat their partners on Valentine’s Day, according to the research carried out for website MyVoucherCodes.
+
+More than 2,000 people were surveyed across the UK in January.

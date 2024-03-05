@@ -1,0 +1,61 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Topping up my plastic cowboy boot-shaped cup with yet another glug of sweet tea, the server is curious about my accent. “You’re from England?” he hazards a guess, raising an eyebrow. “That makes sense. We’re getting a lot more Brits coming to the Smokies. They mostly come for Dolly,” he concludes with a deep Southern twang, dropping a glistening rotisserie chicken onto my plate. All around, the arena jostles with 1,000 Parton fans squeezed thigh-to-thigh onto wooden benches, hungry for both the boot-stomping entertainment and the four-course barbecue feast currently being dished out.
+
+I’m dining at Dolly Parton’s Stampede Dinner Attraction in Pigeon Forge, a Wild West extravaganza involving star-spangled cowgirls on horseback leaping fearlessly through blazing rings of fire, quirky comedy skits, glitzy stage numbers, and, slightly bizarrely, a nail-biting race between two miniature piglets wearing tiny colourful jackets – which just happens to coincide with the serving of the hickory smoked pork loin course.
+
+This rootin’, tootin’ riot of a dinner attraction forms part of musician Parton’s “Dollyverse”, an extensive entertainment portfolio that encompasses themed supper shows and the family-focused Dollywood DreamMore Resort hotel complex, situated in the Great Smoky Mountains, around 30 miles from Knoxville. But the headline act around here is really Dollywood, Parton’s Appalachian-flavoured theme park that opened in 1986. Tucked into the foothills of the ancient mountainous landscape where the Tennessee Songbird was raised, near the gateway to the natural wonders of the Great Smoky Mountains National Park, Dollywood attracts a staggering three million visitors a year.
+
+A little white chapel at Dollywood (Robert F Thomas)
+
+This year, that number looks set to rise further still, following the recent opening of Dollywood’s HeartSong Lodge & Resort, a 302-room cabin-chic hotel that brings a touch of luxury to the Smokies. Within the Dollywood theme park itself, there’s also a bedazzlement of new attractions, including the unveiling of Big Bear Mountain, its longest rollercoaster. In May 2024, the Dolly Parton Experience, an interactive museum showcasing Parton’s razzle-dazzle life story, is also due to swing open its doors.
+
+The following morning, I drive back through the kitschy holiday town delights of Pigeon Forge, where the roadside curiosities include a festive hotel that celebrates Christmas every single day of the year, a king-sized bust of Elvis etched in stone like a rock-and-roll version of Mount Rushmore and a museum that tells the story of the Titanic, housed within an enormous replica of the doomed ship.
+
+Read more on US travel:
+
+Pulling into Dollywood, I open the car door to be greeted by the sweet smell of cinnamon bread rising in the ovens of the onsite Grist Mill bakery. Following the tantalising scent through Dollywood’s entrance gates, I pass a bearded banjo player serenading the excited visitors – many wearing Parton-appreciation t-shirts – with an impressive display of lightning-fast fingerpicking.
+
+Grist Mill at Dollywood Park, Pigeon Forge (State of Tennessee )
+
+The beauty of Dollywood is that it’s much more than a theme park. Those interested in the local Appalachian culture can watch displays of bluegrass music, candle dipping and glassblowing. There’s an aviary boasting the largest exhibition of non-releasable bald eagles in America. Thrill-seekers can soar through the sky on wild coasters, while those who prefer life in the slow lane can hop on the quaint stream train that chugs leisurely through the leafy 160-acre park, whistle-a-blowing.
+
+Parton references have also been sprinkled lavishly throughout Dollywood, I discover, as I step inside the replica of the Parton family’s childhood cabin; a dinky two-room affair that somehow snugly housed the budding singer, plus her 11 siblings and parents. Patchwork quilts are casually thrown over the many iron beds where the Parton’s slept like sardines. In the absence of storage space, blackened skillet pans are nailed to the walls, which are decorated with faded paisley wallpaper. Humble it may be, it was also the Tennessee mountain home where “life is as peaceful as a baby’s sigh”, as Parton famously sang in one of her many love-letter odes to her birthplace.
+
+Candle dipping at Dollywood (Zoey Goto)
+
+From rags to rhinestones, I climb onboard Parton’s retired tour bus on the other side of the park. Tucked away at the back of the coach is the singer’s bedroom; a prism of spotlights and mirrors worthy of the most flamboyant of superstars. Walking on through Dollywood, I catch a revealing glimpse of Parton’s spiritual side, with the addition of a white clapperboard church. Passing by, I catch the glorious sound of a gospel choir uniting in harmony, offering some calm before the storm as I head towards the snaking queue to brave the Big Bear Mountain coaster. Strapping in, this family-friendly ride takes me from a standstill to 48mph in a flash, maintaining that top speed for almost two minutes of outrageous fun, as we weave through cascading waterfalls to the soundtrack of a growling bear.
+
+Big Bear Mountain rollercoaster at Dollywood (Zoey Goto)
+
+Back on solid ground, I bid farewell to the theme park as a drone show lights up the evening sky and check in at Dollywood’s latest hotel offering, the HeartSong Lodge & Resort. In the earthy-toned lobby, images of Appalachian wildlife, including the black bears that are frequently spotted in the Smokies, are dotted throughout. Under the watchful gaze of a larger-than-life portrait of Parton, I take a seat by the soaring windows that frame views of the misty woodland outside, hawks circling overhead.
+
+Having held the international spotlight for over five decades, it’s fair to say that Parton has travelled the globe more than most. Yet, like a homing pigeon, it’s the Great Smoky Mountains that keep calling her back; a place that Parton credits as one of the most beautiful in the world. From where I’m sitting, it’s easy to see why.
+
+Travel essentials
+
+How to get there
+
+America As You Like It offers a seven-night holiday to Tennessee from £1,729 per person, based on two sharing and including return flights from Heathrow to Knoxville on American Airlines, seven days car hire, three nights at Dollywood’s Heartsong Lodge and four nights at the DreamMore Lodge and Resort.
+
+Where to stay
+
+Families will love these luxury treehouses, complete with an inbuilt slide and a chute to send drinks from the kitchen to the lower deck.
+
+Shuttles running every 20 minutes to the theme park, make this the ideal stay for visiting Dollywood.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on the best USA hotels

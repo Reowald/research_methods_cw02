@@ -1,0 +1,39 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Astronomers have released a new image of the Messier 87 and the supermassive black hole at its heart – the first ever to be shown in a picture.
+
+The new images use observations taken in April 2018, a year after those that contributed towards the first, famous picture. The new version is sharper and has a higher contrast between is brighter and darker sections.
+
+But much is familiar: the new images show the same bright, donut shaped emission that marked those first images, taken in 2017.
+
+(Ilje Cho/EHT collaboration)
+
+They also show that the black hole is “active” and “feeding”.
+
+The ring surrounds a dark central shadow and the brightest part of the ring in the new image now lies in the five o’clock position.
+
+Dr Keiichi Asada, an associate research fellow at Academia Sinica Institute for Astronomy and Astrophysics in Taiwan, said: “A fundamental requirement of science is to be able to reproduce results.
+
+“Confirmation of the ring in a completely new data set is a huge milestone for our collaboration and a strong indication that we are looking at a black hole shadow and the material orbiting around it.”
+
+M87 is at the heart of the giant elliptical galaxy Messier 87 and lives 55 million light years away from Earth.
+
+UCL’s Dr Ziri Younsi, a member of the EHT collaboration, said: “It is very exciting that over the course of a year, the brightest part of the bright ring encircling the black hole shadow has shifted by about 30 degrees.
+
+“This shift is something that was predicted in 2019 and is wonderful to now observe, showing the turbulent and dynamical nature of the supermassive black hole as matter orbits around its event horizon. This black hole is active and it is feeding.
+
+“The brightest part of the ring appears brighter as its material is likely coming towards us, but it may also be where the material is more strongly magnetised.
+
+“It might be that this bright area coincides with the base of the black hole’s jet, as it is about where we would expect this base to be.”
+
+He added: “The image is sharper. Its brightest areas are a little brighter and the centre of the image which coincides with the black hole itself is darker.
+
+“In the future, as our images continue to improve, we expect this central dark region to become almost pitch black, as it is where all light vanishes within the event horizon.”
+
+The higher resolution of the new image is a result of the addition of the Greenland Telescope and a dramatically improved recording rate across the array of telescopes.
+
+The findings are published in the journal Astronomy and Astrophysics journal.
+
+Additional reporting by agencies

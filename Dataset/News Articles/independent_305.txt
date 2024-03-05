@@ -1,0 +1,51 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+More than two in five (43%) people believe their household financial situation will get worse in the year ahead, according to a debt help charity.
+
+StepChange Debt Charity, which released the research, said that nearly 1,000 people had accessed debt advice on its website on Christmas Day in 2023, up from nearly 400 on the same day in 2022.
+
+A YouGov survey for StepChange found that nearly half (46%) of people said their overall financial situation has deteriorated over the past two years.
+
+Nearly a fifth (19%) of people said their financial situation has got much worse.
+
+We know that it's not just Christmas that has stretched people's budgets this year, but almost two years of a long and challenging cost-of-living crisis Vikki Brownridge, StepChange
+
+One in two (49%) people said they are worried about their current financial situation – but only 4% who are worried about money said they had sought help from an independent organisation such as StepChange or Citizens Advice.
+
+Vikki Brownridge, CEO at StepChange Debt Charity, said: “January is always a busy time for us as a charity, and we know that it’s not just Christmas that has stretched people’s budgets this year, but almost two years of a long and challenging cost-of-living crisis.”
+
+YouGov surveyed more than 2,000 people across Britain in December for StepChange.
+
+Some people registered for breathing space from their debts in the run-up to Christmas.
+
+The Insolvency Service said on Tuesday that the number of breathing space registrations across England and Wales in December 2023 was 15% higher than in the same month a year earlier.
+
+The year-on-year increase in the number of people entering a breathing space suggests that demands for debt support are still high Nicky Fisher, R3
+
+Some 5,769 registrations were recorded. Within the total, 5,657 were standard breathing space registrations, which is 15% higher than in December 2022, and 112 were mental health breathing space registrations, which is 4% lower than the number in December 2022.
+
+A standard breathing space is available to people with problem debt and gives legal protections from creditor action for up to 60 days.
+
+A mental health crisis breathing space is available to someone who is receiving mental health crisis treatment. It lasts as long as the person’s mental health crisis treatment, plus 30 days.
+
+Nicky Fisher, president of insolvency and restructuring body R3, said: “The year-on-year increase in the number of people entering a breathing space suggests that demands for debt support are still high, but that people aren’t reaching the point where they need formal personal insolvency support.
+
+“December is always a difficult month financially – and this one was no different. Many people were considering cutting their spending back to pay for Christmas, or had already saved or considered borrowing money to pay for it.”
+
+A survey from Tesco Bank meanwhile indicated that nearly half (49%) of UK adults have some form of non-mortgage debt, such as credit cards, informal loans from friends or family, or buy now pay later products.
+
+On average, people with this type of debt said they owe £4,340.
+
+Nearly a third (32%) of those surveyed with non-mortgage debt expect to carry some debt into 2025.
+
+It's important to check your current financial picture, identify any areas of concern, spot where any unexpected spending might crop up, and make a plan to manage your money through 2024 Ban Mahsoub, Tesco Bank
+
+Ban Mahsoub, spend and save director at Tesco Bank said: “Debt is something that many of us manage in our day-to-day lives and January is often the time when we try to get on top of our finances. And that’s especially true if it’s causing any stress or anxiety.
+
+“It’s important to check your current financial picture, identify any areas of concern, spot where any unexpected spending might crop up, and make a plan to manage your money through 2024. And if you think it will take you into 2025 to pay off your borrowing, this plan is even more crucial.”
+
+Some people may find they can cut the cost of their debts by consolidating them or looking at 0% balance transfer options on credit cards. Individual circumstances will vary.
+
+Opinium Research surveyed 2,000 people across the UK in October and November for Tesco Bank.

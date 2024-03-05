@@ -1,0 +1,81 @@
+Taking a flight in a pilotless self-flying plane might be a wild proposition for some - but robot passenger aircraft could be the future of air travel. As a fascinating new video reveals.
+
+For his series 'Airplane Mode', Nicky Kelvin, Editor at Large at The Points Guy, goes behind the scenes at Wisk Aero headquarters in Mountain View, California, to find out more about its revolutionary all-electric pilotless air taxi.
+
+What makes the plane extra futuristic is that it has electric vertical take-off and landing (eVTOL) capabilities.
+
+In the video, Nicky meets Brian Yutko, Wisk CEO, who shows Nicky inside a Wisk Air Taxi Gen 6, the model Wisk anticipates it will seek Federal Aviation Administration (FAA) clearance for, then take to market to transport passengers.
+
+Nicky asks what the benefits of the plane's eVTOL system are. Brian explained: 'These aircraft are designed to operate close to where people live. You have to be able to take off and land vertically, but then fly like an airplane.’
+
+For his series 'Airplane Mode', Nicky Kelvin , Editor at Large at The Points Guy, goes behind the scenes at Wisk Aero headquarters in Mountain View, California, to find out more about its revolutionary all-electric pilotless air taxi
+
+Wisk Aero has been developing air taxi prototypes since 2010
+
+What makes Wisk's plane extra futuristic is that it has electric vertical take-off and landing (eVTOL) capabilities
+
+Brian projects it will first seek to market its planes to provide airport transfers.
+
+Long-term, the company aims to provide air taxi services to densely populated urban centres.
+
+Brian said: 'Eventually we’ll see vertiport to vertiport, so places that aren’t airports right now start to be connected [a vertiport is a hub for eVTOLs aircraft to take off and land].'
+
+When asked how safe the Wisk planes are, Brian explained that the engineers have to adhere to strict safety protocols: ‘We design around a target safety level that’s actually pretty similar to what you would experience in large commercial airplanes. And that turns into incredible amounts of redundancy [safety redundancies are duplications and backups to keep a plane operating in case of system failure].'
+
+Brian Yutko, Wisk CEO, shows Nicky inside Wisk's latest model, the Gen 6, which it hopes to take to market
+
+The Gen 6 Wisk Air Taxi can carry four passengers and carry-on luggage
+
+By pressing a 'help' button passengers can attract the attention of a ‘hospitality manager’ to provide information via video
+
+While several companies are developing electric air taxis that take off and land vertically, Wisk is the only company currently aiming to launch an air taxi service with both eVTOL and pilotless flight.
+
+Since 2010 it has developed multiple generations of air taxi prototypes and conducted over 1,750 test flights.
+
+Brian takes Nicky to the 'autonomy lab', explaining it is essentially the operations studio for the ground staff assisting the planes.
+
+Brian said: 'Obviously this aircraft is designed to not have a pilot on board. But the system is designed to have a person on the ground supervising the aircraft.
+
+'In this lab we have people that will talk to air traffic control. That is the role of the multi-vehicle supervisor. There's no ability to fly the airplane with a joystick.
+
+A look inside the 'autonomy lab', essentially an operations studio for the ground staff assisting the planes. Called 'multi-vehicle supervisors', they oversee the plane's flight plans but do not fly the planes remotely
+
+Uplifting concept: An earlier prototype for the Wisk Air Taxi at Wisk HQ
+
+Wisk's director of product design, Uri Tzarnotzky, demonstrates how he uses 3D printers to build and investigate prototypes, including fixtures inside the plane
+
+'They're incredibly automated systems and generally what a supervisor does is approve a flight plan that is suggested to them by the aircraft and by the automation itself.'
+
+When asked by Nicky why they've chosen to pursue the development of self-flying planes, Brian said: 'We think it will be the end state of this system [eVTOL planes], so we're going directly to it.'
+
+The benefit of autonomous flight, he explained, is that it enables them to 'move the aircraft assets around in a way that is very flexible'.
+
+Nicky meets with Wisk’s director of product design, Uri Tzarnotzky, to learn about how the company uses 3D printers to build and investigate prototypes, including fixtures inside the plane.
+
+The Wisk Air Taxi Gen 5 takes off (vertically, naturally) on a test flight
+
+The onboard computer is designed to offer reassurance to passengers by showing them the flight path and projected journey time
+
+On watching the Gen 5 Wisk Air Taxi fly, Nicky noted it was quite unlike any other aircraft he'd seen, especially on take-off. He says: 'What's really noticeable is that it's so quiet, so graceful – the way it just floats up and goes on its merry little way'
+
+WISK'S GEN 6 AIR TAXI: KEY SPECIFICATIONS Mission: Passenger air taxi Power: All-electric Aircraft classification: eVTOL (electric, vertical take-off and landing) Operation: Autonomous (self-flying) with human oversight Cruising altitude: 2,500 – 4,000 feet above ground level Dimensions: <50 foot wingspan Range: 90 miles (with reserves) / 144 kilometers Cruising Speed: 110-120 knots Charge Time: 15 minutes Seats: 4 + room for carry-on luggage Source: wisk.aero/aircraft. Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/travel/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+According to Uri, the interior of plane is designed to create an environment that is reassuring for the passenger, in the absence of on-craft cabin crew or a pilot.
+
+Internal fixtures, for example, are crafted with textures designed to help passengers intuit what is safe or dangerous. Uri said: 'This is done with form, and we’re also reinforcing it with the colours, materials and finishes.’
+
+There is a video interface inside the craft. By pressing a 'help' button passengers alert the attention of a ‘hospitality manager’ to provide information about where they currently are, what is happening and where they are going.
+
+According to both Uri and CEO Brian this helps passengers anticipate their journey and feel safe.
+
+In the video, Nicky then heads to Hollister Municipal Airport, California, to see an earlier prototype, the Gen 5 Wisk Air Taxi, in flight.
+
+He speaks to test-pilot Mike Luvan, who explained: 'We'll be showing you the full capabilities of the aircraft - vertical take-off, transition outbound to a wing-born flight, stop midair, turn around come back.'
+
+Watching the Gen 5 Air Taxi take off, Nicky noted: 'Seeing this for the first time is really incredible... It's not quite like anything you've ever seen before. It doesn't move like a helicopter, it certainly doesn't move like a normal fixed-wing plane when it's going up and down and turning.
+
+'What's really noticeable is that it's so quiet, so graceful – the way it just floats up and goes on its merry little way.'
+
+Once the aircraft lands without a hitch, Nicky is convinced: 'Actually, I can't wait for technology to take it to a place where I'm able to jump onboard one of these.'
+
+To see the full video click here. For more from The Points Guy visit thepointsguy.com/uk-travel.

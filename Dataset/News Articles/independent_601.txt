@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The US military's X-37B space plane blasted off Thursday on another secretive mission that’s expected to last at least a couple of years.
+
+Like previous missions, the reusable plane resembling a mini space shuttle carried classified experiments. There's no one on board.
+
+The space plane took off aboard SpaceX’s Falcon Heavy rocket from NASA's Kennedy Space Center at night, more than two weeks late because of technical issues.
+
+It marked the seventh flight of an X-37B, which has logged more than 10 years in orbit since its debut in 2010.
+
+The last flight, the longest one yet, lasted 2 1/2 years before ending on a runway at Kennedy a year ago.
+
+Space Force officials would not say how long this orbital test vehicle would remain aloft or what's on board other than a NASA experiment to gauge the effects of radiation on materials.
+
+Built by Boeing, the X-37B resembles NASA’s retired space shuttles. But they're just one-fourth the size at 29 feet (9m) long. No astronauts are needed; the X-37B has an autonomous landing system.
+
+They take off vertically like rockets but land horizontally like planes, and are designed to orbit between 150 miles and 500 miles (240km and 800km) high. There are two X-37Bs based in a former shuttle hangar at Kennedy.

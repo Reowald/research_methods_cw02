@@ -1,0 +1,103 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Our microguides series is inspired by the slow travel movement, encouraging travellers to relax their pace and take a deep dive into one particular neighbourhood in a well-loved city. Rather than a whirlwind itinerary which aims to hit up every must-see attraction, these compact, close-up guides encourage you to zone in, take your time and truly explore like a local.
+
+Though it was established in 1758, and is regularly cited as one of the best preserved and most picturesque downtowns in the US state of Virginia, Loudon’s county seat of Leesburg continues to fly a little under the radar.
+
+Hugging the Maryland border, and with the famous, part-recreational Potomac River snaking around its eastern edge, this petite burg houses a cute downtown area packed with quaint independent stores, historic buildings and more art than you can shake a selfie stick at. And given its size, with a modest population of less than 50,000, it’s one of Virginia’s most walkable towns, too.
+
+From the freedom-fighting Leesburg Stockade women commemorated on an intriguing art tour, to the taprooms, breweries and coffee shops worth spending a pretty dime at, here’s the best of what to do in Leesburg, Virginia.
+
+Do
+
+Visit a manor
+
+The only man to serve as both secretary of state and secretary of defence, George C Marshall led the US to victory in the Second World War, later devising the blueprint for the economic recovery of a devastated western Europe, known as the Marshall Plan. After a fruitful career where he was the first American Army general to be promoted to the five-star General of the Army, and where he was named as Time magazine’s Man of the Year twice, he retired to Leesburg’s Dodona Manor and gardens. Guided tours of the beautiful 19th-century manor and gardens offer fascinating insights into the man behind it all.
+
+Read more on US travel:
+
+Take a tour
+
+Colourful street art can be found across the town (Visit Loudoun)
+
+Led by Amy Bobchek, the Loudoun Art Tour digs into the town’s notable trade, music, locomotives and women’s civil rights history through an informative downtown saunter around its public art installations and murals. Highlights on the tour include the King Street Bridge Mural, a steam train mural on the site of its former active railroad, now Washington and Old Dominion recreational trail; and the Lassiter Way Murals, which highlight three of Leesburg’s unsung historic residents.
+
+Catch a show
+
+The Tally Ho Theatre is the stuff of local legend. The historic theatre opened in 1931, and until 2000, it was one of America’s best small movie houses. Fast forward 13 years, and after a few changes of hands, the Art Deco-inspired Tally Ho building would become a performing arts centre where bands, tribute acts and comedians grace its historic stage each week.
+
+Eat
+
+King Street Oyster Bar
+
+Don’t be shellfish – there’s plenty to go around at King Street Oyster Bar (King Street Oyster Bar)
+
+King Street has oyster joints across Virginia, Maryland and DC, but this is the original. Housed in a saloon-style building (you won’t miss it), King Street is known for its raw bar, where east-coast oysters are the order of the day… but you could easily sit there and work your way down the list. Try the grilled oysters Rockefeller and the Peruvian-style ceviche with sea bass, shrimp and scallops.
+
+SideBar
+
+The brainchild of German-born Loudoun restaurant impresario Nils Schnibbe, SideBar is a rustic downtown spot for small plates, “New American” cuisine and inventive drinks. The Docket, Schnibbe’s additional venture in a historic carriage house across the courtyard, also offers a cosy space known for its craft cocktails with its full food menu available here, too – it’s the perfect size for slightly larger parties or private bookings. Start with the firecracker shrimp and move on to the zingy tacos, or just take the charcuterie board over a leisurely lunch.
+
+Shoe’s Cup & Cork
+
+Taking the biscuit: Shoe’s Cup & Cork do a mean brunch (Shoe’s Cup & Cork)
+
+This scratch kitchen focuses on serving locally produced goods – from seasonal vegetables through to Virginian craft wines – across its versatile spaces, which include a secret garden, bocce court and cabanas. Shoe’s Cup & Cork’s dishes are “New American” with continental European influences, while brunch (don’t skip the biscuit basket) comes highly recommended.
+
+Drink
+
+Black Hoof Brewing Company
+
+Bottoms up: even in a saturated market, Black Hoof brews impressive beers (Black Hoof)
+
+It feels like a new brewery is opening every day in Virginia – there’s well over 200 now – but Black Hoof is one of the state’s very best small brewers. This family-owned microbrewery, which focuses on European ales and lagers, offers a range of beers spanning oatmeal stouts and wheat beer to pilsners and radlers, highlighting its versatility in a competitive field.
+
+Wild Hare Cider
+
+It’s not often you find a cider-only taproom in the US, but the hyper-local Wild Hare Cider brewery has Virginia covered with four locations. Its rustic cabin in Leesburg certainly feels more Swiss Alps than American, and offers a rotating list of natural ciders, with fruit from its own Shenandoah Valley orchard, where heritage apples are pressed and aged for a year. The result? Crisp, refreshing ciders unlike anything you’ve probably tried before.
+
+Goosecup
+
+If small-batch roasted coffee is your thing, try Goosecup. It’s probably most known for its floral coffees (lavender latte, anyone?) but in the evening it becomes a hip bar with a solid happy hour between 2-6pm. If you take the Leesburg Public Art Tour, you can stop off here when visiting the King Street Bridge Mural – it’s a proper local’s hangout.
+
+Shop
+
+Blossom & Bloom Thrift Shop
+
+Blossom & Bloom has been a part of the Leesburg community for well over three decades, so you know you’re onto a good thing when swinging by. You’ll find clothes, trinkets, homeware and more, and all profits are given back to local community charities that support children and adults with disabilities.
+
+DIG Records & Vintage
+
+Hours can be lost browsing inside Leesburg’s incredible DIG Records & Vintage (DIG Records & Vintage)
+
+No music fan should visit Leesburg without spending time at DIG Record & Vintage. This small record shop specialises in rarities from bygone eras (keep an eye out for early-press original Beatles LPs) and there’s also a vintage corner with clothes, accessories and home goods to browse.
+
+Birch Tree Bookstore
+
+Birch Tree is an independent, women-owned community bookstore, which supports non-profits through its sales, membership programme and buzzy community events. It mostly specialises in new releases, and its sister plant store, Foliage Plant Shop, is also located inside.
+
+Stay
+
+The Leesburg Colonial Inn
+
+Historic Leesburg’s only full-service inn is well worth a stay, not least for its location in the heart of it all. As the name suggests, Leesburg Colonial Inn’s rooms offer a romantic look back at 18th-century US through antique furniture, Persian rugs and rustic farm dressers, while its adjoining restaurant, the Georgetown Cafe, offers hearty breakfasts included in the rate. Book well ahead as there are just 10 rooms.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Getting there
+
+British Airways operates daily flights from London Heathrow to Washington Dulles International Airport, from there it’s just an 18-minute drive to Leesburg.
+
+Read more on the best USA hotels

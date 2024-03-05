@@ -1,0 +1,43 @@
+A north London teacher has warned others to be on their guard if their mobile phone suddenly stops working. Fraudsters apparently used the ID information she had given to a lettings agent to first take over her phone and then clean out her bank account.
+
+Angela Nevin* says she is still reeling from the episode that caused her “no end of anxiety and stress” as she waited for more than 10 days to see if Barclays would return the £3,500 that was stolen. She is the latest person to have her mobile’s sim card taken over by fraudsters to use it to gain one-time passcodes to authorise bank withdrawals.
+
+Her case should ring alarm bells with anyone who is asked to provide extensive ID documents such as a passport to a third party, or to allow open access to a bank account. This is particularly common as part of lettings agents’ landlord checks, which Nevin was undergoing.
+
+Her ordeal started when she split up with her partner last year and, as a result, the lettings agent through which she and her children rent their home insisted she must undertake new financial checks so she could take over as the sole tenant.
+
+She was told by the agent that, to do so, she must use its online tenant referencing firm, and in January it emailed a web link to allow her to complete the check. Using her newish iPhone, she logged on to the company’s portal and uploaded photos of her passport, driving licence and many other documents as requested.
+
+She says that to show she had sufficient funds to pay the rent she also had to agree to give the company open access to her Barclays current and savings accounts using Open Banking, all via the portal.
+
+It all seemed to have gone smoothly. But four days later, and without her knowledge, fraudsters tried to access her O2 mobile phone account, although they initially could not get through online security checks.
+
+Three days after that, someone called Barclays telephone banking to get an automated balance. It is unclear why she was not notified of these actions by the firms in question.
+
+They got Barclays to send a one-time passcode to the phone. Then they cleaned me out and took me to my overdraft limit
+
+Within a week, the fraudsters were able to bypass O2’s security checks. Once in control, they ordered an e-sim (a virtual, rather than physical, version of a sim card), which O2 sent as a QR code. Once activated, they had, in effect, taken over her number.
+
+“I lost all O2 services around lunchtime, but thought that a mast was faulty in the area,” says Nevin. “I now know that the fraudsters – in effect using my phone – called my bank and were able to answer security questions, such as what town I was born in, which is on my passport, or my address, which is on my driving licence.
+
+“They then got Barclays to send a one-time passcode to the phone. With that, the bank allowed them to transfer £2,400 from my savings into my current account, then make a payment of £3,500 to a Halifax bank account. This cleaned me out and took me to my overdraft limit.”
+
+It was only when she went to pay for petrol that night, and the payment was refused, that she realised her account was in the red.
+
+She was still without phone access, but the petrol attendant gave her wifi access using his phone, and she accessed her Barclays account and discovered what had happened.
+
+A fraught weekend followed, mostly spent on the phone to the bank’s fraud team explaining what had happened. After an agonising wait, during which time it became clear that she had been the victim of a highly sophisticated scam, Barclays agreed to refund her money.
+
+“I still have no idea how this happened,” she says. “The fraud team thinks it’s more than a coincidence that it was since I allowed open access to my account, and handed over all my personal documents. I didn’t receive any unusual emails, and used my (hard to take over) iPhone to directly upload my passport details.
+
+“I didn’t have two-step verification on my emails at the time, so this could have been how the fraudsters got hold of my photos and ID documents. The odd thing is, that I have other bank accounts, but the only one targeted was the one accessed via the tenancy check,” she says.
+
+O2 told the Observer last week that security was its top priority, and that it was always investing in new measures to help provide additional layers of security. It strongly advises customers to “keep unique and complex passwords for all accounts to help protect them against fraudulent activity”.
+
+It has also made it harder for customers to request e-sims since Nevin’s problems happened.
+
+In February 2023, consumer group Which? reported there were big differences in the quality of online security at the banks. While HSBC and Starling scored 80%, Barclays was rated at 69%, while Nationwide and Virgin Money scored just 63% and 52%.
+
+Barclays says: “Our customer did the right thing and acted quickly to contact us once they realised there had been an unauthorised transaction made from their account. We investigated the case thoroughly and concluded that the transaction was fraudulent. We have refunded our customer in full as a result and have taken action to protect their account.”
+
+* Not her real name

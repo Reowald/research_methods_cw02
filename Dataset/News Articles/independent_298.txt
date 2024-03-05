@@ -1,0 +1,73 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average cost of a home has fallen at its fastest rate for more than 12 years, with UK property values sitting typically £6,000 lower in November 2023 than a year earlier, according to official figures.
+
+House prices fell by 2.1% over the 12 months to November 2023 to reach £285,000 on average, the Office for National Statistics (ONS) said.
+
+Aimee North, head of housing market indices at the ONS, said: “The annual fall in house prices continues to accelerate, with the average cost of a home falling at its fastest rate for over 12 years.
+
+“Meanwhile annual rent increases remain at record levels across the country.”
+
+House prices typically fell across the year in England and Wales, but increased in Scotland and Northern Ireland.
+
+Average house prices over the 12 months to November 2023 decreased in England to £302,000 (a 2.9% drop) and fell in Wales to £213,000 (down 2.4%).
+
+The typical property value increased in Scotland to £194,000 (a 2.2% annual rise).
+
+Average house prices increased by 2.1% annually in Northern Ireland to £180,000.
+
+Within England, the North East recorded the smallest decrease in average house prices in the 12 months to November 2023 (falling by 0.4%), while London saw the biggest drop in average house prices (down by 6.0%).
+
+The figures were released as the ONS recorded a surprise increase in inflation.
+
+The rate of Consumer Prices Index (CPI) inflation accelerated to 4% in December, from 3.9% in November, but many economists had expected the rate to edge lower.
+
+There are also concerns over the impact of the Red Sea shipping attacks on inflation, as it threatens to push up the cost of oil, gas and goods being imported to the UK.
+
+Mortgage rates have been falling in recent weeks, with many lenders starting the new year by chopping rates. But some housing market experts said the acceleration in inflation could mean lenders are more cautious, as expectations of a Bank of England base rate cut are pushed back.
+
+Frances McDonald, director of research at property agents Savills, said: “Today’s ONS house price index for November indicates that stretched mortgage affordability continued to place downward pressure on house prices in the final weeks of 2023.
+
+“Looking ahead, there are encouraging signs that buyers are gaining confidence as mortgage rates fall, though today’s surprise inflation figures may push out expectations of a Bank of England base rate cut.”
+
+Mark Harris, chief executive of mortgage broker SPF Private Clients, said: “The downwards rate war continues to pick up momentum although there is no guarantee that mortgage rates will keep tumbling. There are bound to be blips as it is still quite volatile out there, as today’s inflation figures suggest.
+
+Swap rates, which underpin the pricing of fixed-rate mortgages, have been falling over the past month but ticked up today on the back of the inflation data Mark Harris, SPF Private Clients
+
+“Swap rates, which underpin the pricing of fixed-rate mortgages, have been falling over the past month but ticked up today on the back of the inflation data.”
+
+He added: “While the rate trajectory is on the whole downwards, borrowers need to be mindful that if they like the look of a rate it might not be around for long.”
+
+Matt Smith, Rightmove’s mortgage expert, said: “Average (mortgage) rates had been falling pretty sharply, but this is likely this to slow as lenders take a more cautious approach over the next few weeks. The big picture is still positive for mortgage rates, with rates more stable and attractive for movers than a year ago.”
+
+Nick Leeming, chairman of estate agent Jackson-Stops, said: “The figures published today suggest a frosty end to the year, with buyers putting their searches on hold in order to see how mortgage rates would react as inflation fell once again. 2023 was defined by mortgage affordability pressures and a shift from immense competition, towards a smaller, more committed buyer pool.”
+
+Ross McMillan, owner at Glasgow-based Blue Fish Mortgage Solutions, told website Newspage: “Sentiment reigns supreme in the housing market, and in Scotland it’s very positive at present.
+
+“Whilst a modest uptick in inflation may create a degree of uncertainty, it’s crucial to recognise that buyer enthusiasm and activity have experienced a noticeable revival in the opening weeks of 2024.”
+
+Those in the mortgage market will be watching swap rates closely and it could mean a slight pause to the new year rate wars we have seen, but competition between lenders is unlikely to wane Andrew Montlake, Coreco
+
+Andrew Montlake, managing director at UK-wide broker Coreco, told Newspage: “Those in the mortgage market will be watching swap rates closely and it could mean a slight pause to the new year rate wars we have seen, but competition between lenders is unlikely to wane.”
+
+Simon Gerrard, managing director of London-based Martyn Gerrard estate agents, said: “On the ground, it’s clear the market has turned a corner. We’ve seen a 20% increase in people registering to buy a home compared to this time last year.”
+
+The ONS also said private rental prices paid by tenants in the UK rose by 6.2% in the 12 months to December 2023.
+
+This was unchanged from the annual percentage change in the 12 months to November 2023, and the joint-highest annual percentage change since the UK records started in January 2016.
+
+Rents in Scotland increased by 6.3% in the 12 months to December 2023 – the highest annual rate since the Scotland records started in January 2012.
+
+In England, private rental prices increased by 6.1% in the year to December 2023, which was unchanged from the annual percentage change in November.
+
+When London is excluded from the England figures, private rental prices increased by 5.7% in the 12 months to December 2023. The ONS said the figures are the joint-highest annual percentage changes since the records started in January 2006.
+
+Private rental prices in London increased by 6.8% in the year to December 2023, down slightly from a record-high rise of 6.9% in the 12 months to November 2023.
+
+Rents in Wales rose by 7.1% in the year to December 2023, edging down from a record high increase of 7.3% in the 12 months to November 2023.
+
+Private rental prices in Northern Ireland increased by 9.3% in the 12 months to October 2023.
+
+The annual rate for Northern Ireland has generally slowed since a recent peak of 10.0% in the 12 months to March 2023. Data for Northern Ireland lags behind the rest of the UK, the report said.

@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of new home registrations plunged by 44% last year compared with 2022, according to figures from an industry body.
+
+Across the UK, the National House Building Council (NHBC) recorded 105,449 registrations, down from 189,009 in 2022.
+
+Private sector registrations were hardest hit, falling by 53% compared with the year.
+
+The rental and affordable sector saw a shallower decline, with registrations down by 22% on the previous year.
+
+The demise of the bungalow continued in 2023, with 1,466 registrations in 2023, down 48% on 2022 (2,819), the NHBC said.
+
+Semi-detached homes saw the greatest number of registrations by house type, followed by detached homes and apartments.
+
+The NHBC has a 70%-80% share of the UK warranty market.
+
+Its figures indicate the stock of new properties in the pipeline as homes are registered with the NHBC before being built.
+
+The NHBC also said 133,213 new homes were completed in 2023, down 12% on 2022 (151,308).
+
+Within the total, 45,649 new homes were completed in the rental and affordable sector, up 10% on 2022 and the highest figure recorded by NHBC since the data started in 1990. By contrast, private sector completions were down by 20%.
+
+There are some signs of demand returning to the market and we would expect an improved position in 2024 as consumer confidence begins to recover and mortgage rates start to fall Steve Wood, National House Building Council
+
+NHBC chief executive Steve Wood said: “Whilst there were considerable supply and demand pressures on the new homes market in 2023, it is very encouraging to see record numbers of new home completions in the affordable sector.
+
+“Several major housebuilders have partnered with housing associations and build-to-rent providers, re-focusing parts of their output to help address the demand for affordable homes.
+
+“The backdrop of high interest rates, significant inflationary pressures and challenges with planning consents has suppressed private sale output in 2023.
+
+“That said, there are some signs of demand returning to the market and we would expect an improved position in 2024 as consumer confidence begins to recover and mortgage rates start to fall.”
+
+Looking to the year ahead, Mr Wood added: “With a general election looming, we may also see new home-buyer incentives that influence build volumes.
+
+“In the mid- to long-term, the industry would welcome measures that restore consumer confidence and encourage market growth.”

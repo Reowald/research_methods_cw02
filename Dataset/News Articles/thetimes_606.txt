@@ -1,0 +1,35 @@
+How do I find Times Radio on DAB?
+
+It should come up automatically in the list of stations on your DAB digital radio, but if you haven't re-tuned or rescanned your DAB digital radio for a while it might need an update. We have a guide to re-tuning your radio here.
+
+How can I get in touch?
+
+You can get in touch with Times Radio via text, email or on social media. For a full list of contact details please see here.
+
+Is Times Radio available on AM/FM?
+
+No, but there are plenty of other ways to listen. You can find us on DAB digital radio, download the free Times Radio app on iOS or Android, listen online at times.radio or ask your Amazon Echo or Google Home or other smart speaker to 'play Times Radio'.
+
+I missed a show! Can I listen back on demand?
+
+Yes. You can listen back to all our shows from the past seven days on the free Times Radio app, which you can download on iOS or Android. Or go to times.radio and look for the schedule. You can then click 'Listen Again' on the show you want to hear. As with the app, all the shows from the past seven days are available.
+
+Does Times Radio have its own podcasts?
+
+Yes. There are several podcasts from Times Radio, which are available along with the podcasts from The Times and The Sunday Times. Find out more about our podcasts here.
+
+Can I listen to Times Radio on my smart speaker or voice enabled device?
+
+Yes. You can find guidance on how to listen on Amazon Echo and other popular smart speakers here.
+
+Is your app screen reader compatible?
+
+No, it's not at the moment. We're always looking to improve our app, and whilst there's still lots of work to be done, this is something we are looking to include in the future.
+
+Who is on the line up on Times Radio?
+
+You can see our full schedule here.
+
+Why does the audio sometimes stop on Android when I open another app or when my phone goes into standby mode?
+
+To save battery, sometimes the Operating System on your phone stops our app when it hasn't been opened in a while, even if it is actively playing audio. This is something we are looking to resolve across the next few updates. However in the meantime, you can try turning OFF 'Power saving mode' in Settings on your device as this might resolve the issue.

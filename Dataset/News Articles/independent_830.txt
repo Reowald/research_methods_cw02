@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Apple Vision Pro has already been torn to pieces – and experts believe it has shown its “achilles heel”.
+
+The new augmented reality headset was released on 2 February, at $3,499 and after years of rumours. One of the first to buy one was iFixit, the website that tears technology apart in an attempt to understand how easy it is to fix.
+
+The company’s experts noted that the “achilles heel” of repairing the headset might be the large display on the front, which sometimes shows a virtual version of the eyes of its wearer, to let people know that they can see into the real world.
+
+That was just one of the many complications in attempting to break down the headset to understand how it was to repair, the company said. The teardown revealed that the Vision Pro is tightly packed with a huge array of different components, which likely mean that it is practically impossible to fix it from home.
+
+Overall, the company’s experts seemed impress with the headset. It said that the vast array of the components meant that it was not great to repair but that “some of the connections are quite delightful”.
+
+“The Vision Pro is insanely ambitious,” iFixit wrote. “Yes, it’s heavy, and the glass is fragile, and that tethered battery might get annoying. But Apple has managed to pack the power of a Mac, plus the performance of a new dedicated AR chip, into a computer that you can wear on your face.”
+
+But it appeared concerned about the display on the front of the headset, and it had been added. It noted that the feature had proven controversial in reviews, with some suggesting it was creepy or useless – but also noted that it required lots of complex technology to work.
+
+It uses a “lenticular display” which aims to produce a three-dimensional effect. That means that it is actually made up of three layers that together show many videos of the eyes.
+
+But all of those videos still did not give the right effect, the company said. As such, it had added complexity without even providing much value.
+
+“So why, when this thing clearly took years and years to create—and is Apple’s latest bet on the future of computing—did Apple fail to live up to their own standards with the EyeSight screen?” iFixit wrote.
+
+“It’s dim, it’s low-resolution, and it adds a lot of bulk, weight, complexity, and expense to the most weight-sensitive part of the headset. Did they finally hit the drop dead date and miss their targeted performance? Could it be a late-stage manufacturing error? Regardless, we’re sure bringing it to market was a difficult decision.”
+
+The company also suggested that it would provide more information on the headset in the days to come.

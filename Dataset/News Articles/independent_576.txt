@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The most powerful fast radio burst ever known to have hit Earth came from a “blob” in space, astronomers have said.
+
+In summer 2022, the Earth was hit by a record-breaking fast radio burst, more powerful than any observed before. Fast radio bursts, or FRBs, are very powerful but very short blasts of energy – the causes of which remains mysterious, with speculation involving everything from black holes to alien technology.
+
+That record-breaking blast came from a location that dates halfway back to the beginning of the universe, formed when the universe was just five billion years old. The FRB was the furthest one ever seen.
+
+Now researchers believe they have found the origin of that powerful blast. It appears to have come not just one from galaxy but a group of at least seven of them.
+
+The seven galaxies appear to be interacting with each other, astronomers say. They might even be merging together.
+
+It is incredibly rare to see a group of galaxies stuck together in such a way. Researchers believe that unusual collision of galaxies might be the reason that the fast radio burst was triggered in the first place – and examining the blob could tell them more about where they came from and how they originate.
+
+The researchers tracked down the origin of the blast using Nasa’s Hubble Space Telescope. Previous research had suggested that it might have come from one strange galaxy or a group of three of them – but the sharper images from Nasa’s space telescope show at least seven galaxies all stuck close to each other.
+
+“There are some signs that the group members are ‘interacting,’” said Wen-fai Fong, from Northwestern University, one of the authors on the new research. “In other words, they could be trading materials or possibly on a path to merging. These groups of galaxies (called compact groups) are incredibly rare environments in the universe and are the densest galaxy-scale structures we know of.”
+
+Those interactions could start the formation of new stars. That might suggest that the FRB is associated with a young set of newly formed stars – which would match with existing understanding of where FRBs come from.
+
+In all, astronomers have found as many as 1,000 FRBs since the first one was discovered in 2007. But their actual origins remain a mystery – the most likely explanation points to a compact object such as a black hole or neutron star, but that has not been proved.
+
+Astronomers hope to find the origin not only to solve the mystery of where FRBs come from but also learn more about the universe itself. The powerful blasts interact with the universe as they shoot through it – meaning that they could carry messages from parts of the universe they have passed.
+
+“Radio waves, in particular, are sensitive to any intervening material along the line of sight — from the FRB location to us,” said Fong in a statement.
+
+“That means the waves have to travel through any cloud of material around the FRB site, through its host galaxy, across the universe and finally through the Milky Way. From a time delay in the FRB signal itself, we can measure the sum of all of these contributions.”

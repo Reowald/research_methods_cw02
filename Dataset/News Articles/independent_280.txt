@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Consumer group Which? is urging UK businesses to support people struggling with the cost-of-living crisis, as one in six “stressed” renters miss “essential” payments every month.
+
+A person interviewed by Which? said: “We are not living, we are existing at this point. No holidays, no luxuries, just stress and worry,” as the consumer brand estimated that 2.4 million households missed at least one payment on their mortgage, rent, loan, credit card, or bill between December 2023 and January 2024.
+
+This marks a significant increase from the 1.8 million households that missed payments in the month ending on December 8, but it is consistent with the levels of missed payments seen through most of 2023.
+
+In an online poll of around 2,000 people conducted by Yonder on behalf of Which?, renters were more likely to miss essential bill payments. In the period between December 2023 and January 2024, almost one in six (15.9%) of renters surveyed missed at least one bill.
+
+During the same period, only 6.8% of mortgage holders missed essential payments, while Bank of England interest rates remained high.
+
+In comparison, only 2.8% of homeowners missed a payment.
+
+The survey also found that more than 200 people on universal credit (24%) reported missing or defaulting on a payment.
+
+Bills were the most common type of payment for households to miss (5.1%), followed by loan and credit payments (4.4%) and then housing payments (2.7%).
+
+Energy bills (56%) were the most common type of household payment missed, followed by council tax (36%), water (30%), phone (29%), broadband and TV packages (29%).
+
+Which? also reports that 58% (about 16.5 million) of households have made at least one adjustment in the last month to cover essential spending such as utility bills, housing costs, groceries, school supplies, and medicines.
+
+This adjustment could be anything from cutting back on essentials, dipping into savings, selling possessions, or borrowing.
+
+The figure is slightly higher than the levels seen in the previous four months (53% to 56%) and the same as the 58% seen in January 2023.
+
+Cuts to national insurance and an anticipated increase in wages and state pensions have been encouraging in easing the financial woes for households this year.
+
+However, only 22% of consumers think that the UK economy will improve in the next year, while almost half (48%) expect it to worsen. Similarly, only 24% of consumers think their future household finances will improve, while 30% expect it to worsen.
+
+As interest rates continue to remain high, consumers are expected to continue to face financial pressures throughout 2024.
+
+If people face difficulty in paying essential bills such as energy, credit card, or mortgage payments, Which? recommended they should “immediately” seek help from their provider.
+
+Rocio Concha, director of policy and advocacy at Which?, said: “It’s very worrying that missed payment levels are still so high – with almost one in six renters missing an essential payment in a single month.
+
+“We’d encourage anyone who’s struggling to seek free debt advice and reach out to their landlord for help.
+
+“As so many people face financial hardship, Which? is calling on businesses in essential sectors like food, energy and telecoms providers to do more to help customers get a good deal and avoid unnecessary or unfair costs and charges during this crisis.”

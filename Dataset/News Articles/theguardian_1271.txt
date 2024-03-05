@@ -1,0 +1,25 @@
+The next general election in the UK will be fought across 650 new constituencies after boundary changes were approved by parliament.
+
+While no election has taken place along these boundaries yet, research by psephologists Colin Rallings and Michael Thrasher, academics at the University of Plymouth, has estimated how, based on 2019 results, these new seats would have notionally voted in that election.
+
+Use the tool below to find your new constituency – and see what the notional results would be.
+
+The research offers people an idea of which parties are competitive in their new constituency, allowing them to consider options for tactical voting.
+
+Boundaries changed after a review that recommended constituencies be more equal. The number of registered voters in each constituency must now be within 5% of the “electoral quota” of 73,393, except for five protected island seats.
+
+Sixty-five seats – one in 10 – have no change to their boundaries. Of the 585 seats to have at least some change, 40 will have only small changes to their boundaries.
+
+Seventy-six seats, including for example Clacton, have been extended beyond their current boundaries to ensure they meet the minimum electoral threshold.
+
+Seventy-three seats, including Sheffield Central, have been reduced in size, giving up areas to other constituencies in order to balance the number of electors in each seat.
+
+The notional results were compiled by Rallings and Thrasher on behalf of BBC News, ITV News, Sky News and the Press Association. Calculations for Scotland by Prof David Denver and those for Northern Ireland by Nicholas Whyte.
+
+They analysis shows that, were the last election fought on the new constituency boundaries, the Conservative majority would be 14 seats larger. It also reveals that the swing to Labour required for the party to achieve an overall majority increases by 0.7 percentage points from 12.0 to 12.7.
+
+Estimated results under the new boundaries increase the Conservatives’ current constituency tally by seven from 365 to 372. Labour’s total is reduced by two from 203 to 201, including the speaker’s seat. This means that Sir Keir Starmer would now need a net gain of 125 seats for a majority.
+
+Note on map boundaries
+
+The Guardian’s map has been sourced from the individual boundary commissions of the UK. The Ordnance Survey will produce their own updated constituency map which will give further granular detail of the boundaries. The recommendations of the boundary commissions are, however, final and have been accepted into law by the privy council. A very small number of postcodes are split between constituencies; in these cases, the search will return the constituency that covers the centre of the postcode area.

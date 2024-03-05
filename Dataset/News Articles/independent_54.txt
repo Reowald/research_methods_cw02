@@ -1,0 +1,61 @@
+You can enable subtitles (captions) in the video player
+
+I'm here at Port Talbot in Wales, Britain's largest steelworks. Steel has been made here for decades with giant blast furnaces, but all this is at a crossroads because of net zero. The plant is also Britain's biggest single emitter of carbon dioxide. So if the UK is to meet its climate targets, then Port Talbot needs to change how it makes it steel.
+
+So this is number 4 furnace. It's one of the two operating furnaces on-site. As you look at the structure everything at the top really is designed for getting the materials into the furnace and also taking the gases off the top of the furnace. We're making about 3.2mn tonnes of iron or hot metal, as we call it, per year. So typically each furnace is making about 5,500, 6,000 tonnes of hot metal per day in a more or less constant operation. 24 hours a day, seven days a week, 365 days of the year, for about 20 years.
+
+Port Talbot is not the only site that needs to change. The industry still uses billions of tonnes of coking coal in blast furnaces and accounts for 7 to 9 per cent of global carbon dioxide emissions. Companies across the world are racing to find ways to cut their carbon footprint, but overhauling a giant industry is an enormous task. It will also require a lot of investment. Analysts from Wood Mackenzie estimate that $1.4tn will be needed to achieve net zero in the steel and iron industries by 2050.
+
+Companies are looking at a combination of electric arc furnaces and hydrogen to eliminate carbon dioxide emissions completely in the future. Many have also launched intermediate solutions to reduce emissions over time, including using more recycled steel in the blast furnace. Here, at its plant in Ghent in Belgium, ArcelorMittal has built a facility that can turn waste wood into biocoal, with a lower carbon dioxide footprint, to replace a portion of the regular variety in blast furnaces.
+
+Kenneth, so what are we looking at here? It looks quite modern compared to the rest of the plant.
+
+Yes, indeed. As you say, it's very new and modern. It's our new Torreo plant. It's a torrefaction plant, in which we want to try to convert waste wood to make biocoal out of it. And this biocoal is then directly blended with fossil carbon. And that way, we trade off fossil carbon with, in fact, recyclable carbon. With 37,000 tonnes of biocoal we're producing, it will reduce the carbon footprint of the blast furnaces with about 5 per cent.
+
+On the same site the company has invested in equipment to capture waste gases from one of its blast furnaces. Microbes will then convert these into ethanol, which can be recycled into carbon-containing chemical products, such as plastics or fuels.
+
+So we are standing next to the first European gas fermentation plant. It's a very novel thing. And what we do is, actually, we grow bacteria in a very controlled reactor environment, and we feed them with steel mill waste gas. Each reactor will contain around 10 tonnes of bacterial biomass. To make an analogy, that's about three or four male elephants, in terms of body mass. So we need to control these bacterial biomass by continuously harvesting all these excess biomass.
+
+So in a very simple way, the biomass is feeding on the waste gases that have come from the blast furnace?
+
+Yes. This plant is designed to produce ethanol. Our ethanol will be used to blend in with petrol. This plant alone can capture, annually, around 150,000 tonnes of CO2.
+
+So 150,000 tonnes of waste gas. How much is that, as a sort of percentage of the plant's overall carbon emissions on an annual basis?
+
+So the plant here in Ghent emits, annually, around 9mn tonnes of CO2. So that immediately puts things in perspective. It sounds amazing, 150,000 tonnes. But if you hear the number 9mn, we all know there is a very long way to go.
+
+We are responsible for the same 8 per cent of CO2 emissions of the country, being, in our case, altogether, about 9mn tonnes of CO2. Our better way is to say we have to do all of them because we know how much green electricity is needed to make the hydrogen, to make steel with hydrogen. So we would consume one third to one-quarter of the entire electricity consumption of Belgium to only make this plant based on electrification.
+
+While the inclusion of technologies such as carbon capture and storage is key in the transition, bigger steps will be needed to help the industry decarbonise. In Port Talbot, Tata Group plans to build an electric arc furnace that will melt down scrap rather than converting raw materials. These are smaller, more flexible and emit a fraction of the carbon dioxide of blast furnaces. But scrap supplies are limited, and these electric arc furnaces cannot always produce the quality required for certain applications.
+
+Several companies plan to build so-called 'direct reduction plants' in combination with electric arc furnaces. A DRI plant uses natural gas and, potentially, hydrogen instead of coking coal to reduce the iron ore. The big bet is on green hydrogen. H2 Green Steel, a Swedish start-up, is promising to have a large scale green steel plant up and running as early as 2025.
+
+We're taking technology from the steel industry across the world, but also other industries to really find the most optimal flow. We can create green hydrogen at large scale with electrolysers. Then we need to add heat to it in order for it to reduce in the DRI facilities. This region in the north of Sweden has a lot of hydropower. The site is connected to a river that generates about 15 terawatt hours each year. This is also a geography game.
+
+So how much steel will you be producing in 2025, and how much green hydrogen or green electricity will that require?
+
+We start off the plant to ramp it up to 2.5mn tonnes of steel. And then there is another phase to add some equipment in order to reach the full potential of the full plant, which is 5mn tonnes.
+
+Can you give us a bit of an idea as to how much more expensive a tonne of steel is from this process than a normal one?
+
+Compared to brown price, brown steel, it is about 20 to 30 per cent more expensive.
+
+They're happy to pay this. This is car companies, all sorts of buyers.
+
+We have had these discussions with the customers, that the willingness to pay is increasing every single year.
+
+Another start-up, Boston Metal, is working on an electrochemical process called molten oxide electrolysis to make green steel. To ease the costs of the transition, several European countries are offering taxpayer support. In Belgium, ArcelorMittal's plan to build a DRI plant as well as two new electric arc furnaces is being supported by funding from the federal and state governments.
+
+Germany is also backing decarbonisation plans by ThyssenKrupp, while in the UK, Port Talbot's owner, India's Tata Group, has been promised £500mn of state support to build an electric arc furnace. Unions, however, are also worried about the impact on jobs from the transition and want it to be gradual.
+
+Well, the reports in the papers so far are electric arc furnace, one large one, and 3,000 job cuts. That is a big concern. We do have to decarbonise. The unions totally endorse that. But like I said, we need to do it over the smooth period of time because we have to look after our people, and we have to look after the communities. The steelworks is the community. Everybody that works here is from here and the surrounding areas. I live 50 miles away and travel here every day for 9, 10 years. It used to be a job for life. I came here and never wanted to leave. It was something I wanted to do for the rest of my life.
+
+There are other challenges. The industry has yet to agree a common standard on green steel. It also needs to consider how to trigger demand for green steel. Are customers even happy to pay a green premium? And if so, how much? The rest of the world needs to act too. The developed world cannot act in isolation.
+
+Is the steel industry on track to meet its net zero climate targets?
+
+We have seen, in the last few years, a lot more progress from the industry. But overall, no, the industry is not on track. We are not seeing movement quickly enough. Governments are often major consumers of steel because they build out infrastructure. Governments have a lot of power to be choosing how the materials for these projects are procured, but there's still quite a bit of a buildout of the coal-based, emissions-intensive, blast furnace, basic oxygen furnace technology.
+
+A lot of these conventional, coal-based steelmaking routes are still subsidised by government. So those subsidies need to be removed now and put subsidies on the green steelmaking until they can get up to the scale where they're competing. If we see more instances of carbon taxes, ways of accounting for embodied emissions, then, yes, these cleaner steelmaking projects should be able to compete.
+
+This is not the first time the steel industry has gone through a major technology shift. Open hearth furnaces were really popular 100 years ago. Those were even more emissions-intensive. And those are accounting for less than 1 per cent of steel production now. The steel industry has been through these big changes before. It's totally possible to go through them again.

@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Around 3.8 million people have only until the end of the month to submit their self-assessment tax return, or risk a £100 penalty, potentially followed by other fines.
+
+The deadline for online self-assessment tax returns is January 31.
+
+HM Revenue and Customs (HMRC) is expecting more than 12.1 million tax returns to be filed for the 2022 to 2023 tax year along with any payment that is owed.
+
+If you are a self-assessment taxpayer, now is the time to take action and get your return done Myrtle Lloyd, HMRC
+
+More than 8.3 million online returns have already been received.
+
+Myrtle Lloyd, HMRC’s director general for customer services, said: “If you are a self-assessment taxpayer, now is the time to take action and get your return done. People can familiarise themselves with the process by checking out HMRC’s online resources on gov.uk.
+
+“Once a tax return is submitted, it’s easy to find out what’s owed and to pay online or using the HMRC app. Just search ‘pay my self assessment’ on gov.uk to find out more.”
+
+People who are unable to pay in full may be able to set up a time to pay arrangement and can find out how to do this online, without speaking to HMRC, if they owe less than £30,000.
+
+When completing a return, it is important to ensure bank account details are included, so that if HMRC needs to make a repayment, it can do so quickly and securely without needing to issue a cheque, the revenue body said.
+
+The penalties for late tax returns include an initial £100 fixed penalty, which applies even if there is no tax to pay, or if the tax due is paid on time.
+
+There could be tens of thousands of people who will have been drawn into the self-assessment tax net for the first time in the 2022-23 tax year. Many may be unaware of their obligations to file a tax return before January 31 2024 and could run the risk of penalties Dawn Register, BDO
+
+After three months, there are additional daily penalties of £10 per day, up to a maximum of £900 and after six months, there is a further penalty of 5% of the tax due or £300, whichever is higher.
+
+After 12 months, there is another 5% or £300 charge, whichever is more.
+
+There are also additional penalties for paying outstanding tax late.
+
+HMRC will consider a customer’s reasons for not being able to meet the deadline. Those who provide a reasonable excuse may avoid a penalty.
+
+People should also be aware that scammers may use the deadline to try to trick them. They should never share their HMRC login details with anyone, including a tax agent, if they have one. HMRC scams advice is available on gov.uk.
+
+Dawn Register, head of tax dispute resolution at BDO said: “There could be tens of thousands of people who will have been drawn into the self-assessment tax net for the first time in the 2022-23 tax year. Many may be unaware of their obligations to file a tax return before January 31 2024 and could run the risk of penalties.
+
+“These new filers could include parents claiming child benefit whose salaries crossed the £50,000 threshold for the first time in the 2022-23 tax year and who will have to repay some or all of their benefit through the high income child benefit charge.
+
+“They might be higher earners whose salaries topped £100,000 or pensioners who earned more than their savings allowance because of rising interest rates. Alternatively, they could be working people whose side hustle earnings were above £1,000 during the tax year.”

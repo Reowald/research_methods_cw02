@@ -1,0 +1,45 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Splatoon 3 is an upcoming competitive third-person shooter fron Nintendo that’s scheduled for release on 9 September 2022 for Nintendo Switch consoles.
+
+Players will compete in teams in a family-friendly third-person shooter with a number of different game modes, including “Turf War”, which sees players compete in a four vs four arena match to cover the most ground with their coloured ink.
+
+A single-player mode is also returning and will be titled “Return of the Mammalians” as well as a cooperative game mode called “Salmon Run”, among other new features. We were given a hands-on demo of Splatoon 3’s various game modes to see for ourselves.
+
+With some noticeable upgrades and improvements, Splatoon 3 is set to provide more of the same paint-spraying action and if you want to try out the game for yourself, a demo will be available to download and start playing from 25 August 2022, with a world premiere “Splatfest” event taking place on 27 August, between 9am and 9pm BST.
+
+For our full preview of Splatoon 3, read the rest of our article below.
+
+(Nintendo)
+
+In our play session, we had an opportunity to try out sections of the latest campaign, which sees Octoling Agent 3 return in a single-player focused game mode. For those unfamiliar with Splatoon 3’s goopy gameplay, it serves not only as an offline component but also as a tutorial for newcomers, with opportunities to test different abilities as well as weapons.
+
+One such weapon was the stringer – a bow-like contraption that can fire three shots with a wide spread in either vertical or horizontal orientations, depending on whether the player is grounded or not.
+
+It’s particularly useful for covering wide areas or enemies that are grouped together and once the different shooting modes become familiar, it becomes quite easy to make use of both.
+
+The stringer can be used vertically or horizontally (Nintendo)
+
+Another game mode making a return is “Salmon Run”, which acts as a cooperative game that sees up to four players take on waves of bosses and enemies, while simultaneously trying to collect as many “boss eggs” as possible before the time runs out.
+
+As weapons are randomised, they also give players a chance to test out different playstyles, even ones they aren’t comfortable with, while also cycling through special abilities, which also provides another opportunity to see what combination of different loadouts work. It’s an entertaining enough game mode in its own right and one that makes good use of Splatoon’s existing systems under a co-op format.
+
+Salmon Run sees four players take on “Salmonids” in waves (Nintendo)
+
+This brings us to the cream of the crop: Turf War – Splatoon 3’s equivalent of a standard four vs four deathmatch that sees each team coating as much of the floor as possible to be declared the winners. Matches are short, with just a few minutes on the clock to complete your frescos while coming under heavy fire.
+
+Here, we were able to test out the “Splatana”, a new weapon taking the form of a wiper blade that can be used for a mixture of long-range attacks as well as charged-up melee attacks when holding down the trigger. It took some getting used to, but its balance of speed and power meant it was certainly versatile in a tight corridor firefight and could be used to close out gaps.
+
+The Splatana is optimised for longe-range and close combat (Nintendo)
+
+Splatoon 3 is set to be another competitive multiplayer game that shoots for a broad appeal but a high skill ceiling. Beyond its neon-hued exterior and boppy tones is a surprisingly sophisticated shooter that encourages mobility and varying loadout composition. Classic modes such as Turf Wars are just as fast-paced and competitive as ever but with new weaponry and additions to mobility, it’s set to be another splat-tastic mess of fun.
+
+If you’re interested in playing the demo before the game’s release date, you can find out more on Nintendo’s website.
+
+Voucher codes
+
+If you’re looking for discounts on technology or videogames, then try one of these codes:
+
+Want to buy the latest Nintendo Switch console? Read our full guide on how to get the Splatoon 3-themed Switch OLED

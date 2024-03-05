@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lewis Hamilton has brought back “long term friend” Marc Hynes to his support team for the 2024 F1 season.
+
+Hamilton is eyeing a return to form this year having not won a race for more than two years, with his last victory coming in Saudi Arabia in December 2021. The Brit’s time working with long-term performance coach Angela Cullen ended last March.
+
+Max Verstappen has won the last three world championships but Hynes – who worked with Hamilton from 2016-2021, when the Brit won four of his seven titles – has been brought back into the frame by the Mercedes driver to focus “solely on racing activities.”
+
+Hynes, who used to run Hamilton’s management company Project Forty Four, left Hamilton’s support camp prior to the 2021 season. However the split was cordial, and Hynes will be at the 39-year-old’s side at races throughout the year.
+
+Hamilton has known Hynes, a former British F3 champion, since their days racing against each other in karting.
+
+The Mercedes star, who last September signed a new two-year contract until the end of the 2025 season, will continue to work with Canadian talent manager Penni Thow on some of his non-racing ventures – such as his Apple+ projects and F1 film starring Brad Pitt – despite the termination of his contract with her company Copper.
+
+“The management agreement between Penni Thow and her company Copper with Lewis Hamilton came to its natural end in December 2023, after the expiry of a fixed term,” a spokesperson for Hamilton told The Telegraph.
+
+“Over the course of the partnership, Penni and her team have supported Lewis’s entrepreneurial vision and together they have launched several exciting ventures. While the management agreement has ended, Copper will remain working with Lewis on some of these joint projects to ensure their continued development and success.
+
+Lewis Hamilton has brought back ‘long term friend’ Marc Hynes (right) to his team for the 2024 season (Getty Images)
+
+“Over the coming months Lewis will expanding his company Project Forty Four, which was set up in 2014, and will be making exciting appointments and announcements as he continues to grow his entrepreneurial business and investment interests.
+
+“Lewis is looking forward to the beginning of the new Formula One season and he will be working with Marc Hynes, his long term friend and former colleague who will be providing his expertise to assist Lewis on the track.
+
+“Marc will be solely focused on racing activities and supporting Lewis’s commitment to bringing the fight back to the top spot.”
+
+The 2024 F1 season starts on 29 February – 2 March in Bahrain. Mercedes launch their new car on Wednesday 14 February at an event in Silverstone.

@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Microsoft is about to share a major announcement about its “vision for the future of Xbox”, the company has said.
+
+The announcement came amid fresh speculation over whether the company is about to make a major change to its relationship with rival consoles.
+
+Phil Spencer, the head of Microsoft Gaming, did not specifically link the announcement to those reports. But he did appear to suggest that it was the result of questions and speculation – which have largely related to the expectation that Xbox games might be coming to other platforms.
+
+“We’re listening and we hear you,” Mr Spencer wrote. “We’ve been planning a business update event for next week, where we look forward to sharing more details with you about our vision for the future of Xbox. Stay tuned.”
+
+The announcement, posted on Monday night, came after increased reports that some previously exclusive Xbox games could be coming to other platforms. In recent days, prompted in part by the discovery of files in games, there has been speculation that titles such as Starfield, Hi-Fi Rush, the upcoming Indiana Jones game and Sea of Thieves could be coming to other platforms, such as the PS5 and Nintendo Switch.
+
+Mr Spencer gave no further information on the update, or any confirmation that it related to those rumours. It remains unclear when that business update will be held or what it might actually consist of.
+
+Xbox is yet to give any kind of public comment on the speculation that games might be coming to other platforms. That uncertainty has led to some Xbox players suggesting that they might feel badly treated if the games come to other platforms, given they might have bought the console specifically for those titles.
+
+The uncertainty joins other questions over the future of Xbox, including how Microsoft intends to treat new games developed by Activision Blizzard, the Call of Duty developer that it bought last year. It is still yet to confirm which new games might come to Xbox Game Pass, for instance, and when that might happen.

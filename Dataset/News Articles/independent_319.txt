@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The residential mortgage market has started the new year with the biggest choice of products in more than 15 years, according to a financial information website.
+
+The average “shelf life” of a mortgage product has also increased, to 21 days, compared with 15 days in January last year.
+
+In July 2023, a mortgage typically remained on the market for just 12 days before disappearing, Moneyfacts found.
+
+Moneyfacts counted 5,899 homeowner mortgage products across all deposit sizes at the start of January 2024, up from 5,694 at the start of December 2023.
+
+The last time there were more deals available was in March 2008, when there were 6,192 products, Moneyfacts said.
+
+Those comparing different mortgage offers may be pleased to see a big uplift in choice, as there was a rise of 200 residential mortgages month-on-month Rachel Springall, Moneyfacts
+
+Within the January 2024 total, the number of deals for people with just a 5% deposit, who are often first-time buyers, has increased from 253 in December 2023 to 270 in January 2024.
+
+The number of deals for people with a 10% deposit increased from 718 to 733 over the same period.
+
+And the number of products for people with a hefty 40% deposit increased from 623 to 682 between December and January.
+
+Several major lenders, including Halifax, HSBC UK, First Direct and TSB have cut their mortgage rates in the new year. Swap rates, which are used by lenders to price fixed mortgages, have been easing.
+
+Rachel Springall, a finance expert at Moneyfacts, said: “Those comparing different mortgage offers may be pleased to see a big uplift in choice, as there was a rise of 200 residential mortgages month-on-month.
+
+“This was the biggest rise month-on-month in product choice since September 2023, which was an extremely busy period for lenders, when repricing was rife, and the average shelf life of a deal was just 15 days.
+
+“A rise in choice and cheaper mortgage rates are promising signs for those looking to refinance this year.”

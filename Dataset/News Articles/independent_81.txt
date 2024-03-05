@@ -1,0 +1,171 @@
+You can enable subtitles (captions) in the video player
+
+Humans are going back to the Moon. Right now the Moon is the target of more missions than at any time since the Apollo era. The US and China have ambitious projects to build permanent bases on the lunar surface. And where they go, business is following. They all want to share in the promised, new lunar economy.
+
+You'll see tourism. You'll see commercialisation, I would say, of data on the Moon. There will be an entertainment element of it.
+
+Over the next 10 years, 400 missions. We forecast $137bn cumulative market.
+
+To get there, first, we'll need the infrastructure to support a lunar economy. Someone will have to build the landing pads, the power stations, and communications networks needed for these permanent bases. Then the question will be whether there really is money to be made from exploiting Earth's cold, barren satellite beyond relying on government contracts?
+
+So what exactly are the space agencies trying to do that has excited talk of a lunar economy? Ditch ideas of lunar cities. Instead, think of the International Space Station, where a handful of astronauts spend months at a time learning to live and work in space. Or of the polar research stations, where scientists from around the world go to study in some of the toughest conditions on the planet.
+
+We'll have research outposts. They're going to be operated much like we might operate an outpost in the Outback or, say, on an offshore platform. So I think we'll have rotational crews, so the facility itself would be permanently occupied, but the people would rotate in and out.
+
+Jim Free is the man leading the US effort to return humans to the Moon. Nasa sees it as a training ground for living and working on Mars.
+
+Now, we can put systems close to home - 200,000 plus miles away from home, but closer than Mars - and see how they operate in roughly the same gravitational environment. We've had humans on the Moon before, but not for long durations. So what does that partial gravity mean to the human system, to our other systems? So that we learn it now close to home relative to Mars.
+
+We can also simulate a Mars mission with the Moon. So we're going to have a lunar orbiting station around the Moon called Gateway. And we can send our crews and they can live on Gateway for six months, like they're transiting out to Mars for six months. And we can send them down to the lunar surface for 30 days, like we plan to do at Mars, and have them have to adjust from the zero gravity, microgravity environment to a partial gravity, and then bring them back to Gateway for six months, and then bring them home. So the Moon from our perspective touches Mars in every way, except landing through an atmosphere.
+
+The first port of call in this new lunar rush is going to be the Moon's South Pole. Both the US and China are targeting the region and, sometimes, even the same landing sites. But why the South Pole?
+
+That's where you're going to find in-situ resource utilisation missions, trying to find water, trying to find oxygen, trying to find hydrogen, trying to find other minerals and materials that will be able to make air for astronauts to breathe.
+
+Estimates vary greatly on how much water there might be. It could be as high as 6bn tonnes. And so if we can first prove that it's there and then access it, that water could provide our astronauts with air and water. But then when we split that water into hydrogen and oxygen, it makes a fantastic in-space propellant.
+
+Nasa is turning to the private sector to help cut the costs of its missions. Instead of contracting to build a rocket, it wants to buy the ride from companies such as SpaceX and Blue Origin. And this is one of the fundamental differences to the Apollo era. It means that others can use those services, too.
+
+It takes advantage of the capital that's out there. Gets things done for us as a service, where we're not owning all the infrastructure, but then allows these other missions to happen, as well, for private industries. Much like in low-Earth orbit, we pay for crew to go to the Space Station. Those same capabilities are now taking people on private astronaut missions to the Space Station or even, independent missions, as SpaceX did a couple of years ago of launching people to low-Earth orbit on their own.
+
+Building the foundations of a lunar economy for returning to the Moon are really rooted in what Nasa has always done. The partnerships that we've developed for this lunar economy start really in our uncrewed missions. The Commercial Lunar Payload Services was designed to get our payloads on the Moon and encourage people to build landers to land our payloads, but then, also, allow them to carry other payloads from various organisations that they raise as part of their capital. It allows us to get the data we need back to do our science, which is fundamental to what we're doing on the lunar surface, and also to understand the lunar environment.
+
+Elon Musk's SpaceX, supported by billions of dollars in Nasa contracts, has revolutionised the cost of accessing space with its reusable Falcon 9 rocket. Its success has spawned a host of copycat start-ups with over 100 companies around the world aiming to carry satellites into low-Earth orbit. Now, Musk's gigantic Starship promises to do the same for transport to the Moon.
+
+The genius of Starship or the genius of the principle of heavy reusable is that the cost factors compared to traditional expendable launch could potentially reduce by two orders of magnitude. One cannot emphasise enough what a game changer this is. SpaceX's Starship is the railroad to low-Earth orbit. And from there we can build out to the Moon and into the solar system. Starship will be the enabler that allows us to build hundreds of economically-viable business models in space.
+
+SpaceX and Blue Origin are developing landers to carry astronauts to the Moon's surface as part of Nasa's Artemis programme. This aims to put the first woman and person of colour on the lunar surface by 2025. But the race is not just about human transport. There's cargo and other services, too. PWC estimates that the lunar transport and logistics market could be worth more than $100bn by 2040.
+
+In 2018, when the Moon became of strategic interest to the United States, there were no lunar landers or lunar programmes in existence in the United States. Today, there's over a dozen landers being built, which is a new market.
+
+Lunar transportation is going to be the key component. Getting people on and off the surface and getting instruments and capabilities on the surface is going to be the immediate need that we have over the next several years.
+
+You need to get there to have human presence. You need to build infrastructure ahead of the human presence being there because it's not just about staying a couple of days and then going. It's about a permanent infrastructure. So I would put communication and navigation ahead even of oxygen and food because otherwise, you can't even go there.
+
+Going to the South Pole is a lot different than going to the equator. The lighting conditions at the South Pole are very peculiar, so you have really low incident angle light. So from a navigation perspective you can actually get very disoriented when you walk away from your lander and you turn around and try and get back. So with that sunlight very low at you, so even small boulders can give you long shadows, we need to give our crews every bit of safety to navigate back to the lander.
+
+Our requirements of science to accurately put our scientific instruments and know where we put them is important, also. So that navigation piece is really important from a safety and science perspective. So collaborations like Moonlight are very important to us.
+
+Moonlight is the name given to the programme led by the European Space Agency, which plans to offer connectivity on the Moon.
+
+It's an infrastructure project giving exactly the same facility as internet and Galileo would give to humans on Earth. So today, you imagine that the internet goes off, you don't have any signal on your mobile phone, and you don't have any navigation signal for your car. Pretty much, every business stops, where it's the same for the Moon. If we want to have autonomous navigation, if we want missions on the Moon to be able to communicate back with us and between themselves, we need to have a network of communication satellites orbiting around the Moon, allowing communication between the lunar mission and the Earth and amongst each other, including a navigation system, as well.
+
+Other nations are also looking into contributing to a global programme. We are starting from scratch. What we were not able to do on Earth because on Earth we didn't start with one system and the will to all be interoperable, so we are capable of saying, OK, we're going to work together as the world, not as a nation, to provide this service as efficiently as possible.
+
+Setting up a communications network is also expected to accelerate the development of commercial services on the Moon.
+
+I can put data relay and navigation satellites around the Moon. And now I can provide communications for any set of users to purchase from us as a service. And so we can provide lunar distance or near-space network communication services to the Moon and back from the Moon and even on the back side of the Moon. And we can sell that to anybody who wants a mission to the Moon or wants to put anything on the Moon.
+
+So if we're building a permanent base on the Moon and we've got the communications and navigation in place, what else do we need? Well, we can't do anything without power. And we will need a lot of power.
+
+Nuclear is going to be critical. If we're really going to live there and work there and do science there sustainably, you need a lot more power to execute more missions. So we think that's very important.
+
+So will there not be kind of safety and environmental considerations to doing... producing nuclear power on the moon?
+
+It does sound scary to talk about nuclear power in space and on the Moon. One of the big differences is, one of the important nuances, is this is low-enriched uranium. It's not high-enriched, weapons-grade nuclear fuels so inherently it is much safer. There are also a lot of regulatory and safety processes that we're going to work through with governments to make sure we can do this safely. But essentially, you don't launch with a nuclear reactor, for example. The nuclear reactor's turned off when you launch, until you get to what's called a nuclear-safe orbit.
+
+And what do you do with the waste?
+
+A lot of that still needs to be developed and worked out, I would say. Those things are in work. Can say more on that in the future, I would say, how the systems are going to all work and play out, and how all that will be managed.
+
+Nuclear power on the Moon is important because of its stability. It also helps us survive the night. We have 150-hour periods, sometimes, where we'll be without sunlight, and we need our systems to survive. Obviously, nuclear power is there all the time. So we can take advantage of that to power our vehicles during these difficult, no light, low temperature periods.
+
+The safety concern, obviously, is there. We would design around it by putting the reactor far away or building up a berm of the lunar regolith to protect the crew members and distributing the power via long cables.
+
+Regolith is the name for lunar dust, which actually isn't dust at all but shards of Moon rock that have been smashed by meteorites over millions of years. It's nasty stuff, which tore into the Apollo astronaut's Moon suits and can damage lungs.
+
+We had these white suits on when we started, but the Moon dust is very, very fine like powder. And so as you walk, you kick it up. This dust gets all over you. Your suit began to turn grey.
+
+But scientists are hoping to be able to use that regolith to protect humans from radiation, to build habitation, and more. There's a name for using the Moon's resources, such as regolith or ice, In-Situ Resource Utilisation or ISRU. Lots of people talk about this as one of the earliest potential markets.
+
+There's people that have very big In-Situ Resource Utilisation plans. A big concern for us is the plume that we have from our rocket engine, and how that stirs up the lunar regolith.
+
+40 feet down two and a half. Picking up some dust.
+
+And you can actually suspend that regolith. Based on the one-sixth gravity, you can actually suspend it just over the surface. So if we had a landing pad constructed from regolith, maybe something that compacted that regolith down into a landing pad, it allows us to land closer to our other systems so we don't have long traverses for our crew members.
+
+And then when you look at living off the land, from the In-Situ Resource Utilisation aspect, getting to that water ice, our goal is to get the hydrogen and oxygen out of there to make power. And obviously that ports over into life support systems, too. So for me, that In-Situ Resource Utilisation takes a lot of power, but those landing pads sure would be great.
+
+So if our astronauts have access to water, air, and power, how can we mould the landscape to help them survive?
+
+We want to take the raw material on the surface of the Moon and make that useful. So we're looking at a number of different technologies from laser sintering to casting. When we go to the Moon we're essentially going to be back in the Stone Age. Our architects and civil engineers are looking back to just after the Stone Age, to what are the building technologies that our ancestors used and perfected and were able to make fantastically useful structures out of?
+
+So this might be using bricks, corbelling, which is a technology where you can take these bricks and you can stack them in certain ways that they will stand up on their own. These kinds of things are what sort of fascinate our architects and civil engineers here because they're simple. They're repeatable. They're durable. So we're attracted to that those older technologies as the first use on the surface of the Moon.
+
+But there are some older technologies that definitely won't be deployed on the Moon. At least not to paying customers. Dehydrated astronaut food from the 1960s isn't going to keep astronauts healthy or happy, but is it possible or necessary to grow food on the Moon?
+
+After six months in space or more for long-term mission and for Mars travel, the quality of the prepackaged food degrades. We are building pods inside which we recreate climate to grow plants. And we do that on Earth and space. So part is... it's kind of a very advanced greenhouse. You can assemble it anywhere. It's composed of a base inside which you find all the hardware, so the atmospheric, the hydraulic system, that help recreating the climate inside.
+
+And on top of the hardware there is an inflated bubble inside which we recreate the ideal condition for life to grow. We just need, like, an initial tank of water, and then we can use it for a very long time. For the area, we can have compressed air so it's not... air is not really a problem on our side.
+
+A lot of the companies that we've looked at have amazing animated examples of what they plan to do, but the reality is more prosaic.
+
+The first payloads that we are sending are actually not inflatable structure. There are cubic payloads inside which we are trying to really test the watering system because the gravity is different on the Moon. We also want to see how the solar radiation is impacting the development of the plants because this is still unknown. And so the first payload will be very small cubes. Step 2 will be to start testing inflatable structures. Then step 3 is going to be integrate everything and eventually get a first BioPod on the moon.
+
+Mining is another industry which many believe offers huge potential in a future lunar economy. Scientists think the Moon may hold large deposits of helium-3, which is crucial for nuclear fusion. There may be money to be made in extracting this for use back on Earth.
+
+OffWorld is building swarms of ruggedised, machine-intelligent robots built on the same common platform, consisting of different species of robots that do excavation, extraction, surveying, processing, transportation, collection, and literally, a myriad of other tasks. And the robots then collaborate together, working in a system that provides an end-to-end capability for any industrial sector.
+
+OffWorld is one of the many lunar hopefuls trying to prove its business model here on Earth before setting off for the Moon.
+
+We have the mining companies as our clients. We're really operating here on Earth predominantly as the first planet with the most value proposition. And what that means is that we can build and scale the business here. We can add value to existing mining companies who can't mine particular ore or mineral from places that conventional mining cannot reach economically. And that means we can then develop our robust systems, reduce the risks in our learning curves, and develop the intelligence and autonomy here on Earth, and then deploy to the Moon. Being one of the world's first companies to have mining development contracts on two celestial bodies is pretty cool.
+
+Even if these companies are able to do business on Earth, making a success of that same business on or around the Moon is a giant leap. Not everyone believes a self-sustaining commercial economy will flourish on the moon.
+
+This is a study of the potential for a lunar economy written for Nasa. It found that there are more than 80 companies in 12 countries aiming to offer services and products on or around the Moon by 2040. But the vast majority are counting on government contracts to keep them going, rather than households or businesses.
+
+Consumers may book a stay in a lunar hotel, buy Moon rocks or other artefacts, or even choose to be buried on the moon, the report suggests, but that's about all that will be available. And for the business-to-business market, other than advertising, there was nothing that could be produced on or around the moon for the private sector that was viable without government support. But that is the story until 2040. Lunar entrepreneurs are looking further out.
+
+Space is an enormous human endeavour. It will always contain a government component. Governments have a strategic need to be in space, international governments need to be there, but also, there's room now, for the first time in history there's room for commercial companies to be there.
+
+As the economy progresses, we'll see more activity around the moon. There will be satellites that will be refuelable and then, also, landers and rovers that can be refuelled. And the idea of a logistic supply chain around the Moon where you are able to derive resources, propellants that can then be transferred to customers. Our goal is to be kind of the midstream, downstream oil and gas company, in a sense.
+
+So when people say that we're never going to get a long-term outpost on the Moon and that it will be very similar to what happened with Apollo, I disagree, because there are so many entreprenseur and very talented engineers and scientists working on making it happen. There is the money, there is the talent, and it's going to happen.
+
+Let's be honest. There's never been a lunar economy before. It's entirely possible that the Moon's commercial economy will simply be about making life a little more comfortable for those staying in the bases. Services like streaming Netflix or supplying coffee. Maybe we won't truly know what the opportunities are until we have people living on the lunar surface.
+
+Collectively over history we've spent two weeks of human history on the Moon. There's a lot of work that needs to be done to build the infrastructure, to build reliable transportation - not only reliable, but even financially reliable. The road needs to be paved before we can start setting up shop.
+
+But Nasa and its partners are not the only ones trying to pave those roads. China has its own ambitions to build a permanent base on the Moon. And, like the US Space Agency, it, too, is targeting the South Pole and encouraging its companies to participate in the new Moon Rush.
+
+Are you worried that the greater involvement of the commercial/private sector in this could accidentally lead to conflict, unmanaged conflict, with a power like China, which has its own commercial and political ambitions for the Moon?
+
+I think commercial involvement only enables things. I don't worry about commercial starting any type of conflict. I believe that our path back to the Moon this time, under the Artemis programme, is much different than we did in Apollo in the sense that we're going as an international coalition under a set of principles in the Artemis Accords, which are about safe, peaceful, and prosperous. So from our perspective those 28 countries that have signed those Artemis Accords and committed to those principles, which includes our partners in the commercial world, that's how we'll operate, and that's how we'll live by.
+
+Of course, China has not and probably never will sign those Accords.
+
+I love the competition and the race to the Moon and wanting to be first, as you can tell. First, the United States returned in 50 years. But we can do that in a way that's friendly and not adversarial.
+
+I'm not afraid about a big conflict in the future, regarding the sharing of resources. They will realise that to have a better environment, they need to sit together.
+
+There is a challenge for this race to the Moon or this war for the Moon, but there are underlying trends that could facilitate, at least, respectful and peaceful, if not, co-operation then at least distance that may allow us to work around each other rather than against each other. A Cold war, at worst, I believe, is where we're headed. Both endeavours are trying to get there. They'll do their work independently. It would not really escalate further than that.
+
+We have to hope they're right. Very few of those we spoke to were prepared to acknowledge the risk that competition for lunar resources could spark new tensions in already strained relationships back here on Earth. But those tensions do exist, even if there is still international collaboration on the ISS.
+
+I think that the space agencies around the world have worked better than almost any geopolitical group. I mean, it's amazing to me now, as we sit here today, that we have an International Space Station that is still holding together an international coalition. I think that's a remarkable statement of what space can actually do to bring people together. And I think that's going to be the case in the future.
+
+Historically, space has been an area of collaboration, where countries have come together, because it is so challenging and been sort of a force for humanity and for good. So I'd like to think that, that will continue, and that we can build on that and work together with other nations.
+
+We want to see more successes for everybody participating so that we grow this whole economy and that we have a vibrant economy. That's what it's about.
+
+Whether the moon becomes humanity's first off-world economy will depend on many things. On Starship succeeding after its early failures, in cutting the price of a ticket to the Moon, on explorers finding and extracting valuable resources such as water, hydrogen, and helium-3, and on the world's space-faring nations being able to share the Moon's resources peacefully. The stakes are high.
+
+Right now, the Moon is a pristine place, largely undisturbed by geopolitical or commercial rivalries. But within the next decade we expect to see the first mining of its resources and perhaps, even the first tourists. Will we trash the Moon as we have trashed so much of our home planet?
+
+I don't have that concern. The Moon is a fragment, and it's a rock and a barren place. And so, I'm not necessarily worried about contamination of the Moon itself. It lives out in space in a highly radioactive environment.
+
+We're looking at different sites on the oon. A number of them will just be set aside as national parks. Some might be strictly for scientific purposes so that they're not touched by any sort of commercial activity. And then, probably, a small fraction would be allowed for research and commercial use.
+
+Any time you go somewhere new, it's, how can we do this in the right way, maybe differently than in the past and be mindful of those things? So that's not an area I worry about.
+
+Do you think you'll ever go to the Moon?
+
+Yes, I will. I want to go. And I'm very determined when I want to do something. It might take more time than expected, but I will go.
+
+I don't want to go to the Moon for a very good reason. I get motion sick in the car.
+
+I think the thing that I look up at the Moon more than almost anything is a certain amount of longing. I want to go back. I want us to go back. I want us to go back, and I want us to explore.
+
+I'm not sure if I'll make it there. I have a... I have a two-year-old daughter, and I like to tell her she'll have the option to go to the Moon someday, and I think that many people will.
+
+Heavenly Moon, I'm dreaming of somebody soon, someone will spend a long afternoon close by me making me swoon.

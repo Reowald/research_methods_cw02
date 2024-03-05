@@ -1,0 +1,131 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A holiday before your due date and post-marriage getaways are a popular way of celebrating the good news of tremendous milestones, and you don’t even need to leave the shores of the UK for the most memorable of minimoons and babymoons.
+
+Hidden gems that don’t break the bank are on the doorstep for parents-to-be ready to start nesting and newlyweds still firmly in the honeymoon phase after tying the knot. Think rural hideaways, cosy cottage stays and romantic weekends in the city. Travelling flight free to the intimate settings that pepper Cornwall, the Scottish Highlands and York will allow you to find a very special type of romantic, British charm.
+
+So, treat yourself on a “moon” to our isle’s white sands, woodland delights and world-class spas or simply indulge in British classics at tables for two during off-grid breaks. From sea view suites to unique glamping pods and lavish country estates, here are The Independent’s top picks for a romantic holiday to celebrate milestone moments this year.
+
+Read more on honeymoons and romantic holidays:
+
+Best for: Babymoons
+
+The Belsfield Hotel, Lake District
+
+The Belsfield combines sumptuous decors with views of Lake Windermere (Giles Christopher/Belsfield Hotel)
+
+Enjoying quality time as a couple with a baby on board has become a popular way to celebrate the impending arrival of the little one, and what could be better for pre-baby bliss than a luxury stay on the peaceful shores of Lake Windermere?
+
+The Belsfield Hotel offers a two-night Cream Tea-Cruise Stay for Two from £330, including bed and breakfast, a cream tea for couples and a boat cruise on Windemere’s waters. Take nursery inspiration from Belsfield’s pastel interiors in timeless rooms and stroll leisurely through acres of landscaped gardens to make the most of an intimate holiday at the idyllic Lake District hotel.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Belsfield Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for: Newlyweds
+
+Filly Island, Cotswolds
+
+Filly Island puts you right in the heart of the Cotswolds (Images © Unique Homestays www.uniquehomestays.com)
+
+The Cotswolds boasts an undeniable romance, from its stunning 13th-century churches to cosy traditional pubs and intimate B&Bs. It’s even home to Copse Hill, Britain’s “most romantic road”.
+
+Unique Homestay’s luxury self-catering cottage, Filly Island, in Cirencester, offers an ambience of intimate creativity dating back to the 1700s. The tiny island home, accessible by bridge, is the perfect size and setting for two lovebirds looking for a trip to remember. Short breaks to the rustically stylish island start from £750 including a luxury welcome hamper with local produce, a bottle of prosecco and kindling to make the most of the crackling wood burner.
+
+Best for: Unique minimoons
+
+Red Kite Conkers, Powys
+
+The glamping pod sits in the Cambrian Mountains International Dark Skies Reserve (Chillderness, Red Kite)
+
+Break the coastal minimoon mould with a stay in Powys’ rolling mountain landscape. Wales’ largest county is rich not only in greenery but stunning scenery through the day and at night. Long walks to ancient villages meet stargazing in the Bannau Brycheiniog, on unique breaks to a rugged land that’s perfect for some alone time à deux.
+
+Outdoorsy couples will love the escapism of Chillderness’ Red Kite Conkers. The aerodynamically designed “earth” and “moon” glamping pods in the International Dark Skies Reserve of the Cambrian Mountains feature king-sized beds, an outdoor heated bathtub and a wood-fired pizza oven for off-grid evenings spent enjoying spectacular views of the secluded woodland. There’s even a brand new “space” conker for July 2023; three nights from £530 in September.
+
+Best for: Romantic city breaks
+
+The Vices, York
+
+Indulge in flavour and fragrance at the hotel’s Allium restaurant (Olivia Brabbs Photography)
+
+For a UK city break that encapsulates old-world charm, ancient architecture and – most importantly – chocolate, look no further than York. Steeped in romance; castles, cobbled streets and culinary delights ideal for date night dot the pretty city.
+
+The Vices Hotel’s Second Suite offers dusky pink walls, a bathroom oasis with a Japanese tub and rich velvet accents from £540 for two nights. One of only three stylish suites housed in a Victorian Police Station, this new hotel has been making a stir in York. Downstairs, indulge on tasting menus at Alium restaurant, sip flirty drinks in the Cocktail Bar and relax at private tables in the elegant Wine Library.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for: Spa breaks
+
+Grantley Hall, Yorkshire Dales
+
+The Three Graces Spa at Grantley Hall (Grantley Hall)
+
+Treat yourselves to a massage that melts the muscles and unwind by the pool after an inevitably stressful wedding planning period. Grantley Hall made our list of best UK hotels for its impressive grounds, honey-hued stately home and rolling heather-covered hills in the heart of the Yorkshire Dales and it’s no surprise once you see the heavenly spa.
+
+Grantley Hall’s three-night Relax & Renew package features yoga sessions, cryotherapy, healing treatments and the use of all of the Three Graces spa’s facilities. The week-day retreat starts from £4,650 for two in a Deluxe Room – including a £50pp allocation towards dinner each evening – and promises to reconnect the mind, body and spirit.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Grantley Hall here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for: Seaside solitude
+
+Bedruthan Hotel, Cornwall
+
+Two spas, restaurants and sea-view rooms await at the Bedruthan Hotel (Bedruthan Hotel)
+
+Cornwall is a classic for a deluxe staycation on England’s southwest coast as laidback beach life meets boutique stalls and magical sunsets – and there’s something oddly comforting about sharing a pasty. A world away from big city life, love is in the air during every season at Cornwall’s concealed coves, sprawling beaches and colourful seafront villages.
+
+Bedruthan Hotel provides a two-night Wanderlust package for couples from £590 on weeknights at their two hotels, Scarlet and Bedruthan. Think dynamic spas, clifftop hot tubs and sensory gardens at the eco-friendly hotspot. The holiday offer includes daily artisan breakfasts, a three-course dinner at Ogo restaurant, an evening at the Scarlet cliffside spa and a candle-lit hot tub experience.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for: Rural hideaways
+
+Knoydart Hide, Scottish Highlands
+
+Think hot tubs and woodburning stoves at this secluded woodland hideaway (Knoydart Hide House)
+
+The Scottish Highlands have a fairytale allure ideal for intimate holidays off the beaten track. From rustic cottages to luxury spa hotels, the dramatic landscape of lochs, castles and waterfalls makes for the perfect backdrop for any rural retreat.
+
+Located on the shores of Loch Nevis, Knoydart Hide’s post-card perfect Scottish setting offers unrivalled privacy. The self-catered hideaway features access to beaches and woodlands in an oasis of calm that even hosts his ‘n’ hers marble vanities. Prices in low season start from £300 for couples to retreat to the stunning views of Nevis from a relaxing two-person hot tub and take in all the nature the Great Scottish Outdoors has to offer.
+
+Read more on the best UK hotels

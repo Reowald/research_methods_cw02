@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Self-assessment taxpayers have until the end of Wednesday to file their online returns – or face a £100 fine.
+
+HM Revenue and Customs (HMRC) is expecting more than 12.1 million tax returns to be filed for the 2022-23 tax year, along with any payment that is owed.
+
+Missing the deadline, at midnight on January 31, could result in an initial £100 fine, potentially followed by further penalties.
+
+The most recent figures issued by HMRC show that, as of January 23, more than 8.3 million online returns had been received, with 3.8 million people yet to file.
+
+People who are unable to pay in full may be able to set up a “time to pay” arrangement.
+
+HMRC has said it will consider a customer’s reasons for not being able to meet the deadline. Those who provide a reasonable excuse may avoid a penalty.
+
+Dawn Register, head of tax dispute resolution at BDO, said new self-assessment filers “could include parents claiming child benefit whose salaries crossed the £50,000 threshold for the first time in the 2022-23 tax year and who will have to repay some or all of their benefit through the high income child benefit charge”.
+
+She added: “They might be higher earners whose salaries topped £100,000 or pensioners who earned more than their savings allowance because of rising interest rates.
+
+“Alternatively, they could be working people whose side hustle earnings were above £1,000 during the tax year.”
+
+A survey for Handelsbanken Wealth & Asset Management indicated that nearly a fifth (19%) of working adults have some form of self-employed income.
+
+The survey was carried out by Opinium among 2,000 UK adults in January.
+
+There is the risk of a £100 fine even if there is no tax to pay, and penalties can mount up if returns are more than three months late Mark Collins, Handelsbanken Wealth & Asset Management
+
+Mark Collins, head of tax at Handelsbanken Wealth & Asset Management said: “HMRC says that those with a reasonable excuse for missing the deadline may avoid penalties, but there is the risk of a £100 fine even if there is no tax to pay, and penalties can mount up if returns are more than three months late, with additional penalties for paying outstanding tax late.”
+
+After three months the penalties for late returns include additional daily penalties of £10 per day, up to a maximum of £900.
+
+After six months there could be a further penalty of 5% of the tax due or £300, whichever is higher.
+
+And after 12 months there could be another 5% or £300 charge, whichever is more.

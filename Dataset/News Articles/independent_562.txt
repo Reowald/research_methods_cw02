@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Several members of the US Congress expressed concerns on Wednesday about Nasa’s Artemis Moon-landing mission being delayed with China at America’s heels to put humans on the lunar surface.
+
+“I remind my colleagues that we are not the only country interested in sending humans to the Moon,” Frank Lucas, chairman of the US House of Representatives’ Committee on Science, Space and Technology, said, warning that China’s Communist Party is “actively” seeking international partners to put boots on the Moon by 2030.
+
+“It’s no secret that China has a goal to surpass the United States by 2045 as global leaders in space. We can’t allow this to happen,” Rich McCormick, a Republican member of the US congress, said, adding that America’s “leading edge“ in space will protect not just its economy, but also “technologies that can benefit humankind.”
+
+The concerns raised by members of the US Congress come as Nasa postponed the launch date of its Artemis Moon landing mission by about 12 months to 2026 to give its commercial partners, including Elon Musk’s SpaceX, more time to develop the technology.
+
+Nasa’s Artemis II mission aims to take a four-person crew around the Moon without landing on it, while the subsequent Artemis III is expected will put humans back on the Moon for the first time since the 1970s.
+
+While the Moon landing mission was initially planned for 2025, it is now pushed further into 2026.
+
+“In order to safely carry out our upcoming Artemis missions to the Moon with astronauts, we are now targeting September 2025 for Artemis II and September 2026 for Artemis III,” Nasa announced in an X post.
+
+Referring to the announcement, Nasa’s Catherine Koerner said in her testimony that the agency’s “intent” is to “be on the surface of the Moon before China is.”
+
+NASA delaying return to moon over safety issues
+
+A growing body of studies by agencies across the globe now indicate that the Moon’s south pole could be a rich source of valuable minerals and ice, that could propel further space exploration and mining.
+
+Officials, including Nasa chief Bill Nelson, have warned China may attempt to claim territory on the Moon if it beats the US in setting up permanent bases on the lunar surface.
+
+Mr Nelson warned last year that the US was in a new space race with China, adding that geopolitical tensions between the two countries on Earth could extend to the Moon.
+
+Multiple members of the Congress Committee on Science, Space, and Technology warned that coming second in the space race with China may threaten US national security.
+
+“Let me be clear: I support Artemis. But I want it to be successful, especially with China at our heels,” California Democrat Zoe Lofgren said.
+
+“And we want to be helpful here in the committee in ensuring that Artemis is strong and staying on track as we look to lead the world, hand-in-hand with our partners, in the human exploration of the Moon and beyond,” Ms Lofgren added.
+
+Committee chairman Mr Lucas voiced similar concerns, adding that the country that lands first “will have the ability to set a precedent for whether future lunar activities are conducted with openness and transparency, or in a more restricted manner.”
+
+However, Mike Griffin, who was Nasa’s administrator from 2005 and 2009, said in his testimony that the Artemis missions are “unlikely” to be completed within a stipulated timeline.
+
+“In my judgment, the Artemis program is excessively complex, unrealistically priced, compromises crew safety, poses very high mission risk of completion and is highly unlikely to be completed in a timely manner, even if successful,” Mr Griffin said during the hearing.
+
+“For the US and its partners not to be on the Moon when others are on the Moon is unacceptable,” he added.

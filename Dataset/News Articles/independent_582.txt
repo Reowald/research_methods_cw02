@@ -1,0 +1,61 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A private Moon mission that blasted into space on Monday is in jeopardy as a problem with the propulsion system is causing a “critical loss of propellant”.
+
+The Peregrine Mission One (PM1), built by US space company Astrobotic and carrying a piece of technology developed by UK scientists, would be the first private probe to land on the lunar surface.
+
+However, hours after its launch Astrobotic reported that an anomaly had occurred which prevented the lander from achieving a stable position pointing towards the Sun.
+
+Now the company has said teams are assessing “alternative mission profiles” because of the issue.
+
+The company said the problem could prevent the spacecraft from making a soft landing on the Moon.
+
+In a statement on X, formerly Twitter, the company said: “Unfortunately, it appears the failure within the propulsion system is causing a critical loss of propellant.
+
+“The team is working to try and stabilise this loss, but given the situation, we have prioritised maximising the science and data we can capture.
+
+“We are currently assessing what alternative mission profiles may be feasible at this time.”
+
+In a previous update, Astrobotic said that as efforts to resolve the issue continued, the spacecraft’s battery levels were dropping.
+
+The company said: “The team believes that the likely cause of the unstable sun-pointing is a propulsion anomaly that, if proven true, threatens the ability of the spacecraft to soft land on the Moon.”
+
+Shortly after issuing the second update, the company announced that following a short expected communication blackout, it had made contact with Peregrine, and that an “improvised manoeuvre” was successful in reorienting its solar array towards the Sun.
+
+Astrobotics said on X: “We have successfully re-established communications with Peregrine after the known communication blackout.
+
+“The team’s improvised manoeuvre was successful in reorienting Peregrine’s solar array towards the Sun.
+
+“We are now charging the battery.
+
+“The Mission Anomaly Board continues to evaluate the data we’re receiving and is assessing the status of what we believe to be the root of the anomaly: a failure within the propulsion system.”
+
+It added that the team was “grateful for the outpouring of support” it had received on social media, and through to phone calls and helping hands, and offered “a heartfelt thank you from the entire Peregrine Mission One team”.
+
+If successful, Peregrine could become the first commercial lander, and first American lander in more than 50 years, to land on the Moon.
+
+The Vulcan rocket blasted off from Cape Canaveral in Florida at 7.18am GMT.
+
+After separating from the rocket, the spacecraft was flying solo on its way to the Moon, where an attempted landing was scheduled for February 23.
+
+Onboard is an instrument known as the Peregrine Ion Trap Mass Spectrometer (PITMS), which was developed in the UK by scientists from The Open University (OU) and the Science and Technology Facilities Council (STFC) RAL Space – the UK’s national space lab – in collaboration with Nasa’s Goddard Space Flight Centre in Washington DC.
+
+A key component of PITMS, which will explore the Moon’s atmosphere by measuring water and other molecules, was developed in the UK with £14 million of Government funding through the UK’s membership of the European Space Agency.
+
+The data collected will contribute to our understanding of the Moon’s potential to provide resources such as water, opening new possibilities for future human presence on the lunar surface.
+
+The UK-built component – called the Exospheric Mass Spectrometer – represents the first instrument on the Moon that has been built in the UK and in Europe.
+
+As part of the PITMS, the Exospheric Mass Spectrometer allows researchers to study atoms and molecules in a gas.
+
+Science and Technology Secretary Michelle Donelan said: “The Exospheric Mass Spectrometer will be the first science component developed in the UK destined for the lunar surface, marking a historic moment for the UK space industry.
+
+“This significant achievement also lays the groundwork for understanding how to sustain extended human presence on the Moon in the future – changing the way humankind interacts with the solar system around us forever.”
+
+Understanding water on the Moon is an important part of the Artemis programme, to explore more of the lunar surface than ever before.
+
+Peregrine is carrying a total of 20 payloads from seven countries and 16 commercial customers.
+
+They include the first lunar surface payloads from the Mexican and German space agencies, and the first lunar payloads from the UK, Hungary and Seychelles.

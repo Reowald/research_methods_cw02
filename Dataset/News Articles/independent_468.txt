@@ -1,0 +1,223 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Barbados’ long-term links with the UK mean that it is many Brits’ first experience of the Caribbean, with plenty of tourists choosing to return again and again.
+
+The easternmost island in the Caribbean has a lot going for it, not least the giant slice of geographical luck that has given it its magnificent beaches, low-lying hills and enviable tropical climate.
+
+The remarkably laid-back attitude of its locals, who seem to have perfected the art of balancing partying and chilling out, makes Barbados a particularly welcoming country.
+
+Add to this a range of natural sites and atmospheric towns – all easy to explore thanks to the island’s manageable size – and you have a multi-faceted holiday destination that offers more than paradise-like beaches.
+
+Here’s our pick of the best things to do on this intriguing island.
+
+Explore the capital
+
+Bridgetown is Barbados’s characterful capital (Getty Images)
+
+The island’s capital, Bridgetown, is full of character, from its colourful facades to the buzz of activity on its main boulevards. Broad Street and Swan Street are the two main thoroughfares: good shopping destinations that are filled with gift shops, outlet stores and street food shacks. Alternatively, Baxter Road, locally known as ‘the street that never sleeps’, is an unassuming street of single-room rum shops and small eateries by day, transforming into one giant street party after dark.
+
+The historic part of Bridgetown and its garrison is a Unesco World Heritage site, a still-standing reminder of Barbados’ past links to both colonial and modern Britain. You can learn more about the history of the island through the Barbados Museum and Historical Society, or just head to Carlisle Bay and Pebbles Beach for some relaxed swimming and the opportunity to scuba dive across a series of shipwrecks.
+
+Where to stay
+
+Choose Sweetfield Manor for a comfortable boutique hotel stay near the capital. Located in a 20th-century plantation home, it sits just six minutes away from the city centre by car. It features an attractive lagoon-style pool, its own fusion restaurant, all at an affordable price.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on Central America and Caribbean travel:
+
+Hit the beach
+
+Barbados is home to almost 100km of coastline (Getty Images)
+
+Barbados is perhaps best known for its plethora of beaches. Barbados’ western shores are known as the Platinum Coast, home to a range of glitzy hotels and some of the finest beaches on the island, including Batts Rock Beach, Paynes Bay and Pebbles Beach, all of which offer fine white sands and dazzlingly turquoise waters.
+
+On the eastern coast, Bath Beach and the bay around the town of Bathsheba offer some of the island’s more wild coastline, with wide expanses of sand and several more secluded spots (Bath Beach is good for swimming, while Bathsheba is famed for its surf-friendly waves). There are several more options across the island too, from the family-friendly Miami Beach, near Oistins in the south, to the wilderness of Bottom Bay in the southeast.
+
+Where to stay
+
+Tamarind offers an informal yet high-quality all-inclusive stay on the Platinum Coast, backing onto the famed Paynes Bay. This contemporary, well-furnished hotel has distinctive Caribbean style throughout, from the interiors to the beach huts that surround its three outdoor swimming pools.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Go snorkelling or surfing
+
+August is the best time for surfing in Barbados (Getty Images/iStockphoto)
+
+Speaking of the beach, why not sample some of Barbados’ off-shore attractions? Surfing, snorkelling and scuba diving are all popular activities, with some of the region’s biggest waves mere miles away from colourful coral reefs and marine reserves.
+
+The aforementioned Bathsheba is home to the island’s prime surf spot, Soup Bowl, where waves break in seven feet of water not far from the rugged sands. Those who don’t fancy taking on the biggest waves have plenty of choice too, with good beginners’ beaches at Freights Bay, Surfers Point, Long Beach and Sand Bank, not far from Bathsheba.
+
+For would-be snorkellers, the southwestern coast is littered with shipwrecks, notably around the Carlisle Bay Marine Park, where five coral-covered shipwrecks act as a home to turtles and several species of fish. There is another marine park at Folkestone – which features an undercover trail of buoys leading to points of interest – while the seas around Dover Beach and Holetown are known for their vibrant coral reefs.
+
+Where to stay
+
+For great value close to the surf spots on the island’s wild east coast, opt for a stay at the Eco Lifestyle and Lodge near Bathsheba. Less than a mile from the Soup Bowl – and under 10 minutes from the town’s beach – this intimate hotel offers great value across its beach house-themed rooms. There’s a strong focus on sustainability, from the eco toiletries to the plant-based restaurant dishes.
+
+Doubles from £155.
+
+Oistins Fish Fry
+
+Oistins is also home to an annual ‘Fish Festival’ which takes place on Easter weekend (Getty Images)
+
+Every Friday, thousands of locals and tourists descend on the small southern fishing village of Oistins for its famous ‘fish fry’, a market-street party hybrid brimming with various street food vendors, crafts stalls and dozens of performances by local musicians; the party atmosphere is palpable.
+
+Expect a warm welcome from locals, while the fish fry itself is a casual affair catering to all in terms of both food and music. Expect local dishes like macaroni pie and fried fish ‘cutters’ (essentially fish sandwiches), made with a variety of fish including swordfish and mahi-mahi.
+
+Where to stay
+
+Little Arches is a charming, hacienda-style boutique hotel near Oistins. It is centred around its outdoor pool, surrounded by the pink-hued house and covered terrace areas.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Visit a rum distillery
+
+Barbados is the birthplace of rum (Getty Images/iStockphoto)
+
+Barbados is the birthplace of rum, which was first distilled on the island’s sugarcane plantations around the 1650s. It is also home to the world’s oldest commercial rum distillery, Mount Gaydistllery in the St Lucy area on the north of the island. Operating since 1703, the distillery offers guided tours in which visitors can watch parts of the rum-making process and learn about the history of the facility.
+
+Other notable distilleries on the island include the West Indies Rum Distillery – which produces well-known rums like Malibu and Cockspur – and St Nicholas Abbey, part of which is a still-functioning sugar plantation.
+
+Where to stay
+
+For a northern hotel close to both Mount Gay and St Nicholas Abbey, choose Cobblers Cove. Colonial style is mixed with modern elegance at this beachfront hotel on the western coast. It’s locally famed for its fantastic service, as well as the water sports and afternoon teas included in its rates.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Visit the other main towns
+
+The main towns on the island are Oistins, Speightstown and Holetown (Getty Images)
+
+Away from Bridgetown, there are several other towns on the island that are worth visiting. First among them is Speightstown, sometimes called Little Bristol due to its historic ties with the UK city. This is Barbados’ ‘second city’, mainly known for its wide-ranging food scene and expansive promenade. Wander its streets to discover a range of colourful facades and colonial architecture, with an array of casual pubs, gourmet restaurants and traditional cafes hidden among them.
+
+Visit Holetown to find great shopping, lively nightlife and the picturesque beaches of the Platinum Coast. This is Barbados’ home of underplayed luxury, where the upmarket Limegrove shopping centre sits quietly beside independent shops and a range of restaurants serving everything from Asian street food to local grilled platters. Head to the beach for the vibrant nightlife area, and journey further down the coast to find a slew of high-end resort hotels sitting on bone-white sands.
+
+Where to stay
+
+The Sandpiper offers understated luxury in keeping with that on show in Holetown, less than 20 minutes’ walk from the town centre. This opulent beachfront property is a family-run affair, though it has a room and grounds more in-keeping with those of a luxury chain. Interiors are an ultra-modern version of Caribbean style, with a pool and sun terrace surrounded by tropical flora and fauna.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Plan a hike
+
+The northern and eastern coasts are the more wild, rugged parts of the island to explore (Getty Images/iStockphoto)
+
+Dramatic cliffs and small sections of forest provide amazing views and some slightly more strenuous exercise for those who want it. The northern and eastern coasts are the more wild, rugged parts of the island, with routes like Bath-Bathsheba, Barclays Park-Chalky Mount and the Northern Cliffs Hike featuring trails along sheer cliffs, up tall mountain peaks and through shaded rainforest, with the added bonus of sweeping views across the Atlantic and the odd stop off in an abandoned hotel or a quaint Barbadian village.
+
+Where to stay
+
+The Crane Resort is an extensive beachfront resort on the south coast offering five swimming pools and its own village-like shopping complex. Food options include informal cuisine, seafood specialties and Asian fusion across five on-site restaurants.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Explore the caves
+
+Harrison’s Cave has a one-hour tram tour or four-hour walking tour (Getty Images/iStockphoto)
+
+Harrison’s Cave opened in 1981 as a tourist attraction and is now complete with a one-hour tram tour or four-hour walking tour. The cave itself is a natural marvel, running for over a mile and featuring thousands of years worth of stalactites and stalagmites, the 50-feet high Great Hall cavern and a dramatically lit waterfall leading to a deep pool below.
+
+Animal Flower is an altogether different type of cave, carved into the rock face by the waters of the Caribbean and Atlantic. Located on the northern tip of the island, some parts of it date back up to 600,000 years, and today it is home to a pool of emerald waters accessible via a set of stairs. You get striking views over the surrounding cliffs, both in the pool and from the on-site restaurant for those who don’t fancy a swim.
+
+Where to stay
+
+For a family-oriented all-inclusive close to Harrison’s Cave, book Turtle Bay, located near St Lawrence Gap in the south of the island. A large hotel sitting on a wide expanse of golden shores, it offers spacious, minimalistic rooms, varied water sports and other activities, plus a range of cuisine – including buffet options – across its six restaurants.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Visit during Crop Over
+
+The origins of Crop Over date back to the 1780s (Getty Images)
+
+Early August is the time to visit if you want to experience Barbados’ most important cultural event, the Crop Over festival. This period commemorates the end of a successful sugarcane harvest, fusing celebrations of contemporary Barbadian culture and the historic influence of the sugarcane industry. The festival itself is three months long, but the final week is the best time to visit; in 2024, that’s between 31 July and 7 August.
+
+The main event falls on the first Monday in August, a day called the Grand Kadooment day. Kadooment is a Bajan phrase meaning ‘large party’ – visitors will see a 15,000-strong parade alongside parties and performances on this country-wide public holiday, though there’s plenty of partying on each day of the previous week too, fuelled by a generally celebratory atmosphere and a slew of affordable mobile bars and food stalls.
+
+Where to stay
+
+If you want to base yourself near the capital during the festival, the Coconut Court Beach Hotel is a good option for affordable beachside accommodation with easy access to Bridgetown and the rest of St Michael’s. A series of pared-back, functional rooms lie behind a large terrace area, alongside a beach bar and three restaurants.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read our reviews of the best winter sun hotels

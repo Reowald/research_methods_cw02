@@ -1,0 +1,79 @@
+It might be common knowledge that Earth is round, but scientists now say this might not have always been the case.
+
+In fact, rather than being spherical like a Malteser, scientists think Earth was flatter 'like a Smartie' very early in its lifetime.
+
+Scientists previously assumed that 'protoplanets' – very young planets that have recently formed around stars – would be spheres.
+
+To put this assumption to the test, researchers from the University of Central Lancashire simulated how planets might form from the discs of gas around stars.
+
+This revealed that, rather than being round, newly formed planets are actually squashed flat.
+
+Researchers now believe that planets may not be spherical when they first form but would actually be flattened shapes called 'oblate spheroids'. This simulation shows a protoplanet viewed from the top (left) and from the side (right)
+
+The Earth itself is not perfectly round as it is squashed at the poles by about 0.3 per cent. But the researchers say that protoplanets can be squished by around 90 per cent
+
+READ MORE: Has the mystery of how the moon formed finally been solved? Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+This is the first time that scientists have ever looked at the 3D shape of newborn planets in their simulation.
+
+Dr Dimitris Stamatellos, co-author of the paper, says: 'We were very surprised that they turned out to be oblate spheroids, pretty similar to Smarties!
+
+'We have been studying planet formation for a long time but never before had we thought to check the shape of the planets as they form in the simulations.
+
+'We had always assumed that they were spherical.'
+
+Most planets that we can observe are spheres, or at least are very close to being spheres.
+
+The Earth is flattened at its poles by about 0.3 per cent, Jupiter by about 6 per cent, and Saturn by a whopping 10 per cent.
+
+But the scientists now believe that protoplanets are flattened by around 90 per cent.
+
+The protoplanet phase is thought to last between the first 1-5 million years of a planet's existence.
+
+Considering Earth is around 4.5 billion years old, it would have been Smartie shaped for a very small fraction of its early history.
+
+Scientists had previously assumed that young planets would be spheres, instead they were surprised to find that they are oblate spheroids like smarties (pictured) (stock image)
+
+The researchers simulated how planets form according to the disc-instability theory. This simulation shows how the disk of gas around a young star collapses suddenly into planets
+
+There are currently two leading theories for how protoplanets form.
+
+The first, explained lead researcher Dr Adam Fenton, is called the 'core accretion' theory.
+
+This theory claims that planets form through the 'gradual growth of dust particles that stick together to form progressively larger and larger objects on long timescales'.
+
+READ MORE NASA discovers 85 Earth-like planets that could support life Exoplanets are simply planets outside of our solar system. They could indicate whether aliens exist (file photo) Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+The second theory is the disc-instability theory which claims that planets form in a relatively short time as the rotating gas disc around a young star quickly breaks up.
+
+Dr Fenton says: 'This theory is appealing due to the fact that large planets can form very quickly at large distances from their host star, explaining some exoplanet observations.'
+
+Following the predictions of this theory, the researchers simulated the formation of gas planets around a young star.
+
+Dr Fenton says that the computation was extremely demanding, requiring half a million CPU hours on the UK’s DiRAC High Performance Computing Facility.
+
+However, once the simulation was complete, the researchers were surprised to find that the protoplanets were not spheres after all.
+
+In their paper, to be published in Astronomy & Astrophysics Letters, the researchers suggest that the planets become flat because they form within a spinning disk.
+
+Just like a chef spinning a ball of pizza dough, the force of their spinning stretches and flattens out the young planet.
+
+The researchers believe that planets only become spherical later on, as gas and other matter lands on their north and south poles more rapidly than at the equator.
+
+These results could settle the question of how planets form. If researchers don't find spherical protoplanets like the one shown in this artist's impression, this would be good evidence that they are forming through disc-instability
+
+READ MORE: NASA discovers 85 Earth-like exoplanets that could have the right conditions to support life Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_3 - ->
+
+These predictions may one day help settle the question of how planets form.
+
+Observations of protoplanets are still very rare and have only become possible in the last few years.
+
+However, the researchers expect that the flattening of protoplanets would be observable through telescopes.
+
+They write: 'We expect that this may lead to a strong modification of the observed properties of protoplanets with the viewing angle that needs to be taken into account when interpreting observations.'
+
+But according to the core accretion theory, protoplanets would still be spherical.
+
+This means that if researchers are able to observe flattened protoplanets this would be good evidence for the currently unfavoured disc-instability theory.
+
+The researchers are currently following up to improve the computational model to compare results with future observations from the James Webb Space Telescope.

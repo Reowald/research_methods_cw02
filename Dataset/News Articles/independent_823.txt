@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Researchers have used artificial intelligence to decipher the hidden text of a 2,000-year-old scroll that was burnt during the eruption of Mount Vesuvius.
+
+The charred papyrus features the musings of a Greek philosopher, revealing never-before-seen insights into the Epicurean school of philosophy that focuses on pleasure and hedonism.
+
+After digitally scanning the scroll, which resembles a lump of charcoal, the researchers used 3D mapping and AI techniques to virtually unroll the papyrus and detect the letters.
+
+The writing comes from the philosopher Philodemus, with the passage offering his thoughts on how the scarcity of food can impact how much enjoyment we get from it.
+
+The breakthrough was made by a trio of researchers – Youssef Nader from FU Berlin, Luke Farritor from the University of Nebraska-Lincoln, and Julian Schilliger from the Swiss Federal Institute of Technology Zurich – who now hope to use the technique to uncover more of the texts.
+
+The ancient scroll was carbonised by volcanic debris from Mount Vesuvius in AD 79 (Vesuvius Challenge)
+
+The scrolls were discovered in the 18th century when a farmer uncovered a buried Roman villa while digging a well over the ancient town of Herculaneum.
+
+A vast library of papyrus scrolls had been carbonised by the heat of the volcanic debris, leaving them extremely fragile but still intact.
+
+Previous attempts to open them and read the texts had destroyed several scrolls, with more than 600 remaining unopened and unreadable. If deciphered, the scrolls would more than double the corpus of antiquity literature.
+
+A challenge was launched in March 2023 to incentivise researchers by offering an $850,000 cash reward for deciphering part of the Herculaneum scrolls.
+
+“Following a year of remarkable progress, the prize was claimed,” the website for the Vesuvius Challenge states. “After 275 years, the ancient puzzle of the Herculaneum Papyri has been solved. But the quest to uncover the secrets of the scrolls is just beginning.”
+
+Classicist Bob Fowler from the University of Bristol, who was one of the prize judges, described the feat as a “historic moment”, telling the journal Nature that it will “yield who knows what kinds of new secrets”.

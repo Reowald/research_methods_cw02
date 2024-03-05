@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Only around half (55%) of donors claimed gift aid when they gave money to charity last year, according to the Charities Aid Foundation (CAF).
+
+The gift aid scheme means registered charities can reclaim income tax on donations made by UK taxpayers, effectively increasing the amount of the donation.
+
+For a basic rate taxpayer, 25% is added to the value of any donation, so a £10 donation will effectively be worth £12.50 to the charity.
+
+With the cost of living causing many to cut back, there are some relatively simple ways to make sure the charities you care about are getting the most from your donation Mark Greer
+
+Higher rate taxpayers who complete self-assessment forms may be able to claim back the difference between higher rate and basic rate tax on the value of their donations as personal tax relief. The deadline for online self-assessment returns is January 31.
+
+Mark Greer, managing director for giving and impact services at the CAF, said: “Charities miss out on millions every year from generous donors who forget to tick the gift aid box.
+
+“With the cost of living causing many to cut back, there are some relatively simple ways to make sure the charities you care about are getting the most from your donation.
+
+“If you haven’t already, make a gift aid declaration to the charity. If you complete a self-assessment and are a higher rate taxpayer, you may also be entitled to personal tax relief and you can also check whether you can claim for donations in previous years.”
+
+YouGov surveyed more than 6,300 donors for the CAF between January and November last year.

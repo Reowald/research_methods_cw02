@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A record 11.5 million people have submitted their self-assessment tax returns on time, according to HM Revenue and Customs (HMRC) figures.
+
+But it is estimated that around 1.1 million people missed the January 31 deadline for 2022-23 returns. They could now face an initial £100 penalty followed by further potential charges.
+
+Among those who beat the deadline, 32,958 people filed their returns between 11pm and 11.59pm on January 31, HMRC said.
+
+The revenue body is urging those who have missed the deadline to file their returns now.
+
+Some 11,581,962 returns were received by January 31. This includes returns that were expected by HMRC, as well as voluntary returns and late registrations.
+
+Anyone who has yet to file and is concerned that they cannot pay in full may be able to spread the cost of what they owe Myrtle Lloyd, HMRC
+
+Out of the total, just over 11 million returns were ones that were expected.
+
+Myrtle Lloyd, HMRC’s director general for customer services, said: “Anyone who has yet to file and is concerned that they cannot pay in full may be able to spread the cost of what they owe with a payment plan. Search ‘pay your self assessment’ on gov.uk to find out more.”
+
+Taxpayers who file or pay late but have a reasonable excuse can appeal against penalties on gov.uk.
+
+People should also be aware of the risk of falling victim to scams and should never share their HMRC login details with anyone, including a tax agent, if they have one. HMRC scams advice is available on gov.uk.
+
+As well as an initial £100 penalty, the penalties for filing a tax return late include, after three months, additional daily penalties of £10 per day, up to a maximum of £900.
+
+After six months there is a further penalty of 5% of the tax due or £300, whichever is higher.
+
+After 12 months there is another penalty of 5% or a £300 charge, whichever is more.
+
+There are also additional penalties for paying late – 5% of the tax unpaid at 30 days, six months and 12 months. Interest will also be charged on any tax paid late.

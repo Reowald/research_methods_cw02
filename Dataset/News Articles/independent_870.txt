@@ -1,0 +1,19 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Watch as the Duke and Duchess of Sussex meet Invictus Games athletes and military veterans on Friday 16 February.
+
+Harry and Meghan are in Vancouver as part of “One Year to Go” events for the Invictus Games Vancouver Whistler 2025.
+
+They are expected to make remarks during their appearance on Friday.
+
+Harry has already been seen attempting sit-skiing as he joined Invictus Games competitors training in Canada to mark a year until the global sporting event.
+
+The couple met athletes at the Whistler Blackcomb ski resort in British Columbia on Wednesday and they plan to visit more competitors at the host locations for the 2025 competition.
+
+Harry founded the Paralympic-style sporting competition in 2014 for injured and sick military personnel and veterans to aid their recovery.
+
+At the Games next year around 550 competitors from up to 25 nations will compete in indoor adaptive events like sitting volleyball, swimming and wheelchair basketball.
+
+For the first time winter sports like alpine skiing, snowboarding and wheelchair curling will be on the schedule.

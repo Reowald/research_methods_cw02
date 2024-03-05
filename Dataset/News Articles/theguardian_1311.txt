@@ -1,0 +1,71 @@
+Microsoft’s latest Surface Laptop has new chips, new connections and costs the same as last year but has a five-year-old design that makes it look aged.
+
+The Surface Laptop 5 starts at £999 ($999/A$1,699) for the 13.5in version, replacing the 18-month-old Laptop 4 as Microsoft’s idea of what a standard Windows 11 notebook should be. It sits above Microsoft’s entry-level Surface Laptop Go 2, which comes in at £529.
+
+Other than a new sage colour option (as pictured), little has changed physically from the Laptop 4 or its predecessors. The smooth aluminium body, excellent keyboard and trackpad are just as good as they ever were.
+
+But while the wedge shape and flat lid still look classy, the large bezels waste space around the screen, keyboard and trackpad, looking decidedly dated compared with more modern competitors.
+
+View image in fullscreen The keyboard is still one of the best on a laptop but others have caught up or surpassed it. Photograph: Samuel Gibbs/The Guardian
+
+The screen is still crisp and good-looking – great for working at home or an office – but only has a maximum brightness of 400nits (compared with 500nits) on rivals and isn’t as smooth as the Surface Pro 9 tablet, among others. It’s a similar story for the 720p webcam, which is still fine but has not progressed with the competition, which typically operate at 1080p.
+
+Inside the machine, Microsoft has reduced its chip options from last year to only Intel’s latest 12th generation Core i5 and i7 processors. It says the new chips offer up to 50% speed increases for some tasks. But they also bring with them a Thunderbolt 4/USB 4 port for the first time in a Surface Laptop. This offers a much faster and more capable connection to docking stations and other peripherals.
+
+The Laptop 5 is a good performer in power terms. It won’t win any awards but it is plenty quick enough for general usage, managing light and medium duties with aplomb, including complex manipulation of large images in Affinity Photo 2. It runs without audible fan noise if not playing games or performing other intensive tasks, too, which is very welcome.
+
+The battery lasts about the same as its predecessor, for about an eight-hour work day with fairly light usage on the Core i7 as tested and likely about an hour longer for the Core i5. That’s still far behind the 16 hours offered by the best in class.
+
+View image in fullscreen The laptop has USB-A, Thunderbolt 4/USB 4, a headphones socket and Surface Connect port, fully charging in just under two hours with the included 65W power adaptor. Photograph: Samuel Gibbs/The Guardian
+
+Specifications
+
+Screen: 13.5in LCD 2256 x 1504 (201 PPI)
+
+Processor: Intel Core i5-1235U or i7-1255U (12th generation)
+
+RAM: 8 or 16GB
+
+Storage: 256 or 512GB
+
+Operating system: Windows 11 Home
+
+Camera: 720P front-facing, Windows Hello
+
+Connectivity: wifi 6 (ax), Bluetooth 5.1, USB-A, USB4/Thunderbolt 4, headphones, Surface Connect
+
+Dimensions: 308 x 223 x 14.5mm
+
+Weight: 1,272 or 1,297g
+
+Sustainability
+
+The laptop is generally repairable with a service guide to be made available by the end of the year. The SSD is removable and upgradable while several replacement parts will be available. The out-of-warranty service fee for repairs by Microsoft is £523.26, while a battery replacement costs £366.30.
+
+The laptop does not contain recycled material. Microsoft operates recycling schemes for old machines. It also publishes a company-wide sustainability report and a breakdown of each product’s environmental impact.
+
+Windows 11
+
+View image in fullscreen The Laptop 5 runs Windows 11, which apart from a trial of Microsoft Office, is free of bloatware and unwanted programs. Photograph: Samuel Gibbs/The Guardian
+
+Windows 11 is slowly maturing into a modern, user-friendly system. There are still some rough bits, particularly in more advanced menus, but on the whole it runs very well and bug-free on the Laptop 5.
+
+The webcam supports Microsoft’s excellent Windows Hello face recognition for logging into the laptop, which wakes and sleeps near instantly the moment you open or shut the lid.
+
+Price
+
+The 13.5in Microsoft Surface Laptop 5 starts at £999 ($999/A$1,699) with an Intel Core i5, 8GB of RAM and 256GB of storage. The 15in version starts at £1,299 ($1,299/A$2,149) with a Core i7 chip.
+
+For comparison, the Surface Laptop Go 2 starts at £529, the Surface Pro 9 starts at £1,099, the Dell XPS 13 starts at £949 and the Apple MacBook Air M2 starts at £1,249.
+
+Verdict
+
+The Surface Laptop 5 continues to offer a slicker Windows 11 experience than most rivals wrapped in an extremely well-made package.
+
+The keyboard is great, the trackpad is good and it has plenty of power for a general consumer laptop, running completely silently most of the time – not something that can be said for much of the competition.
+
+But Microsoft’s once cutting-edge design is starting to show its age five years later, while some parts of the machine that could do with an upgrade. It badly lags behind the best on battery life, has a limited selection of ports and a fairly low-resolution webcam.
+
+Still, it offers one of the most trouble-free Windows 11 experiences you can get. It is reasonable value for a premium laptop at its starting price, although it is rapidly beaten by rivals when you start picking models with greater storage or faster chips.
+
+Pros: good keyboard and trackpad, USB-A and Thunderbolt 4/USB 4 port, good screen, Windows Hello, decent power, quiet operation, no bloatware pre-installed. Cons: no SD card reader, only one USB-C port, battery life far short of class leader, webcam only 720p, design starting to look dated, expensive.

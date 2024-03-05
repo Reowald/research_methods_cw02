@@ -1,0 +1,61 @@
+Scientists used laser pulses to identify location of hedges around England
+
+They provide a home for birds and insects, keep soils healthy and even help the fight against climate change.
+
+Now, due to their importance to the English countryside, scientists have created the most comprehensive maps yet of England's hedges.
+
+The scientists used LiDAR – a technology that emits pulses of light to create 3D images – to identify the hedgerows' locations and measure their heights.
+
+According to the results, there are 242,000 miles (390,000km) of fully-grown hedges in England – enough to go around Earth nearly 10 times.
+
+Counties with the most hedges are Cornwall, Somerset and Derbyshire, while those with the least include Surrey, Hampshire and Berkshire.
+
+According to the results, the southwest boasts the highest hedgerow densities. Greater London and the North East have the least
+
+Hedgerows have been integral to our rural landscape since the Bronze Age, traditionally marking out boundaries and keeping in livestock. Pictured, hedges in Aylesbury Vale, Buckinghamshire
+
+What is LiDAR? LiDAR (Light Detection and Ranging) is a remote sensing method used to examine the surface of Earth. The method uses light in the form of a pulsed laser directed at the ground, often from drones or aircraft. These light pulse generate precise 3D information about the shape of the Earth and its surface characteristics. Source: NOAA Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+'Hedgerows are not only an intrinsic part of England's rural heritage, they can also be a real asset in helping to tackle the biodiversity and climate crises,' said project leader Dr Richard Broughton at the UK Centre for Ecology and Hydrology.
+
+'The new map enables us to see where hedgerows are sparse and identify sites for targeted planting and restoration efforts, linking up habitats and improving the hedgerow network.
+
+'It can also be used to estimate the potential amount of carbon that hedgerows could remove from the atmosphere and store.'
+
+The LIDAR data was collected over five years as part of a mapping project over the whole of England, led by the Environment Agency.
+
+According to the results, the southwest boasts the highest hedgerow densities, led by Cornwall with an average of 5.1 km (3.1 miles) in a single square kilometre.
+
+Apart from the major urban areas of Greater London and the West Midlands, the lowest densities are found in Surrey (1.2 km/0.7 mile), Hampshire (1.5 km/0.9 mile), and Berkshire (1.7 km/1 mile).
+
+Pictured is density of hedges (1-6 metres tall) by county. Cornwall, Somerset and Derbyshire have the most hedges, while those with the least include Surrey, Hampshire and Berkshire
+
+Pictured, the team's hedgerow height data overlaid on hedgerows on the Lincolnshire landscape
+
+LiDAR (Light Detection and Ranging) uses light in the form of a pulsed laser directed at the ground
+
+READ MORE Fury as 'heavy handed' council workers chop down hedges in Dorset All that's left is a sad line of stumps Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+Most of England's hedgerows, whether managed or unmanaged, are between 3.2 feet and 20 feet (one and six metres) in height, the project found.
+
+There are 242,000 miles (390,000km) of such hedgerows in England – nearly 10 times the circumference of Earth (24,901 miles/40,075km).
+
+But the LiDAR also identified another 41,000 miles (67,000km) of lines of vegetation below 3.2 feet (one metre), which may be degraded, cut or newly-planted hedges.
+
+A further 115,000 miles (185,000km) above 19.6 feet (six metres) include mature hedgerow trees and overgrown hedges that have become lines of young trees.
+
+The scientists are urging a greater appreciation of hedgerows, which have been part of the rural landscape since the Bronze Age, traditionally marking out boundaries and keeping in livestock.
+
+As well as containing hundreds of plant species, they act as homes for insects, nesting birds and small mammals such as hedgehogs, harvest mice and even foraging bats.
+
+Just like other vegetation, they can also capture and store large amounts of carbon, which helps the battle against global warming.
+
+England's intricate network of hedges and the role they play in nature may be underappreciated
+
+Sadly, about half of Britain's hedgerows were lost between the 1940s and 1990s, mostly in England, due to overdevelopment and agricultural intensification.
+
+While the loss has slowed in recent years, there's been a new threat – a lack of maintenance, resulting in hedges with gaps.
+
+There can also be a lack of care shown by councils, resulting in hedges being chopped down without much consideration.
+
+Dr Broughton hopes advances in satellite and drone technologies will improve the quality and availability of hedge mapping.

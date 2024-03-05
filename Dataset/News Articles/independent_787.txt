@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+ChatGPT company OpenAI has announced a new “memory” feature that would allow the articial intelligence chatbot to remember specific parts of its past conversations from users.
+
+The context retention technology being tested would help users save time from repeating themselves to the chatbot, OpenAI said in a blogpost on Tuesday.
+
+With the new memory feature, users can ChatGPT to remember specific things from their conversation with the AI tool, or even let it pick up details by itself, enabling it to become a more personalised assistant.
+
+This context of past conversations would help the chatbot respond better to users, the company said, adding that the AI tool’s memory will get better with more use.
+
+“We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful,” OpenAI announced.
+
+OpenAI Studies AI's Role In Biological Weapons Threat
+
+Users can also control the extent to which they want the AI chatbot to remember details of its chat history, the company said.
+
+“You’re in control of ChatGPT’s memory. You can explicitly tell it to remember something, ask it what it remembers, and tell it to forget conversationally or through settings,” it noted.
+
+“You can also turn it off entirely...While memory is off, you won’t create or use memories,” the AI company noted.
+
+The feature is being rolled out currently to only a small portion of users of ChatGPT’s free and premium “Plus” version users.
+
+OpenAI said it would share its plans for broader roll out “soon” after it learns how useful the new feature is.
+
+The memory feature may train ChatGPT to respond to users to specific types of questions in the way they intend for it to.
+
+For instance, if one intends for the AI chatbot to prefer summaries of meeting notes to have headlines, bullets and action items listed at the bottom, it may remember and recap meetings this way, OpenAI said.
+
+“You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat,” the company said as another example of the feature’s use.
+
+Users who opt not to use the memory feature may use the platform’s “temporary chat” which “won’t appear in history, won’t use memory, and won’t be used to train our models,” OpenAI added.

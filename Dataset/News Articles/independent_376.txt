@@ -1,0 +1,33 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ravichandran Ashwin’s decision to leave the India team mid-Test and tend to an urgent family matter was the “absolutely right thing to do”, according to captain Rohit Sharma.
+
+Ashwin’s withdrawal from the third Test against England in Rajkot after the second day’s play was down to a family medical emergency and left India effectively down to 10 players.
+
+While India could use a substitute fielder the playing conditions prohibited a replacement, but despite the absence of a spinner with 500 Test wickets, the hosts moved into the ascendancy on day three.
+
+Ashwin returned on Sunday and took the wicket of Tom Hartley in England’s second innings as India sealed a 434-run win – their biggest margin of victory in terms of runs – to go 2-1 up in the series.
+
+“When you lose your most experienced bowler, especially in the middle of a Test match it is not easy,” Rohit said. “But everything was aside, family comes first.
+
+“When we heard the news, there was no second thought in our mind. (We felt) he should do what he feels is right and obviously he wanted to be with the family which is an absolutely right thing to do.
+
+“Good on him to make a way and come here and be part of the team on this day.
+
+When you lose your most experienced bowler, especially in the middle of a Test match it is not easy. But everything was aside, family comes first. Rohit Sharma
+
+“It shows the character and shows the kind of person he is – wanting to put everything ahead for the team. We were happy to have him back.”
+
+England’s defeat was their heaviest since 1934 and they were on course for one of their lowest totals after capitulating to 50 for seven before the last three wickets added 72.
+
+While England subsided to their seventh lowest score against India, Rohit’s side sealed a memorable victory, having handed debuts to middle-order batter Sarfaraz Khan and wicketkeeper Dhruv Jurel.
+
+Both rookies made an impression as did 22-year-old opener Yashasvi Jaiswal, who made his second successive double hundred in his seventh Test, and Kuldeep Yadav, who took four wickets in his 10th appearance in this format.
+
+“It’s a big victory,” Rohit added.
+
+“Obviously it’s a very good feeling to win a game like that and especially with such a young team as well.
+
+“A lot of credit to these young boys who have come in and shown a lot of character. It looks like they belong here, and they actually want to stay here as well. It is quite satisfying when you win a Test match like that.”

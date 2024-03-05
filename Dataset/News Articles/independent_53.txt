@@ -1,0 +1,127 @@
+You can enable subtitles (captions) in the video player
+
+Lithium is at the centre of the energy transition, crucial to the production of batteries for electric cars. In this film we'll take you on a journey from Chile to England to Norway, to explore two massive questions hanging over this industry and everyone who invests in it. Can it increase production enough to meet surging global demand? And can it do so while minimising negative social and environmental impacts?
+
+Chile has the world's largest reserves of lithium. The bulk of its production is done by the Santiago-listed company, SQM. And by far its biggest mine is here at the Salar de Atacama, a giant salt flat in the middle of Chile's Atacama Desert, the driest place in the world outside Antarctica.
+
+This salt flat formed over hundreds of thousands of years, as rainwater flowed down from the nearby mountains, collecting minerals, including lithium, along the way. Under its surface is brine, extremely salty water, with a small but valuable lithium content. The brine is put into the first of a series of pools, where the water begins to evaporate away.
+
+As it passes through each pool the brine becomes more concentrated, therefore with a higher proportion of lithium, as more water evaporates and other minerals are removed. At the last of the pools here at the Salar, the lithium content reaches nearly 5 per cent. The brine is then loaded into trucks that take it to SQM's processing plant outside the coastal city of Antofagasta, 200km to the southwest.
+
+There it is turned into sacks of lithium carbonate and lithium hydroxide, which are then shipped to manufacturers, mainly in Asia, for use in battery production. This plant accounts for nearly a fifth of the world's lithium processing capacity.
+
+But while the lithium sector has put Chile at the centre of one of the world's highest-growth industries, some people in the region surrounding the Salar de Atacama, such as entrepreneur Rosa Ramos, are worried that brine extraction by lithium companies could be depleting their water resources.
+
+SQM says that it has been careful to minimise the environmental impacts of its activities and that studies carried out by its own experts and by outside academics show no grounds for concern about negative effects on local communities' water resources. But the company acknowledges that while it has been investing in studies on this question and providing data to outside researchers, there is a shortage of truly independent information.
+
+And for scientists like Mariana Cervetto, who has worked extensively on the Salar de Atacama and who we met up with in Chile's capital of Santiago, without that independent data from the government or from other parties unaffiliated with the mining industry, it will be impossible to put this matter to rest.
+
+It's quite difficult to have objective information to understand if there is an impact or not. For example, in Salar de Atacama, the models for me are quite convincing. But I still have my small doubts. And to solve these doubts I don't have the information. So I just have to trust their models and understand that they are coherent.
+
+And from that point of view, in Salar de Atacama particularly, the models and the information they show would show that there isn't an impact from the brine extraction, not even in lagoons and not even on the freshwater availability.
+
+For investors in financial hubs, like London, who are pumping billions into the supply chain for lithium and other critical minerals, concerns about sustainable production are high on the agenda. This sector offers huge potential rewards. But at a time when investment managers are under massive scrutiny over their environmental, social, and governance credentials, it comes with big risks too.
+
+Brian Menell is the founder of TechMet, an investment company that has acquired stakes in several businesses involved in the extraction and processing of lithium as well as other minerals crucial to the energy transition.
+
+BRIAN MENELL: Mining, by its nature, is not sustainable. You're exploiting a finite resource. And nothing that develops a natural source is without some environmental impact and carbon footprint.
+
+However, I think it's wrong to see the mining industry or the lithium production industry, in particular, as one that can't be well governed and transparent and low environmental impact and low carbon footprint. And a lot of what we're doing at TechMet is to ensure that all of our projects meet very high standards.
+
+Menell says that the energy transition and the surging demand it is bringing for metals, like lithium, presents a once-in-a-century investment opportunity.
+
+If Tesla are to reach their target of producing 20mn electric vehicles a year by 2030 that alone would require almost seven times the present total global annual supply of lithium.
+
+And that's before GM or Ford or VW or the Chinese, who'll continue to produce two-thirds of the world's batteries and two-thirds of the world's electric vehicles and are growing quicker than us and have a 15-year head start in managing the supply chain. There is no model or no scenario where these metals do not have to go up in price much, much further and stay up in price much, much longer.
+
+And as countries around the world begin to worry about obtaining sufficient supplies of these metals, Menell says far more investment will be needed to ensure energy security. In particular, he says, China has an unhealthily large market share in the production of lithium-ion batteries and in the refining of lithium chemicals for them.
+
+China's been building critical minerals processing capacity over the last 15, 20 years while the rest of the world was sleeping. And as a result of that they have economies of scale that make them competitive to a point which creates massive challenges for the rest of the world to balance or reduce. That's the one factor.
+
+The other factor is the fact that the Chinese state, in the pursuit of this long-term strategic objective of dominating the inputs into the energy transition, have been prepared to subsidise the low-margin elements of the supply chain in order to control the supply chain.
+
+Major economies throughout the world have been scrambling to drive greater investment into lithium production. In the US, Joe Biden's recent Inflation Reduction Act has provided powerful financial incentives for new projects in this space. The European Commission has followed up with a proposed new law of its own to drive production and processing capacity for lithium and other critical minerals.
+
+So to give us more time to prepare, I'm announcing today that we're going to ease the transition to electric vehicles.
+
+And while the UK government has recently cut back several major clean energy policies, it says it is committed to increasing the country's domestic production of lithium. To get a sense of its chances of doing so, we headed down to the coastal county of Cornwall in south-west England.
+
+Cornwall has a mining history dating back to the Bronze Age, but the sector has been a shadow of its former self since the late 19th century. Now some in the county are daring to hope for a mining revival driven by two start-ups that are working to extract lithium from beneath the Cornish soil.
+
+One of them is British Lithium, run by Australian father-and-son team Roderick and Andrew Smith. Australia is currently the world's biggest producer of lithium, accounting for more than 40 per cent of global extraction in 2022. But Roderick Smith, a veteran of the Australian mining sector, says that Europe, including the UK, is a more attractive investment proposition.
+
+I explored for, discovered, and built a number of mines in western Australia, four or five of them. And Australia is good to me. It's got a booming mining industry. And of course, the lithium industry is booming there now too. But I think one thing that's missing, Australia is not very good at adding value to natural resources. It's the quarry of the world.
+
+But they have no car industry, for example. They don't make a single car in Australia. So they're not going to have a car battery plant. And the lithium mines that are being built there, it's not going into batteries. It's all going to China, where they make batteries and make cars.
+
+In contrast, argue the Smiths, their operation in Cornwall will be well placed to serve manufacturers in their region, including a new battery factory to be built by India's Tata Motors in Somerset, 100 miles to the north-east.
+
+The lithium that occurs in Cornwall is unique in the world. So we ended up building a pilot plant behind us, which was completed in 2021. And it uses a physical separation methodology to remove the lithium mica out of the rock through physical separation, make a concentrate. We then heat that up, dissolve it in pure water, change the pH, and refine it into the final battery-grade lithium carbonate.
+
+We received government funding for R&D and toward building this pilot plant. And one of the requirements of the government funding was that we have an independent benchmark comparing our process and our actual development against existing industry.
+
+And the carbon emissions are less than half the best current producing hard-rock mine. And the water consumption is way ahead, certainly looking at the brine people. So it does stack up extremely well.
+
+As the demand for lithium surges and producers like the Smiths race to increase supply, trading venues, like the London Metal Exchange, could play an important role in keeping this market running smoothly. The LME traces its history to 1571 and is one of the few exchanges in the world still to rely on the open outcry system of trading between individuals on its floor in the City of London.
+
+Probably over the next 10 years, most market commentators expect the lithium market, in size, to perhaps quadruple.
+
+Currently, however, almost no lithium trading is done on open markets, like the LME. Most sales are made through long-term agreements between producers and customers, either battery makers or, increasingly, carmakers themselves.
+
+Pricing isn't particularly transparent. Producers and consumers typically enter into bilateral negotiations and use fixed prices that are set by the producers, which is quite different to what you see in more mature markets, like copper or aluminium, where the industry typically references index prices.
+
+I think it's fair to say there is a huge amount of uncertainty around how demand and supply will come into balance in future. And you can see that in the price volatility in recent years, which has been very, very high. Maybe just to put it into perspective, at the beginning of this year, the lithium hydroxide price was around $85,000 per tonne.
+
+Right now, it's trading at closer to 28,000. So in less than a year, the price has come off by two-thirds. But in prior years, it's as much as quadrupled in a single year.
+
+Martin argues that the shift to index-based pricing will help carmakers and battery producers to better manage these price fluctuations and give them greater flexibility and security of supply. The LME is also looking to address concerns about sustainability by introducing a passport system that guarantees minimum standards of social and environmental responsibility.
+
+More than half of LME brands are starting to publish this information. And this can then be looked at by downstream consumers to really have confidence that the green EV that they're driving actually has a low-production carbon footprint.
+
+So the energy transition is undoubtedly going to have a very large impact on the global metals market and by consequence on the LME as well, perhaps the biggest impact since the rise of China in the early 2000s, which had a huge impact on metal demand.
+
+Chile's huge reserves of lithium have given this country a chance to play a central role in the global energy transition. And the government here in Santiago now needs to make sure that this delivers real economic benefits for the country as a whole.
+
+In April 2023 the government of President Gabriel Boric, a left-leaning 37-year-old, announced a new lithium strategy that would bring major changes for the industry. Most notably, all new lithium projects would need to be carried out through a partnership between private-sector businesses and a state-owned mining company, a move that was criticised by some as a form of nationalisation.
+
+The new plan is a big deal for SQM, whose current lease for lithium extraction expires in 2030.
+
+Today, we are estimating that the demand of lithium is around 930,000 tonnes. This will be the demand of this year, which is 20 per cent higher than last year. And we are estimating that, by 2030, the demand of lithium could reach 3mn tonnes. In some optimistic scenarios we even have up to 3.4mn, 3.5mn tonnes. So a lot of lithium is needed in the future. That means that we will need supply from every possible origin.
+
+Chile definitely will have to be one of the future supply countries, OK. So that means that we need to grow. And the policy that the Chilean government has announced, in a way, I see it as, to put some, let's say, clear rules of the game for future supply from Chile.
+
+The government's strategy would also encourage new lithium operations to use new forms of technology, such as direct lithium extraction, which would remove lithium from brine at the site of extraction and then re-inject the processed liquid back into the brine body.
+
+Nothing has been 100 per cent proven. So you need to be 100 per cent sure that things will work before engaging fully in adopting these new technologies. And that's why I see it more as a complement in the first years. But that means that brine process, which is already today very sustainable, could become even more sustainable in the future.
+
+It's not as easy as we'll pump here and re-inject here. We have to think where to inject, at what depth. Will it compensate the pumping? Its height from a hydrogeological point of view. It's not simple.
+
+It's not clear whether Boric's government will be able to get its new plan through parliament. But it reflects a wider race by countries around the world to benefit economically from the demand for critical minerals. Some members of Chile's indigenous population say that the new strategy may not address their concerns about the impacts of lithium mining.
+
+Ariel León, a lawyer from Chile's north, has been helping a community in Chile's Maricunga region in the southern part of the Atacama to win legal rulings against lithium extraction near their land.
+
+In the region of the Salar de Atacama, SQM has put some of its lithium profits towards local community projects, like this new hotel, which will be owned and run by the local community of Toconao. But community leaders here say they still want to see more effort from the government and mining companies to engage in consultation.
+
+And some argue that shoppers worldwide need to start thinking about how to reduce their consumption of resources as well as their carbon emissions.
+
+Underground deposits are not the only source of lithium. The more the electric vehicle market grows so, in due course, does the supply of used car batteries, like the ones behind me, which can be crushed and separated into their constituent elements. This facility in southern Norway is the biggest battery recycling plant in Europe.
+
+It's the main operation of Hydrovolt, a joint venture between Swedish battery maker Northvolt and Norwegian aluminium producer Norsk Hydro. For several years, thanks to strong government incentives, most new cars sold in Norway have been electric, something that has now started to yield a growing supply of used batteries.
+
+We are located in Norway because this is the most mature market for EV cars in Europe. And we are ensuring that all these batteries are recycled so that the materials inside them can be reintroduced into a circular value chain and become new batteries again and again and again. We can recover, with today's technology up to 95 per cent of the critical raw materials.
+
+This will be an extremely important source of materials to enable further electrification. We are actually creating an above-ground mine. We are an alternative to traditional mining. And that enables also a closed loop in the local markets because we can establish where these batteries end their life and ensure that we have additional production of critical raw materials in that market.
+
+So this will enable Europe to have its own mine, in a way, because we create an above-ground mine in the home market, where we produce critical raw materials to supply the cell manufacturers with what they need to build new batteries.
+
+The obvious reason to be excited about this industry is the sales of EV cars. We have very good statistics for that. And then you have some uncertainty related to the lifetime of the batteries. But these batteries will need to be recycled sooner or later. So it's quite obvious that the market will come. And then the question is who will become the winners in this market?
+
+As for who will be the biggest winners and perhaps the losers, too, in the global lithium revolution, that contest is now well underway.
+
+And now we're on this fourth Industrial Revolution, which is electrification and decarbonisation. And it's primarily going to be fueled by lithium in its use of battery storage. It's going to unlock renewables. It's going to enable us to decarbonise our transport link. So it's key to the future of mankind, I think.
+
+If any material is a candidate to be the oil of the 21st and 22nd century, it's lithium. Lithium is overwhelmingly dominant in that electrochemical arena. And that electrochemical storage arena is going to be one of the cornerstones of the global industrial and technological landscape for the next 100 years.
+
+The transition to cleaner forms of energy is forcing businesses and investors to rethink their work from first principles. And that is presenting a chance to build a new economic model that is not only lower in carbon emissions but truly better and fairer for communities and ecosystems all over the world. The booming lithium industry is at the centre of that struggle.
+
+Companies, investors, and governments in this space have some of the most exciting opportunities in the 21st century economy. But those opportunities come with intense scrutiny, heavy responsibility, and some intimidating challenges. This was the third film in a three-part series. Please make sure to like, comment, and subscribe for future FT films.

@@ -1,0 +1,153 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Love it or hate it, 14 February is fast approaching and for who are those googly-eyed over their girl or guy a whimsical weekend away could be on the cards.
+
+Whether you’re seeking a last-minute break with your beloved to capitals long famed for love or fancy escaping to the countryside for some one-on-one time, there’s a package to sweeten the deal beyond the ever-popular box of chocolates or bunch of flowers.
+
+Of course, the cheesy classics have made the cut for most romance packages. Picture flutes of champagne, candle-lit courses from aphrodisiac-centric menus and petal-strewn pillows awaiting your arrival.
+
+From short-haul city breaks in amorous Paris and baroque Venice – both vying for the crown of “city of love” – to secluded staycations closer to home in Scotland, here are the hotels hosting the holiday of devotion in style for 2024.
+
+Read more on Europe travel:
+
+Height of luxury in the French capital
+
+The courtyard at Le Royal Monceau is one of several romantic settings in the hotel (Roméo Balancourt)
+
+Paris is many people’s fantasy destination for a Valentine’s break, and the three-night ‘Romance & Revelry’ package at Le Royal Monceau Raffles offers luxury and romance in abundance in the French capital. You’ll stay in an Artist Room, a spacious room providing plenty of natural light, contemporary decor, art – including paintings and sculptures – from the hotel’s private collection, and a bottle of champagne.
+
+After a romantic welcome, guests will experience a tasting-menu dinner for two at Il Carpaccio, the hotel’s on-site Michelin-starred Italian restaurant, while you can enjoy buffet breakfasts (in your room if desired) and access to the spa throughout your stay. In addition, you’ll receive a one-hour massage session in a private cabin.
+
+When you do venture outside, you’ll be a stone’s throw from the Champs-Elysées in the heart of the City of Light. From the cobbled streets under Sacre Coeur to the nighttime sparkle of the Eiffel Tower, Paris has countless romantic parts to experience, as well as renowned art galleries like the Louvre, world-famous landmarks including Notre Dame, and neighbourhoods like the lively Latin Quartier or trendy Le Marais.
+
+Three nights B&B in an Artist Room from €3,950 (£3,386) on the “Romance & Revelry” package between 13 and 16 February.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+A grandiose setting for the big day
+
+The Grand Hotel Wien lies on the famous Ringstrasse (Grand Hotel Wien )
+
+The Grand Hotel Wien is a suitably fancy setting for a romantic stay in Vienna. The Valentine’s Package puts guests in a magnificent Grand Room, where sophisticated touches include stylish furniture, marble bathrooms and king-size beds. Guests will be welcomed with a gift of traditional raspberry cake, other sweet treats and flowers before enjoying a five-course dinner at the hotel’s Unkai teppanyaki restaurant.
+
+The candlelit dinner consists of dishes like sashimi, tataki and raspberry parfait (complete with a bottle of champagne), while the next morning you’ll have a buffet breakfast of freshly prepared sweet and savoury dishes.
+
+Enjoy access to the Grand Spa before seeing the capital. Vienna’s architectural elegance and grandeur makes it one of Europe’s most romantic cities, giving it the same sense of enchantment as the Hausmannian buildings of Paris or the canals of Venice. The city of Mozart and Beethoven is a particularly good choice for music lovers – a visit to the world-famous State Opera may be particularly romantic – but the various museums, parks and palaces will also keep most couples entertained for a weekend.
+
+One night “Valentine’s Package” for two from €600 (£515).
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Affordable adventure and cosy evenings
+
+Appleby Manor is just half an hour from Ullswater (Appleby Manor)
+
+The Valentine’s Break Package at Appleby Manor allows guests to spend two nights in the Lake District countryside, close to Ullswater and villages like Penrith. The two-night package is great value, giving you a stay in a room that carries a quintessentially British style - think anything from tartan bedding to floral carpets and Victorian-style armchairs – and a welcome bottle of champagne.
+
+Access to the thermal spa and jacuzzi provides a relaxing finish to a misty morning spent exploring the famous fells, beautiful lakes and countryside trails, while dinner is taken care of on both nights with a two-course meal in the bistro (featuring classic dishes, including chicken liver parfait, prawn cocktail and smoked mackerel) and a four-course dinner in the fine-dining restaurant (which has a more sophisticated menu of dishes like Cumbrian pork, goats cheese tortellini and chicken terrine). Best of all, the package can be booked on any two nights between 9 February and 16 February, giving you plenty of flexibility.
+
+Two night “Valentine’s Break Package” from £219pp between 9 and 16 February.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Laid-back living in La Serenissima
+
+The lagoon and canals of Venice make it a particularly romantic destination (Getty Images)
+
+The Arcadia Boutique Hotel’s three-night ‘I Love You’ package is a good option for those who want to experience Valentine’s in one of Italy’s most romantic cities. Expect a setting of a Venetian palazzo by the canals, with laid-back time at the hotel including breakfast in bed each morning and a daily spritz with Venetian cookies,
+
+Charming add-ons include welcome strawberries, sparkling wine and chocolate hearts in your room, as well as a personal touch with customised Valentine’s cards. Head to the hotel’s Skyfall Bar for its most romantic setting in an elegant, child-free lounge bar.
+
+You’ll be based in the lively Cannaregio neighbourhood, from where you can easily explore Venice’s medieval architecture and picturesque canals. The tallest buildings here are not skyscrapers, but Gothic towers; the network of canals means cars are only heard in the distance; and the Venetian style of the medieval buildings is a wonderful contrast to those of most European cities.
+
+Two nights for two in a superior double room from €342 (£293) 13 to 15 February on the “I Love You” package.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+A peaceful oasis near the Cornish coast
+
+Meudon has direct access to parts of the South West Coast Path (Lee Searle/Hotel Meudon)
+
+Hotel Meudon’s two-night Valentine’s package is simple yet luxurious, with a focus on the serene setting. Meals will be taken care of while you decide on your activities. The package includes breakfast each morning, as well as a two-course dinner on one evening and a Valentine’s sharing menu on the other (with an eclectic selection including Indian snack platters, Cornish rib eye and strawberry panacotta).
+
+The hotel sits in its own little green oasis around 10 minutes south of Falmouth. This is as romantic a place as any in Cornwall, with extensive gardens winding down to a private section of beach and recently refurbished modern and period buildings giving the hotel a sense of both modern style and medieval grandeur. Explore further into Cornwall to see brilliant beaches, verdant countryside and picture-perfect towns and villages.
+
+Two night B&B Valentine’s breaks for two from £448 with a Valentine’s sharing menu between 10 and 17 February.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Explore Prague by day, relax by night
+
+The Alchymist sits near Prague’s main squares and thoroughfares (Getty Images)
+
+The Alchymist Grand Hotel’s Valentine’s Retreat Package provides a stay in a Deluxe room – complete with a queen-size bed and regal decor, with the potential for a free upgrade – at the heart of Prague’s Mala Strana (Old Town). Daily prosecco breakfasts mean you can start the day in a romantic way before a venture into town, while discounted spa treatments will help you settle in once you arrive back at the hotel.
+
+Dinner for two at the Aquarius restaurant will top off an amorous day, with a Valentine’s menu consisting of buffalo mozzarella salad, scallops and veal. The package can be booked from anything between one and five nights, giving you as much choice as possible and allowing you to fully explore the Czech capital.
+
+Prague’s classical architecture, cobblestone streets and wonderful views make it one of Europe’s most enchanting places, and the ‘City of a Hundred Spires’ is no less captivating in winter. The Alchymist lies near both the castle and the Charles Bridge, and though river cruises, walking tours and museum visits are all on your doorstep, much of Prague’s wonder is to be found by strolling through its gardens, courtyards and back alleys.
+
+Valentine’s Retreat Package from €285 (£243) per night between 12 February and 17 February.
+
+Stately elegance in the Scottish capital
+
+Prestonfield House has been a hotel since 1958 (Prestonfield House)
+
+The ‘Romantic February’ package at Prestonfield House allows guests an intimate stay in the Scottish capital. It begins with a bottle of champagne on arrival into your Luxury Room, where low lighting and regal red and gold hues across the decor, bedding and furniture create a cosy atmosphere.
+
+The Edinburgh hotel bills the package as “a world of romance and timeless glamour”, and you’ll have plenty of time to explore the city – from the charming area of Grassmarket to an enchanting trek up Arthur’s Seat – before a candlelit three-course dinner with a choice of dishes that includes beef en croute, pigeon breast and pan-fried sea bream. In the morning, enjoy a full cooked breakfast together before heading home or seeing more of the capital.
+
+Romantic February package from £295 per night between 1 February and 29 February (excluding Saturdays).
+
+Read more of our best romantic London hotel reviews

@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The FIA have lost another senior figure at the heart of the organisation with technical director Tim Goss resigning from his role.
+
+The loss of Goss, a former engineer with McLaren who is now expected to join an F1 team, follows the departures of sporting director Steve Nielsen and head of the FIA’s commission for women Deborah Mayer in recent weeks.
+
+While former FIA safety director Tim Malyon has replaced Nielsen, no replacement has yet been confirmed for Goss or Mayer.
+
+Goss said: “The department (FIA technical department) boasts a number of highly-talented individuals and I believe the organisation is on a firm footing in terms of technical expertise for the tasks which lie ahead – particularly the introduction of the 2026 regulations.”
+
+The FIA’s single-seater director Nikolas Tombazis admitted: "We are disappointed to lose a person of Tim’s calibre from the organisation.
+
+“Tim has played a major part in the technical department and has always operated to the highest level. We understand that his career is taking a new direction going forward and we support and respect his desire to pursue another path."
+
+Malyon, a former engineer at BMW’s team in Formula E, will oversee Niels Wittich’s role as race director this season.
+
+Wittich replaced Michael Masi, the former F1 race director who was sacked following the controversial finale to the 2021 title race between Max Verstappen and Lewis Hamilton.
+
+“I am delighted to be taking on the role of Sporting Director,” Malyon said.
+
+Niels Wittich (pictured) will work under Tim Malyon this season (Getty Images)
+
+“We have already brought significant change to our Race Direction operation with the support of the ROC and I look forward to taking that to the next level. We are also committed to a broad regulatory review of sporting matters, and I look forward to applying a sharper focus to those efforts in the future.”
+
+Tombazis added: “Tim has been pivotal in creating a strong synergy between Race Control and the ROC with the introduction of new technology including artificial intelligence and state-of-the-art data analysis and processing systems.
+
+“He will continue to oversee advances in that area as well as taking the lead on the evolution of FIA sporting regulations.”
+
+The upheaval places further scrutiny on FIA president Mohammed Ben Sulayem (PA Wire)
+
+The BBC report that one senior figure in the sport says the situation at the FIA – amid the upheaval – indicates a “total mess” at the sport’s governing body.
+
+It places further scrutiny on FIA president Mohammed Ben Sulayem, who has faced numerous questions since taking over from Jean Todt two years ago.
+
+Ben Sulayem has been criticised for souring relations with FOM (Formula One Management), the commercial rights holder of the sport, while the latest FIA furore surrounded the investigation into Toto and Susie Wolff over a potential conflict of interest at the end of last year.
+
+Other controversies have included Ben Sulayem commenting on F1’s commercial value, a ban on jewellery which singularly impacted Hamilton, and the revelation of sexist remarks on a personal website in the past.
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

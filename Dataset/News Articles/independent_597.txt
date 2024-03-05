@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+India’s space agency Isro has launched its first satellite to study black holes and announced ambitious plans for 2024 that include gearing up for its first crewed mission to space.
+
+The country’s X-ray Polarimeter Satellite, launched on Monday aboard Isro’s PSLV rocket, makes it only the second nation to study black holes and other celestial objects using an orbiting observatory.
+
+Isro’s new satellite, carrying two scientific payloads in a low earth orbit, will study various astronomical sources of X-rays.
+
+Nasa launched a similar mission in December 2021, which has shed more light on the remnants of supernova explosions and on the particle streams emitted by black holes.
+
+India’s new mission, expected to last for about 5 years, could help understand the X-ray emission mechanism of various astronomical sources like black holes, neutron stars, and star forming nebulae.
+
+The payloads would particularly investigate the polarisation of intense X-ray sources in space, which could help better understand the radiation mechanism and geometry of such celestial sources.
+
+Black holes and neutron stars are ultra dense objects in space formed from the remenants of dying stars.
+
+In black holes, an enarmous amounts of mass several times that of the Sun, are packed into a very small area with a gravitational pull that is so strong that even light cannot pass without being pulled in by them.
+
+“Mission accomplished…” ISRO Chief S Somanath on successful launch of PSLV-C58 XPoSat mission
+
+Isro’s new mission aims to study about 50 potential cosmic sources using its satellite in the long term.
+
+The mission also comes on the back of a number of successful launches by Isro in 2023, including the groundbreaking Chandrayaan-3 mission landing a probe on the lunar South Pole, and a satellite launched to study the Sun.
+
+Following Monday’s launch, Isro chief S Somanath said the space agency is getting ready in 2024 for its highly anticipated first ever crewed mission to space named Gaganyaan.
+
+“We are going to get ready for at least 12-14 missions this year. 2024 is going to be a year for Gaganyaan readiness, though it is targeted for 2025,” Mr Somnath told news agency PTI.
+
+“The Gaganyaan mission began with the TV-D1 or the abort mission (conducted in October). We have four such missions in the series. Our target is to do at least two more in 2024. By then, we will have three abort mission demonstrations,” he said.
+
+ISRO also plans to conduct helicopter-based drop tests this year to test the parachute systems for the Gaganyaan mission, the Isro chief said.

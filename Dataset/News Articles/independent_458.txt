@@ -1,0 +1,309 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+London has it all – thriving art and culture, museums great and small, sprawling landmark parks to hidden green gems, incredible architecture encompassing both olde-worlde and cutting-edge buildings, and must-see attractions – from the sky-high London Eye to the deepest, darkest dungeons.
+
+And that’s just during the day. As night falls in the Big Smoke, an exciting new world opens up, with chic cocktail bars, hip music venues and a plethora of restaurants to suit every possible taste.
+
+In fact, there’s almost too much to cover in a capital of this size, though in the words of Samuel Johnson: “When a man is tired of London, he’s tired of life.” But what about when he’s just tired?
+
+Thankfully, the buzzing British capital is full of sexy, stylish places to stay. From boutiques in converted Victorian terraces and party pads in the middle of Soho, to grande dames that occupy entire postcodes. And thanks to London’s endless stream of ambitious new developments, there’s always somewhere new to bed down in.
+
+The best hotels in London are:
+
+The Drawing Room at Ham Yard hotel in Soho (Ham Yard)
+
+Best hotel for design: Ham Yard
+
+Neighbourhood: Soho
+
+Named after an 18th-century pub called The Ham, “urban village” Ham Yard is found in a quiet (yes, quiet) courtyard just moments from Piccadilly Circus.
+
+The hotel, part of the Firmdale Hotels brand, is all patterned wallpaper and mismatched furniture – very much the MO of its interior designer owners, Tim and Kit Kemp. The highlight of the property (if you discount seeing celebs rolling in and out) is the guests-only roof terrace.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for a nautical vibe: Four Seasons at Ten Trinity Square
+
+London's former Port Authority building has been turned into a turbo-luxe Four Seasons (Four Seasons)
+
+Neighbourhood: Tower Hill
+
+Just moments from the Tower of London is the capital’s grandest Four Seasons. Housed in the former Port of London Authority building, the beaux-arts property has paid more than just lip service to its nautical heritage. There are Corinthian columns, brass plaques stating the distance an arrow could reach from the Tower of London in the entrance hall, and a grand rotunda under which the chic bar and grand piano sit.
+
+Rooms retain the signature sophisticated business vibe the Four Seasons is known for, all black and mirrored, with impressive bathrooms. And in keeping with the nautical theme, you can soak away a day of sight-seeing in giant gold-tiled baths.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for scene: London Edition
+
+Berners Tavern, the buzzy brasserie attached to the London Edition, is helmed by Jason Atherton (London Edition)
+
+Neighbourhood: Fitzrovia
+
+Legendary hotelier Ian Schrager is behind the Edition brand, which landed – boldly, stylishly, loudly – on Berners Street in Fitzrovia in 2014.
+
+Schrager’s signature design – sexy, super-chic and thoroughly contemporary – is evident throughout, from the swishy throws in the rooms and suites, to the gilded Berners Tavern stacked with framed paintings. The always-busy brassiere is overseen by chef Jason Atherton, and draws a fancy Soho crowd hanging around in the low-lit lobby bar.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for royalty: The Goring
+
+The Goring is a "baby grand" hotel in the centre of London (The Goring)
+
+Neighbourhood: Westminster
+
+Right around the corner from Westminster Abbey, The Goring’s biggest claim to fame is that it was the hotel that Kate Middleton used as her Royal Wedding ground zero in 2011.
+
+The sumptuous hotel, built by the Goring family in 1910, is a “baby grand” – basically, an English country house in the middle of the city. The Goring gardens are a particularly lovely spot, and hold their claim as one of the largest private gardens in the capital.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Goring here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for rooftop hanging: Mondrian Shoreditch
+
+The Mondrian Shoreditch’s rooftop Lido restaurant is the best place to while away a sunny day (Niall Clutton)
+
+Neighbourhood: Shoreditch
+
+It’s almost impossible to visit The Mondrian’s blink-and-you’ll-miss-it rooftop “lido” and not Instagram it – which is pretty much the vibe at this neighbourhood boutique on formerly gritty, now hyper-cool Curtain Road in Shoreditch.
+
+The Mondrian’s members-only rooftop Lido restaurant, which overlooks the pool, is full of Shoreditch trendsetters and hands-down the best place to while away a sunny day. Rooms are all bronze accents and comfy sofas, and some rooms have freestanding bathtubs.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for celebrity spotting: The Savoy
+
+The Savoy's entrance driveway is the only place in the UK where you drive on the right (The Savoy)
+
+Neighbourhood: Charing Cross
+
+Probably the best-known hotel in London, The Savoy has been a firm favourite of the world’s jet-set since it opened in 1889.
+
+Everything is suitably regal (think Art Deco meets Edwardian) and the American Bar, the oldest cocktail bar in London, is worth a stop if you can’t afford to spend the night here. Quaintly, the hotel entrance is also the only place in the UK where you drive on the right.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Savoy here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for views: Shangri-La at The Shard
+
+Take London's highest bath at Shangri-La at the Shard (Shangri-La)
+
+Neighbourhood: London Bridge
+
+London didn’t really do vertical hotels when the Shangri-La opened in The Shard, western Europe’s tallest building, in 2014. Taking up floors 34 to 52, this luxury bolthole blends subtle Asian touches with a smart, business-like vibe.
+
+On a clear day, it affords views all the way into Kent – but if not’s clear (and it’s usually not), the surrounding high-rises of the City and residential sprawl of southeast London are also impressive and always on widescreen view.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Shangri-La The Shard, London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for high glamour: Rosewood London
+
+Geometric floors and crisp white at Rosewood London (Rosewood London)
+
+Neighbourhood: Holborn
+
+It’s hard to believe that this palace is just off High Holborn, a stone’s throw from the tourist-packed Covent Garden. Wander through the cobblestone path under the archway and you’re transported to a totally different world – one of chicly dressed hotel butlers, luxury cars parked outside and an Edwardian landmark that makes a seriously zingy entrance.
+
+Until recently Pearl, the resident golden retriever, welcomed guests to the Rosewood London – so rest assured it’s dog friendly. Inside is a swaggering Asian-inspired residence – licks of black lacquer, premium sound systems in the room and vintage hammered-hexagon sinks in the bathrooms.
+
+The home-cooked pies at Holborn Dining Room are legendary, while Scarfes Bar –with a roaring fire and 1,000 antique books – has not even a sniff of “hotel bar” about it.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for wellness: Como Metropolitan London
+
+A calm and collected treatment room at COMO Shambhala Urban Escape (COMO Shambhala Urban Escape)
+
+Neighbourhood: Mayfair
+
+Clean and crisp are the watchwords of the Como Metropolitan London, on busy Park Lane overlooking Hyde Park. The design is all brushed wood and white linen, while the London outpost of Nobu sits elegantly on the second floor and continues to attract a loyal clientele.
+
+While it might look like an Asian-inspired luxury city hotel, Como is a wellness hotel brand at heart. Its heavenly Como Shambhala Urban Escape is just that: an escape. The spa has six rooms and offers a range of expert therapies from award-winning therapists, including super-luxurious Guinot facials, a well-loved French salon brand that’s unique to Como. The Guinot Age Summum Facial is the best thing you can do to your face in 60 minutes: a slathering of vitamin C, hyaluronic acid and pro-collagen, massaged gently into the skin. Bliss.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for train geeks: Great Northern Hotel
+
+The Great Northern Hotel is one of London's most iconic railway hotels (Great Northern Hotel)
+
+Neighbourhood: Kings Cross
+
+The closest you can get to Kings Cross station short of sleeping on a platform, the Great Northern Hotel remains (more than 150 years after it was first built) a Victorian landmark and London’s best railway hotel.
+
+A curved brick façade hides within it a luxury boutique hotel, with quietly elegant rooms and an excellent restaurant and bar, Rails (formerly Plum & Spilt Milk), which is the best place to recover from a delayed train journey.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for a dose of greenery: Kimpton – Fitzroy
+
+The plant-filled Palm Court was designed by Tara Bernard (Kimpton – Fitzroy)
+
+Neighbourhood: Bloomsbury
+
+In the midst of London’s literary heartland is the renovated Kimpton – Fitzroy (previously The Principle). Not only does its striking terracotta facade overlook groomed Russell Square, but its central Palm Court – conceived by designer whizz Tara Bernerd, who created the interiors for the property – is stuffed full of light and bright plants.
+
+As you’d expect, rooms are spacious and richly decorated, and have been designed with period features in mind.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for business travellers: Andaz London Liverpool Street
+
+The Andaz rooms go against the usual bland businessy aesthetic (Andaz)
+
+Neighbourhood: The City
+
+If you've got early meetings in London's business district, the City, it's hard to find a better-located hotel than the Andaz, which is so close it almost sits on top of Liverpool Street Station.
+
+Boutique-y and un-businesslike in feel, this chic Hyatt spin-off mixes elegant grey and monochrome with pops of colour in the rooms and public areas. The renovated lobby area is decorated with pink, blue and green velvet sofas and, as a result, is endlessly Instagrammable.
+
+There’s a whole host of superb restaurants and bars to choose from (if you don't fancy escaping to nearby Shoreditch for dinner). Miyako serves up a traditional Japanese menu of sushi, sashimi, teriyaki and sake; while brasserie Eastway is relaxed, with a near-constant stream of visitors.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for old-school glamour: Mandarin Oriental Hyde Park
+
+The Mandarin Oriental has reopened after an extensive renovation (Mandarin Oriental)
+
+Neighbourhood: Knightsbridge
+
+In June 2018, the capital's most luxe hotel was hit by a fire just a week after opening from an expensive renovation. And so the hotel shut for another year... almost. Then, in spring 2019, the Mandarin Oriental flung open its heavy, moneyed doors in its plum position on Hyde Park, looking more beautiful than ever after the largest renovation in its 121-year history.
+
+This hotel may be an old dog but that doesn't mean it can't learn new tricks. With the renovation comes new penthouses, an expanded spa created by a New York design firm, and guestrooms and suites spruced up under the elegant eye of Hong Kong designer Joyce Wang. Her rooms are the epitome of Art Deco glamour, with hand-etched mirrors, curved glass and bronze furnishings, and muted, spring-like sofas and headboards, which either look over the spoils of Knightsbridge or groomed Hyde Park.
+
+If you can't (afford to) stay, Mandarin Bar is shaped like a catwalk with suspended copper-and-glass light fixtures; while Heston Blumenthal's two-Michelin-starred Dinner remains one of London's greatest restaurants.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more about England travel:

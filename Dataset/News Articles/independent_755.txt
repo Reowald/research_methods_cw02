@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+OpenAI’s new system, named Sora, has led to both delight and panic about its capabilities.
+
+Sora is a video-generating artificial intelligence system that creates realistic scenes in response to simple requests. OpenAI’s chief executive, Sam Altman, shared a series of examples of how it is able to be given a simple prompt and then create video out of it.
+
+It immediately led to excitement about how it would allow for people to more easily realise their ideas, and generate videos for a variety of situations. However, it also led to fears about what the system would be able to do.
+
+Why are people excited?
+
+Some of the excitement is just about the technology itself: it allows people to dream up a scenario and then have a video produced showing it. The possibilities of the use of such technology in creative and others scenarios is obvious.
+
+However, OpenAI suggested that it could be used in a variety of less obvious scenarios, too.
+
+Sora is able to take an existing image and make it into a video, for instance, “animating the image’s contents with accuracy and attention to small detail”. That could be used to bring existing still pictures to life.
+
+It can also “take an existing video and extend it or fill in missing frames”, OpenAI said. That might be helpful in restoring video where some parts of the footage has been lost.
+
+Sora also “serves as a foundation for models that can understand and simulate the real world, a capability we believe will be an important milestone for achieving AGI”, OpenAI said. If the world is to generate an AI system similar to human intelligence – artificial general intelligence, or AGI – then it will need the ability to understand visual images as well as creating them.
+
+Why are people concerned about it?
+
+As soon as the new system was announced, it led to fears about the dangers it could do. As with every new AI technology, they ranged from concerns that companies would use it to try and automate away jobs and reduce the quality of their creative work, to misinformation.
+
+Even OpenAI was very explicit about the concerns – though the company has sometimes been accused of using such fears to market its new technologies, by suggesting they are so powerful as to be dangerous. In its announcement it said that it was not actually releasing the product to the public yet, but instead making it available to researchers and others to understand the risks it might pose.
+
+In the wake of the announcement of Sora, much of the focus was on the ability to make misinformation, such as creating videos of famous people in fictional situations.
+
+OpenAI said that it would be working to try and respond to those concerns, before it is released publicly. That will include “red teamers” who will try and break the model by using their expertise in “misinformation, hateful content, and bias”.
+
+It also said that it would work to build tools that would make it harder to generate problematic videos by including a system that would reject prompts that violate its policies, such as those requesting “extreme violence, sexual content, hateful imagery, celebrity likeness, or the IP of others”. And it said that it would work on a tool that would be able to spot videos posted by Sora, in an attempt to stop the spread of misinformation.
+
+On the other hand, others have suggested that the model might not be quite as inventive as it seems. Technology commentator Brian Merchant pointed out that one of the videos shared by OpenAI to announce the new tool appeared to be markedly similar to one that might have been used to train it.
+
+Other videos shared by Mr Altman however appeared to be more novel, based on prompts sent to him on Twitter and which would presumably less likely to echo existing clips.
+
+OpenAI also noted that the current model has “weaknesses”. “It may struggle with accurately simulating the physics of a complex scene, and may not understand specific instances of cause and effect. For example, a person might take a bite out of a cookie, but afterward, the cookie may not have a bite mark.”
+
+It could also get confused about space, “mixing up left and right”, and “may struggle with precise descriptions of events that take place over time”, OpenAI said.
+
+Even in some of the videos shared by OpenAI – which had presumably been chosen to demonstrate the system in the best light – there were errors. In some videos, people’s limbs would appear and disappear, for instance.

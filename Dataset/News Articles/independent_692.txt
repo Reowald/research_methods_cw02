@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Christian Horner’s future as Red Bull F1 boss remains in the balance after he met with the lawyer in charge of the investigation into the team principal on Friday in London.
+
+Horner has been accused of “inappropriate, controlling behaviour” by a female colleague and is currently at the centre of an investigation by the team’s parent company, Red Bull GmbH.
+
+The 50-year-old, who has been in charge of Red Bull Racing since its inception in 2005, strongly denies the allegations levelled against him.
+
+Horner met with the external barrister at a secret location in central London on Friday. It is now a waiting game to see if the matter is resolved, one way or another, before Red Bull launch their 2024 F1 car at their base in Milton Keynes on Thursday (15 February).
+
+However, given the complex nature of the matter and the need for both sides to be fairly heard, the case could well overrun into late next week and beyond. A Red Bull GmbH spokesperson told The Independent on Friday night: “As already stated, it would not be appropriate for us to comment before the investigation is completed.”
+
+Red Bull Racing have refused to comment on the matter.
+
+The Red Bull F1 chief is married to former Spice Girl member Geri Horner and is the longest-serving team principal on the F1 grid, having been at the helm for six constructors’ championship victories and seven drivers’ championship triumphs – three for Max Verstappen and four for Sebastian Vettel.
+
+Horner, who back in 2021 signed a contract extension at Red Bull until 2026, was made a CBE in the new year honours list for services to motorsport, having previously received an OBE in 2013.
+
+In the only official comment from the team or company all week, Red Bull GmbH said in a statement on Monday: "After being made aware of certain recent allegations, the company launched an independent investigation.
+
+Christian Horner’s future as Red Bull F1 boss remains in the balance (Getty Images)
+
+“This process, which is already under way, is being carried out by an external specialist barrister. The company takes these matters extremely seriously and the investigation will be completed as soon as practically possible.
+
+“It would not be appropriate to comment further at this time.”
+
+Horner is currently scheduled to appear at Red Bull’s 2024 launch on Thursday, in an event being billed as a 20-year celebration of the team in Formula 1.
+
+Red Bull won 21 out of 22 races in 2023 in their most successful year so far, with Verstappen storming to his third straight championship.
+
+The first race of the 2024 F1 season – featuring a record 24 races – is on Saturday 2 March in Bahrain. Pre-season testing takes place in Bahrain a week earlier, starting on 21 February. Horner would be expected to be present at both.

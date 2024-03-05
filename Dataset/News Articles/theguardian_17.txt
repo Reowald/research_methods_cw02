@@ -1,0 +1,35 @@
+The next UK general election is looming, with most analysts expecting it to be called late this year.
+
+After 13 years of Conservative rule, Labour has been consistently ahead in the polls since the start of 2022.
+
+The latest a general election could be called is January 2025. The prime minister, Rishi Sunak, has the power to call a general election at any point before then, but facing a potential loss, experts think that he will put it off to stay in power for longer.
+
+The Guardian will track latest polling averages, sourced from all major British polling companies, until election day.
+
+Current voting intention Average of polls over a moving 10-day period, showing GB voting intention Loading... Voting intention over time Latest average of all polls over a moving 10-day period, showing Great Britain voting intention Loading...
+
+The Scottish National party (SNP) is not included in the data the Guardian is using in the chart above. In Great Britain-wide polls, the SNP vote sits between 2% and 4% of national vote share. But its geographical concentration in Scotland means it will win many more seats than other small parties with a similar national vote share, such as the Greens. Targeted Scotland-only polls give a much better indication of how well it will do in the next election than the nationwide polls above.
+
+Polls only go so far in predicting who will win in the UK’s first-past-the-post electoral system. What matters is the number of seats each party wins in parliament, which is decided by individual races in 650 constituencies.
+
+What the latest polls could mean for parliament Seat projections from Electoral Calculus Loading... Guardian graphic. Source: Electoral Calculus . undefined Published 1 Jan 1970.
+
+Seat predictions differ, but the one we show above is from the pollster Electoral Calculus. It conducts its own polls, in which it also gathers demographic data from the people it surveys.
+
+This data is fed into a mathematical model, called a multilevel regression and post-stratification (MRP) model, with the goal of estimating the connection between characteristics such as age, gender and the area where a person lives, and which party they will vote for.
+
+Matching this up with data about what types of people live in different UK constituencies, Electoral Calculus predicts which party will come top in each constituency.
+
+How accurate are seat projections?
+
+In Britain’s first-past-the-post system the numbers in the polls do not correlate cleanly to seats because it depends where votes are located. Describing seat projections from general polling as a “loose yardstick”, Rob Ford, a professor of politics at the University of Manchester, said: “Labour could get a lead of 15 points and not have a majority, a lead of 10 points and have a majority. It depends where those votes are.”
+
+If the election is close, the polls become less predictive of the outcome. Other limitations of projecting seat counts from national polling include the fact that the Lib Dem seat count is hard to infer from national polling because, while their national support is much lower than the two main parties, in certain constituencies they have a significant presence. Nor is nationwide polling very informative about what will happen in Scotland, and polls there are more infrequent.
+
+Notes on the data
+
+The chart shows a rolling 10-day average for the support of each party based on Great Britain-wide polls. This excludes Northern Ireland, which has different political parties. On any given day, the Guardian works out the average support for each party across any poll published in the preceding 10 days. Only polling companies that are members of the British Polling Council are included.
+
+The seat projections are sourced monthly from Electoral Calculus, which applies a model to polling and demographic data to estimate the number of seats each party may win. They update this projection monthly.
+
+Illustrations by Sam Kerr

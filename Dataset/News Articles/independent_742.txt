@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Jenson Button believes Mercedes will be Red Bull’s closest challengers this year as anticipation builds towards the 2024 Formula 1 season.
+
+Red Bull won 21 out of 22 races last year – with Max Verstappen winning 19 – as Christian Horner’s team stormed to both world championships, in the end beating Mercedes by a mammoth 451 points.
+
+Mercedes, on the other hand, endured their first winless season since 2021 – a far-cry from the dominance they enjoyed at the start of the hybrid era with eight constructors’ world championships from 2014-2021.
+
+Yet 2009 F1 world champion Button has backed the Silver Arrows – spearheaded by seven-time world champion Lewis Hamilton and British team-mate George Russell – to be Red Bull’s arch-rivals once again in 2024.
+
+“When you look at the last 10 years in the sport, it’s Mercedes and Red Bull – so it would be Mercedes,” Button told Sky Sports, when asked about Red Bull’s closest challenger.
+
+“I would love to say Ferrari, I would love to have them in the mix. You could say they were the closest competitor especially towards the end of the season, but I think Mercedes will have a good improvement [for2024]. Whether it’s enough, I don’t know.”
+
+Button has also backed Hamilton, his team-mate at McLaren for three years from 2010-2012, to bounce back following two seasons without a victory.
+
+Hamilton, who turned 39 on Sunday, had previously won a race in every F1 season he’d competed in prior to his current duck which stretches back to his last victory in Saudi Arabia in December 2021.
+
+Jenson Button says Mercedes will be Red Bull’s closest challengers in 2024 (PA Archive)
+
+"When you’ve won for so many years and then suddenly that’s taken away from you, it can work in two different ways," said Button.
+
+"One, you are just like ‘well, there’s no point anymore, I want to retire, I’ve been at the peak for so long and now I’ve not won a race in two years’. But also it can make you more hungry to get back to that, and Lewis is in that position right now I think.
+
+"Lewis is as good as ever I would say in terms of his outright speed, but also now he seems much more comfortable in himself and confident in his ability, so he makes fewer mistakes. So he’s even better now than he was five or six years ago.
+
+"That’s tough [for his rivals]. If he gets a car that’s competitive enough to fight for victories, when someone’s that strong and that confident in themselves it’s difficult to beat, as you can see with Max Verstappen right now."
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix. Pre-season testing is a week earlier, at the same circuit in Sakhir.

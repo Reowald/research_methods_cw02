@@ -1,0 +1,25 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The F1 Exhibition will re-launch in Vienna next month and Max Verstappen’s title-winning Red Bull car will be the star attraction.
+
+The exhibition, which endured a successful first run in Madrid in 2023 when it became the country’s biggest temporary show, heads to the Austrian capital this year and will open on 2 February until late spring.
+
+There will be six specially designed rooms, spread over 3,000 square metres at the METAStadt Vienna, with Romain Grosjean’s burnt out Haas race car from his fiery 2020 crash in Bahrain one such attraction.
+
+Yet Verstappen’s first title-winning car, the RB16, will be on show in Vienna too. It was the car which featured in the memorable 2021 title race with Lewis Hamilton – and the dramatic and controversial end in Abu Dhabi.
+
+F1 chief executive Stefano Domenicali said: “Following the success of our first Formula 1 Exhibition in Madrid, we are incredibly excited to announce Vienna as the second host of the innovative show.
+
+“Austria has a great history with Formula 1, so we are delighted to take this spectacle to the capital and provide fans in the country with another way of interacting and enjoying the sport’s rich history and heritage.”
+
+Max Verstappen’s title-winning 2021 Red Bull will be on show at the F1 Exhibition in Vienna (Getty Images)
+
+Other attractions in the exhibition will include “drivers and duels”, taking a look at the sport’s most iconic rivalries, as well as “the pit wall”, which will allow visitors to watch the sport’s most memorable moments in a unique cinematic experience.
+
+“We were thrilled and gratified by the level of success the exhibition received in Madrid,” added Timothy Harvey, lead curator and producer of the F1 Exhibition.
+
+“The ambition has always been to bring this one-of-a-kind show to as many people as possible, and so we’re excited to announce the next stop will be the dynamic city of Vienna.
+
+“The Vienna exhibition will feature new displays and experiences for visitors.”

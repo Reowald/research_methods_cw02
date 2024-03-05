@@ -1,0 +1,23 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists think they have found an explanation for vast “radio circles” that have perplexed them for years.
+
+In 2019, astronomers found something they had never seen before. An telescope in Australia showed rings of radio waves that were so big they could easily wrap around galaxies.
+
+Scientists did not know what they were or where they had come from. But in the years since, researchers believe they have come to understand how the vast rings got there.
+
+The circles appear to be shells that are made by galactic winds. Those winds appear to be shot across the universe by massive exploding stars, called supernovae.
+
+They appear to be coming from “starburst” galaxies, where star are formed at exceptional rates. That vast number of stars can lead to vast explosions: if they explode near each other at the same time, they can rip the gas out of the galaxy and it will fly out as winds, going as fast as 2,000 kilometres each second.
+
+“These galaxies are really interesting,” said Alison Coil, from the University of California San Diego. “They occur when two big galaxies collide.
+
+“The merger pushes all the gas into a very small region, which causes an intense burst of star formation. Massive stars burn out quickly and when they die, they expel their gas as outflowing winds.”
+
+The researchers made the discovery using a set of computer simulations that replicated the size and properties of the vast radio rings, including cool gas that had been found in the centre of the galaxy at their middle. Those simulations showed winds flowing out of the galaxy for 200 million years before they stopped.
+
+When they did stop, a shock kept pushing high-temperature gas out of those galaxies and created a ring, with another reverse shock sending cool gas back into the galaxy. That appeared to explain those rings.
+
+The findings are reported in a new paper, ‘Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy’, published in the journal Nature.

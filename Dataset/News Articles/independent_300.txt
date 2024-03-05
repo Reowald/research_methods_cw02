@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly a quarter (24%) of adults have spent more than £200 over the past year to keep up with the lifestyles of friends and family members, according to a survey.
+
+Men spend slightly more than women typically to keep up with the lifestyles of others, at £309 and £291 respectively, the How Britain Spends report from cashback website TopCashback found.
+
+Adults aged under 25 typically spent the most keeping up with others, at £416 on average.
+
+We've found that so many people have felt the pressure to keep up with others' lifestyles - diving into their savings and living beyond their means to match up Adam Bullock, TopCashback
+
+Across all age groups, 13% of adults said they use their savings and 12% use credit cards to fund their lifestyle.
+
+Adam Bullock, UK director at TopCashback said: “Despite the cost-of-living crisis crippling finances, we’ve found that so many people have felt the pressure to keep up with others’ lifestyles – diving into their savings and living beyond their means to match up.
+
+“It’s particularly worrying that younger adults are the most susceptible to the ‘keeping up with the Joneses’ mentality.”
+
+The survey also looked at the extent to which money worries are impacting adults across generally. Three in 10 (30%) people said they dwell on money worries at least once a week.
+
+A quarter (25%) of people said they have lost sleep over money concerns more than once a week.
+
+Censuswide surveyed more than 2,000 people across the UK in November 2023 for the report.

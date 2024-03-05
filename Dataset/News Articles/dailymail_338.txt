@@ -1,0 +1,77 @@
+Scammers continue to ride roughshod over the law, targeting people with phone calls, text messages, emails, social media requests and even letters.
+
+Some are easy to spot from a mile off, with many of us having been contacted by a Nigerian prince in need of help reclaiming his lost inheritance, or received a poorly-worded email warning that at least 574 viruses have been detected on our PCs.
+
+However, the vast majority are not quite so easy to spot, and fraudsters are coming up with new ones all the time.
+
+According to research from Which? shared exclusively with This is Money, there are five new scams that people should keep a keen eye out for this year.
+
+One step ahead: Scammers are increasingly making use of technology to develop more complex methods of duping victims
+
+Which? consumer law expert Lisa Webb said: 'Consumers can stay on top of the tactics used by fraudsters by signing up to our scam alerts service - which highlights the latest frauds making the rounds.
+
+'Responsibility should not fall solely on the shoulders of consumers. Tech platforms and the Government need to up their game and better prevent scammers reaching potential victims.'
+
+Spear phishing
+
+You may have heard of phishing scams, which see scammers send out bulk emails purporting to be from reputable businesses, including banks and Government bodies, with the hope that a handful of people will 'bite'.
+
+But fraudsters are now employing a more targeted approach known as 'spear phishing' according to Which?
+
+They are compromising victims' data and using that personal information to make targeted attacks, convincing them that they are the real organisation.
+
+These attacks use data that has previously been collected by scammers from mass data breaches, social media profiles or previous scams.
+
+The idea behind these scams is that the amount of research behind them will make victims believe that the email, text message or phone call must be legitimate.
+
+But real organisations rarely use cold calls to ask for sensitive information from their customers, so if you are unsure then hang up and call the company back on its official number.
+
+Warning: Spear phishing uses personal information to make targeted attacks
+
+Tapjacking
+
+Scammers can now hijack your smartphone screen, forcing you to perform actions on your phone without realising.
+
+Tapjacking works by showing an overlay on your phone screen which appears clickable.
+
+But in reality that is merely an image, which prevents you from seeing what you are actually tapping on.
+
+In a mobile game, for example, you may appear to be engaging with game elements, but in fact your clicks are making in-app purchases, or signing you up to a subscription via an invisible screen underneath the overlay.
+
+Which? recommends sticking to apps downloaded via sources such as the Apple App store or Google Play Store, and reading reviews before you start installing.
+
+Quishing
+
+Another phishing spin-off, quishing sees scammers utilising the QR code technology that we have all begun to take for granted following its mass prevalence in restaurants and bars during the Covid pandemic.
+
+Scammers use QR codes to lead victims to fake login pages, where they can take your details, or make you sign up to expensive subscriptions without realising.
+
+In some cases, these QR codes are sent via email, disguised as legitimate communications, often via previously compromised email addresses.
+
+But there have also been reports of false QR codes being stuck to parking meters, which take victims to fake apps which will then sign them up to costly subscriptions.
+
+AI and deepfake scams
+
+The meteoric rise of artificial intelligence over the past few years has shifted the landscape for scammers, allowing them to impersonate real voices and even faces.
+
+As AI continually improves, so to do the tools that scammers have at their disposal.
+
+These scams are being increasingly employed to spread misinformation, with scammers using AI or deepfake videos to impersonate reputable sources.
+
+In January, the Guardian found more than 100 deepfake videos of Rishi Sunak, which were linked to a mocked-up BBC News page which promoted a fake investment.
+
+With 2024 set to see a general election in the UK, it is possible that there will be a rise in AI and deep fake misinformation spreading on social media.
+
+According to Facebook and Instagram owner Meta, it will install labels to inform users if a video has been detected as AI.
+
+Online ads
+
+Last year, the Online Safety Bill was passed into law, but has not yet fully come into effect.
+
+The law will mean that large online platforms will become responsible for illegal content hosted on their site, including scam adverts.
+
+For now, however, there seems to have been little change according to Which?
+
+Telltale signs of scam adverts are offers that seem too good to be true - because they are - and links that don't match with the advert on display.
+
+For example, an advert could have been copied from an existing one, but the web address is bogus.

@@ -1,0 +1,23 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Andy Murray has vowed to keep playing tennis as he looks for an end to his losing run.
+
+The former world No 1 has lost his last six matches stretching back to October and slipped to 50th in the ATP rankings.
+
+The 36-year-old has faced questions about retirement but, ahead of playing in next week’s Qatar Open, he has shared his determination to keep going.
+
+“I can do whatever I want,” Murray told Sky Sports Tennis. “I don’t have to do what fans or journalists or anyone is telling me to do.
+
+“I’m qualifying for all of these tournaments on my right, on my ranking from the matches I’ve won. I want to keep playing just now. I’m not going to stop.”
+
+Murray will face a qualifier in the first round of the Qatar Open, a competition he won in 2008 and 2009 and finished runner-up in 2017 and 2023.
+
+The three-time grand slam singles champion admits he has found his start to the year hard, but is hoping he can return to form.
+
+He added: “Tennis-wise it hasn’t been a great start to the year. I’ve never experienced a period like this as a professional. It’s been difficult, a new experience for me (which) is not the nicest, but good to experience new things and try and learn from them.
+
+“I was never a great practice player, I didn’t used to win practice matches, exhibition matches. It’s been the complete opposite for me recently.
+
+“I know there’s better tennis in me than I’m showing just now, but I’m hoping I can turn it around.”

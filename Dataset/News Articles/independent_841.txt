@@ -1,0 +1,47 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+On Monday, 19 February, the US will honour Presidents’ Day.
+
+Every year, millions of Americans have the day off to celebrate the achievements of the country’s past leaders. Originally, the third Monday in February was meant to solely recognise just one - George Washington. In the 1880s, Presidents’ Day was known to be the birthday (12 February) of the first president of the United States. Yet, over time, a widespread appreciation for the country’s many vanguards was adopted.
+
+When Congress deliberated the Uniform Monday Holiday Bill in 1968, the name switch from Washington’s Birthday to Presidents’ Day was discussed. The motivation behind the new title was to recognise Abraham Lincoln’s 22 February birthday as well. However, the moniker change wasn’t accepted by the masses until 1971.
+
+Though the law recognises specific federal holidays, this does not mean that individuals working for private businesses are required to have work off.
+
+From Veterans Day to Christmas, here are the dates of the 2024 federal holidays.
+
+New Year’s Day: Monday, January 1
+
+Birthday of Martin Luther King, Jr.: Monday, January 15
+
+Presidents’ Day: Monday, February 19
+
+Memorial Day: Monday, May 27
+
+Juneteenth National Independence Day: Wednesday, June 19
+
+Independence Day: Thursday, July 4
+
+Labor Day: Monday, September 2
+
+Indigenous Peoples’ Day (also observed as Columbus Day): Monday, October 14
+
+Veterans Day: Monday, November 11
+
+Thanksgiving Day: Thursday, November 28
+
+Christmas Day: Wednesday, December 25
+
+Other important days to note:
+
+Valentine’s Day: Wednesday, February 14
+
+St Patrick’s Day: Sunday, March 17
+
+Good Friday: Friday, March 29
+
+Easter: Sunday, March 31
+
+Passover: Monday, April 22

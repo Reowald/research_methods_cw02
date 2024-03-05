@@ -1,0 +1,63 @@
+If you've been hearing your Facebook making a strange chirping sound then don't worry, it's not all in your head.
+
+App users have been plagued by an irritating refresh sound which the company says is an 'unfortunate technical error'.
+
+In a post on X, formerly Twitter, Meta's communications officer Andy Stone wrote: 'Hearing a chirping noise while scrolling through your Facebook feed on your iPhone? It's not you, it's us! And it's an unfortunate technical error that we're in the process of fixing.'
+
+For now at least, Meta, which owns Facebook, has not said when it will be able to fix the issue.
+
+But luckily for those of you being driven up the wall by this glitch, there is a simple solution.
+
+Is your Facebook chirping to you? If so, there's no need to worry as this sound is not in your head but is actually just a bizarre glitch
+
+Facebook communications officer Andy Stone confirmed that the strange chirping sound users have been hearing was caused by a technical glitch
+
+facebook started to make weird sounds pic.twitter.com/5ZtXazlRUy — Eray Eliaçık (@eliacikeray) February 12, 2024
+
+How to stop Facebook chirping Open the Menu on the app by clicking on the button showing three horizontal lines. Under Settings and Privacy, navigate to the Settings tab Select the Media button to bring up sound options Under 'Sounds' you will find the toggle for 'In-app sounds' To stop Facebook chirping simply set this to off Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+Meta has not provided any additional information on the glitch at this stage.
+
+However, it appears that it causes the Facebook iOS app to repeatedly trigger the 'refresh' sound whenever the app is open.
+
+As early as Sunday, some social media users reported that the glitch was causing issues.
+
+On X, one commenter wrote: 'Is anyone else Facebook making a noise like the refresh sound?? It happens to me when scrolling or not even touching the phone.'
+
+Another added: 'My Facebook is making a weird chirping sound while I scroll and I tried restarting my phone and it didn't work. What do I do now?'
+
+While Facebook has confirmed that this is a technical issue that it is currently investigating, some more conspiratorially minded commenters quickly leapt to a very different conclusion.
+
+One commenter on X wrote: 'Don't worry guys, that's just feedback from the mic listening in on you.'
+
+Another added: 'Just like the old days when you heard a faint clicking on your landline phone meant you were being wire tapped.'
+
+Meanwhile another joked: 'That's just your little friend the government saying hello'.
+
+As early as Sunday some commenters on X, formerly Twitter, reported that their Facebook app was making strange noises even when they weren't touching the phone
+
+Thankfully, this is simply a sound bug that can be easily fixed with a few adjustments to Facebook's settings.
+
+To stop the app from making the chirping sound, the easiest workaround is to deactivate in-app sound.
+
+First, open the menu and head to 'Settings and Privacy'.
+
+From there, select 'Settings' and navigate to the 'Media' tab under preferences.
+
+This will bring up the menu for 'Sounds' where you will find the toggle for 'In-app sound'.
+
+Luckily the issue is easy to resolve as you can simply turn off in-app sounds by navigating to the 'Media' settings under 'Preferences' in the iOS app
+
+READ MORE: Mortified Facebook users reveal how they have been caught snooping on strangers and exes Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+All you need to do to stop Facebook chirping is toggle this off.
+
+However, this isn't the worst technical glitch that Facebook users have faced in the last year.
+
+In May last year, a bizarre glitch sent friend requests to anyone whose profile a user had been looking at.
+
+This embarrassing error led to mortified users being caught red-handed snooping on their ex's profiles.
+
+And, in August, another glitch caused users' newsfeeds to be flooded with posts from strangers sharing content of celebrity pages.
+
+While this might seem harmless, some trolls took advantage of the glitch to post a torrent of spam on celebrity pages, including PayPal links, cryptocurrency ads and even links to pornography.

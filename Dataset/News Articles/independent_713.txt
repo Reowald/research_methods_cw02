@@ -1,0 +1,59 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lewis Hamilton will make a shock move to Ferrari from the 2025 season onwards.
+
+The seven-time Formula One world champion has enjoyed unrivalled success at Mercedes but is now set to become the 12th British racer to don the famous red overalls of Ferrari.
+
+Here, the PA news agency takes a look at five of the most notable former Britons to race for the Maranello marque.
+
+John Surtees
+
+Starts: 37Wins: 5
+
+Surtees is the subject of a pub quiz question to this day as he remains the only man to win world championships on both two and four wheels.
+
+His F1 title came during a four-year stint at Ferrari, where he won the championship in 1964.
+
+More success probably would have followed had he not quit the team after just two races of the 1966 season following a public spat resulting from his omission from Ferrari’s team for the Le Mans 24-hour race.
+
+Eddie Irvine
+
+Starts: 65Wins: 4
+
+Ferrari’s hopes of a first drivers’ championship in two decades had seemingly been resting solely on the shoulders of Michael Schumacher.
+
+That all changed when he broke his leg in a crash at Silverstone in 1999, jettisoning Northern Ireland’s Irvine into a title showdown with the McLaren of Mika Hakkinen.
+
+Having joined Ferrari in 1996, Irvine was very much the number two in the team, although victories in Australia, Austria, Germany and Malaysia saw the championship race go down to the wire but – even with Schumacher back from injury and playing a supporting role, he fell short by two points and quit for Jaguar in 2000.
+
+Nigel Mansell
+
+Starts: 32Wins: 3
+
+Already a world champion, Mansell would forever be bestowed with the honour of being the last driver hand-picked by Enzo Ferrari to race for his eponymous marque.
+
+Mansell had endured a terrible season at Williams in 1988 but won in Brazil in 1989 – his first race behind the wheel of a Ferrari – and later in Hungary, too.
+
+Reliability issues hampered the remainder of his debut year with the Prancing Horse and 1990 proved even worse in that regard as Mansell retired from seven grands prix, winning in Portugal but falling out with the team and returning to Williams the following year.
+
+Mike Hawthorn
+
+Starts: 24Wins: 3
+
+Hawthorn became the United Kingdom’s first Formula One world champion when he took the title with Ferrari in 1958.
+
+Having driven for the team earlier in the decade, he returned to take the crown after winning in France and finishing second in Belgium, Britain, Portugal, Italy and Morocco.
+
+He retired after winning the championship having watched team-mate Peter Collins die at the German Grand Prix months earlier – Hawthorn himself would die in a road accident in January 1959 at the age of 29.
+
+Peter Whitehead
+
+Starts: 8Wins: 0
+
+Whitehead may have raced in Formula One but it was with a Ferrari, rather than for the team itself.
+
+The Englishman became the first private racer to convince Enzo Ferrari to sell him a car, which he duly painted in British racing green.
+
+He was entered into one race by the works Ferrari team – but failed to qualify for the 1950 Swiss Grand Prix.

@@ -1,0 +1,85 @@
+Russia's brazen plan to put a nuclear weapon in space could threaten satellites that enable military and civilian communications for the US and other western allies.
+
+It is unclear what exactly Moscow plans to put into space, but according to early reports from unnamed US government sources, a space-based nuke would be used to attack satellites in orbit rather than strike targets on the ground.
+
+While nuclear bombs are usually thought of as weapons meant to cause large numbers of casualties and mass property destruction, in space the strategy appears to be the creation of an electromagnetic pulse (EMP).
+
+When a nuclear bomb goes off, whether on land or in space, it creates an EMP. This burst of electromagnetic energy can disable or destroy electronic equipment - including satellites.
+
+If a Russian orbiting weapon attacked US satellites, it could effectively cripple the US, causing nationwide blackouts and shutting down communications.
+
+Cell phone towers, internet, GPS, banking systems, power grids, first responders and military operations could all be impacted.
+
+Russia already has several space-based military assets. These include co-orbital anti-satellite (ASAT) weapons, direct-ascent ASAT missiles, and Starlink communication satellites it is contracting for its war on Ukraine
+
+The US does not currently have defenses against such a threat, and if satellite-based communications were destroyed, getting them back online would require maneuvering remaining satellites into place and launching new ones on rockets - both of which days or weeks.
+
+
+
+The warning signs of such an attack are already there. In 2021, Russia demonstrated its capability to shoot down satellites with missiles launched from Earth, destroying one of its own decommissioned satellites.
+
+And in 2020 Russia fired a projectile from a satellite up into outer space - though Russian officials maintained the projectile was not a weapon.
+
+Based on early reports from House Intelligence Committee Chair Rep. Mike Turner of Ohio, the new threat seems likely to be a satellite launched into space that could maneuver into place and target other satellites.
+
+Global communications systems such as mobile phones, the internet we use every day, and military communications depend on an array of satellites in orbit around the Earth, and destroying a rival nation's satellites could disrupt a foreign power's capacity for defense and emergency response.
+
+If satellites were knocked out, mobile phone data could black out temporarily, as could home internet for people in rural areas.
+
+Communication among banks and other businesses around the world would be hampered, effectively disabling the routines of global business.
+
+These effects would likely persist for days or weeks until new satellites could be launched to replace the destroyed ones, or until existing satellites could be shifted around in Earth's orbit to fill in the gaps.
+
+In statements pressuring the Biden administration to declassify the intelligence around the anti-satellite weapon, Turner and other officials have noted that the threat is not urgent, but that there may be a limited amount of time to prevent Russian from deploying it.
+
+Representative Eric Burlison of Missouri said Wednesday that after reviewing the intelligence, that officials are overreacting and he is more afraid of the penalties for disclosing classified material than he is of what the report contained.
+
+The Kremlin said today that the substance of the rumor was false, a 'malicious fabrication' by lawmakers and the White House meant to grub up more money to counter Russia, Reuters reported.
+
+Russia has already violated portions of the 1967 Outer Space Treaty, unrelated to nuclear weapons, including when it shot down its own 1980s-era Cosmos 1408 satellite in 2021. The move released at least 1,500 pieces of space junk (tracked above by a private firm Numerica)
+
+Russia's space arsenal is not all weapons, though. It also includes private communication networks.
+
+Putin has reportedly been contracting SpaceX's Starlink satellites to enable its invading troops to communicate with each other in the country's war on Ukraine.
+
+According to the early reports, Russia seems to have plans to deploy a co-orbital anti-satellite (ASAT) weapon, a satellite that could maneuver into place near its targets before either deploying a projectile or simply detonating in place.
+
+READ MORE: Top secret Russian electronic weapon 'based in Kaliningrad' is jamming GPS technology on civilian flights across NATO's eastern flank, Western intel fears There has been disruption to the GPS guidance of air and sea traffic in Finland, the Baltic states and Poland, according to Estonia's military chief. 'What we have seen is a malfunctioning of GPS for ships and air traffic,' General Martin Harem, commander of the Estonian Defense Forces, said. 'And we really do not know if [Russia] want to achieve something or just practice and test their equipment' Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+The move to put a nuclear device in space would also go against the Outer Space Treaty, a 1967 agreement the then-USSR was party to. One provision of the treaty is a ban on orbiting nuclear weapons.
+
+In recent years, Russia may have violated another part of this treaty when it shot down its own 1980s-era Cosmos 1408 satellite in 2021.
+
+This incident created a cloud of dangerous debris - at least 1,500 pieces - that narrowly missed a Chinese satellite and forced astronauts aboard the International Space Station to shelter in place.
+
+Russia used a direct-ascent anti-satellite (DA-ASAT) missile in that incident. These weapons are launched from launch pads on Earth, directly at a satellite.
+
+That act was explicitly forbidden in the treaty, which stipulates that 'states shall avoid harmful contamination of space and celestial bodies.'
+
+But Russia isn't alone in violating that provision: China, India, and the US have all tested ASAT missiles on their own decommissioned satellites as well.
+
+Both the US and the then-Soviet Union have skirted the edges of this language in the '67 Outer Space Treaty since the final decade of the Cold War.
+
+Following the 1978 discovery of a USSR anti-satellite capability, the US Air Force contracted the development of an air-launched ASAT that would be fired from an F-15 Eagle fighter jet.
+
+Dubbed the ASM-135, this Air Force ASAT never went into active use, becoming instead a historical artifact on display at the National Air and Space Museum.
+
+But President Carter-era ASAT projects heralded the 'Star Wars' initiatives of the Reagan administration, which pushed for a 'Strategic Defense Initiative' (SDI) that included plans for both space-based lasers and exotic projectiles.
+
+One SDI proposal for a 'hypervelocity' electromagnetic railgun, which the Pentagon earmarked millions of dollars to research and paid artists to conceptualize, would have used 'Lorenz forces' to launch a kinetic weapon at nuclear missiles, mid-flight.
+
+While it's unclear if such an American-made device ever made it into orbit, the US Navy has spent over $500 million in recent years for defense contractor General Atomics to produce a pilot project developing similar weaponry.
+
+'The the electromagnetic railgun (EMRG),' as one Navy press release put it in 2020, 'could substantially improve the ability of Navy surface ships to defend themselves against surface craft.'
+
+Above, an artist's concept made during the Reagan presidency of a US space-based electromagnetic railgun proposed as part of the 'Strategic Defense Initiative' or 'Star Wars.' The envisioned device was intended to intercept and destroy nuclear-armed re-entry vehicles
+
+But perhaps the signature provision of the 1967 treaty put forward a ban on launching 'nuclear weapons or other weapons of mass destruction' into orbit or onto 'celestial bodies' or stationing them 'in outer space in any other manner.'
+
+While Russia already has multiple space-based tools in its military arsenal, Wednesday's cryptic reports from the Senate's Intel Committee and other unnamed sources specifically alluded to space-based nukes as one of its emerging threat-capabilities.
+
+Citing one current and one former US official, the New York Times reported that Russia has been quietly working on a space-based nuclear weapon designed to target its rivals' satellite networks.
+
+Reporting by ABC News added that the vaguely described intelligence that House Intelligence Committee chairman Rep. Mike Taylor has asked the White House to declassify relates specifically to such orbital nuclear capabilities.
+
+But both current and former officials, according to Reuters, have also cautioned that this alleged Russian nuclear weapon was not yet in orbit.

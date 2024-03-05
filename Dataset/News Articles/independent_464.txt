@@ -1,0 +1,185 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+When it comes to being almost irresponsibly good looking, the Lake District has easy-on-the-eyes down to a fine art. Bursting with bucolic mountain tarns and rugged windswept fells, this picture-perfect landscape – bordered by the Pennines and the Irish sea – has provided inspiration for Romantic poets and children’s authors alike.
+
+Still as captivating as ever, this Unesco World Heritage Site is the perfect choice for a getaway in the UK. For families, a trip to the World of Beatrix Potter is well worth a visit – explore the home and grounds that inspired the author’s tales of Peter Rabbit and Jemima Puddle-Duck. Adventurers are also catered for, though, and may be tempted to tackle the highest point in England, Scafell Pike, or take a ferry across Lake Windermere.
+
+With so much to do, see and enjoy, it’s no surprise the Lake District is also home to some of the most splendid boutique hotels in the UK. From fairy-tale gardens to lakeside living, spa escapes to houses where old meets new, there really is something for everyone.
+
+The best hotels in the Lake District are:
+
+Best for fairy-tale gardens: The Forest Side
+
+Neighbourhood: Grasmere
+
+Elegant master bedrooms at The Forest Side (The Forest Side, Grasmere)
+
+Harried city-dwellers will find the perfect spot to relax in The Forest Side, a beautifully renovated Neo-Gothic pile (now a restaurant with rooms) that dates back to 1853. Set on the outskirts of Grasmere, it offers prime access to the north and central lakes – Windermere is a pretty 25-minute drive away – and Wordsworth’s Dove Cottage is reachable on foot.
+
+Rooms are high-ceilinged with modern touches (such as pea-green succulents and beech wood furniture) while the rest of the place shimmers with burnished silver, velvet sofas and soft shades of grey. The restaurant serves up Michelin-starred fare (there’s also an expansive kitchen garden, charcuterie and the chef has a predilection for on-site pickling) and the surrounding grounds are speckled with roe deer and rare red squirrels.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Forest Side Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for lakeside living: Another Place
+
+Neighbourhood: Ullswater
+
+Cosy up in a four-poster bed while you enjoy views over Ullswater in the Joules Suite at Another Place (Another Place Lake District)
+
+Views of Ullswater’s sail-flecked surface can be soaked up from almost all 40 rooms at the preposterously pretty Another Place. You’ll see it from the infinity pool at the Swim Club spa too, which is entirely encased in glass (there’s also a hot tub on the terrace for steamy evenings under the stars). Here, Georgian grandeur meets contemporary cool, and rooms are splashed with pops of daffodil-yellow, blush pink and teal.
+
+The Joules suite is particularly pretty, with a comfy four-poster and homey design touches from the unmistakably British brand. Down at the lake, you’ll find running trails, kayaks for hire and open-water swimming for the brave. Then warm up at the Rampsbeck restaurant with regional produce, from salt-baked turnip to local-reared pork.
+
+Price: Doubles from £200, B&B
+
+Book now
+
+Best for old meets new: Linthwaite House
+
+Neighbourhood: Windermere
+
+Stunning views from the Linthwaite House conservatory (Linthwaite House)
+
+Surrounded by pretty polished gardens and with views of Victorian steamers gliding across the lake, Linthwaite House is a satisfying blend of old and new. Outside its windows, rugged fells rise like giants; inside, contemporary interiors – think shellback chairs upholstered in green velvet and leopard print – gleam like treasure.
+
+The 30 bedrooms have been designed by Beverley Boswell, the woman behind the interiors of South African sister properties Leeu Estates, Leeu House and Le Quartier Français in the Cape Winelands. Michelin-starred chef Simon Rogan heads up Henrock, with small sharing plates including raw aged beef, elderberry and shiso; halibut baked in cabbage leaf, bay shrimp and pink pepper; and fried apple pie, miso butterscotch and cassia clotted cream.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Linthwaite House Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for a chalet-style stay: Brimstone Hotel
+
+Neighbourhood: Langdale
+
+Waterfall pool at the Brimstone spa (Brimstone Hotel)
+
+Tucked into the trees, Brimstone offers next-level service to its well-heeled guests. Step through the doors of this chic, chalet-style retreat and you’d be forgiven for thinking you’d wafted into an upmarket alpine ski retreat – all slick slate, polished wood and gleaming glass. But delve further and you’ll find sculptural velvet, moss-green upholstery and soothing coffee–toned leather. There’s no chintz here, and the staff are just as smart, helping to kit out guests with wet-weather gear and providing all-important advice on walking routes. After a day on the trails, return to the soothing surrounds of the swanky spa for mineral steam baths, hot stone massages and dual treatments in the just-for-two couple’s spa.
+
+Price: Doubles from £331, room only
+
+Book now
+
+Best for exclusive spa access: Gilpin Hotel & Lake House
+
+Neighbourhood: Windermere
+
+Spa lodges at the Gilpin hotel (Gilpin Hotel)
+
+In search of total privacy? Check in to one of the classy standalone spa lodges at Gilpin for a truly luxurious retreat from it all (in this case, luxury comes in the shape of your own en-suite spa with rainmaker showers, steam rooms, hydrotherapy hot tubs and saunas).
+
+Better yet, head a mile down the road to the six-bedroomed Lake House. Set amidst 100 private acres, this renovated fishing lodge comes with cedarwood hot tubs, floor-to-ceiling views across the lake and its own army of staff. Back at the main house, the Edwardian building houses a mish-mash of uniquely shaped rooms, all decked out in modern country-house style. Through the windows, you’ll spot alpacas grazing in the gardens and, at the centre of the house, you’ll find the Source restaurant, which serves up seasonal produce.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Gilpin Hotel & Lake House here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for walks in the grounds: The Samling Hotel
+
+Neighbourhood: Windermere
+
+Beautiful views from rooms at The Samling
+
+The Samling is so stylishly low-key, even the deer that keep the grass trimmed are almost absurdly relaxed. More of a townhouse than a county pile, you’ll find artwork by Matisse, Picasso and Chagalle on the walls, and décor is a sophisticated mix of dove grey, soft silver and powder blue textiles. Set in 67 acres, the gabled Georgian house is surrounded by kestrel-filled grounds and woodlands dripping in gold lichen, and the eastern shores of Lake Windermere are so close you’ll hear them lapping as you kick back in the outdoor hot tub.
+
+Ask at reception for walking guides or, if the weather’s not on your side, book a wine-tasting session using the Coravin system in the smart cellar (their list is rated as one of the top 500 in the world). The hotel’s refreshingly dog-friendly too (although it will set you back £25 per furry friend) and the grounds are ideal for long, head-clearing walks.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for foodies: L’Enclume
+
+Neighbourhood: Cartmel
+
+Rustic vibes at L’Enclume’s restaurant (L’E
+
+This is a wonderfully higgledy-piggledy sort of place, actually a restaurant with a smattering of cottage rooms dotted around the village of Cartmel. Accommodation is smart but unfussy, making way for the real draw: the food. Overseen by Simon Rogan, the three-Michelin starred L’Enclume is a former wheel-makers and smithy. The tasting menu calls on ingredients from the 12-acre kitchen garden to produce seasonal dishes, such as Goosnargh duck with cherries and smoked beetroot, and butter-poached turbot with courgettes and nasturtium. There’s also a chef’s table and development kitchen where you can get a glimpse of the magic that happens behind the scenes.
+
+Price: Doubles from £435, B&B
+
+Book now
+
+Best for activities: Armathwaite Hall Hotel and Spa
+
+Neighbourhood: Keswick
+
+Lush exteriors at Armaithwaite Hall (Armaithwaite Hall)
+
+With views stretching across to Bassenthwaite Lake, Skiddaw and the spellbinding Lakeland Fells, Armathwaite – which has stood on its site in one form or another since the 11th century – has all the trappings of a historic country house. Set in 400 acres of private woodland, the hotel’s interiors, particularly in the main hall, are original and grand: sweeping staircases, open fireplaces, classic wood panelling and oil paintings steeped in history. Rooms themselves are neat and unfussy.
+
+There’s an award-winning spa and seasonal restaurant dishing up lamb, venison and much more, but it’s the experience programme here that’s most impressive, with everything from archery and clay pigeon shooting to photography workshops on offer for guests.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Armathwaite Hall Hotel & Spa here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for a sense of history: Storrs Hall Hotel
+
+Neighbourhood: Bowness-on-Windermere
+
+An aerial view of Storrs Hall (Storrs Hall)
+
+Storrs Hall has stories to tell. Built in 1790, in its heyday it welcomed the likes of William Wordsworth and Beatrix Potter for glamorous social occasions (the former recited his famous “Daffodils” in the drawing room). Today, it stands resplendent on the shores of Lake Windermere, with original architecture and large lattice-framed windows peering out like huge eyes. Interiors are relaxed and fitting for a country house, with pretty stained glass and cosy nooks filled with model boats and busts of famous creatives.
+
+Accommodation ranges from cosy rooms and self-catered lodges to a swish converted boathouse right on the water, with a steam room, fire pit and hot tub (four junior suites also come with dual aspect views of the water and surrounding countryside).
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more about England travel:

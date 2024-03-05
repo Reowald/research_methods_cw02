@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa has received its first set of funding to develop a giant airplane that could fly high in the planet’s atmosphere and look for signs of water on the Red Planet.
+
+The solar-powered vehicle, called Mars Aerial and Ground Intelligent Explorer or Maggie, is expected to fly in the Martian atmosphere with vertical take-off and landing (VTOL) capability similar to Nasa’s pioneering Ingenuity Mars helicopter.
+
+With fully charged batteries, the Mars airplane could fly at an altitude of 1,000m for about 180km with its total range over a year on Mars expected to be over 16,000 km, the space agency said earlier this month.
+
+Using the aircraft, Nasa hopes to conduct three studies on the Red Planet’s atmosphere and geophysical features, including the hunt for water, research on the origin of the planet’s weak magnetic field as well as tracing the elusive source of methane signals on Mars.
+
+“Maggie would be able to perform the first global-scale atmospheric mission at Mars and revolutionise our capability of exploring almost the entirety of the Martian surface,” according to a Nasa blog post.
+
+However, the space agency has not revealed any new details on when the craft could take its first flight.
+
+Space Race Heats Up in 2024
+
+One of the main challenges in developing aerial vehicles to fly on Mars is to have them take off and maintain controlled flight in the Red Planet’s very thin atmosphere where the surface air pressure can be as low as it gets 30-40km above sea level on Earth.
+
+Until now vehicles sent to explore other worlds have mostly stayed rooted to the ground, such as Nasa’s Curiosity or China’s Zhurong.
+
+But airborne missions on Mars have become attractive following the success of Nasa’s pioneering Ingenuity helicopter as part of the space agency’s Perseverance Mars mission.
+
+Graphic depiction of Mars Aerial and Ground Global Intelligent Explorer (MAGGIE) (Nasa)
+
+The 1.8kg Ingenuity helicopter, initially planned as a technology demonstration for powered flight on another world, proved successful in taking off and exploring Mars, soon “graduating” out of the testing phase to aid with scientific research.
+
+China has also followed Nasa’s footsteps, developing its own “foldable” Mars helicopter to help the country’s space agency retrieve samples from the Red Planet in a future mission.
+
+While the concept “appears to be feasible”, aerospace researcher Ge-Cheng Zha urges further study of the aircraft’s performance “under Martian atmospheric conditions.

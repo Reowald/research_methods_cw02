@@ -1,0 +1,47 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ben Stokes urged England not to go into a “downhill spiral” after the most chastening defeat of his captaincy.
+
+Yashasvi Jaiswal’s second successive double century helped India set a mammoth 557 target on the fourth afternoon of the third Test in Rajkot before England capitulated to 122 all out to lose by 434 runs.
+
+As India celebrated going 2-1 up in the five-match series, which resumes in Ranchi on Friday, Stokes demanded England pick themselves up quickly after their heaviest defeat in terms of runs since 1934.
+
+Despite admitting England came off second best in his 100th Test, Stokes believes poor implementation – rather than the attacking methods they have fostered in the last couple of years – was to blame.
+
+He said: “We were outplayed. Did we go into our shells a little bit because of the situation? That’s not what we do. I don’t think we need to temper anything, we need to look at our execution this week.
+
+“Losing games for England isn’t where you want to be but games are won or lost in the head. You’ve got to learn from disappointment but use it in a positive way, not let it eat you.
+
+“I know that thinking too deep into certain things can send you on a downhill spiral. It’s about what we do the next two games.
+
+“I just make sure all the emotion, all the disappointment there would be in that dressing room, make sure it stays there. We’ve got two games left and all I’m thinking about is winning this series 3-2.”
+
+Joe Root is yet to reach 30 in six attempts and perished in the first innings to his specialised reverse ramp, which drew criticism from ex-England batters Sir Geoffrey Boycott and Michael Vaughan.
+
+Root’s dismissal led to England collapsing from 224 for two to 319 all out and conceding a first-innings deficit of 126, which ultimately proved a major moment in the Test.
+
+Stokes said: “Because he got out to it, it definitely was a turning point. I can understand why there would be frustration around that because of how good a player Joe is.
+
+“It’s not a shot you necessarily see Test match players playing. But who am I to question a guy who has 30 Test match hundreds and nearly 12,000 Test match runs? I think he knows what he’s doing.”
+
+I know that thinking too deep into certain things can send you on a downhill spiral Ben Stokes
+
+Ahead of this Test, Stokes revealed he had made a “pinky promise” with England’s physiotherapist that he would not bowl on this tour following surgery on a longstanding knee injury in November.
+
+He has not bowled competitively since the Lord’s Ashes Test in early July but he has been stepping up his recovery and has not ruled out the prospect of sending down a few overs at some point in India.
+
+Stokes added: “I’m not saying yes, I’m not saying no. I have progressed a lot faster than I thought I would. Me being me I’m always very optimistic about most things.
+
+“That will be a more detailed chat with the medical team about what workload I have done to pass me off as not being a massive risk.
+
+“I managed to bowl at 100 per cent in one of the warm up days here which made me feel pretty good.
+
+“I felt like I could have bowled in the game but that would have been stupid. It’s a work in progress, I have a lot of workload to put through the rest of my body.”
+
+While Ravindra Jadeja’s five for 41 helped bowl England out in 39.4 overs, Jaiswal amassed a stunning 214 not out as India racked up 430 for four before Rohit Sharma called him and Sarfaraz Khan in.
+
+It was the first time a team had declared against England in the Bazball era and lent further credence to India having the next superstar on their hands.
+
+Stokes added: “If I said I didn’t think it was any good that would be a rogue thing – he’s a great player to watch, I enjoy watching good players play, even when it’s against me. He’s very special.”

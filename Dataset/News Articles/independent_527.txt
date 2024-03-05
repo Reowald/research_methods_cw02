@@ -1,0 +1,45 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A private lunar space probe is looking to make history this week as it undergoes final preparations for its week-long journey to the Moon.
+
+The Nova-C Odysseus lander, built by Texas-based space flight company Intuitive Machines (IM), is ready to to blast off on Valentine’s Day – just weeks after another US spacecraft, Peregrine, failed to touch down following a fuel leak.
+
+If successful, Odysseus could become the first private mission – called IM-1 – to land intact on the lunar surface.
+
+It would also be the first US Moon landing since the final mission of the Apollo programme – Apollo 17 – more than 50 years ago.
+
+The launch window for Odysseus – a hexagonal cylinder around 13ft (4m) tall and 5ft (1.57m) wide – opens at 05.57am UK time on February 14.
+
+The 1,488lb (675kg) spacecraft will blast off on board SpaceX’s Falcon 9 rocket, from Cape Canaveral in Florida.
+
+It is part of Nasa’s Commercial Lunar Payload Services initiative, which aims to involve commercial companies in the exploration of the Moon as the space agency focuses on getting astronauts back there through its Artemis programme.
+
+If all goes to plan, Odysseus could attempt a lunar landing on February 22.
+
+The landing site will be at Malapert A, a crater near the Moon’s south pole.
+
+Once it is on the surface, Odysseus will operate for roughly two weeks, or one lunar day.
+
+On board the lander are 12 payloads, which includes a Nasa instrument known as Scalpss (Stereo Cameras for Lunar Plume-Surface Studies) – a four-camera system which aims to capture Odysseus’s descent to the lunar surface.
+
+MDA UK, a Canadian space technology company with offices in Harwell, Oxfordshire, is developing landing sensors for three IM missions – other two planned for later in the year – with funding from the UK Space Agency (UKSA).
+
+The UKSA has spent £3.4 million, spread across these three missions as part of its partnership with MDA UK.
+
+UKSA chief executive Dr Paul Bate said: “As interest in lunar exploration grows around the world, this mission will see Intuitive Machines and MDA UK play a key part in developing services that will be integral to Nasa’s Artemis programme, contributing to science that will improve our understanding of the Moon and how we can interact with it sustainably to support future crewed missions.
+
+“With funding from the UK Space Agency, MDA UK is developing crucial technologies – such as the rangefinder that will help guide the mission spacecraft to the lunar south pole – providing another example of how UK-based expertise are increasingly sought after for international science and exploration missions.”
+
+The lander will also be carrying a sculpture – called Moon Phases – by American artist Jeff Koons.
+
+Odysseus will be insulated with a lightweight fabric – a shimmery gold material that normally lines the insides of ski jackets – made by US sports apparel company Columbia Sportswear.
+
+If successful, IM-1 will be the first private mission to perform a soft landing on the Moon after three failed attempts.
+
+The Beresheet lander, built by Israel’s SpaceIL, crashed during descent in 2019, while the Hakuto-R M1 lander, from Japanese company ispace, was destroyed while attempting to land in April last year.
+
+Last month, the Peregrine lunar lander, operated by US company Astrobotic, suffered a fuel leak just hours after launch, preventing the spacecraft from attempting a lunar landing.
+
+Controlled Moon landings have only been performed by government agencies, including the US, Soviet Union, China, India and Japan.

@@ -1,0 +1,83 @@
+You can enable subtitles (captions) in the video player
+
+Taiwan wants to be a frontrunner in offshore wind power, making the most of its high wind speeds. Clean energy is vital to the country's world-leading semiconductor industry, but developing new energy from scratch isn't easy. And in Taiwan geopolitical risks also loom.
+
+Taiwan Strait has some of the best wind speeds in the world, helping attract international developers to put their wind turbines here. But developing offshore wind is also complicated and expensive, while in Taiwan the supply chains are underdeveloped. I've come here to the Taiwan Strait to find out can Taiwan get its offshore wind industry off the ground?
+
+Taiwan currently relies on oil, coal, and gas for its energy, almost all of which is imported. The government wants to change that with ambitious goals to cut the country's carbon dioxide emissions to net zero by 2050. By 2030, it wants 27 per cent to 30 per cent of its electricity to come from renewable sources. It's also about protecting Taiwan's export-driven economy, as key markets start to impose carbon import taxes.
+
+If I am the leader of a country, I will think about the survival of this economy. If we don't follow the net-zero policy or carbon neutrality, there will be a lot of impact on domestic industries. Taiwan is an export oriented economy. We rely on exports to make our living. And so we have to follow the international protocol, the carbon adjustment mechanism by the European Union just announced. And that's a very big impact to the society here.
+
+By the end of 2023, Taiwan had installed just over 2 gigawatts of offshore wind power. It's the leading offshore wind market in Asia-Pacific outside of China, driven by interest from developers around the world. They include Jera, the Japanese energy company which along with partners is behind two of the first wind farms in Taiwan.
+
+If you look at the natural resources in Taiwan, the wind, which everybody can see it's up to more than 11 metres per second here in the Taiwan Strait. So from a wind perspective Taiwan is a very interesting place to be. But also I think the Taiwanese government has set a very good regulatory framework to build out a vast and significant number of megawatts in offshore wind here in the next years to come.
+
+The government has set a target of having up to 13 gigawatts of offshore wind installed by the end of the decade, and up to 55 gigawatts by the end of 2050. But requirements for many turbine parts to be domestically made have raised questions in Taiwan and around the world. Governments want the new energy industry to lead to new domestic jobs. But developers warn requirements can push up costs if the supply chain isn't ready.
+
+Wind giant Orsted, a major player in Taiwan, decided not to bid for new projects in a recent auction round.
+
+I think Orsted was pretty vocal when we saw the framework for that particular round, round 3.1. We could see that there were some challenges that we did not experience in the first two rounds. We called it the trilemma at that time. It was the combination of the local content rules and also the pricing mechanism. And then it was the size of the projects. So all of these have to be in place in order to make a viable business case.
+
+Siemens Gamesa, the European wind turbine maker, is expanding its nacelle factory in the port of Taichung, western Taiwan. But it also warns that local content requirements can be challenging.
+
+From a localisation standpoint, the advantage of building a nacelle factory is obviously that we assemble more than 8,000 components inside that factory, and put them together into the nacelle. And that is in principle 8,000 localisation opportunities. However, that only works if there is a path towards ideally reduced cost because you don't have to ship them from anywhere. You can buy them locally.
+
+If the result of those 8,000 components being localised is an increase in cost, then we are back to the question of do we have an off-take that supports that cost level.
+
+All eyes are now on a new auction round for offshore wind projects. Orsted, which has several other projects in Taiwan, says the government has been listening.
+
+We are happy to see that with a good dialogue we have with the government we have seen improvements. And in the upcoming round I will say we are very hopeful with what we have seen that we will be able to do it. But we cannot say it for sure yet.
+
+Jera will not be among those bidding, having sold its stake in its Formosa 3 project in 2023.
+
+We are not looking to develop a new wind farm in the next round here in Taiwan. It was very important for us to diversify our portfolio from a regional perspective. So we did some acquisitions in Europe. So we have five wind farms in Europe, one under development in Japan, and then Formosa 1 and Formosa 2 here in Taiwan.
+
+Even if Taiwan gets the balance right the country's experience holds lessons for other markets, Siemens Gamesa argues.
+
+So Taiwan got a lot of benefits in terms of localisation, simply because they were first. But we cannot as an industry repeat this in every country in the world that wants to buy an offshore wind turbine.
+
+You can't go through the difficult starting phase, and then the cost curve, and you can't do that everywhere?
+
+And we will not have enough volume. We will end up with small, small factories that produce very few turbines at a very, very high cost in every country. Why is offshore wind so successful in Europe? The key to that is competition. It is volume and competition that has brought the cost of offshore wind down.
+
+As Taiwan's offshore wind industry progresses industrial users of energy are starting to play a greater role. Taiwan Semiconductor Manufacturing Company signed a deal in 2020 to buy electricity from two major wind farms Orsted is now developing. These long-term deals can help get offshore wind projects off the ground. It also allows TSMC's customers like Apple to say they're using green energy.
+
+Taiwan was known for the global semiconductor in the electronic, microelectronic supply chain. According to my observation, from the global big brands, for example, Apple, Amazon, or Facebook, Google, the other big brands. Of course, they will first commit themselves like how they want to achieve. And also they have their timeline in the roadmap. So based on the timeline and the roadmap, they will invite their supply chain to participate.
+
+How you can help me to, collective effort, to achieve the goal?
+
+It is hoped such deals will become more common in Taiwan and around the world. However, they are complicated to strike and manage, putting smaller companies at a potential disadvantage.
+
+People or the company or manufacturing facility are quite familiar with receiving utility bills and pay the bill afterwards. So when you started to consider like corporate PPAs, and you need to start coming back to your production team, like what is our demand profile throughout the day, the month, and the year, and to understanding what kind of renewable sources we can use from solar PV, offshore wind. And that required a bit of technical assessment which maybe all these manufacturing facilities doesn't really have these in-house in the past.
+
+Sure, yeah.
+
+That's one thing. And then second is used to be paying the utility bill from the finance department. Now the procurement department has to step in creating contracts, negotiating with international developers or utilities. Those require some new skills from local companies. So these are starting a bit of a challenging and complicated task for companies to study negotiating with the developer.
+
+How you actually put together bankable corporate PPAs, that is also a challenge for both the developers and off-takers.
+
+In Taiwan, the government is stepping in to help, potentially providing a model for others around the world.
+
+The other companies, they want to buy. But the lender, they are worried about the other company's credit. Because they think even if you signed a contract with the other buyer, the lender don't have much confidence about the buyer, because they think maybe their financial system is not so good, maybe the company will unstable. So right now we develop a new system or new mechanism to deal with these issues. That is the credit guarantee system.
+
+The government will set a fund to guarantee the buyer. So if the lender, they worry about the buyer's credit, they can get the guarantee from the guarantee government guarantee fund to support the buyer. And we will use this mechanism to deal with these credit issues.
+
+Critics are not convinced it is enough, however.
+
+I think that's a great start. But the problem is, it's not fast enough and the rules are actually being drafted and released as we speak. If you're a business owner and you've got immediate pressures for export and a strong need for green energy, this is just not good enough.
+
+In the 2021 Chamber of Commerce white paper, the top concern is around the lack of assistance for business to purchase green energy. This dissatisfaction rate is as high as 62 per cent. Whether it's working with communities, local fisheries for offshore wind, or it's discussing with the population, educating them on the pros and cons of restarting our nuclear power plants, there could be a lot more that could be done to facilitate dialogue and understanding around this area.
+
+Taiwan is trying to get its industry off the ground against a fraught geopolitical backdrop. Across the Taiwan Strait sits China, which refuses to renounce the threat of force to bring Taiwan under its control. For now, developers are making reassuring noises about how this affects their appetite.
+
+I think it is on everybody's minds and I think in every boardroom questions are asked about this subject. I do think that there is still a stable climate here. And we are still here as a long-term investor.
+
+Based on our evaluation and following it closely, obviously also being here in the Taiwan Strait, we feel confident that we will be able to continue to work successfully in this region, and not least also in Taiwan in the coming years.
+
+I think we have some geopolitical advantages and disadvantages when it comes to offshore wind. Geopolitically speaking, dangerous because of China, advantageous because we have very nice wind conditions. What I'm also hearing from foreign players based locally is that it's actually the war of Ukraine that is shifting a lot of the projects back to Europe right now.
+
+Despite the complications, Taiwan prefers to stick to its ambitious goals.
+
+The target of net zero is ambitious. But we need ambitious. We need the target to be ambitious. If we put a target very low, so we cannot achieve anything or we can achieve even lower. And so we have to set up our standard high and go for it even though we cannot achieve that in the target years.
+
+Taiwan's goals are indeed high, and it comes as countries around the world are increasingly competing for offshore wind investment. Meanwhile, developers are under pressure from rising costs. With such a challenging path ahead, there is little room for setbacks.

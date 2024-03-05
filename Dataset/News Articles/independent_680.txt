@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Christian Horner will be present at Red Bull’s 2024 F1 car launch on Thursday despite the current internal investigation centred on his alleged “inappropriate behaviour.”
+
+The Red Bull team principal will face the media as the world champions reveal their RB20 car but is likely to be limited in what he can say on the matter due to legal reasons, as his future at the helm hangs in the balance.
+
+Horner, who has been in charge of Red Bull Racing since its inception in 2005, met with the external lawyer tasked with leading the investigation in central London last Friday. He strongly denies the allegations of “inappropriate, controlling behaviour” by a female colleague.
+
+Horner, 50, was also on-site at Silverstone on Tuesday at a secret filming day for Red Bull as he goes about his duties as team principal and chief executive normally, despite the investigation by the team’s parent company Red Bull GmbH.
+
+Red Bull drivers Max Verstappen and Sergio Perez will also attend the launch event at the team’s HQ in Milton Keynes, in a day billed as a celebration of Red Bull’s 20 years in Formula 1.
+
+Red Bull Racing and Red Bull GmbH have refused to elaborate on the investigation, which could still take a number of weeks to conclude.
+
+In a new development on Wednesday, Horner’s close friend and former F1 supremo Bernie Ecclestone denied reports that he advised Horner to step down.
+
+Ecclestone, 93, said in a social media post: “To clarify reports by newspapers that I had urged or suggested that Christian Horner should step down from his position in Red Bull is entirely untrue.”
+
+Christian Horner will be present at Red Bull’s launch event on Thursday (Getty Images)
+
+Horner is married to former Spice Girl member Geri Horner and is the longest-serving team principal on the F1 grid, having been at the helm for six constructors’ championship victories and seven drivers’ championship triumphs – three for Verstappen and four for Sebastian Vettel.
+
+Horner, who back in 2021 signed a contract extension at Red Bull until 2026, was made a CBE in the new year honours list for services to motorsport, having previously received an OBE in 2013.
+
+Red Bull, who won 21 out of 22 races in the most dominant season in F1 history last year, will be the 10th and final F1 team to unveil their 2024 car when they do so on Thursday.
+
+The first race of the 2024 F1 season – featuring a record 24 races – is on Saturday 2 March in Bahrain. Pre-season testing takes place in Bahrain a week earlier, starting on 21 February. Horner would be expected to be present at both.

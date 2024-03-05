@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have developed a new tool to simulate the use of a nuclear device to alter the trajectory of catastrophic asteroids and prevent them from impacting the Earth.
+
+The new study published in the Planetary Science Journal on Tuesday provides an innovative approach to model the spread of energy from a nuclear device on an asteroid’s surface.
+
+Researchers hope to use the model to build upon insights gained from Nasa’s 2022 Dart mission in which the agency deliberately crashed a spacecraft onto an asteroid to alter its trajectory.
+
+“While the probability of a large asteroid impact during our lifetime is low, the potential consequences could be devastating,” LLNL physicist Megan Bruck Syal said.
+
+Since nuclear devices have the highest ratio of energy density per unit of their mass, scientists, including those from the Lawrence Livermore National Laboratory (LLNL) in the US, said such technology is invaluable in mitigating asteroid threats.
+
+“Should a real planetary defense emergency arise, decisions around launching reconnaissance and/or mitigation missions will need to be informed by state-of-the-art modeling and simulation capabilities,” researchers wrote in the study.
+
+Such simulations also need to be run at very high speeds to quickly prepare counter measures, they said.
+
+“If we have enough warning time, we could potentially launch a nuclear device, sending it millions of miles away to an asteroid that is headed toward Earth,” physicist Mary Burkey from LLNL said.
+
+“We would then detonate the device and either deflect the asteroid, keeping it intact but providing a controlled push away from Earth, or we could disrupt the asteroid, breaking it up into small, fast-moving fragments that would also miss the planet,” Dr Burkey explained.
+
+NASA's DART slams into asteroid
+
+Predicting the effectiveness of deflecting asteroids with nuclear explosions requires sophisticated simulations involving several theories in physics, scientists say.
+
+“The relevant physics in these simulations span many orders of magnitude, require a variety of different complex physics packages, and are computationally expensive,” they say.
+
+The new model developed by LLNL, scientists say, covers a wide range of physical factors, making the simulation complex and computationally demanding.
+
+The model simulates several factors, accounting for several complex processes, such as reradiation and the penetration of light into asteroid materials, researchers say.
+
+Such a comprehensive approach, scientists say, makes the model applicable to a wide range of potential asteroid scenarios should a real emergency arise.

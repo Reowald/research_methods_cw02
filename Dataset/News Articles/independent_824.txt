@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Meta is to begin labelling images posted to Facebook, Instagram and Threads that it detects have been created using AI, the company has announced.
+
+The social media giant said it was currently building the capability and will roll it out across its social platforms in the “coming months” and ahead of a number of major global elections this year.
+
+Meta already places a label on images created using its own AI, but said its new capability will enable it to label images created by AI from Google, OpenAI, Microsoft, Adobe, Midjourney and Shutterstock as part of an industry-wide effort to use “best practice” and place “invisible markers” onto images and their metadata to help identify them as AI-generated.
+
+Former deputy prime minister, Sir Nick Clegg, now president of global affairs for Meta, acknowledged the potential ability for bad actors to utilise AI-generated imagery to spread disinformation as a key reason for Meta introducing the feature.
+
+“This work is especially important as this is likely to become an increasingly adversarial space in the years ahead,” he said.
+
+“People and organisations that actively want to deceive people with AI-generated content will look for ways around safeguards that are put in place to detect it.
+
+“Across our industry and society more generally, we’ll need to keep looking for ways to stay one step ahead.
+
+“In the meantime, it’s important people consider several things when determining if content has been created by AI, like checking whether the account sharing the content is trustworthy or looking for details that might look or sound unnatural.”
+
+A number of prominent politicians, including Prime Minister Rishi Sunak, Labour leader Sir Keir Starmer and Mayor of London Sadiq Khan have been the targets of manipulated media or deepfakes in recent months.
+
+In a blog post on the announcement, Sir Nick also confirmed that including markers in audio and video content was not yet being used on the same scale, so Meta’s tool would not yet apply to any such content created by other companies which had then been shared on Meta’s platforms.
+
+He added that Meta was adding a tool for users to voluntarily “disclose when they share AI-generated video or audio so we can add a label to it”.
+
+“We’ll require people to use this disclosure and label tool when they post organic content with a photorealistic video or realistic-sounding audio that was digitally created or altered, and we may apply penalties if they fail to do so,” he said.
+
+“If we determine that digitally created or altered image, video or audio content creates a particularly high risk of materially deceiving the public on a matter of importance, we may add a more prominent label if appropriate, so people have more information and context.”
+
+Sir Nick said it was also not yet possible to identify all AI-generated content, but that Meta was “working hard” on tools that could automatically do so.

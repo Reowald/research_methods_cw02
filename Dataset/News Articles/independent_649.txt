@@ -1,0 +1,61 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Thanks to the success of recent titles such as Octopath Traveller and Triangle Strategy in a retro-modern art style, Live a Live’s global re-release looks set to pave the way for future remasters of classic JRPGs from publisher Square Enix.
+
+In our hands-on preview of the game, we said: “Along with its reimagined visuals for the Nintendo Switch platform, it also appears to be a clear statement of intent for Square Enix to dive through its SNES-era catalogue with an ‘HD-2D’ remake. An exciting prospect for anyone clamouring for a remake of Chrono Trigger and early Final Fantasy games.”
+
+Live a Live is an ambitious reimaging of a title that missed enough people by to warrant a definitive remake while retaining the essence that has made it a cult favourite among hardcore JRPG fans.
+
+But even for casual observers, its light-hearted approach to combat and quality-of-life improvements make it an easily digestible experience for newcomers. As a remake of a three-decade old game never officially released in western markets, it’s more welcoming than it may have you believe.
+
+With plenty of settings and characters to play through, not all of them will leave a lasting impression, but its numerous highlights outweigh its flaws for an engaging turn-based experience that’s light on grinding and filler content. For our full review, keep reading the rest of the article below.
+
+(Nintendo)
+
+Rating: 8/10
+
+8/10 Release date: 22 July 2022
+
+22 July 2022 Platforms: Nintendo Switch
+
+Nintendo Switch Age Rating: 12+
+
+‘Live A Live’ review
+
+Live A Live begins with a character selection menu for seven of the of the different time periods that the game is set in. In chronological order, it goes: Prehistoric, Imperial China, Edo Japan, the wild west, modern era, near future and distant future, with a final chapter that unites all of them.
+
+Story wise, each one follows their own beats – a prehistoric caveman wants to protect a woman from a sacrificial ceremony, a martial artist wants to train a protege, a young fighter wants to become the best in the world, and a teenager with psychic powers wants to protect his orphanage, just to name a few of them. The common thread between each character is the malevolent presence of “Odio”, who fights each character in different incarnations that span across history.
+
+At the start of the game, choose from one of seven characters (Square Enix)
+
+Each chapter can be played out of chronological order, meaning that they all share a similar level of challenge. While this leads to a relatively flat learning curve of each character, it can also mean that gameplay can occasionally feel repetitive as players make their way through the game before each story coalesces into the final act, at which point, the difficulty spike becomes swift and brutal in comparison.
+
+Luckily, as each chapter comes in at a modest length, with most achievable in two hours or less, none feels particularly arduous. There are some clear highlights in the package, but in terms of how each one feels, there’s a surface level of consistency, as they each manage to distinguish themselves in meaningful ways.
+
+The modern era, for example, is framed like a fighting game, with the protagonist working their way through different fighters around the world – a clear nod to Street Fighter’s world stages – before eventually concluding at a relatively brief interval.
+
+Fight around the world in the modern era (Square Enix)
+
+The Edo Japan chapter sees a shinobi warrior infiltrate an elaborate castle complete with traps, and must use stealth to their advantage. In contrast, the prehistoric age features no dialogue, and is told through grunts and pictures, to humorous effect.
+
+Characters can freely explore different areas, but having each chapter spread out across seven stories means that there isn’t particular depth to any single one in particular.
+
+Most will see characters walking back and forth between two or three locations, with fights breaking out between before the chapter closes with a boss battle, trumpeted by Live a Live’s boss theme Megalomania – a track that has no right being as catchy as it is.
+
+As a turn-based strategy game, Live a Live’s combat takes place on a 7x7 grid during each encounter. Player characters can be moved around the grid to position themselves for directional attacks, as well as create or close distance between enemies.
+
+It adds an extra layer of complexity to encounters that requires a balance of positioning and evasiveness to avoid incoming enemy attacks. Weaknesses and resistances to different attack types are also clearly shown and while this can add a level of rock-paper-scissors to the equation, it can be helpful for keeping track of different enemy types when battles become increasingly complex.
+
+When making a side-by-side comparison with the original 1994 release, it’s clear how much work has gone into Live A Live to modernise it.
+
+Turn-based fights take place on a 7x7 grid (Square Enix)
+
+Even on SNES hardware, the game was certainly not the best looking and what we can see from the 2022 re-release is a complete rework that still retains much of the original’s pacing and art style without completely erasing it.
+
+The verdict: ‘Live a Live’
+
+Live a Live feels like a natural fit within Square Enix’s focus on bringing older titles to newer audiences. As the blueprint for other potential titles to come, it’s clear why the 1994 SNES title was chosen as the first remaster to receive the “HD-2D” treatment.
+
+Even with a shallow learning curve, there’s plenty to enjoy in this unique omnibus. Fans of classic JRPGs won’t want to miss this reimagining with plenty to enjoy for newcomers to role-playing games.

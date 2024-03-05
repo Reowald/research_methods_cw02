@@ -1,0 +1,55 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A US rocket has set off for the Moon, carrying a Nasa lunar lander, for the first time in 50 years.
+
+It is the first time an American spacecraft will have landed on the Moon’s surface since the Apollo missions, and aims to become the first ever commercial lander to safely arrive on the lunar surface.
+
+It was also the debut launch for the Vulcan rocket, made by the private United Launch Alliance. If the mission is successful, that could become a key technology for the US, and may rival SpaceX’s popular rockets.
+
+The United Launch Alliance was formed as a joint venture between Lockheed Martin and Boeing. At the moment it conducts launches with its Atlas V and Delta IV rockets – which are expensive but reliable, and have been used for top-secret launches on behalf of the US government.
+
+It is also carrying a private moon lander, named Peregrine and made by US company Astrobiotic, which was chosen by Nasa. That includes a range of scientific experiments, including small lunar rovers and an array of instruments that will examine the lunar surface.
+
+The spacecraft is also carrying a set of time capsules and some human remains, sent by private companies. That has led to criticism from the Navajo Nation in the US, who described the Moon as “deeply embedded in the spirituality and heritage of many Indigenous cultures, including our own” and said that placing human remains on it is a “profound desecration of this celestial body revered by our people”.
+
+The launch comes amid an increased focus on the Moon from both Nasa and other space agencies. In recent years, the Moon has been visited by missions from countries including India, China, Japan and Israel – though not all of them successfully landed, and touching down safely on the lunar surface remains challenging.
+
+Nasa’s interest in the Moon is in part preparation for its Artemis missions, which it hopes will see humans return to the surface of the Moon next year. Eventually, those missions hope to set up a lunar base that can then be used to send humans to Mars.
+
+Peregrine Mission One, or PM1, set off from Florida at 7.18am UK time. It will aim to arrive on the Moon on 23 February.
+
+Astrobotic chief executive John Thornton said: “Today Peregrine Mission One achieved a number of big milestones.
+
+“Peregrine powered on, acquired a signal with Earth, and is now moving through space on its way to the Moon.
+
+“These successes bring us one step closer to seven nations landing on the Moon, six of which have never been to the Moon before.”
+
+Peregrine is carrying a total of 20 payloads from seven countries and 16 commercial customers.
+
+They include the first lunar surface payloads from the Mexican and German space agencies, and the first lunar payloads from the UK, Hungary and Seychelles.
+
+Among these commercial payloads are items which add a touch of human creativity to space exploration, including a time capsule, a bitcoin and even a music album.
+
+A key component of PITMS, which will explore the Moon’s atmosphere by measuring water and other molecules, was developed in the UK with £14m of Government funding through the UK’s membership of the European Space Agency.
+
+The data collected will contribute to our understanding of the Moon’s potential to provide resources such as water, opening new possibilities for future human presence on the lunar surface.
+
+The UK-built component - called the Exospheric Mass Spectrometer represents the first instrument on the Moon that has been built in the UK and in Europe.
+
+As part of the PITMS, the Exospheric Mass Spectrometer allows researchers to study atoms and molecules in a gas.
+
+Science and Technology Secretary Michelle Donelan said: “The Exospheric Mass Spectrometer will be the first science component developed in the UK destined for the lunar surface, marking a historic moment for the UK space industry.
+
+“This significant achievement also lays the groundwork for understanding how to sustain extended human presence on the Moon in the future - changing the way humankind interacts with the solar system around us forever.”
+
+Understanding water on the Moon is an important part of the Artemis programme, to explore more of the lunar surface than ever before.
+
+Libby Jackson, head of space exploration at the UK Space Agency, said: “The Peregrine Lunar Lander will help pave the way for further exploration of our solar system.
+
+“Witnessing the first instrument from the UK, and indeed Europe, launch to the Moon is a hugely exciting moment.
+
+“We are looking forward to seeing Peregrine safely on the surface and the return of important data from PITMS to help unlock the secrets of water on the moon.”
+
+Additional reporting by Press Association

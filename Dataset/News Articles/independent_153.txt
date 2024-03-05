@@ -1,0 +1,35 @@
+Sign up for the View from Westminster email for expert analysis straight to your inbox Get our free View from Westminster email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+View from Westminster email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+There’s a strange sort of nihilism in working-class communities that I don’t think gets talked about enough.
+
+I’m not talking about the obvious sort of nihilism that comes with having limited education and career opportunities, or feeling like you’ve been abandoned in the middle of a never-ending economic downturn. The sort that leads to high crime rates and mental health crises and halts any sort of social mobility before it can get off the ground. That exists too, but it sort of goes without saying.
+
+I grew up in an extremely deprived part of the UK, and the thing that strikes me most about my estate, and areas similar to it, is just how much that nihilism extends to the way people treat their physical wellbeing. I’m not even just talking about the obvious – drinking, drug use, destroying their bodies through excessive manual labour – but a genuine disregard for one’s own life.
+
+I was reminded of that nihilism this week, following the death of BBC radio host Steve Wright, when his brother Laurence spoke about the circumstances surrounding the DJ’s sudden passing. Laurence, who is a director of a company in the health industry, blamed his brother’s death on “lifestyle choices”.
+
+“He was aware that he could have looked after himself better, in his lifestyle choices”, said Laurence. “Obviously, we all wish he had.”
+
+He added: “It’s like anyone who doesn’t look after themselves over an extended period. The normal stuff – diet, nutrition, exercise, sleep, stress – he was a very stoic kind of guy as well so if he had something wrong with him and he had to go to have some treatment or go to the doctor’s, he wouldn’t talk about it.”
+
+I can’t speak to the lifestyle choices of a man I don’t know – Laurence, as his brother and health expert, surely has greater insight than the rest of us could hope for – but I was struck by the idea that Steve was too “stoic” to seek medical assistance when he needed it.
+
+Laurence went on to say: “He was the kind of guy who would just carry on, take care of it, not talk about it, not make a big thing, that kind of stoic sort of attitude. That’s just how he was – that probably didn’t help really, because he wouldn’t have help or take advice necessarily.”
+
+Like me, Steve was born into a working-class household, and like most of the men I knew growing up, his attitude towards medical assistance seems, according to his brother, to have been extremely laissez-faire. I’m not just talking about the attitudes that lead to the kind of “lifestyle choices” that Laurence highlights (although when you’re poor, you don’t have much say in your lifestyle to begin with) but rather the fact that asking for help, even from a doctor, seems to be so taboo.
+
+It’s probably a big part of the reason that, according to the Office of National Statistics, life expectancies in the most deprived areas of the UK are nearly 20 years lower than in their wealthy equivalents.
+
+Again, being poor is in itself a comorbidity but I’ve lost count of the people in my life who have failed to catch things before they’ve become serious – sometimes out of a misplaced sense of pride but more often because they simply couldn’t afford to take the time off work, or just because they didn’t have the money to travel all the way to their GP’s office.
+
+I’ve been guilty of it myself. I’ve had to be talked into getting a cough, a stabbing pain in my side or a recurring headache checked out by concerned loved ones. It isn’t necessarily because I don’t value my health – I do – it’s just a bad habit from a lifetime of missed doctor’s appointments, not missing work when I’m sick, and being told to “toughen up” by people who really should learn to do the opposite.
+
+All of my grandparents died at 70, or thereabouts – it’s such a common age for people in my community to die that I’m always shocked whenever I meet people my age who still have grandads knocking around in their nineties. I can’t help but think that at least some of them would have lived another decade or more if they’d gone for a simple check-up every now and then, instead of brushing off every concerned voice in their too-short lives.
+
+For a lot of working-class people, at least in my own experience, it isn’t so much that they don’t care but that they don’t know how to care. What’s the point of going to the doctor? It probably isn’t serious, and if it is, well, it was always going to be something eventually.
+
+With another recession, an energy crisis, the rising cost of living, the enduring fallout of Brexit and a million other horrors surely on the way, those attitudes probably aren’t going to improve any time soon.
+
+But for what it’s worth, you should book that GP appointment you’ve been putting off. Even if you don’t care, there’s somebody in your life who does.

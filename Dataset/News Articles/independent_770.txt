@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+X – formerly Twitter – provided subscription perks to members and leaders of various terrorist groups, according to a new report by a tech policy watchdog.
+
+The Tech Transparency Project (TTP) claims in the report that X provided perks of its premium, paid services, including verification marks to banned organisations and terrorist groups such as the Hezbollah.
+
+The watchdog says its investigation found over a dozen X accounts belonging to such US-sanctioned groups with blue checkmark, indicating these users had subscribed to the social media platform’s premium subscription.
+
+“We were surprised to find that X was providing premium services to a wide range of groups the US has sanctioned for terrorism and other activities that harm its national security. It’s yet another sign that X has lost control of its platform,” Katie Paul, the director of the Tech Transparency Project, told The New York Times.
+
+Responding to the report, X said its teams reviewed the findings and “will take action if necessary”.
+
+“We’re always committed to ensuring that we maintain a safe, secure and compliant platform,” the company said.
+
+Elon Musk Says He Will "Discontinue" Phone Number To Use X Instead
+
+X rolls out the bluecheck marks to premium subscribers to confer legitimacy and as a way to prevent impersonation of these accounts.
+
+Premium subscribers also get a number of special features including the ability to post longer text and videos and greater visibility for some posts.
+
+One such account with a “verified” blue check mark bears the user name and profile image of Hassan Nasrallah – Hezbollah’s secretary-general.
+
+The Hezbollah leader’s account has 93,600 followers and posts messages and memes disparaging Israel and the US.
+
+A message pinned at the top of this account includes a Hezbollah video of rocket fire and militants firing weapons with the caption “We are coming…..” written on it.
+
+Users seeking verification are also required by X to submit a government-issued ID and a selfie to get “prioritized support”, but it is unclear if Nasrallah did so.
+
+Since the microblogging platform requires users to pay a monthly or annual fee for its premium service, this means X may have engaged in financial transactions with these accounts of terrorist groups – a likely violation of US sanctions, according to TTP.
+
+Other US sanctioned entities with verification marks on their X profiles include multiple accounts linked to the Iran government, Iran’s Press TV, and Russia’s Tinkoff Bank, according to the report.
+
+X’s own policies say its premium services are off limits to US-sanctioned entities.
+
+Hours after TTP published its report, X removed the verification marks of accounts flagged in the investigation, and suspended an account of the Iranian-sponsored militia Harakat al-Nujaba.
+
+But it remains unclear how the accounts highlighted in the report seemingly skirted X’s rules to pay for their verification.
+
+Since the company slashed its workforce drastically after Elon Musk’s takeover, it may also be possible that it is unable to verify identities of users on a large scale before granting check marks, meaning the accounts flagged by TTP may be impersonators.
+
+X did not immediately respond to The Independent’s request for comment.

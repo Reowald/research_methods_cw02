@@ -1,0 +1,73 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The light was beginning to fade as we reached the Pointe Collet Blanc. We’d traversed in through a series of increasingly untracked bowls from a lift 500m above Val Thorens and just a few minutes skiing lay between us and our hut.
+
+From our vantage point, we could see east across the whole of the Three Valleys ski area, but also further north towards the massif of Mont Blanc. To our west was the Maurienne Valley. It felt like we had this whole swathe of the French Alps to ourselves.
+
+Returning to a popular resort, the final run of the day can be crowded and hectic but if you’re using the last light to head for a hut, it’s a very different experience.
+
+Despite the fabulous feeling of space and solitude, we weren’t more than 20 minutes from the piste.
+
+During a three-day itinerary that combined ski touring with Val Thorens’ lift system to access some of the area’s off-piste terrain that fringed the established network, we would barely get any more remote than this.
+
+Seb Ramsay skiing the eastern face of the Col de la Grande Combe (Tristan Kennedy)
+
+Ski touring allows skiers and snowboarders to reach slopes that aren’t served by lifts. It involves attaching skins to the underside of your skis or board to allow you to climb snowy slopes under your own steam. Touring has many things going for it but it can be as tiring as it sounds, as well as seriously limiting the amount of descending you can fit into a day.
+
+But staying in huts within easy reach of the pistes – and the lifts – and never venturing too far off the beaten track meant we could explore Val Thorens’s backcountry without having to earn every one of our turns.
+
+At 2,300m above sea level, Val Thorens is the highest of the three main resorts of the Three Valleys. The area, which includes the resorts of Meribel and Courchevel, is home to around 160 lifts that cover more than 600km of piste. Val Thorens itself sees more than a million skiers a year on its slopes. It’s certainly no hidden gem and to get a fresh perspective on a familiar destination is as surprising as it is refreshing.
+
+It hadn’t snowed for seven days but we’d lucked out with blue skies, light winds and temperatures down to -20C that had kept the snow in prime condition.
+
+On our first day, we took a lift from the centre of Val Thorens before leaving the top of the Moraine lift and using our skins to climb to the Col Pierre Lory at 3,100m. Our Ecole du Ski Francais guide Stephane Spettel explained that the pass was named after a priest who had perished making his regular journey between village parishes on either side. In his mid-fifties, Stephane has seen big changes in Val Thorens and, while most have been to cater for an explosion in demand, not all of them have been welcome. He points out the glacier above us, which has lost an astonishing 25m depth in the last 20 years.
+
+Western Europe’s biggest peak, Mont Blanc, towering above a late-afternoon cloud inversion (Tristan Kennedy)
+
+The descent from the Col was a taste of what was to come. A largely untracked, easy-angled bowl filtering us back on to the piste from where we darted in and out of the backcountry making the most of what could be reached with lifts alone. After a late lunch at Restaurant La Moutiere, we headed back up the lift to enjoy a short skin to a ridge before a long, deserted descent above the Belleville Valley to the village of St Marcel to begin the climb up to our first hut.
+
+On the way down, a cloud inversion and some stunning sunset views of the Italian side of Mont Blanc meant we finally reached the valley in the dark after getting distracted taking photos. In the end, we needed head torches to make the 45-minute climb to the Refuge Le Trait d’ Union.
+
+It was around 7pm when we got there but it’s a stunning place and we were welcomed warmly by our charismatic host, Viviane Hudry. She explained how, after converting the refuge from a ruined barn in 2004 with her late husband Jean-Luc, it had been a family holiday home until his death in 2016.
+
+Refuge Le Trait D’Union (Seb Ramsay)
+
+We woke refreshed and after tearing ourselves away from the croissants and coffee in the cosy Trait D’ Union, made the skin up to the St Martin Express Lift above us before skiing down into Les Menuires.
+
+Once more, we spent the day probing the untracked wilderness beyond the ropes with Stephane using his experience of the terrain and its various aspects to find us the best, and safest, powder.
+
+As well as exploring the Valley des Encombres, we skinned up to the Col de La Challes and skied back into the Belleville Valley before heading up to the Pointe de La Masse lift and dropping down to the Refuge du Lac du Lou. A more traditional type of mountain refuge from the eight-bed exclusivity of the Trait d’Union of the night before, it’s an inviting place to spend the night nonetheless. Dormitory-style accommodation, lovely hot showers and again, despite all appearances, not far from the piste.
+
+In the morning, we are soon back up to Pointe de la Masse from where we contoured further south than before to reach Col de la Grande Combe.
+
+Preparing for the headtorch-lit ascent to Refuge Le Trait D'Union (Seb Ramsay)
+
+Again, we made it into fabulously untracked terrain – and this particular bowl was big enough to allow all six of our group to drop into it from different angles.
+
+We finished the day with a trip up to one of Val Thorens’ most well-known summits, the 3,195m Cime de Caron, where we headed for the Col de Lauzin and then boot-packed along a ski patrol line before dropping into the silky, smooth slopes below back to the Vallee de Lou and Val Thorens itself.
+
+That night, the Fahrenheit Seven hotel was buzzing, marking a significant change of scene after two nights in huts. While we didn’t venture miles into the backcountry, it certainly felt as if we had. And while all our group was familiar with the Three Valleys, almost all the terrain we skied was new. As we talked, it became clear that while pure touring days can be satisfying, a halfway house that enables you to spend a few nights on the mountain, emerging as fulfilled from the descent as the ascent, might just be the sweet spot.
+
+Getting there
+
+Seb Ramsay’s trip was organised by the Val Thorens Tourist Office who offer similar packages for around 1,800 euros per head.
+
+He stayed in two mountain huts – Refuge Le Trait D’Union and Refuge du Lac du Lou – and in Fahrenheit Seven hotel in Val Thorens.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The group travelled by train from London to Moutiers with a change of station in Paris. Val Thorens is 45 minutes in a taxi from Moutiers or 75 minutes by bus.
+
+The resort is also around two hours drive from four international airports: Lyon Saint-Exupéry, Chambéry; Geneva or Grenoble.

@@ -1,0 +1,49 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Live facial recognition is a “vital tool” for policing, the Metropolitan Police has said, as it continued its use in south London amid privacy concerns.
+
+Two vans equipped with live facial recognition (LFR) technology were deployed in Croydon on Friday, part of a months-long operation which has so far led to 45 arrests in the borough.
+
+Civil liberty groups including Big Brother Watch, Liberty and Amnesty International have criticised the technology as an “Orwellian” breach of privacy.
+
+Addressing privacy concerns raised by campaigners and politicians, Chief Superintendent Andy Brittain, who leads policing in Croydon, said people “don’t need to panic”.
+
+“I think it’s a vital tool for the Met to use to keep London safe,” he added.
+
+“We’ve had some real crime problems in the past here and the community have reached out to us saying, ‘I want to feel safe here, I want to be able to come out, go shopping and not worry about crime’,” he said.
+
+LFR technology scans faces and compares them with a database of people of interest to the police, allowing them to be questioned if there is a match.
+
+The areas being monitored and the vans equipped with LFR cameras are marked by signs to tell people the technology is in use.
+
+The police are able to scan us like barcodes Madeleine Stone, Big Brother Watch
+
+Mr Brittain said the LFR deployment was a “brilliant tactic” which freed up police officers and was accurate.
+
+“Far more accurate, actually, than the scientific advice says,” he added.
+
+He said the false-positive identification rate (FPIR) – where a person is wrongly flagged by the cameras – had so far outperformed the 1 in 6,000 rate the Met had previously been working to.
+
+Madeleine Stone, senior advocacy officer at Big Brother Watch, said the technology was “really intrusive” and turned streets into “permanent police line-ups”.
+
+“The police are able to scan us like barcodes,” she added.
+
+“There’s no specific legislation on facial recognition technology.
+
+“It hasn’t even been debated in Parliament.”
+
+Donna Murray-Turner, chair of Croydon’s Safer Neighbourhood Board, said she understood people’s concerns but thought tackling crime in the south London town was more important.
+
+She said: “Women, feeling afraid to walk through our own town centre when they need to shop, that supersedes the concerns around ‘walking identity cards’.
+
+“For us here in Croydon, it’s really important that we’re kept safe.”
+
+“Children and people have died here because of the level of criminality so it’s important for us to take a stand,” she added.
+
+Mr Brittain said the biometric data of people not on the Met’s watchlist was subjected to “instant deletion” and LFR was supported by members of the local community.
+
+“Whenever we are out here with this camera equipment, we’re getting shop-keepers and people passing by saying ‘thank you for being here and making Croydon safer’,” he said.
+
+LFR technology was used by the Met during the King’s coronation in May 2023.

@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Social media platform X has blocked searches linked to Taylor Swift after fake, AI-generated explicit images of the pop star were posted to the site.
+
+Attempted searches for “Taylor Swift” currently return no results on the platform, formerly known as Twitter, with users instead shown an automated error message.
+
+Joe Benarroch, head of business operations at X, told the Wall Street Journal that the move was a “temporary action” and had been done “with an abundance of caution” as the site “prioritise safety on this issue”.
+
+It is not clear how long the search block will remain in place.
+
+The graphic, fake images of Swift began to appear online last week, with fans of the singer quickly mobilising to swamp the platform with real images of the star, as well as lobbying the Elon Musk-owned platform to take stronger action against the images and the accounts accused of spreading them.
+
+In a statement released on Friday, X said posting such content was “strictly prohibited” and it had a “zero-tolerance policy” towards it.
+
+Although the company did not mention Swift by name, it said: “Our teams are actively removing all identified images and taking appropriate actions against the accounts responsible for posting them.
+
+“We’re closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed. We’re committed to maintaining a safe and respectful environment for all users.”
+
+X owner Elon Musk has been criticised since his takeover of the site for cutting back the platform’s content moderation teams, and pushing to allow more posts to remain on the site because of belief in “absolute free speech”.
+
+We're closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed Statement from X
+
+Advances in artificial intelligence has made creating digitally altered and fake images easier and more accessible.
+
+Industry experts have warned of the potential danger posed by AI-generated deepfakes and their potential to spread misinformation, particularly in a year that will see major elections in many countries, including the UK and the US.
+
+Late last year, Technology Secretary Michelle Donelan said the Government expects to have “robust mechanisms” in place to combat such content before the next general election.
+
+She said the Government was “concerned” about the potential impact of AI being used to create deepfakes and spread misinformation, adding that the issue was being taken “extremely seriously”.

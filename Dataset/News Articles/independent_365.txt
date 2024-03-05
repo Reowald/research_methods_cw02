@@ -1,0 +1,19 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Iga Swiatek will take on Elena Rybakina as she bids for a third consecutive title at the Qatar Open.
+
+The world number one did not even have to take to the court on Friday, earning a semi-final walkover when opponent Karolina Pliskova withdrew because of a back problem.
+
+The Czech dashed to Doha after winning the Transylvania Open title in Romania on Sunday but decided she could not push her body any further.
+
+Rybakina is also attempting to win back-to-back titles after triumphing at the Abu Dhabi Open last week, and she ended the impressive run of Anastasia Pavlyuchenkova with a 6-2 6-4 victory in the last four.
+
+It was closer than the scoreline indicates, with Rybakina saving eight of the nine break points she faced. Pavlyuchenkova won three games in a row from 5-1 down in the second set but could not force a decider.
+
+Rybakina has proved one of the most difficult opponents for Swiatek, with the Kazakh number one winning their last three meetings, all last season.
+
+Rybakina prevailed in straight sets on hard courts at both the Australian Open and Indian Wells before Swiatek retired in the third set of their clash on clay in Rome.
+
+Rybakina, who has now won eight straight matches, said: “First I will try to recover because I played so many matches. Iga’s a great champion so it’s going to be very difficult but I’ll try to enjoy it as much as I can.”

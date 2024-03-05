@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The vast personal library of influential naturalist and biologist Charles Darwin is to be published in its entirety online for the first time.
+
+Scientists said the collection – the majority of which was unknown or unpublished until now – shows the “extraordinary extent” of Mr Darwin’s research.
+
+The 300-page catalogue will detail the personal library, which comprises 7,400 titles and 13,000 volumes.
+
+Previous lists had only included 15% of the library, which includes books, pamphlets and journals on subjects such as biology, geology, philosophy, psychology and religion, as well as art, history and travel.
+
+Among the items is also a German periodical containing the first known photograph of bacteria.
+
+Most works are in English, although half were published in other languages including German, French, Italian, Spanish, Dutch and Danish.
+
+The size and range of works in the library makes manifest the extraordinary extent of Darwin’s research into the work of others Dr John van Wyhe, National University of Singapore
+
+The project – The Complete Work of Charles Darwin Online – spanned 18 years and its publication coincides with what would have been Mr Darwin’s 215th birthday.
+
+It was led by Dr John van Wyhe at the National University of Singapore (NUS) Department of Biological Sciences.
+
+He said: “This unprecedentedly detailed view of Darwin’s complete library allows one to appreciate more than ever that he was not an isolated figure working alone but an expert of his time building on the sophisticated science and studies and other knowledge of thousands of people.
+
+“Indeed, the size and range of works in the library makes manifest the extraordinary extent of Darwin’s research into the work of others.”
+
+The project also includes a virtual reconstruction of the library, with 9,300 links to copies of the work available for free.
+
+Mr Darwin died in 1882 and an inventory of his home recorded more than 2,000 bound books.
+
+Researchers used a 426-page, handwritten catalogue from 1875, comparing its abbreviated entries to reveal 440 unknown titles that were originally in the library.
+
+Other sources includes lists of pamphlets, his reading notebooks, the diaries of his wife Emma Darwin, books given to the Cambridge Botany School in 1908 and 30 volumes of the Darwin Correspondence, a collection of letters that the biologist wrote to people across the world.

@@ -1,0 +1,125 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Not that long ago, the highlight of a trip to a UK spa town would have involved an iced bun in some olde worlde tea shoppe. Now, happy days, thanks to a revival in British bathing culture, your highlight is more likely to be a proper pummelling by hydro jets in a geothermal pool followed by a hammam steam.
+
+Take The Gainsborough Bath Spa in the heart of Britain’s best-known and arguably most beautiful Georgian spa town. Upstairs you have all the bells and whistles of a five-star boutique hotel, but in the cavernous basement, the Spa Village taps directly into Bath’s natural geothermal springs, which are infused with a cocktail of minerals including calcium and magnesium.
+
+Ever since the early Celts and Romans cottoned onto the health benefits of this mineral water, Bath has been at the centre of British social bathing.
+
+The Spa Village at The Gainsborough allows guests to access the natural thermal water of Bath (The Gainsborough Bath Spa)
+
+“Taking in the waters” has fallen in and out of fashion over the centuries but even the bathing-mad Victorians couldn’t have foreseen this latest incarnation in The Gainsborough Bath Spa. It features a suite of “bathing experiences”, from warm balneo pools, a lavender-scented ice alcove, infrared and dry saunas, and a hammam steam room to a flotation pool where hydro jets are powerful enough to unknot the most clenched tech neck.
+
+On arrival, guests are handed a pouch filled with Himalayan salts infused with the aromatherapy “mood” oil of their choice, from Rebalanced to Revived and Joy (how could you not choose Joy?). The idea is to inhale the pipe-clearing salts as you work your way through the hot and cold bathing circuit, letting the mineral-rich waters work their magic.
+
+Read more on UK travel:
+
+Overnight guests can use the bath house until 9pm, during which you can float in the mineral pool and gaze up at the stars through the atrium glass ceiling. In keeping with European bathhouse culture, new spa treatments include a mud detox from luxe Hungarian skincare brand Omorovicza, which involves a vigorous scrub with a gloopy balm comprising almond oil and Dead Sea salt, as well as a full body mud pack and a massage with a rich, firming body oil, which leaves you pie-eyed and ready for the best sleep of your life.
+
+Of course, ordering a bespoke gin and tonic (with a cinnamon stick or hint of lavender) from the Gainsborough Bar before bedtime also helps bring on the zeds.
+
+Spa towns across England, Wales and Scotland have their own unique mineral-rich and geothermal springs, which are being incorporated into sophisticated spa experiences in sparkling new retreats and multimillion-pound renovations of grand Georgian spa hotels. Japan may have its onsens and Sweden its saunas, but now you can enjoy a very British style of bathing culture without having to queue for a flight.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Gainsborough Bath Spa - Small Luxury Hotels of the World here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Harrogate, North Yorkshire
+
+The elegant North Yorkshire town has a long history as a spa town, dating back to 1571 when sulphuric waters were first discovered in several natural springs. Now you can sip those waters at the Royal Pump Room Museum and bathe like a Victorian at the heritage Turkish Baths.
+
+Harrogate boasts the most fully restored Victorian Turkish Baths in Britain (Getty)
+
+Where to stay
+
+For a lavish spa experience, book a room at the sprawling five-star Rudding Park, with a rooftop spa, woodland spring bathing and a suite of indoor and outdoor pools and sauna.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Buxton, Derbyshire
+
+Buxton has three spas and is well known for health and healing (iStock)
+
+Set on the edge of the Peak District, Buxton is a small but perfectly formed historic spa town. First discovered by the Romans, over the years it has attracted everyone from Mary, Queen of Scots to WH Auden and Jane Austen. The naturally warm water is bottled by the Buxton Water company but you can also take a sip at St Ann’s Well opposite the Old Hall Hotel.
+
+Where to stay
+
+Buxton Crescent is set in one of the finest Georgian buildings in the country. Reopened in 2020 after a £70m renovation, the hotel includes an indoor and outdoor rooftop pool, renovated Victorian baths filled with Buxton mineral water, saunas, steam rooms, an ice fountain and salt cave.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Ensana Buxton Crescent here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Malvern, Worcestershire
+
+Tucked away in the Severn Valley, pretty Great Malvern was revered for the purity of its natural spring waters and spawned a hydrotherapy industry in the 19th century. This attracted the big names of the day, from Charles Darwin and Charles Dickens to Florence Nightingale. Now you can sip the water from the Malvhina fountain in the centre of town.
+
+Take in the pretty views towards the Vale of Evesham in Malvern (Getty)
+
+Where to stay
+
+The Malvern has an indoor and outdoor hydrotherapy pool, a suite of steam rooms, saunas, a salt grotto and treatments, including the Aleksandrowicz method massages.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Cheltenham, Gloucestershire
+
+Pay a visit to the Pittville Pump Rooms in historic Cheltenham (Getty)
+
+This Regency stunner is now better known for its racecourse than its mineral springs but you can still visit the grand Pittville Pump Room and use the pump to dredge up a glass of the salty mineral water, which was all the rage 500 years ago.
+
+Where to stay
+
+Cowley Manor Experimental, 15 minutes from the centre of Cheltenham, has reopened after an extensive eye-popping renovation from the French hotel and design group Experimental. Set in 55 acres of woods, meadows and lakes fed by natural springs, it features a spa with two pools, as well as sweeping woodland views, saunas, a steam room and treatment rooms.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our UK hotel reviews:

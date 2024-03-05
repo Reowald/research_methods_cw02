@@ -1,0 +1,43 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Meta has been accused by MPs of not taking the problem of online fraud on its platforms seriously.
+
+The parent company of Facebook and Instagram came under scrutiny from the Home Affairs Select Committee after representatives from the banking sector said the “majority” of scams they see start on Meta platforms.
+
+Paul Davis, financial crime prevention director at TSB, told the committee that Facebook Marketplace is the “main place” where purchase scams originate, which, along with investment and impersonation scams, are the most common types of fraud affecting bank customers.
+
+“For those three types, which as I say are the main ones, we see about 80% start on social media,” Mr Davis told MPs.
+
+“Indeed, let’s not walk past the fact that, when I say social media there, the majority of them start from the channels owned by one company in particular, which is Meta.”
+
+He added: “Facebook Marketplace doesn’t have a payments channel attached to it, it’s not like a website you might use to buy something off a high street shop, for example, or Amazon. So, you have to get bank details from the seller of that item.
+
+“What we see are customers telling us that they get bank details from the seller, send them money and then the item never turns up.”
+
+In response, Philip Milton, public policy manager for fraud at Meta, told the committee that the tech giant takes the issue “extremely seriously”.
+
+When suggested by the committee that evidence given to MPs by the banks shows Meta is not doing all it can to prevent online fraud, Mr Milton said: “I disagree with that.”
+
+He went on: “To give you an idea of the scale that we’re putting in place to tackle this kind of thing, since 2016 we’ve invested 20 billion dollars on safety and security, and that’s not slowing down – five billion of that was in the last year alone.
+
+“We have 40,000 people working across the company on safety and security. Half of that number are involved in directly reviewing content, so we invest significantly in trying to prevent this kind of thing from happening.”
+
+He added that fraud “fundamentally undermines the experience we’re trying to provide for people” and said this, combined with fraudulent advertising affecting trust in the company from advertisers and its wider reputation, means the firm is “directly incentivised” to do all it can to prevent criminal activity.
+
+However, committee member Tim Loughton, Conservative MP for East Worthing and Shoreham, argued that the five billion dollars Meta said it spent last year on safety and security equates to less than 4% of the firm’s annual revenue for the year – a figure he suggested is “not very high”.
+
+You apparently have no financial skin in the game for clamping down on fraud on Facebook Marketplace other than potential reputational damage Tory MP Tim Loughton to Meta's Philip Milton
+
+Mr Loughton also questioned whether the 20,000 people reviewing content for Meta is an adequate number given the site has “four billion active accounts”, and suggested the social media giant is not taking the issue “terribly seriously” because, as Facebook Marketplace does not have a payments channel linked to it, the site is not financially liable if fraud takes place there.
+
+“You apparently have no financial skin in the game for clamping down on fraud on Facebook Marketplace other than potential reputational damage,” he said.
+
+“Unless there’s a clear link with advertisers walking away with their revenue because they’re concerned at (banking sector research showing) 80% of fraud starting on (social media platforms) and 68% of it specifically your platforms, then you don’t really have to take it terribly seriously – and the fact you’re spending five billion dollars out of an annual revenue of 134.9 billion, which, as I say, is three and a bit percent for a people-based service, is tiny.
+
+“So you’re not taking this problem seriously, are you?”
+
+In response, Mr Milton said: “I don’t agree with that at all”, and argued that “the scale of our investment demonstrates how seriously we take this problem”, adding that it is “market-leading” levels of funding for safety and security.
+
+He added that, in response to tactics from fraudsters who demand payment or ask for an item to be sent before it is paid for, Meta has “removed the ability to ship an item on Facebook Marketplace”, and that there is “no way to pay for an item” on the platform because the firm is trying to “design out” the ability for criminals to use the platform for fraud.

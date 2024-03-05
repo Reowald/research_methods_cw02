@@ -1,0 +1,37 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The future of Cardiff airport looks bleak, an expert has said, as losses at the Welsh gateway continue.
+
+The airport, southwest of the capital, continues to make losses as it struggles to attract passengers back to pre-pandemic levels.
+
+The key long-haul link with Doha on Qatar Airways was cut at the start of the Covid crisis and has not returned.
+
+Losses totalled £4.5 million in the year to March 2023, with the Welsh government making a grant of £5.3 million.
+
+Sean Moulton, a leading aviation analyst, told The Independent: “When Bristol airport is nearby, with many low-cost flights, and a lot of Wales is served by Birmingham, Liverpool and Manchester airports, Cardiff doesn’t have a USP [unique selling proposition].”
+
+While almost every UK airport grew in 2023 compared with a year earlier, the latest figures from the Civil Aviation Authority show a slight drop at Cardiff – with only 837,000 passengers using the airport.
+
+London Heathrow handles more passengers in just four days.
+
+Over the past two decades, passenger numbers at Cardiff have roughly halved, while Bristol airport now handles about twice as many.
+
+Cardiff Airport’s boss, Spencer Birns, told Wales Online: “We know Ryanair are adding two routes with Tenerife and Alicante for the summer and we are in talks with them about what extra they could do for next winter.
+
+“We also have extra capacity coming online on the Loganair route to Edinburgh with a larger aircraft which gives us extra capacity, while Tui is adding around 12,000 extra holidays out of Cardiff as well.”
+
+But the one key European link, on KLM from Cardiff to Amsterdam, is to be cut back from three daily to just two per day, with the early morning departure from the Welsh airport removed.
+
+Mr Moulton said: “This shows how tough Cardiff have got it.”
+
+Mr Birns expressed hope that the Doha link would return: ““For Wales to have the Qatar Airways service back would be fantastic and reintroducing connectivity into the Middle East, south-east Asia and Australia where there is high demand. There is a commercial negotiation taking place between us. We are working with the airline on a resumption as soon as possible.”
+
+Any deal is likely to include some financial support for the route.
+
+A spokesperson for the Welsh government, which owns Cardiff airport, said: “We’re committed to maintaining an airport in Wales because of the benefits it brings to the Welsh economy and its local supply chain.
+
+“The airport generates over £240m GVA [gross value added] to the Welsh economy, annually.
+
+“The executive team continues to work hard to restore flights and diversify the business as part of its recovery from the pandemic. Commercial discussions remain ongoing between Cardiff airport and the airline regarding the resumption of the Qatar Airways’ Doha service from Cardiff.”

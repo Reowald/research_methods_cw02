@@ -1,0 +1,21 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Pictures on the internet “reflect and exaggerate” the gender biases found in the world, according to a major new study.
+
+Billions of images are now available online, and they are increasingly important as a way of illustrating online content as well as encouraging people to engage with it. The amount of text being read by people is declining, while the amount of images they see and make is increasing, studies have shown.
+
+Those images can also be more memorable and emotionally engaging than text. And researchers note that they can be more demographically marked: it is possible to use gender-neutral pronouns when talking about doctors, for instance, but images of them will tend to give information about their gender.
+
+Despite all of that, much of the research into gender bias online has focused on text. Now researchers have conducted a new major study into the gender bias implicit in the images they view online.
+
+They found that women are dramatically underrepresented online. They also found that what images there are tend to come with marked gendered associations: searching for “police chief”, “investment banker” or “heart surgeon” is likely to show men, while looking for pictures of nurses or cooks will show women.
+
+The authors found that remained true whatever country the images were being searched for from. And they found that they were true across websites: though the initial work focused on Google, the findings were replicated on other sites such as Wikipedia and the Internet Movie Database, or IMDb.
+
+The research also undertook work to establish whether those images help confirm unconsciouses biases – and found that they did.
+
+Hundreds of participants were recruited, with some asked to search for occupations on Google Images, and then did tasks to check their bias. Those that had searched for images showed stronger unconscious bias, and it seemed to last for days after the experiment.
+
+The findings are reported in a new study, ‘Online images amplify gender bias’, published in Nature.

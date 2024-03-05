@@ -1,0 +1,23 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Wayne Rooney has said he has turned down an offer to box under KSI’s Misfits promotion.
+
+Reports in recent days have suggested that the former Manchester United and England striker was in talks with Misfits, the promotion launched by YouTuber-turned-boxer KSI in 2022.
+
+Rooney confirmed those reports on Thursday (15 February), while Misfits declined to comment when contacted by The Independent.
+
+On The Overlap podcast, Rooney was asked whether he would box soon, to which he replied, “You never know,” before quickly adding: No, they’ve been in touch and asked the question, but I think at the minute I want to focus on getting back into management – not boxing.”
+
+Rooney was sacked as Birmingham City coach in January after just 83 days in charge. The role was his third as a manager, following spells at DC United and previously Derby, where he briefly played and coached simultaneously.
+
+When asked who had ‘been in touch’, the 38-year-old said: “There’s been a few. Obviously Misifts have been in, and that’s been all over the news or whatever, but listen: I want to focus on getting back into management. That’s my focus.
+
+“I’ve seen all [the headlines] over the last couple of days, but my main focus is getting back into football.”
+
+Rooney, a known boxing fan, famously celebrated a goal against Tottenham in 2015 by shadow-boxing and falling to the turf. The celebration was a reference to a viral video that showed Rooney jokingly sparring with fellow player Phil Bardsley at home.
+
+“The night with Bardo, we got home and we put the gloves on,” Rooney told Man United’s website in 2019. “It is something that we do quite regularly, but that one got out! After I went down [on the floor], the video stops, but I wasn’t knocked out. We got up and carried on.
+
+“I remember when we finished and the two of us sat there, my nose had gone and Bardo had blood pouring out of his mouth. We were both looking at each other, saying: ‘What are we doing?’”

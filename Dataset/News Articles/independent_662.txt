@@ -1,0 +1,25 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Justin Roiland, best known as the co-creator of cult hit animated sci-fi series Rick & Morty, has announced his studio’s latest project, a colourful and super-weird first-person shooter called High on Life.
+
+Developed by Squanch Games, the studio Roiland helped found in 2016, High on Life puts players in the shoes of a high school graduate turned interstellar bounty hunter, charged with saving humanity from an invading alien race bent on using earthlings as a new kind of drug.
+
+The twist? Your guns are alive, and they can talk – by all accounts it seems they don’t shut up. Cameo appearances we’ve spotted so far include I Think You Should Leave’s Tim Robinson, Curb Your Enthusiasm’s JB Smoove, and Justin Roiland himself.
+
+Bounty hunters will explore different planets on their adventure, visiting locations including a dense jungle, a city built inside an asteroid, and a variety of other worlds. “Players will run into dangerous local wildlife, help bunch of alien weirdos, and test their mettle against a variety of Hunter Challenges,” says the press release. “And you’ll never be alone because your guns talk.”
+
+Read more: Get the Google Pixel buds A-series for just £79
+
+Each weapon you wield has its own distinct personality and voice, and offers running commentary on in-game events as you play. Decisions you make will affect your relationship with your guns, and also impact the path of the story.
+
+High on Life looks to be the most ambitious title Squanch Games has worked on. The studio’s previous VR games Accounting+ and Trover Saves the Universe are similarly weird in tone, but the new first-person shooter seems set to be the developer’s biggest game yet. Here’s the announcement trailer.
+
+Announced during Microsoft’s Xbox & Bethesda Games Showcase, High on Life is scheduled to launch on Xbox Series X/S, Xbox One and PC later this year. The game will arrive on Xbox Game Pass on day of release, too.
+
+Voucher codes
+
+If you’re looking for discounts on technology or videogames, try one of these codes:
+
+Looking for the best gaming deals? Read our buying guide for Nintendo Switch bundles

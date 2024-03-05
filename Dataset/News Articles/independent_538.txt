@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Meteorite hunters have tracked down fragments from an asteroid that struck the Earth over Berlin last week and it appears to be “very rare.”
+
+Fragments of the small asteroid dubbed 2024 BX1 burned up in the skies above Berlin into a harmless fireball last Sunday merely two hours after it was discovered by astronomers.
+
+Researchers and amateur scientists looking for remaining fragments of the space rock around Berlin found some of them on Friday, with more samples of the meteorite discovered over the weekend.
+
+Experts, including meteor scientist Peter Jenniskens, found the rock fragments to be “very rare” as they resemble rocks found on the Earth.
+
+“The asteroid that made its impact near Berlin last Sunday has now been successfully recovered,” the search for extraterrestrial intelligence (SETI) noted in a statement.
+
+“What we’re actually looking for was very different from what most people consider a meteorite. If you were walking through the fields and saw a rock like this, then you would pass by it,” Dr Jenniskens told Space.com.
+
+First fragment of 2024 BX1 recovered by the Natural History Museum (SETI)
+
+Such space rocks, scientists said, are “very rare” and make up only 1 per cent of all known meteorites, researchers say.
+
+The space rock measuring about 1 m (3.3 ft) wide was discovered by Hungarian astronomer Krisztián Sárneczky merely two to three hours before its impact, according to the International Astronomical Union.
+
+Nasa then confirmed the asteroid’s discovery about 20 minutes before impact.
+
+First known under its temporary designation Sar2736, the asteroid measured about a meter wide and was captured on camera as it appeared and disappeared in the skies above Berlin at about 00:33 UT.
+
+Its sighting was unusual since 99 per cent of near-Earth asteroids smaller than 30m (98 ft) across are yet undiscovered, according to astronomers.
+
+Since its impact on 22 January, a dedicated team of about 12-21 individuals, including experts and students from the National History Museum, have been scouring the field in search of small fragments, SETI said.
+
+The search however, proved challenging initially as the meteorites bore a striking resemblance to common terrestrial rock.
+
+A large fragment was first found on Thursday then two more meteorites weighing 5.3g and 3.1g respectively were discovered.

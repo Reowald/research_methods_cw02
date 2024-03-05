@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Pension savers could potentially be left thousands of pounds worse off in retirement due to overlooking charges when transferring their funds, a provider is warning.
+
+Just over seven in 10 (72%) of people who had recently transferred their pension did not know the exact fees for their old pension, or their new charges, according to a survey for People’s Partnership, which provides the People’s Pension.
+
+It called for greater industry transparency to ensure savers understand key information when transferring their pension, with seemingly small differences in percentage charges adding up to significant amounts in cash terms over the years that money is invested.
+
+If people can’t make an informed decision about the value they are being offered by different providers, they risk losing thousands of pounds from their retirement pots Patrick Heath-Lay, People's Partnership
+
+As well as charges, the potential growth on money invested is another fundamental aspect of the attractiveness of a pension, People’s Partnership said.
+
+Patrick Heath-Lay, chief executive officer at People’s Partnership, said: “While there are many factors that can make a pension attractive, the two fundamental aspects are investment returns and charges.”
+
+He added: “If people can’t make an informed decision about the value they are being offered by different providers, they risk losing thousands of pounds from their retirement pots.
+
+“This lack of transparency is an enormous issue that pensions providers have to address.”
+
+People’s Partnership commissioned a survey of 1,000 people in November to December 2023 who had consolidated their defined contribution (DC) pensions without the help of a financial adviser in the previous two years.
+
+Half (50%) of those surveyed said it was easy to find information on fees and charges from both their old and new pension providers.

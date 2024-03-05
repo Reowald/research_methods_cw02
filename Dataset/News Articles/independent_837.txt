@@ -1,0 +1,125 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Facebook is marking its 20th anniversary, having risen from a network for students at a single university to one of the biggest internet platforms in the world today.
+
+Here is a look back at some of the key moments from the last 20 years of the social network.
+
+– The launch
+
+Facebook first launched on February 4, 2004 as a social network known as TheFacebook, initially aimed at students at Harvard College, before gradually expanding to other universities across the US.
+
+In 2005, “The” was dropped from the name, paving the way for facebook.com -and by September 2006, the site was opened up to anyone aged 13 or over.
+
+– Stolen idea accusations
+
+Facebook founder Mark Zuckerberg found himself accused of stealing the idea of fellow Harvard students Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra – who claimed that Mr Zuckerberg was meant to help them build a social network called HarvardConnection.
+
+A lawsuit was filed against Mr Zuckerberg, resulting in a settlement in 2008, which was dramatised in the movie The Social Network, starring Jesse Eisenberg.
+
+– Facebook goes public
+
+In May 2012, Facebook went public, marking one of the largest initial public offerings (IPOs) in US history.
+
+The company announced 421,233,615 shares priced at 38 dollars per share, though the first day of trading experienced some technical issues that prevented some orders from going through.
+
+– Instagram buyout
+
+Facebook successfully purchased rival social network Instagram in April 2012 for one billion dollars, bolstering the social network’s presence.
+
+Instagram has been kept largely independent, though parts of it have been integrated with Facebook, such as the ability to share photos on Facebook too, as well as Stories.
+
+– WhatsApp acquisition
+
+Facebook continued its acquisition spree in 2014, buying out messaging app WhatsApp for 19 billion dollars.
+
+Like Instagram, the app has remained separate, with some parts able to link up to the main Facebook social network.
+
+– Oculus VR
+
+Facebook made yet another deal in 2014, taking over virtual reality startup Oculus VR, for two billion dollars, as the company looked to expand its tech footprint beyond social media.
+
+– Mood influencing study
+
+One of Facebook’s earlier controversies came in 2014, when it emerged that a mood influence study was carried out on the News Feed.
+
+The posts that appeared on the home page of 689,000 users were filtered, though Facebook said the experiment was to understand how people respond to different types of content, whether it is positive or negative in tone.
+
+– Hitting one billion users
+
+In August 2015, Facebook announced that it had hit a new milestone, with one billion users accessing the service in a single day.
+
+– Moving beyond Likes
+
+Facebook added new reactions to accompany its famous Like button in 2016, with emotions showing love, laughter, wow, sadness and anger.
+
+– Cambridge Analytica
+
+The Cambridge Analytica scandal was one of the biggest controversies to hit Facebook, when an investigation claimed that the data analysis firm was passing personal data from Facebook apps without the consent of individuals.
+
+It is believed that the company harvested data of up to 87 million users in 2014, resulting in fines which included a £500,000 penalty issued by the UK’s data protection watchdog, the Information Commissioner’s Office (ICO), to Facebook.
+
+– Data breach of almost 30 million accounts
+
+In September 2018, Facebook revealed that nearly 50 million accounts were compromised by a security breach – though the number was later decreased to 30 million.
+
+At the time, Facebook vice president Guy Rosen said attackers “exploited a vulnerability in Facebook’s code that impacted ‘View As’, a feature that lets people see what their own profile looks like to someone else”.
+
+– Fake news
+
+Like many online platforms, Facebook has been hit with fake news issues.
+
+The social network has been criticised for its handling of the spread of misinformation, with bad actors targeting Facebook largely to distribute political messages, particularly around crucial elections.
+
+In response, Facebook has carried out a number of initiatives to combat fake news. Earlier this year, it launched a UK arm to its international fact-checking effort, using Full Fact, a fact-checking charity founded in 2010, to review stories, images and videos which have been flagged by users and rate them based on their accuracy.
+
+– Growing pressure from rival platforms
+
+Facebook has also faced intense pressure from within the social media industry, as new players emerged and tried to compete with the platform for the attention of users.
+
+The most notable and ongoing rival in that sense has been TikTok, which has gained users, particularly among the younger generation and challenged Facebook’s status as an online news source for some.
+
+In early 2022, as Facebook reported a drop in its number of daily active users for the first time in its history, Mr Zuckerberg publicly acknowledged the competition from the likes of TikTok and admitted Facebook was in a battle for people’s attention.
+
+Meta has been making a strong fist of that fight too, introducing a shortform video feature, called Reels, similar to TikTok to another of its apps, Instagram, in an effort to take on TikTok at their own game.
+
+– Metaverse gamble
+
+In October 2021, Mr Zuckerberg announced the biggest reshuffle in the company’s history as created and rebranded its parent company as Meta and declared it was no longer focused on social media, but building the metaverse.
+
+The Facebook founder pledged to invest billions of dollars into the project, which aimed to make Meta the industry leader in what Mr Zuckerberg said he believed would be the next version of the internet.
+
+More than two years on, there is little sign yet of the metaverse becoming the mainstream internet for the general public.
+
+And with strong economic headwinds for tech firms in 2022 and 2023, post-pandemic, the company was forced to make two rounds of substantial job cuts.
+
+For now, the metaverse gamble from Mr Zuckerberg is yet to pay off.
+
+– Job cuts
+
+In the space of four months between the end of 2022 and March 2023, Meta announced two rounds of major job cuts.
+
+The first saw 11,000 roles go from its 87,000-strong global workforce, with another 10,000 job cuts announced just 16 weeks later – although it was not along in the tech sector in cutting back jobs.
+
+The cuts coincided with the company’s profits taking a hit due to a range of factors, including a slump in the online advertising market, wider global economic woes and increased competition from rivals such as TikTok.
+
+The massive investment in building the metaverse was also highlighted as placing additional pressure on the company’s finances at a difficult time for the firm.
+
+– Increased scrutiny from regulators
+
+The rise of Facebook and other social media apps has led to increased attention and scrutiny from regulators around the world.
+
+The fast pace of the sector has seen Facebook and other platforms at the centre of debates around user privacy, data collection and broader online safety as more people spend more time online.
+
+As scrutiny has increased during Facebook’s two decades in existence, the site has had to react and evolve with it – introducing vast content moderation teams, fact-checking and safety centres to combat misinformation and other harmful content, new rules around advertising, and digital wellbeing tools to allow users to limit their screen time.
+
+Now major internet regulation is coming into force in the EU and UK, with Facebook and others potentially facing billions of dollars in fines, services being blocked and even criminal liability for managers if they are found to be in breach of online safety rules.
+
+The need for effective moderation of Facebook’s online empire has never been more vital or high-pressured, and its response to legislation such as the Online Safety Act will dictate the company’s success for years to come.
+
+– Returning financial strength
+
+Despite its issues in recent years, Facebook and Meta have had a resurgent start to 2024, with the firm reporting some of its strongest financial results for the final three months of 2023.
+
+Compared to the same period in 2022, revenue rose 25% and net income more than tripled, as user growth returned, advertising sales recovered and the cost-cutting from the substantial job cuts took effect.

@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Google has rebranded its Bard AI chatbot as Gemini as the tech giant announced a new mobile app and a more powerful AI tool, Gemini Advanced.
+
+From Thursday, a Gemini app will launch on Android for the first time, and the chatbot will be made available inside the official Google app on Apple’s iOS.
+
+In a major update to the firm’s AI offerings, the mobile app upgrades will launch alongside a new subscription-based service called Gemini Advanced, which uses Google’s more powerful Ultra 1.0 AI model and is capable of taking on more complex tasks, including coding and “logical reasoning”, Google says.
+
+Gemini Advanced not only allows you to have longer, more detailed conversations, it also better understands the context from your previous prompts Sissie Hsiao
+
+It is being launched as part of a new AI Premium Plan offering within Google One, the tech giant’s subscription platform for its suite of services and cloud storage space.
+
+The AI Premium Plan will cost £18.99 a month, but with a two-month free trial, and also include two terabytes of storage and other Google benefits including, in the near future, the ability to use Gemini in Gmail and other Google apps.
+
+On Thursday, Google introduced a free artificial intelligence app that will implant the technology on smartphones to enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing in addition to helping manage their lives (AP)
+
+However, Google confirmed that the mobile apps will not be available in the UK at launch.
+
+On the introduction of Gemini Advanced, Sissie Hsiao, vice president and general manager for Gemini and Google Assistant, said: “With our Ultra 1.0 model, Gemini Advanced is far more capable at highly complex tasks like coding, logical reasoning, following nuanced instructions and collaborating on creative projects.
+
+“Gemini Advanced not only allows you to have longer, more detailed conversations, it also better understands the context from your previous prompts.”
+
+Ms Hsiao added: “We continue to take a bold and responsible approach to bringing this technology to the world.
+
+“And, to mitigate issues like unsafe content or bias, we’ve built safety into our products in accordance with our AI principles.
+
+“Before launching Gemini Advanced, we conducted extensive trust and safety checks, including external red-teaming.
+
+“We further refined the underlying model using the fine-tuning and reinforcement learning, based on human feedback.”
+
+Google said that, in line with the commitment it made at the AI Safety Summit in November, it was providing access to its most capable models to external experts, including the UK’s AI Safety Institute.

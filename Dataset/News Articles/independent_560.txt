@@ -1,0 +1,49 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A private spacecraft which blasted off to the Moon last week is on its way back to Earth after a failed mission.
+
+The Peregrine Mission One (PM1), built by US space company Astrobotic, encountered a fuel leak shortly after launching on January 8.
+
+While Astrobotic engineers were able to stabilise the spacecraft, the leak had caused enough damage to rule out a safe landing on the lunar surface.
+
+The company said safe re-entry to Earth “is our top priority”, with a controlled crash planned over a remote area of the South Pacific on Thursday at 9pm UK time.
+
+As it enters the Earth’s atmosphere, Peregrine will hit air molecules at about 17,000mph and mostly burn up and disintegrate.
+
+Any leftover debris will end up in the Pacific.
+
+It means that rather than floating around as space junk and being a crash hazard for other spacecraft and space objects, Peregrine will be safely disposed of.
+
+UK scientists who helped develop a key piece of technology on Peregrine said their sensor and electronics are performing well, despite the mission not going as planned.
+
+The Open University and RAL Space helped build the exospheric mass spectrometer – an onboard instrument known as the PITMS (Peregrine ion trap mass spectrometer).
+
+Dr Simeon Barker, of Open University, said: “The PITMS team successfully operated the instrument during the mission lifetime in space, collecting multiple sets of data.
+
+“The team is analysing the data now and expects to provide a further update next week.”
+
+The team said it is working around the clock to gather data from the spacecraft before it is destroyed.
+
+The 1.2-tonne probe – about the size of a garden shed – launched from Cape Canaveral in Florida. The mission’s aim was to land on February 23.
+
+But shortly after separating from United Launch Alliance’s Vulcan Centaur rocket, the Astrobotic team found that Peregrine was struggling to achieve a stable position pointing towards the Sun.
+
+Astrobotic later said the cause may have been a valve on the spacecraft failing to close.
+
+The company said it had received data from all nine payloads designed to communicate with the lander.
+
+Astrobotic was the first of three US companies to try to send a spacecraft to the Moon as part of Nasa’s Commercial Lunar Payload Services initiative.
+
+Two other commercial ventures – Intuitive Machines and Firefly – have planned missions to the lunar surface this year.
+
+The Peregrine mission’s aim was to deliver five Nasa instruments to the Moon’s surface, with the aim of studying the lunar water cycle and the local environment.
+
+Had Peregrine been able to land on the Moon, it would have become the first private company to do so.
+
+Controlled lunar landings have only been performed by government agencies, including the US, Soviet Union, China and India.
+
+Meanwhile, Slim – a spacecraft built by the Japan Aerospace Exploration Agency (Jaxa), will attempt a soft landing on the Moon on Friday January 19.
+
+If successful, it would make Japan the fifth country to land on the Moon.

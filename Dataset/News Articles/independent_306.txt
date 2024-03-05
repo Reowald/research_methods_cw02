@@ -1,0 +1,49 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Today is National Pothole Day, though with new figures showing further deterioration in the UK’s roads, it’s not a day that needs celebrating.
+
+The RAC reports that the number of pothole-related breakdowns it attended in 2023 increased by a third to almost 30,000 incidents, and is calling on the government to set out clear guidance for local authorities to tackle the problem.
+
+With an ever-increasing chance of hitting a pothole, it’s worth being aware that you can claim damage to your car caused by poor-conditioned roads. But how do you do this and what do you need to be aware of? Let’s take a look.
+
+What sort of damage can hitting a pothole cause?
+
+You never want to hit a pothole, but sometimes they just can’t be avoided, and it’s never worth endangering yourself more by trying to swerve around them.
+
+Hitting a pothole can cause various types of damage, with one of the most noticeable being to the wheels and tyres. Punctures are common and are often noticeable instantly, as you’ll experience a loss of control and the steering will feel heavy. If it’s a particularly big pothole, it can cause damage to the wheel itself, such as buckling and cracking. This can be repaired depending on the severity, but a new wheel might be required.
+
+After this, it’s suspension and steering components to be aware of. Hitting a pothole can damage the tracking of your car, causing misaligned tyre wear or the feeling that the car is pulling one way while driving, even with the steering wheel straight. Broken suspension components such as springs and shock absorbers are often common.
+
+Remember to be safe if you do have a pothole-related breakdown
+
+If you hit a pothole and it causes immediate damage to your car, the first thing to think about is your safety. Don’t come to an instant stop if it’s not safe to do so – such as on a blind corner. Try and get you and your car out of danger.
+
+If you’re unable to pull off the road, come to a stop in the safest possible place, apply the hazard lights and get yourself out of the vehicle before ringing a breakdown provider or someone else who might be able to help.
+
+Make sure you gather evidence to support your case
+
+If your car has been damaged by hitting a pothole, you need to gather evidence to help your case to get compensation. It can be a long process with authorities often doing everything possible to avoid paying, so you need to be prepared for a fight.
+
+Make details on the pothole, its location, size and only if safe to do so, gather pictures of the pothole and the damage to the car. You will likely need to get rough measurements of the pothole and sketch the location of the road defect while providing details on the damage and why you think they are responsible.
+
+Once the car is recovered, get quotes from garages and keep these safely saved, while if you have the most up-to-date MOT certificate (these can be downloaded online if not), this can prove that there was nothing wrong with your car before the pothole damage.
+
+Find out which organisation manages the road where the damage was caused
+
+The organisation you need to claim from will depend on the location of the pothole. If the damage occurred on a major A-road and motorway, you will likely need to contact Highways England. If in London on a red route, you will need to speak to Transport for London. Outside of these, you will need to contact the local council that looks after that particular road.
+
+In Scotland, major roads are looked after by Traffic Scotland and those in Wales are handled by Traffic Wales. Outside of these trunk roads, you’ll need to speak to the local councils.
+
+Even if you don’t decide to claim, you should report the pothole damage to the authority responsible – not only will this hopefully have the road repaired, but it can also improve the chances of another person making a successful claim.
+
+What happens next?
+
+To add to the complexity, each local council and authority has a different procedure for both reporting and trying to claim for potholes.
+
+Be prepared that all local authorities typically refuse all claims at first, quoting Section 58 of the Highways Act 1980, which says that the council took all reasonable steps to maintain the road, even if this might not be the case.
+
+Many people choose to avoid pursuing the case any further after this point, but if you decide to carry on, you need to gather as much evidence as you can to prove that the council didn’t inspect and maintain the road to the right standard. You could need to submit a Freedom of Information request to find this out.
+
+You might end up with a partial offer of compensation, which is worth accepting, but be prepared to be patient and dedicate lots of time to be successful in claiming damages.

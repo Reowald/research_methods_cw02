@@ -1,0 +1,61 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Leading an active lifestyle has major physical and mental benefits, as raising your heart rate and exercising your body on a regular basis can reduce the risk of many kinds of diseases and health conditions.
+
+However, a 2020 YouGov survey found that on average, a quarter of Britons (27 per cent) aren’t managing a single 30-minute exercise session a week.
+
+This is despite the NHS recommending that adults should do some type of physical activity every day, from moderate activity, such as brisk walking, to vigorous activity, like running.
+
+But every person has different needs and levels of ability, so it can be hard to know how much exercise you should be doing to reach your fitness goals.
+
+Personal trainer and director of KMAK Fitness, Kunal Makwana, tells The Independent what guidelines you can follow and apply to your training to achieve your fitness goals, while ensuring a balanced, safe and fun workout regime.
+
+How many days per week should you exercise?
+
+Although the NHS recommends doing physical activity each day, it doesn’t mean going for a 5km run or an intense high-intensity workout every single day.
+
+Makwana says: “Ideally you should try to train three to four times a week. If you can do a bit more, then great. However, I don’t think you need any more than that just because you need to spend time on recovery.”
+
+You can also spread exercise evenly throughout the week to avoid overdoing any vigorous activity and ensure you do not injure yourself while exercising.
+
+How long should your workouts be?
+
+It’s a common misconception that you should exercise for long periods of time if you want to get fit. However, working out for too long can lead to fatigue, which may result in injury if you are too tired to perform an exercise with the correct form or equipment.
+
+“Workouts should be no more than 90 minutes,” Makwana advises.
+
+“Ideally, 60 to 90 minutes is okay if you’re a busy professional. The goal should be to get in and out rather than spending two to three hours, which is not going to be productive for anyone in general, especially if you are busy.”
+
+What is a good way for a beginner to get into exercise?
+
+According to Makwana, weight training is a great way to get into exercising if you haven’t worked out before. This is also known as resistance or strength training, and uses weights to develop muscle strength.
+
+However, beginners should not attempt to start weight training on their own.
+
+“We would advise looking for classes to start off with,” Makwana says. “You get to be introduced to communities, be introduced to new friends and get some sort of direction at the same time.”
+
+Can you weight train two or three days in a row?
+
+It is not recommended that you carry out weight training for several days in a row because your muscles will need time in between workouts to recover.
+
+“We would recommend having at least a one-day gap in between training sessions so you can recover more efficiently, especially early in your journey,” Makwana says.
+
+He advises mixing weight training with cardio exercises, although you do not need to do cardio at the same time as weight training.
+
+How important is sleep to your fitness routine?
+
+“Sleep makes up 33 per cent of your life,” Makwana says, adding: “Therefore, sleep is absolutely crucial for your recovery if you want to get stronger, and better at your workouts.”
+
+A disrupted sleep cycle can also lead to food cravings, which can hamper efforts to lose weight, he says.
+
+Studies have shown that being deprived of sleep can change levels of appetite hormones in the body, which leads to increased hunger.
+
+How can you make sure you’re seeing results from your exercise routine?
+
+Once you have figured out your exercise goals and established a workout regime that works for you, Makwana says that the best way to get results is to “progressively increase your load each week”.
+
+This means “adding an extra rep or adding extra weight each week”, which is the quickest way to get better at your workout and see results.
+
+“You can really do that for years on end as a means of getting better with weight training,” he adds.

@@ -1,0 +1,13 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+SpaceX is today launching another batch of Starlink satellites from Space Launch Complex 40 at Cape Canaveral Space Force Station in California.
+
+A Falcon 9 rocket carrying 23 satellites will be launched, and it’ll take around 8.5 minutes for it to reach the droneship 342 miles above earth, marking Elon Musk’s company’s 263rd booster mission.
+
+Starlink provides satellite-based internet connectivity to areas of the planet that are not usually covered, or areas that have their internet connection impacted by factors such as war, and each satellite lasts around five years.
+
+As noted by SpaceX chief operating officer Gwynne Shotwell at the 36th annual Space Symposium in 2021, all Starlink satellites now have laser crosslinks that allow them to communicate with each other through data.
+
+There are currently over 3,000 Starlink satellites in space, and Elon Musk is hoping this is just the start.

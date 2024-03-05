@@ -1,0 +1,55 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Formula E returns this weekend with the first double-header of Season 10, with Saudi Arabia and Diriyah the location for a pair of night-time street races.
+
+In itself, that might mark it out as an important occasion in 2024 for the all-electric racing championship, especially given this year’s late calendar alterations make it heavily weighted in favour of weekend twins: the switch to Misano, Hyderabad off the list and Portland hosting an extra round means this term’s 16 races are comprised of six double-headers, against just four single rounds, one of which was the opener out in Mexico City.
+
+But there’s more at stake for FE this time than just needing to put back-to-back shows on, more overhanging the race than the push for points.
+
+There is, instead, momentum to maintain. Attention to keep captured. And, it must be said, a partnership to justify, announced in the lead-up to the Saudi Arabia E-Prix which links back to comments made two weeks ago by CEO Jeff Dodds. Back in Mexico, he spoke at length about a 17 per cent rise in viewership last season compared to the year previous, which while still showing growth, was actually slower compared to S7 to S8. He also reaffirmed the intention to keep FE “noisy” between races, to not just increase that overall audience but reach entirely new ones.
+
+In that regard – and in the very short-term – it appears mission accomplished to an extent, with Formula E announcing that the Mexico race saw a 29 per cent rise in UK TV audience and an all-time high of 3.4m US viewers. Only one race, true, and bolstered by Usain Bolt’s surprise appearance and racecar driving stunt but new streaming deals and a new domestic home on TNT Sports appear to have had a quick impact – now it’s all about keeping those viewers, which makes the first double-header of the season a vital one. But should that growth come at any and all costs?
+
+Another soundbite handed out in Mexico by Dodds was over the yet-to-be-announced commercial deals thrashed out in the off-season. One now has been made public.
+
+Formula E – along with fellow racing championship Extreme E and E1 powerboat racing – have signed an accord with Saudi Arabia’s Public Investment Fund (PIF), the financial vehicle which owns Premier League football side Newcastle United and the LIV Golf tour.
+
+Financial details of the agreement haven’t been officially released, but the Electric 360 deal is a ten-year one, The Race report, making it a considerable overhang for the future of FE, even if it hasn’t been presented as being imperative in the immediate present. “A huge milestone for us,” was founder Alejandro Agag’s assessment of the deal. An “innovative collaboration” to “supercharge growth”, was PIF’s own contribution.
+
+But the press release also pointed to “ambition with a focus on four pillars: inclusivity, sustainability, youth, and technology.”
+
+Saudi Arabia’s Crown Prince and Prime Minister Mohammed bin Salman at the G20 Leaders’ Summit (POOL/AFP via Getty Images)
+
+Formula E in Mexico City (Jed Leicester)
+
+Sustainability is obvious, given Formula E’s entire ethos, while there’s little doubting Saudi Arabia’s commitment to technology when looking at the planned urban area of Neom, the nation’s transition to becoming a digital hub and even the night race itself in Diriyah this weekend.
+
+But perhaps there’s work still to do on the pillar of inclusivity...to put it mildly.
+
+From questions of worker conditions for those building Neom city to “imminent risk of execution” of three Howeitat tribe members who were reportedly tortured and sentenced to death for resisting forced evictions, Saudi Arabia have a long and, for many, irredeemable history of violating human rights. The killing of Jamal Khashoggi in 2018 at the behest of the Saudi government remains the most referred-to instance, with the US intelligence reports concluding Mohammed bin Salman, the crown prince, had ordered the murder. He denies it.
+
+MBS, as he is known – also now the Saudi prime minister – is the chairman of the Public Investment Fund.
+
+Human Rights Watch further list PIF as “directly involved” in human rights abuses including extortion, “abusive treatment” and other financial-based interventions, removing assets from organisations and individuals and transferring them directly to within PIF’s sprawling structure. Amnesty International only last year declared that Saudi Arabia’s Personal Status Law “perpetuates male guardianship and...discrimination against women”, failing to deliver equal rights or protect women from domestic violence.
+
+Little of this suggests wholehearted commitment to inclusivity.
+
+And for all the unquestioned long-term importance of FE’s Girls On Track initiative, it also goes against the grain of just how much lasting impact they expect such on-the-ground processes to have.
+
+The huge and apparently endless Saudi investment in sport over the past few years, attracting events and new names to the nation, is part of an overarching and sustained plan to shed the image garnered by past actions. But questions are yet to be answered both on previous miscarriages of justice and on those which appear to continue.
+
+LIV Golf is one of the faces of PIF’s investment in sport (Getty Images)
+
+Formula E will soon sport PIF sponsorship banners through Electric 360 (Getty Images for Jaguar TCS Raci)
+
+It is why one of England’s biggest football clubs have had to face questions over sportswashing, why so many of golf’s biggest names have had to do the same. And while Formula E isn’t anywhere near the level of public awareness or financial involvement as those sports, they certainly claim to aspire to it – so there’s no reason why FE should escape needing to face the same line of questioning as to why aligning itself with PIF is the route chosen to take.
+
+Those conversations have to continue after the weekend, as it is the drivers and the on-track action which will have full focus now. Nissan’s Oliver Rowland set the fastest time in a chaotic FP1 session on Thursday but isn’t hanging his hat on a repeat trick.
+
+“I always enjoy driving here. We managed to make a few changes during the red flag and I’m quite happy with the car but the track has a long way to go so it’s a bit irrelevant,” he said. “There’s a lot of fast guys out there!”
+
+Maserati’s Max Gunther, meanwhile, is hoping to continue his good start after fourth in Mexico. “It’s one of the most complex and challenging venues we’ll race at in Season 10,” he said of the Diriyah track. “It’s a proper street circuit. The barriers are close, and it has a lot of blind corners, which rewards driver skill and confidence. The race is also the only night race of the year. This means we’ll need to contend with a lot of circuit conditions, not only with temperature changes from day to night but also with natural evolution from Thursday to Saturday.”
+
+Evolution has indeed always been paramount in Formula E’s history and is, by nature and design, part of its future. The latest decisions over the route that future will take, though, may require more than a mere weekend – or a weak – explanation.

@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly £400 billion is languishing in UK current and savings accounts earning 1% interest or less, according to analysis.
+
+Around £380.9 billion is estimated to be sitting in current accounts paying between nothing and 1% and instant access non-Isa savings paying 0.01% to 1%.
+
+The research, from Yorkshire Building Society and data consultancy CACI, also indicates there are nearly 13 million current accounts held in the UK with balances above £5,001.
+
+A survey for Yorkshire Building Society also found that more than half (55%) of savers have not compared the interest paid on their accounts in the past year.
+
+The Opinium survey was carried out among 2,000 people across the UK in October 2023.
+
+Loyalty does not always pay on savings accounts and the convenience of using a current account is costing consumers in interest they could earn elsewhere Rachel Springall, Moneyfactscompare.co.uk
+
+Nearly half (49%) of people surveyed said they had dipped into their savings in the past 12 months. The average amount that people felt they needed to be able to access right away was £4,000.
+
+More than half (53%) of people surveyed said they are happy with their provider.
+
+Separate figures from financial information website Moneyfacts show that on Wednesday this week, the average easy access savings rate on the market was 3.16% while the average one-year fixed savings rate was 4.76%.
+
+Chris Irwin, director of savings at Yorkshire Building Society, said: “Despite savings interest rates getting a lot of attention over the last year, following the significant increases in the (Bank of England base) rate, it’s surprising that there are still large pockets of people who are significantly missing out on savings interest – shopping around can now make a substantial difference to the returns available.
+
+“Keeping large amounts of funds in low-paying current accounts has become a costly mistake for millions.
+
+“It’s understandable to want to have money accessible for emergencies or even topping up everyday expenses, but with so many instant access savings accounts currently available in the market paying a much higher return, there has never been a better time to review the home of your savings.
+
+“Reviewing finances and savings can sometimes be an afterthought, with other things in life taking priority, however, the start of a new year provides the perfect opportunity to take a close look at your finances and increase awareness of your situation and from there look at how you could make small changes which add up to much bigger returns.”
+
+Rachel Springall, a finance expert at Moneyfactscompare.co.uk said: “Loyalty does not always pay on savings accounts and the convenience of using a current account is costing consumers in interest they could earn elsewhere, as many bank accounts pay little or no interest.”

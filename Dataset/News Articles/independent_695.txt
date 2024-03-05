@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Carlos Sainz admits it is “not the best feeling” at the start of 2024 after losing his Ferrari seat to Lewis Hamilton for next year.
+
+The Spanish driver will leave the Scuderia at the end of the 2024 F1 season, with seven-time world champion Hamilton crossing over from Mercedes to Ferrari to partner Charles Leclerc in 2025.
+
+It leaves Sainz, 29, without a seat for 2025 but he has been linked with replacing Hamilton at Mercedes, as well as potential spots at Red Bull and Stake (Sauber).
+
+Despite the disappointment, Sainz insisted he will remain focused on this year – his fourth and final year with Ferrari.
+
+“It’s certainly not the best feeling to start the season,” he told Sky Italia, at a karting event at Cremona in Italy.
+
+“But the moment I put on the helmet in Bahrain and take to the track, the only sensation I’ll feel will be the desire to go faster and faster and also aiming for victory in the world championship.”
+
+Sainz has won two races in his Formula 1 career, at Silverstone in 2022 and last year in Singapore, but is now on the hunt for his fifth team after previously racing for Toro Rosso, Renault and McLaren.
+
+The Spaniard’s deal expires at the end of the year and he says he knew an extension may not materialise.
+
+Carlos Sainz will leave Ferrari at the end of the 2024 season (Getty Images)
+
+“I’m fine, don’t worry,” he added. “I’m not disappointed. Experiencing Ferrari from the inside I already knew several things and I prepared myself with the team in view of future changes.
+
+“As I said, however, I don’t want to think about anything other than giving my all in the season that awaits me with Ferrari.
+
+“I’m calm. We know that we have a very important season ahead of us. This will be my last year in Ferrari, so I want to do the best I can: I’m also training with the karts to give my best when I’m on the track.”
+
+Sainz will be present next Tuesday (13 February) for the launch of Ferrari’s 2024 car, with the 2024 F1 season starting on 2 March in Bahrain.

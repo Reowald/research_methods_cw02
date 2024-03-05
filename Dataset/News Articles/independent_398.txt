@@ -1,0 +1,23 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Formula E have announced two operational changes aimed at improving their own future, both in terms of sustainability and for the weekend race experience.
+
+Relating to the former, the electric racing championship have confirmed a change in global logistics hub, meaning their base at Donnington Park in the UK will switch to the location of pre-season testing in Valencia, Spain.
+
+In future, the Ricardo Tormo Circuit will be the full-time development hub for FE offering extended test days and full-time storage, with the championship highlighting the close proximity of a major port giving them the potential to improve efficiency and sustainability of transporting race cars.
+
+It will also be FE’s technology development centre for future generations of race cars, with the Gen4 race vehicle expected to come into effect in 2027.
+
+Separately, a new youth racing championship will be incorporated into Formula E’s European leg of the current season, aimed at preparing up-and-coming drivers with new experiences and a potential pathway to future roles.
+
+The NXT Gen Cup is an electric racing series for juniors with both male and female drivers, this year competing on some of the same circuits the current FE drivers operate on.
+
+Drivers are aged 15 to 25 and Formula E stated upon confirmation of the link-up that it has added a “support series to help develop the next generation of young talent in key motorsport markets” while also being able to bring race-going fans “additional on-track action as part of the race-day spectacle”.
+
+NXT Gen racing (Formula E / NXT Gen)
+
+This season, the NXT Gen Cup will take place before FE races in Misano, Monaco, Berlin and the finale in London, subject to FIA approval, while two further races are included alongside DTM (German Touring Masters) series dates.
+
+Young drivers will typically get one or two practice sessions, a 20-minute qualification session and a 20-minute race in each location. The electric car utilised is based on a Mini Cooper SE road vehicle, built and adapted by Lestrup Racing Team.

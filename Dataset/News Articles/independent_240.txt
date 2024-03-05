@@ -1,0 +1,47 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+How much impact will it really have ?
+
+“We are now technically in a recession. But frankly, if we’re a few points above or below the recessionary line, this is mostly of interest to politicians and economists,” says Rajan Lakhani, personal finance expert at smart money app, Plum.
+
+“For everyone else, the facts remain the same: growth and productivity have been much lower than they should have been for many years. The effect on people’s finances is stark when you look at the bigger picture. In real terms, if the economy had continued to grow, households would be [much] better off, according to the Resolution Foundation.
+
+“Although there has been some ‘good’ news with wages rising in real terms and inflation overall remaining steady as food prices fell, services inflation has unfortunately continued to rise. You can see the impact of this when it comes to the everyday expenses of households.”
+
+Chris Davis, CEO of MoneyPlus Group, adds: “We know from our own data people are having to make their money stretch much further than before, and it’s putting pressures on households. This recession is expected to be shallow, but it’s no secret we are in a cost of living crisis and with inflation at 4%, household costs are continuing to rise.”
+
+Childcare costs still a concern
+
+Lakhani says: “We recently dug into childcare costs, an essential expense for many families, and found that 37% are now spending more than £200 a week on childcare, up from 29% in January 2023. This is an enormous increase, especially when you consider that the UK was one of the most expensive countries in the world for childcare before inflation started to bite, and is having a knock-on effect on the economy as many parents are forced to drop out of the workforce.”
+
+What about mortgages and rent?
+
+When it comes to mortgages and housing costs, it could be a mixed bag.
+
+“The Bank of England’s strategy to quell inflation – raising interest rates to their highest level in more than 15 years – has hit mortgage holders hard,” he says. “We haven’t yet seen the full impact of this yet as more than 1.6m people are due to remortgage this year and will have to pay higher rates than their current mortgage. House prices also fell again according to Bank of England, so people will be feeling less well-off and less likely to spend.
+
+“Following yesterday’s steady inflation reading, it looks more likely rate cuts are on the horizon. The markets are now forecasting a 75% chance of rate cuts by June, which will be some welcome relief for those with a mortgage. But less good news for those currently benefiting from higher interest rates on their savings.”
+
+Liz Hunter, director at Money Expert, says: “A recession may actually provide relief for those with mortgages who have been suffering with particularly high rates as inflation increased. As the cost of borrowing is reduced during a recession, banks and building societies often start lowering their own interest rates.
+
+“Unfortunately for renters, the cost of renting usually goes in the opposite direction and tends to remain high. Rent prices usually soar due to increased demand, as there are many people who may have sold their homes and need somewhere temporary to live until the economy and their finances improve.”
+
+Will it hit motorists?
+
+“Unfortunately for drivers already experiencing higher car insurance rates due to inflation, climate change and increased costs for insurers, a recession can push prices up even more,” says Hunter. “Insurance companies often invest their premiums, but recessions can cause these investments to lose value. To compensate for their losses, they could raise premiums.
+
+“To try and reduce premiums, if you’re due to renew, use a price comparison site to compare rates from multiple providers to find the best deal.”
+
+Will supermarket prices go up again?
+
+“Many people tend to curb spending during a recession, which leads to a fall in demand. However, the prices of food often stays the same due to inelastic demand [people need to eat regardless],” says Hunter. “Even if prices remain relatively stable, you could still make cutbacks to help your income go further. For example, with your food shopping, you could choose supermarket own brands, start buying in bulk, or plan your meals more thoroughly to reduce waste.”
+
+What should you do if you’re worried?If mounting living costs are leaving you with growing debt and anxiety, reach out for support sooner rather than later. “Our research shows talking about debt has become a taboo for many. We need to break this habit,” says Davis, noting there can be a lot of shame and stigma associated with debt.
+
+“We’ve found the majority of people feel better after talking about shameful topics, so it’s time to open up and tackle this properly,” he adds. “First and foremost, speak up. The average total debt per household, including mortgages, is around £65,510 according to the Money Charity. It’s important to know you’re not alone but that you can take action.
+
+“Look at how much you currently owe, your interest rates, payment plans and end dates. Once you’ve consolidated all this information, you’ll have a solid grounding to understanding what you can afford to pay back.”
+
+Charities such as Step Change and Citizens Advice can provide guidance, and it’s always worth speaking to your bank and providers to see how they could help too.

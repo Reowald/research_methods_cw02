@@ -1,0 +1,47 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+An insurance giant is warning it has seen a jump in customer claims related to batteries commonly found in rechargable devices such as mobile phones, tablets and power tools.
+
+Aviva said claims have included a significant house fire started by an e-cigarette being charged with an incompatible charger, extensive fire damage to a house after an e-bike with a second-hand battery was left charging unattended in a bedroom, and a phone which exploded during charging after getting wet.
+
+It said a fire also started in a garage after a faulty charger was used to power up a remote control car.
+
+Many people will have received new gadgets for Christmas.
+
+The insurer said one man, from the Isle of Wight, was at home when his headphones exploded.
+
+Within seconds both the headphones and the battery case exploded
+
+He told Aviva: “I was charging my headphones next to me on the sofa and without realising, accidentally plugged them in using an incorrect charger. The light didn’t illuminate properly, but I still thought they were charging.
+
+“After about five minutes, the headphones started smoking and within seconds both the headphones and the battery case exploded. The metal and plastic from the headphones then melted to the sofa and set it ablaze.
+
+“Luckily, I was able to put the flames out, but I had a shock and have been left with a burn hole in my sofa. I dread to think what would have happened if I had been asleep or was not in the property, as there is no doubt the sofa and house would have gone up in flames.”
+
+Aviva analysed internal data for fires claims with words such as “battery” and “rechargeable” between the start of 2022 and the end of 2023.
+
+It found a 7% increase in claims, when comparing 2022 with 2023.
+
+These batteries can present a significant fire risk if the battery fails, is faulty, or is charged incorrectly Hannah Davidson, Aviva
+
+Hannah Davidson, a senior underwriting manager at Aviva, said: “For the majority of people, devices powered by lithium-ion batteries such as mobile phones, laptops, power tools, and e-bikes are safe to use. However, these batteries can present a significant fire risk if the battery fails, is faulty, or is charged incorrectly.
+
+“Likewise, with consumers buying lithium-ion batteries and lithium-powered devices from second-hand retailers or sellers, there is increased potential for batteries to be damaged or faulty on purchase, for the battery in the device to be different to the original, or for the charger supplied with the device to be the incorrect charger.”
+
+Here are Aviva’s tips for safely using batteries:
+
+1. Use the original battery for the device or a manufacturer-recommended battery if a replacement is needed. Using non-compatible batteries can cause the battery to fail and can be a fire risk.
+
+2. Monitor the condition of the battery or device. Check for damage including bulging, dents, or signs of overheating. If you notice any damage, stop using the device immediately and replace the battery.
+
+3. Store batteries and devices safely. When not in use, store devices in a cool, dry place away from direct sunlight and flammable materials.
+
+4. Ensure you have smoke alarms installed at your property. Early warning systems such as smoke alarms and heat alarms can alert you to fires before they become a serious threat to life.
+
+5. Avoid overcharging the battery. Disconnect your device when it is fully charged and unplug the charger. Leaving items on charge continuously, such as overnight while sleeping, can be a significant fire hazard.
+
+6. Charge batteries and devices in a safe location. Charge on a flat, non-flammable surface and avoid charging batteries or devices on soft surfaces such as beds, or close to flammable materials and hazardous substances. Avoid charging batteries or devices in hallways, doors or blocking escape routes.
+
+7. Parental supervision while using and charging devices can help prevent unsafe practices, alongside charging items outside of bedrooms.

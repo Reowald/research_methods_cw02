@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Demand for financial help online jumped by 34% in the first week of 2024 as the nation grapples with rising debt and the cost-of-living crisis, a Government-backed service has reported.
+
+The Money and Pensions Service (MaPS) said that in the first week of January, MoneyHelper’s Money Troubles pages received 10,187 hits, up from 7,625 the week before Christmas Eve.
+
+Between January 1 and 7, the website had 8,924 unique visitors, a 37% jump compared to December 17 to 24. Page views also increased by 48%, reaching 20,027.
+
+MoneyHelper is a service supported by the Government that provides free assistance and advice on a wide range of financial topics to anyone who needs it.
+
+People up and down the country are set to face some difficult times this year. As these figures show, for many these have already begun Charlotte Jackson, MaPS
+
+The most visited pages were “dealing with debt” and “help with the cost of living”, there was also high usage of “emergency help with money and food” and “dealing with county court judgments (CCJs)”.
+
+The most popular search terms during this period included “scams”, “debt relief order” and “bankruptcy”. “Breathing space”, a scheme designed to give people time legal protections while they get debt advice, also featured prominently.
+
+Charlotte Jackson, head of guidance services at the MaPS, said: “People up and down the country are set to face some difficult times this year. As these figures show, for many these have already begun.
+
+“When things get tough, we all need to know there’s somewhere to turn. If you’re worried you can’t make ends meet, your debts are starting to spiral or you need help with important money decisions, we offer that first port of call.
+
+Money troubles negatively affect your life in lots of ways, but the solution begins with that initial step. I’d urge anyone who’s in difficulty to start that journey today Charlotte Jackson, MaPS
+
+“Our free MoneyHelper service offers in-depth guides, dedicated tools and information on specialist help so you can get the support you need quickly.
+
+“Money troubles negatively affect your life in lots of ways, but the solution begins with that initial step. I’d urge anyone who’s in difficulty to start that journey today.”
+
+It seemed demand for financial assistance was set to continue well into 2024. In the first two weeks of January, there was a 23% increase in visits compared with the two weeks leading up to Christmas Eve.
+
+The total visitors also increased by 25% (18,384 compared with 14,719), and there was a 34% rise in page views (41,490 compared with 30,917).

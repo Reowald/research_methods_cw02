@@ -1,0 +1,237 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+For travellers battling jet lag, looking to soothe sore muscles after a day’s sightseeing or for those who simply love a calming jacuzzi soak, checking into a hotel that has a hot tub can help make a getaway that little bit more special, no matter when you’re travelling.
+
+The good news is there’s a raft of London hotels that have bubbling whirlpool baths, ranging from rooftop hot tubs with a party vibe to those that offer complete escapism from London’s busy streets in tranquil hotel spas and picturesque gardens.
+
+But with so many options available, it can be tricky to know where to start the search and which ones will offer the best experience for your trip to England’s buzzy capital. Fear not, as we asked hotel expert Ianthe Butt to round up 10 of the best London hotels with hot tubs. Keep reading to find out which ones made the list.
+
+The best London hotels with hot tubs are:
+
+Best for rooftop soaks: Karma Sanctum Soho
+
+Neighbourhood: Soho
+
+The roof terrace is perfect for summer sunbathing (Karma Sanctum Soho)
+
+Open 24/7, this roof terrace hot tub at Soho’s original rock ’n’ roll hotel on Warwick Street – owned by the mangers of Iron Maiden and nightclub impresario Mark Fuller – has a hedonistic feel. Elevated from the lounge area, and surrounded by loungers, in the summer it’s a great place to sunbathe, while a retractable roof covering ensures autumnal and wintertime soaks remain an attractive prospect.
+
+Once done with dipping, there are 30 rooms in which to bed down – including two rooftop suites, if you don’t want to be far from the tub – plus a casual Japanese restaurant helmed by Garry Hollihead, and an underground cocktail bar.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for unique treatments: Montcalm East, Autograph Collection
+
+Neighbourhood: Shoreditch
+
+This spa even offers tarot card readings (Booking.com)
+
+Ringed by mosaic tiles, this circular hot tub at the calming Bokeh Spa at Shoreditch cool-cat Montcalm East sits next to a 12x4m swimming pool, making it ideal for alternating hot tub time with laps. As well as having a fitness centre, sauna and steam room, the spa offers a diverse range of experiences, from tarot readings to reflexology, and has a partnership with CBD wellness brand OTO, which spans Amplify massages – using bamboo rollers and crystals – through to post-treatment CBD botanical seltzer drinks.
+
+Bedrooms, with unusual diagonal-shaped windows, have interiors that riff on its arty East London locale, while communal areas feature street-art-inspired murals and bookshelves lined with hip Hoxton Mini Press books and MagCulture-curated magazines.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for hot and cold therapy: K West Hotel & Spa
+
+Neighbourhood: Shepherd’s Bush
+
+You can relax in the large, bubbling hydrotherapy pool (K West Hotel & Spa)
+
+Sometimes a hotel’s hydrotherapy offering can feel like an afterthought; not so at K Spa, the sprawling underground space at K West Hotel & Spa in Shepherd’s Bush. The property’s wet spa area is centred around a large, bubbling hydrotherapy pool. The ultimate tension relaxer, it has two stainless steel recliners sitting below the water, meaning you can lie horizontally while water jets hit pressure points across the body, taking in views of a ceiling peppered with twinkling lights.
+
+Adding to the experience is an aromatic herbal steam room and Scandi-style sauna. There’s also a snow room kept at a teeth-chattering -15C. Alternating between hot and cold environments, Finnish-style, it’s hard to believe you’re in the heart of Shepherd’s Bush, with the hubbub of Westfield on the doorstep.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for a city oasis: Richmond Harbour Hotel & Spa
+
+Neighbourhood: Richmond
+
+After a long stroll in Richmand Park, this is the perfect place to unwind (Richmond Harbour Hotel & Spa)
+
+Fancy enjoying the great outdoors as you relax in a hot tub? Moments from the wide expanses of Richmond Park – one of London’s prettiest green spaces – Richmond Harbour Hotel’s lush, foliage-draped ‘secret garden spa,’ is the one to pick. Soak in two Scandi-style steamy wooden hot tubs, and an al-fresco hydrotherapy pool, and laze on comfy day beds before heading inside for a swim in the 20m pool.
+
+Plus, there’s a sauna, steam room and roster of Temple Spa treatments too. The hotel dates from the 18th century but, thanks to a recent revamp, has a thoroughly modern feel, and – despite having 90 bedrooms – manages to retain an intimate atmosphere.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Richmond Harbour Hotel & Spa here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for architecture-lovers: St Pancras Renaissance Hotel
+
+Neighbourhood: St Pancras
+
+Expect a hefty dose of golden-age railway glam (Marriott)
+
+A red-brick, Gothic masterpiece, The St Pancras Renaissance Hotel is an architectural icon. Fittingly, the property’s subterranean spa packs a heavyweight design punch too. Housed in the original steam kitchen, there’s a cobalt blue hydrotherapy pool with inbuilt loungers and bubble jets at one end. Meanwhile, walls clad in terracotta-coloured zellige tiles; peacock motifs; plump circular chairs with burgundy cushions, and potted plants with leggy fronds all create a Moroccan look.
+
+In the hotel itself, expect a hefty dose of golden-age railway glam, opulent bedrooms, that grand sweeping staircase and destination restaurant Booking Office 1869.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of St. Pancras Renaissance Hotel London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for serene soaks: Mandarin Oriental Hyde Park
+
+Neighbourhood: Knightsbridge
+
+Enjoy lush bathrooms and Michelin-star dining (Mandarin Oriental)
+
+Pairing a sultry slate-grey palette with a 17m twin-lane stainless steel pool and flickering fireplace details, Mandarin Oriental Hyde Park’s spa has more than a touch of James-Bond-on-downtime to it. Hot-tub fans should make for the vitality pool, which has an inbuilt stone lounging chair, water heated to 38C and massage jets to help loosen stiff muscles.
+
+If you have cash to splash, book a high-end treatment – think Bastien Gonzalez mani-pedis, OTO CBD re-energising massages and oxygen facials – and do supper at Michelin-starred Dinner by Heston Blumenthal, or The Aubrey, a more casual Japanese izakaya.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for exclusivity: Bulgari Hotel London
+
+Neighbourhood: Knightsbridge
+
+The Bulgari Hotel has the most extra design of all hot tubs on this list (Bulgari Hotel London)
+
+Covering a whopping 2,000m², the Bulgari Hotel sits firmly in the heavyweight category when it comes to impressive London hotel spas. The bubbling vitality pool at this Knightsbridge property is a thing of beauty, and by far the most extra design of all the hot tubs on this list.
+
+Inspired by the Byzantine mosaics of Venice, it’s tiled in gold-leaf glass mosaic, and is packed with a variety of massage jets designed to pep up even the most tired muscles. Oh, and a mini waterfall creates extra wow too.
+
+Swanky soak ticked off, there’s also a collonaded 25m pool (kids are allowed in from 8-10am and 4-6pm), a clutch of curtained cabanas and treatments such as shiatsu and Augustinus Bader facials.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for packages: The Landmark
+
+Neighbourhood: Marylebone
+
+Spa packages may include afternoon tea in the hotel’s striking Winter Garden (The Landmark London)
+
+The bubbling hot tub at this five-star property in Marylebone is lit by calming, ice-blue lighting, and sits next to a 15m heated swimming pool – the tub and pool are both chlorine-free. Those with knotted necks can enjoy an extra pummelling, courtesy of the tub’s swan-neck feature, a sanarium and an aromatherapy oil-scented relaxation room.
+
+Close to Regent’s Park and vintage emporium Alfies Antique Market, if you can’t stretch to an overnight stay, there is a variety of excellent-value spa offers, which range from two-hour spa sessions to those that include mini treatments and afternoon tea in the hotel’s striking palm-filled Winter Garden.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for a warm welcome: The Athenaeum Hotel & Residences
+
+Neighbourhood: Mayfair
+
+While it’s not the largest spa, the friendly staff go the extra mile (The Athenaeum Hotel & Residences)
+
+The Spa at The Athenaeum in Mayfair might be small but it nails urban cool, with a long, wooden-fronted rectangular hot tub, sauna, steam room and two treatment rooms. While it’s not the largest of London’s hotel spas, by any stretch, friendly staff here go the extra mile, with talented therapists delivering a raft of excellent Temple Spa treatments.
+
+Elsewhere, hotel interiors are packed with Art Deco touches, and relaxing bedrooms – designed by Martin Hulbert – have comfy Hypnos mattresses, calming copper and teal colour palettes, along with herringbone and fringed touches.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for glamour: 45 Park Lane
+
+Neighbourhood: Westminster
+
+This 930m² wellness space offers a hot tub, sauna and more (45 Park Lane)
+
+Just when you thought this art-filled, residence-style hotel on Park Lane opposite Hyde Park couldn’t get more swish, along comes a smart new 930m² wellness space to ramp things up a notch. As well as being home to a blissful, bubbling hydrotherapy hot tub, sauna, steam rooms and 20m swimming pool, the spa cleverly combines mirrored walls, timber touches and warm lighting with a joyful rush of floral Jouin Manku-designed mosaics.
+
+Plus, there are treatments by Valmont and Aromatherapy Associates, a relaxation lounge with an open fireplace to curl up in afterwards, and tempting bites by chef Elliott Grover.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more on England travel:

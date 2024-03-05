@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of current account customers ditching and switching their bank or building society reached a record high in the final quarter of 2023, according to the Current Account Switch Service (Cass).
+
+Between October and December 2023, Cass facilitated 433,701 switches, the highest quarterly total recorded since the service launched more than a decade ago.
+
+The latest figures take the total number of switches since the service launched in September 2013 to 10.2 million.
+
+Account holders may be attracted by switching incentives and promotional offers as well as particular services that more suit their needs, the service suggested.
+
+Cass was launched to help take the hassle out of switching current accounts. Payments are automatically moved to the new account and a guarantee means that if something goes wrong with the switch, the account holder is not left out of pocket.
+
+The latest Cass figures once again confirm that offering a cash incentive drives new business Andrew Hagger, finance expert
+
+In November 2023, 162,637 personal, small business and charity accounts were switched – the highest monthly number ever recorded.
+
+Data also showed that from July to September 2023, NatWest had the highest net switching gains from those using Cass to switch, at 59,158. This was followed by HSBC UK (25,037), TSB (15,754) and RBS (6,382).
+
+At the other end of the spectrum, Santander made 27,604 net switching losses between July and September, while Barclays made net switching losses of 24,103. The figures do not include current accounts switched outside the scheme.
+
+Andrew Hagger, a personal finance expert from Moneycomms.co.uk said: “The latest Cass figures once again confirm that offering a cash incentive drives new business.”
+
+He added: “HSBC and NatWest offered £200 (to switch) for much of 2023 and is reflected in their strong performance in 2023.”
+
+Alastair Douglas, chief executive of TotallyMoney said: “The number of switching offers has tailed off in 2024 … whether this is just a lull or maybe the beginning of the end for cash incentives, time will tell, but without the incentives it’s highly likely that switching numbers will fade.”
+
+Following another year of high switching volumes, those considering a new current account should be comforted by the fact that the service has facilitated over 10 million switches through a quick, free and easy process John Dentry, Pay.UK
+
+John Dentry, product owner at Pay.UK, owner and operator of Cass, said: “Once again, the run-up to the Christmas period proves itself to be an important time for switching current accounts.
+
+“It’s encouraging to see more consumers and businesses utilising the service to take advantage of a healthy banking market and ultimately find a current account that best serves their needs.
+
+“As interest rates appear to be stabilising, it will be interesting to see how the market develops. Despite higher interest rates, cash incentives and other financial benefits, online and mobile banking still continues to be the most significant reason that consumers prefer their new current account.
+
+“Following another year of high switching volumes, those considering a new current account should be comforted by the fact that the service has facilitated over 10 million switches through a quick, free and easy process.”

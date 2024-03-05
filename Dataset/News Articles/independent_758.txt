@@ -1,0 +1,49 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Graphene, a “wonder material” that could help solve some of humanity’s deepest problems, has cleared a major hurdle towards practical uses.
+
+Graphene is the world’s thinnest, super-strong and super-flexible material. It could have dramatic applications in everything from engineering tissue to making new kinds of technological devices.
+
+However, scientists have been concerned that it could cause damage to human health, which could cause significant problems for its practical use.
+
+(AFP via Getty Images)
+
+Now researchers say that inhaling the substance does not seem to have any short-term adverse effects on the lungs or cardiovascular function.
+
+It marked the first controlled exposure clinical trial of its kind, which used ultra-pure graphene oxide, which is a water compatible form of the material.
+
+The researchers recruited 14 volunteers to take part in the study, who breathed in the material through a face mask for two hours while cycling in an exposure chamber.
+
+Effects on the lungs, blood pressure, blood clotting and inflammation in the blood were monitored, before the exposure and at two-hour intervals.
+
+The volunteers returned two weeks later for further experimentation.
+
+Researchers concluded there were no negative effects on the lungs, blood pressure or all other areas examined.
+
+They did notice a slight suggestion that inhalation of the material can change how the blood clots, but emphasised this was “very small”.
+
+Researchers said they would need to further experiment with the substance to see if longer exposure poses a risk to health, and if other forms of graphene are dangerous to humans.
+
+Graphene was first synthesised in 2004 by scientists, who hailed the substance a “wonder” material.
+
+It is a form of carbon, consisting of a single layer of atoms in a hexagonal lattice.
+
+Scientists around the world are actively studying graphene to see if it can assist with cancer and other health conditions.
+
+Dr Mark Miller, of the University of Edinburgh’s Centre for Cardiovascular Science, said: “Nanomaterials such as graphene hold such great promise, but we must ensure they are manufactured in a way that is safe before they can be used more widely in our lives.
+
+“Being able to explore the safety of this unique material in human volunteers is a huge step forward in our understanding of how graphene could affect the body.
+
+“With careful design we can safely make the most of nanotechnology.”
+
+Professor Kostas Kostarelos, of the University of Manchester and the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, added: “This is the first-ever controlled study involving healthy people to demonstrate that very pure forms of graphene oxide - of a specific size distribution and surface character - can be further developed in a way that would minimise the risk to human health.
+
+“It has taken us more than 10 years to develop the knowledge to carry out this research, from a materials and biological science point of view, but also from the clinical capacity to carry out such controlled studies safely by assembling some of the world’s leading experts in this field.”
+
+Professor Bryan Williams, chief scientific and medical officer at the British Heart Foundation, said: “The discovery that this type of graphene can be developed safely, with minimal short-term side effects, could open the door to the development of new devices, treatment innovations and monitoring techniques.
+
+“We look forward to seeing larger studies over a longer timeframe to better understand how we can safely use nanomaterials like graphene to make leaps in delivering lifesaving drugs to patients.”
+
+Additional reporting by agencies

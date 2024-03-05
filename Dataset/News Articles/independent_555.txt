@@ -1,0 +1,57 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Japan is in contact with its newly arrived Moon lander, but it appears to be having technical problems, the country’s space agency has said.
+
+The country sent its “Slim” spacecraft to the lunar surface, with the hope of becoming only the fifth country to successfully land on the moon. The lander arrived early on Saturday morning Japanese time, it said.
+
+Since then, the spacecraft has been communicating with Earth but its solar panels are not generating electricity – and its batteries are rapidly running out, it said.
+
+The Japan Aerospace Exploration Agency (JAXA) did not know exactly why the solar panels were failing. It may be a result of the solar panels themselves failing but it might also be a result of the spacecraft landing at the wrong angle so that the panels did not face the sun, it said.
+
+Journalists wait for an update on the success of the moon landing at JAXA’s Sagamihara Campus near Tokyo (Eugene Hoshiko/AP)
+
+JAXA suggested that Slim is unlikely to stay online and that it was instead “maximising the amount of science” it is able to gather from the moon before its batteries run out.
+
+It also said it was also working to gather as much data as possible on whether the moon lander might be able to come back online. An update will be provided next week.
+
+The space agency also hopes to gather more information to find out whether the spacecraft had successfully landed on its very precise target. Japan has referred to the Slim spacecraft as the “moon sniper” because it aimed for a 100-metre-radius target, rather than the usual kilometres.
+
+JAXA said it considered itself to have successfully made a “soft landing” on the surface since most of the spacecraft’s instruments were still working. If it had failed then its functions would have been lost completely, it argued.
+
+If Slim had landed successfully, Japan would have become the fifth country to accomplish the feat, after the United States, the Soviet Union, China and India. It was launched on a Mitsubishi Heavy H2A rocket in September and it initially orbited Earth before entering lunar orbit on December 25.
+
+Many countries and private companies have attempted their own landings and failed. The most recent came last week when a private space company, Astrobotic Technology, launched its Peregrine mission – which failed due to a fuel leak in space and it fell back down to Earth to burn up in the atmosphere.
+
+As the Slim spacecraft descended, JAXA’s mission control said that everything was going as planned and later said that Slim was on the lunar surface. But, after it was supposed to have arrived, there was no mention of whether the landing was successful.
+
+Mission control kept repeating that it was “checking its status” and that more information would be given at a news conference.
+
+A SpaceX Falcon 9 rocket launches from Cape Canaveral Space Force Station, Florida, in 2022 (AP)
+
+At that news conference, JAXA representatives confirmed that communications had been made but that the spacecraft appeared to be losing power.
+
+Slim started its descent at midnight on Saturday, and within 15 minutes it was down to about 10 kilometres above the lunar surface, JAXA said.
+
+At an altitude of five kilometres, the lander was in a vertical descent mode, then, at 50 metres above the surface, Slim was supposed to make a parallel movement to find a safe landing spot, JAXA said.
+
+About half an hour after its presumed landing, JAXA said that it was still checking the status of the lander. It was aiming to land near the Shioli crater, close to a region covered in volcanic rock.
+
+Slim is a lightweight spacecraft about the size of a passenger vehicle. It was using “pinpoint landing” technology that promised far greater control than any previous moon landing.
+
+While most previous probes have used landing zones about 10 kilometres wide, Slim was aiming at a target of just 100 metres.
+
+The project was the fruit of two decades of work on precision technology by JAXA and the mission’s main goal was to test new landing technology that would allow moon missions to land “where we want to, rather than where it is easy to land”, JAXA has said.
+
+Experts say that if Slim’s pinpoint landing was a success, especially on the moon, it would raise Japan‘s profile in the global space technology race.
+
+Slim was carrying two small autonomous probes – lunar excursion vehicles LEV-1 and LEV-2 – which were released just before landing.
+
+LEV-1, equipped with an antenna and a camera, recorded Slim’s landing. LEV-2 is a ball-shaped “rolly polly” rover equipped with two cameras, which will take pictures and transmit them back to Earth.
+
+Japan aims to regain confidence in its space technology after a number of failures. A spacecraft designed by a Japanese company crashed during a lunar landing attempt in April, and a new flagship rocket failed its debut launch in March.
+
+However, JAXA has a track record of achieving difficult landings. Its Hayabusa2 spacecraft, launched in 2014, touched down twice on the 900m-long asteroid Ryugu, collecting samples that were returned to Earth.
+
+Additional reporting by agencies

@@ -1,0 +1,77 @@
+These appear within the official Booking messaging system
+
+We have seen scam messages asking users to pay to 'confirm' a booking
+
+Customers booking holiday accommodation on the website Booking.com are urged to be aware of scammers impersonating genuine hotels.
+
+This is Money has seen messages from fraudsters which appeared on the site's secure messaging portal, asking them to make payments to secure a reservation.
+
+A reader alerted us to the message, which he received when he was exchanging messages with the owner of a hotel he had booked for an upcoming trip.
+
+Imposters: Fraudsters are infiltrating messages between hotels and their customers on the Booking.com website, and asking them for extra payments
+
+This is similar to a previous Booking.com scam reported in October 2023, when a number of travellers also said they had received fraudulent messages asking for payment.
+
+In the new case, the reader had exchanged several genuine messages with the hotel they had booked via Booking's internal messaging system.
+
+These also came through as alerts to their personal email account, which was linked with their Booking profile.
+
+This meant they appeared as coming from the address, 'noreply@booking.com'.
+
+Usually, messages can only be exchanged between customers and representatives of hotels they have booked on the platform.
+
+As travellers will often share contact details and travel itineraries, the messaging system is supposed to be secure and not accessible by third parties.
+
+But the reader showed us a message that appeared within this chat thread which had all the hallmarks of a scam.
+
+It read: 'Booking may be canceled [sic] due to an unknown error if you do not follow a few simple steps. Please verify you reserve'
+
+It also included the booker's full name, and asked them to click a link to a third-party website where they could 'confirm' their booking.
+
+The website address was not associated with either Booking or the hotel, and seemed to be trying to rope the reader into a scam.
+
+This could have been a phishing scam, where fraudsters get people to hand over their personal details by false means – in this case by getting them to enter their name, address and bank details into a website which would feed it directly to the scammers.
+
+They could then use this to get into the person's accounts and spend or transfer out their money.
+
+The website could also have been a spoof of the hotel's website which asked the booker to transfer an amount of money in order to 'confirm' the booking, which would instead be sent directly to the scammers.
+
+The website address in question did not look official and included a jumble of random numbers, which is another hallmark of a scam.
+
+Fake: Booking.com says that the scammers have accessed a 'small fraction' of hotels' accounts, meaning they are able to send the messages to customers
+
+It is important to check the address of the website you are being asked to visit, as this is often what gives the game away. This can be done by hovering over the link without clicking.
+
+Thankfully, the reader in this case spotted the scam for what it was and did not click the link.
+
+However, it highlights the risk to other travellers who might mistake something like this for a real payment request.
+
+Some hotels on the platform only ask for payment on or shortly before arrival, rather than in advance, which could make the idea of a 'confirmation' payment seem more legitimate.
+
+This is Money asked Booking how this was able to happen and whether its secure messaging system had been breached.
+
+The firm denied that the scammers had managed to infiltrate its website.
+
+Instead, it said the fraudsters were targeting hotels in order to gain access to their Booking accounts.
+
+This would allow them to message customers pretending to be hotel staff and then ask for payments.
+
+A spokesman said: 'We were sorry to hear about the case of the customer you brought to our attention. As we previously confirmed, there has not been a security breach on the side of Booking.com.
+
+'Some of our accommodation partners have been directly targeted by very convincing phishing tactics, led by professional cyber criminals, encouraging them to click on links or attachments, which in turn has resulted in malware being loaded onto their machines, and in some cases giving unauthorised access to their Booking.com account.
+
+'This then enables these professional fraudsters to impersonate the accommodation and communicate with guests via email or messages.'
+
+What to do if YOU spot a suspect message
+
+Booking said that it had made efforts to try and combat the scam since it was first brought to light last year.
+
+It also gave advice for what customers should do if they spot a suspicious message.
+
+If a customer has concerns about a payment message, we encourage them to carefully check the payment policy details outlined on the property listing page and in the booking confirmation Booking spokesman
+
+The spokesman added: 'While this was not a breach of Booking.com, and the actual numbers of accommodations affected are a small fraction of those on our platform, we have made significant investments to limit the impact, putting new measures in place to protect our customers and support our partners, as the scam has evolved.
+
+'If a customer ever has any concerns about a payment message, we encourage them to carefully check the payment policy details outlined on the property listing page and in the booking confirmation.
+
+'Customers can also report messages to us via our customer service team, or by clicking on 'report an issue,' which is included in the chat function, where we also have clear guidance for customers on how to avoid suspicious activity.'

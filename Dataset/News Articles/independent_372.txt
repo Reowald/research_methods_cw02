@@ -1,0 +1,21 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Antoine Dupont is set to make his rugby sevens debut for France after being named in the travelling squads for SVNS events in Vancouver and Los Angeles.
+
+Dupont has elected to skip the Six Nations to instead chase gold on home soil this summer in the shorter format at Paris 2024.
+
+The scrum-half, who has been in fine form for Toulouse after bouncing back from the disappointment of the World Cup, has been named in a 14-man squad to travel to North America.
+
+There are five events left in the inaugural season of the revamped SVNS series, culminating in a finals weekend in Madrid in the summer, before Olympic competition begins at the Stade de France on 24 July.
+
+Dupont has been training with his new squadmates over the past month, but has admitted that the switch will pose challenges.
+
+“We’re going to have to make some adjustments,” the France captain said in November. “I’m not going to be able to play every match, every weekend, until the end of the season.
+
+“I’m going to have to make sacrifices to spend time with this team and get used to this special game and discipline. When I see the effort that this discipline requires, it’s going to take me some time to adapt, that’s for sure.”
+
+France’s men have struggled on the series so far this season, sitting seventh in the standings after three events.
+
+Argentina are top of the men’s table after back-to-back wins in Cape Town and Perth, while Australia have a 12 point lead in the chase for the women’s title ahead of the North American swing.

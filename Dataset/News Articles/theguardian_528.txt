@@ -1,0 +1,61 @@
+Two years ago, I built my first PC – let’s just say it did not go smoothly. After painstakingly constructing the entire machine, nothing happened when I switched it on. After several hours of disassembly and expletive-laden research, I discovered the motherboard needed a firmware update. I learned a lot that day, and after a few months of recovery, went on to build a couple more machines relatively painlessly.
+
+Now, with the economy flatlining and the cost of living high, I wanted to build another, a more budget-minded machine that wouldn’t be too nightmarish to put together, and would play most of this winter’s biggest games at respectable performance settings. The PC I put together is not cheap, but it performs very well and will still cope with next year’s blockbuster releases. Whatever specs you go for, building it yourself is the most cost effective way to do it, and you get a great sense of achievement. As long as it works. Which it will, if you follow these handy hints.
+
+Before you start, make sure you’re all set up to build on a PC safely. You need a large table because you will have components everywhere. And don’t build on a carpet or indeed near any material that could generate static. Static is your enemy. There are only two tools you really need: a decent Philips screwdriver (size 0 or 1 should do it), preferably with a magnetic tip and a long shaft, and a pair of long-nose pliers for when you drop a screw behind the motherboard. I’d also advise a powerful flexible lamp, maybe even a head lamp. No one said you were going to look cool doing this.
+
+View image in fullscreen A great sense of achievement. As long as it works. Photograph: Keith Stuart
+
+The considerations
+
+Building a budget gaming machine is all about compromises and where you’re willing to make them. At a basic level, you’ll need to decide if screen resolution (how much detail there is in the graphics) is the most important thing to you or refresh rate (how smoothly a game moves, measured in Hz). If you want astonishing visual fidelity, you want a machine that can deal with 1440p or even 4K resolution, but that might mean running games at a lower refresh rate which will make them look choppy. Most experts I spoke to said it’s better to aim for balanced performance, with your GPU (graphics processing unit) and CPU (central processing unit) comparable in price and abilities. That way there are no bottlenecks in your system. I’d say for a budget machine you should be aiming for specs that can handle 1080p screen resolution and 60-144 Hz refresh rate.
+
+The parts
+
+A PC is built from these basic components: a motherboard, a CPU, a GPU, system memory, a hard drive or SSD (solid state drives), a power supply unit (PSU) and a case. These days, parts are designed to be highly interoperable, but the invaluable website PC Part Picker will help you to spot compatibility issues.
+
+The motherboard is the central nervous system of your PC – everything connects to it, and there are various sizes, with different ports and connections (I recommend reading a good guide for more info). For my build, I chose the extremely good MSI Mag B760 Tomahawk motherboard, which is comparatively cheap but offers three slots for M2 SSDs and lots of other ports, as well as really comprehensive software for analysing the performance of your machine. It also comes in a cool matt black finish if you’re into motherboard aesthetics, which we all are. As for the CPU/GPU combo, I went with Intel and Nvidia this time as I used all AMD parts in my last build (which is still a fine setup). I decided on an Intel Core i5-13400F (which PC Gamer recently rated the best budget gaming CPU), a 10-core beast with truly impressive processing speeds and lower power consumption than many competitors. It will serve you well for several years.
+
+For the GPU I opted for a (deep breath) MSI Ventus 2X Nvidia Geforce RTX 3050. I went for an MSI card to match my motherboard, and because its components have always been reliable for me in the past. Lots of manufacturers make their own RTX 3050-based cards, so look out for offers. This GPU offers very decent visual performance for the price, though you’re looking at running modern games at 1080p resolution rather than 1440p if you’re keeping graphics setting at the higher end. You could opt for the RTX 3060, which is £70 more expensive, but gives a noticeable boost in performance. And actually, when you study Steam’s hardware review, a monthly look at what Steam users are using to play games on, the most common GPU remains the GeForce GTX 1650, which costs around £140. Anyway, I’m really happy with the MSI Ventus 2X, which is handling games such as Apex Legends, Resident Evil 4 and Baldur’s Gate exceptionally well, with fluidity and lots of visual detail, as long as I don’t put all the graphics settings up to max.
+
+For the case and the PSU, I went for the German manufacturer Be Quiet! because I like a hushed well-ordered environment. I got a Pure Base 500DX case, which has a very roomy, well-designed interior, making it easy to slot in all the components and wires. It also comes with built-in fans, some nice, subtle RGB lighting and a lot of screws and accessories. If you’re new to building, believe me, size matters: a big case is a good idea when you’re cramming in a full-size motherboard, GPU and CPU, then attaching all the teeny wires. I’d advise attaching the CPU to the motherboard before you fit it in the case, then slot the many internal power cables on to the MB before adding the GPU. You also need to make sure you have the right PSU for your build. If you have a top-end CPU and GPU you’ll need upwards of 650W to cope with the power demand (check your power supply needs with an online calculator). I opted for a Be Quiet! Pure Power 12 M at 550W. It’s a modular PSU which means all the cables can be easily removed – very handy when building and updating. It’s also very quiet. In terms of reliability, I put one in my son’s PC which has been more or less switched on for two years (much to my frustration) and has kept all the internals safely powered with absolutely no explosive power cuts.
+
+For memory, I went with the American manufacturer Crucial, a veteran in computer storage and a reliable brand that I’ve used in my builds before. I opted for a 1TB P3 SSD, which offers decent read/write performance at a low price. I’m using it instead of an HDD (hard disk drive) and it’s coping well. For system memory, the current wisdom is that you need at least 16GB for a gaming PC. I went for a Crucial DDR4 32GB kit which is, again, solid and dependable for the price. I put Corsair Vengeance memory in my last build, which was also very good, and comes with RGB lights if you want the inside of your computer to look like a really happening 1970s disco.
+
+The build
+
+The key thing here is give yourself lots of time and space. Study the instruction booklets that come with each component (they’re often not very clear, but there’s the odd nugget of important info) and consult online guides. All the big gaming sites do their own “How to Build a PC” videos and features, including PCgamesN and GameSpot. I actually really liked Intel’s gaming PC guide which is simple but authoritative. Search on YouTube and you’ll be inundated. I also highly recommend the Reddit groups BuildAPC and PCBuildHelp, which have genuinely friendly, helpful communities. Most importantly, I advise you to do a peliminary build outside the case, attach the CPU, GPU, system memory and drive to your motherboard, plug in your PSU, then connect to a monitor and boot up this Frankensteinian monster. If it works, cool, disassemble it and build it in the case. If it doesn’t, it’s a lot easier to fix now than when it’s screwed into a teeny compartment.
+
+View image in fullscreen Frankensteinian monster. Photograph: Keith Stuart
+
+The other bits
+
+That’s the main part sorted, but technically minded readers will know we’re still missing some vital elements: a monitor, keyboard and mouse. These are really down to individual choice. With a budget machine, don’t worry about buying a top of the range 4K monitor. Dell, Asus, AOC, MSI and BenQ all make superb budget monitors in the 1080-1440p/120-144hz area, for around £150-£200. I’m going to recommend an Asus TUF VG249Q1R gaming monitor (£150). It’s only 24-inch but has good refresh rates and a nice clean picture.
+
+For a mouse, you want lots of programmable buttons and a higher DPI (dots per inch) which is a measure of movement sensitivity. For keyboards, those with interchangeable mechanical keys are best. I favour Corsair, Razer, Logitech and Roccat, although my favourite gaming peripherals manufacturer 8BitDo has just launched a retro mechanical keyboard and it’s excellent, with solid construction, cool NES-inspired looks and beautifully clicky keys. Some may miss a dedicated numeric pad, but the look and feel of the keyboard, and the array of programmable buttons make up for it.
+
+The specs at a glance
+
+MSI Mag B760 Tomahawk motherboard – £170
+
+Intel Core i5 13400F CPU – £200
+
+MSI Ventus 2X Nvidia GeForce RTX 3050 – £215
+
+Be Quiet! Pure Base 500DX case – £100
+
+Be Quiet! Pure Power 12 M PSU – £100
+
+Crucial 1TB P3 SSD – £35
+
+Crucial DDR4 32GB kit – £50
+
+Total cost: £870
+
+Where to save money
+
+OK, that’s still expensive compared with a games console. So can we make it cheaper but still functional? Yes. You can drop to an Intel I3 13100 processor (£120) and a GeForce GTX 1050 TI (£150) which will still give you a solid gaming PC, though you’ll need to become a master of managing your visual settings. For motherboards, you could opt for an Asus TUF gaming board at £130. For cases, Antec and Thermaltake both make decent models for £50, and for the PSU (power supply unit), I paid more for a quiet, modular unit, but EVGA and Corsair both do well reviewed PSUs for around £50. In terms of memory and SSD, I don’t think you can reliably get much cheaper.
+
+Total cost (extra budget alternative): £585
+
+Alternatively, see what parts you can scrounge from older PCs – your case and PSU might still be fine (though do check your new system’s power supply needs!), and obviously you can buy secondhand on eBay, although I’d recommend reputable PC sites such as Overclockers and Scan who also sell refurbished parts. Whatever you go for, the most important thing is to make sure your components are safe and compatible, and that you do your research before even touching a screwdriver.

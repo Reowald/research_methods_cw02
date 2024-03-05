@@ -1,0 +1,107 @@
+Could a powdered vaccine you inhale finally offer the chance to stamp Covid out for good?
+
+The vaccine is designed to work in the respiratory tract, where the virus first gets into the body. According to a study, the vaccine offers almost instant protection against Covid – compared to conventional injected vaccines, which take up to 14 days to become fully effective.
+
+The inhaled vaccine blocked both infection with the virus and the chance of spreading it to others.
+
+While injected Covid vaccines are highly effective at stopping someone from becoming seriously unwell and are credited with helping to prevent some 14.4million deaths worldwide since the start of the pandemic, according to the Journal of Paediatrics and Child Health in 2022, they aren't as effective at stopping mild infections – which can then be passed to others.
+
+Before Christmas, cases of Covid started to rocket in the UK.
+
+According to a study, the vaccine offers almost instant protection against Covid – compared to conventional injected vaccines, which take up to 14 days to become fully effective
+
+Around 4.2 per cent of people in England and Scotland tested positive on December 13 – around 2.5million people – according to figures from the UK Health Security Agency UKHSA.
+
+And as well as the inconvenience of being unwell in the short term, some will develop long Covid.
+
+Therefore, a vaccine that could stamp out the virus before it had a chance to make you ill could have major advantages. An inhaled version could also appeal to those who have needle phobia, which is around 10 per cent of the population, according to the NHS.
+
+This is not the only nasal vaccine in development – so could this really spell the end to Covid as we know it?
+
+So how does the new vaccine work?
+
+The vaccine is made of tiny spheres that contain the protein that is unique to the virus which causes Covid. It is inhaled into the nose and absorbed by blood vessels in the respiratory tract, where immune cells called T-cells and B-cells (which produce antibodies), attack it and then remember it.
+
+If the real virus then arrives, these immune cells are primed to quickly attack it.
+
+The results of the study, by researchers at the Chinese Academy of Sciences in Beijing and published in the journal Nature, was conducted on mice, hamsters and monkeys – but human trials are now expected.
+
+Are inhaled vaccines better?
+
+Giving a vaccine as a nasal spray means that you generate a greater production of infection-fighting immune cells around the nose and mouth, which are the main points of entry for Covid and other respiratory viruses, than you would normally get from an injected vaccine.
+
+The vaccine is made of tiny spheres that contain the protein that is unique to the virus which causes Covid. It is inhaled into the nose and absorbed by blood vessels in the respiratory tract, where immune cells called T-cells and B-cells attack it and then remember it
+
+The area behind the nose (called the nasopharyngeal area) is lined by a mucus membrane that continues to the gut and is rich with immune cells – so priming these cells helps halt the virus before it can replicate and move through the body.
+
+'If a vaccine is inhaled or given as drops though the nose or mouth then it will prime these cells which are the first line of defence to act quickly,' says Professor Muhammad Munir, a virologist at Lancaster University.
+
+'An injected vaccine given into the muscle, usually in the arm, will also produce T-cells and B-cells, but these will mainly circulate in the blood and organs,' he adds.
+
+'Injected vaccines only provoke a tiny quantity in the nose and mouth, so they aren't ideal guards for the point where the Covid virus gains entry.
+
+'It's like putting security guards behind a wall – with a nasal vaccine you have those guards where you need them.'
+
+Why do they work faster?
+
+The major benefit is the speed with which antibodies generated in the nasal area will respond once the Covid virus is detected – meaning they will smother the infection before it takes hold.
+
+'These nasal immune cells will work to block the infection in a couple of minutes – whereas the immune cells made by the intramuscular vaccine get to work six to eight hours after entry of the virus,' says Professor Munir.
+
+This should mean the virus is stamped out before it has a chance to get hold and make someone unwell – and crucially passing it to others.
+
+The latest study follows tests of a nasal vaccine conducted on animals by a team at the University of Maryland, which was reported in Nature Communications last November – which found it 'significantly' reduced the infection and transmission of Covid.
+
+Around 4.2 per cent of people in England and Scotland tested positive for Covid on December 13 last year – around 2.5million people – according to figures from the UK Health Security Agency UKHSA
+
+Any other advantages?
+
+As well as appealing to needle phobics, the fact that nasal vaccines come in powder form means that unlike the injectables they don't need to be kept refrigerated so can be easily administered anywhere (a benefit not just here but also in the developing world).
+
+What's more, the vaccine reported in the latest Nature study is a one-off dose, unlike jabs, which can require two or three doses.
+
+And the benefits of nasal vaccines may extend beyond Covid.
+
+Peter Openshaw, a professor of experimental medicine at Imperial College London says that inhaled vaccines 'might have significant advantages in preventing [other] infections that get in via the lung and nose'.
+
+Does that mean I will never get Covid again?
+
+Possibly, but how long the protection from a nasal vaccine lasts for is unclear.
+
+Aren't standard vaccines good enough?
+
+The Covid jabs administered into the arms are very good at preventing people from getting seriously ill.
+
+They have prevented 19.8million Covid deaths worldwide since being introduced in 2020, according to a paper published in the Lancet in June 2022 – but they aren't as effective at preventing transmission and stopping people getting infected as the new powdered vaccine appears to be.
+
+With the standard vaccine injection, the protection varies according to the vaccine and the variant it is up against.
+
+According to UKHSA, the Moderna booster offered an impressive 90 to 95 per cent protection against hospitalisation with a Covid infection nine weeks after vaccination.
+
+When it comes to catching Covid, it offers 63 per cent protection against the BA.1 Omicron variant and 70 per cent against the BA.2 after two weeks – however, after 25 weeks that fell to 9 per cent protection against BA.1 and 13 per cent against BA.2.
+
+What are the drawbacks to nasal vaccines?
+
+They need to be administered correctly – and there is a chance that someone could sneeze the vaccine out before it had got to work.
+
+'That could happen in theory,' says Andrew Easton, an emeritus professor of virology at the University of Warwick.
+
+Experts have voiced concerns about the nose being lined with hair-like cells that could propel any vaccine back into the stomach, potentially rendering it useless.
+
+Some also fear that the rapid turnover of the cells of the mucus membrane means any protection would be very short lived.
+
+However, there appear to be limited side-effects. A study published in The Lancet in December involving 30,000 people who had two doses two weeks apart of an intranasal Covid vaccine or a placebo found no serious adverse effects.
+
+How soon might we have a nasal vaccine in the UK?
+
+We already have them. Fluenz Tatra, a nasal vaccine that contains a live but weakened form of the flu virus is given to millions of children each year (but as it contains a live virus it is not suitable for older people because their immune systems are weaker).
+
+In terms of Covid, there are many nasal vaccines in development around the world, and at least two in the U.S. may be at a stage where they can be put before the regulators later this year.
+
+One of the contenders in the UK, called ViraVac, has been developed by Professor Munir and his team based on a vaccine originally sprayed around barns to halt a form of coronavirus in chickens.
+
+This had shown promise in animal studies but he says he's has struggled to find the funding needed to move to the next stage of research since the World Health Organisation downgraded the status of Covid, saying in May last year that it was 'no longer a global emergency'.
+
+In October 2022 news reports in China showed people receiving the world's first Covid vaccine that is inhaled through the nose and mouth, which is a version of an injectable vaccine that was used in China as a booster. Its effectiveness is not yet clear.
+
+Meanwhile, iNCOVACC, a Covid vaccine given as nasal drops (available mainly in private hospitals) as a primary or a booster vaccine for the over-18s was approved for use in India in January last year.

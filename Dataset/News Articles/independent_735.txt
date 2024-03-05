@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Toto Wolff has reportedly signed a new three-year contract with Mercedes, extending his stay with the team until the end of the 2026 F1 season.
+
+The Austrian, who is the CEO and team principal of the F1 team, has been under pressure after two years in the wilderness amid Red Bull’s recent dominance since 2022.
+
+Previous to that, Wolff had led his team to eight straight constructors’ titles, with Lewis Hamilton claiming six drivers’ crowns in a period of utter dominance from 2014.
+
+And Wolff has committed to the team, in his dual-role as team principal and chief executive, until 2026 – when the next phase of regulations come into force.
+
+The news comes on the same day Mercedes announced their car launch date of Wednesday 14 February at Silverstone, with Hamilton, George Russell and Wolff all set to be present.
+
+“I’m part of this team in various functions,” Wolff told The Telegraph, in an interview where he confirmed his new contract.
+
+“I’m a co-shareholder. I’m on the board. These are things which will not change whatever executive, or non-executive, role I have. But I feel good.
+
+“The risk for me is always more bore-out than burnout. And that’s why I embrace the challenges we have today, even though they sometimes feel very, very difficult to manage.”
+
+Toto Wolff has reportedly signed a new three-year contract with Mercedes (Getty Images)
+
+Wolff owns 33% of the team, alongside INEOS’ Sir Jim Ratcliffe and Mercedes-Benz’s Ola Kallenius – and added that the decision to extend was made in conjunction with his co-owners.
+
+“I’m a co-shareholder, I’m on the board,” he said.
+
+“These are things which will not change whatever executive, or non-executive, role I have. But I feel good. The risk for me is always more bore-out than burnout.
+
+“And that’s why I embrace the challenges we have today, even though they sometimes feel very, very difficult to manage.”
+
+Wolff was recently involved in an FIA investigation looking into a potential conflict of interest given his wife, Susie’s, role as managing director of F1 Academy. The investigation was quickly dropped.
+
+Mercedes endured a first winless season since 2011 last season, while star driver Hamilton has not won in more than two years.
+
+The 2024 F1 season starts on Saturday 2 March with the Bahrain Grand Prix.

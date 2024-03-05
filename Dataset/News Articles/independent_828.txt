@@ -1,0 +1,53 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The computer scientist accused of lying about being the founder of Bitcoin has said he never wanted to be publicly revealed as its creator, the High Court has been told.
+
+Dr Craig Wright is facing legal action over whether he is Satoshi Nakamoto, the pseudonym credited with creating the cryptocurrency, and began giving evidence in London on Tuesday.
+
+He is being sued by the Crypto Open Patent Alliance (Copa), a non-profit group including cryptocurrency firms, who have accused him of lying and forging documents, something Dr Wright denies.
+
+In witness statements released on Tuesday, the Australian said he chose the name Satoshi after being inspired by Pokemon but that he never wanted his identity to be revealed.
+
+In one of 11 statements in the trial, he said: “Despite adopting the pseudonym Satoshi Nakamoto, my intention was not to shroud this identity in secrecy.
+
+“The goal was not total anonymity but a certain level of privacy.
+
+The intrusion into my private life and the subsequent public revelation of my identity as Satoshi Nakamoto left me feeling violated and deeply pained Dr Craig Wright
+
+“This allowed me to focus on my work and ensured that the spotlight remained on the innovation and potential of Bitcoin rather than the individual behind it.
+
+“In my real life, I first shared my identity with a small circle of people.”
+
+He added: “When I initially chose the pseudonym ‘Satoshi’, I was drawn to its connection with the Pokemon trainer and the symbolic significance it held in other contexts.
+
+“The unexpected disclosure of my identity as Satoshi Nakamoto had unintended consequences, drawing public attention and speculation.”
+
+The pseudonymous figure was the author of the document which led to the creation of Bitcoin, known as the Bitcoin white paper, which was published in 2008.
+
+Dr Wright’s barristers have told the court he has the skills and knowledge needed to both create the cryptocurrency and write the white paper, which he began drafting the previous year.
+
+He said in one statement that he was “proud to have played a pivotal role in ushering in a new era of financial technology”.
+
+Dr Wright publicly claimed he was Satoshi in May 2016 after news articles were published by the Wired and Gizmodo news outlets about his identity in December 2015.
+
+Despite being publicly named as Satoshi, Dr Wright said he resisted requests to publicly prove it, which he said was him “underscoring a decision to maintain a particular stance or principle rather than to seek validation or acceptance through demonstration”.
+
+He told the court the stories “shattered” his privacy and that he “never intended” to be the subject of media attention as he “preferred to work quietly in the background”.
+
+He said: “The intrusion into my private life and the subsequent public revelation of my identity as Satoshi Nakamoto left me feeling violated and deeply pained.
+
+“It was a stark reminder of the vulnerability of our privacy and how easily it can be stripped away, subjecting our personal lives to global scrutiny.
+
+“The experience had a lasting impact on me. I never intended to reveal myself as Satoshi in such a manner.”
+
+Copa alleges Dr Wright told a “brazen lie” about being Satoshi and used “forgery on an industrial scale” to substantiate his claims.
+
+One piece of evidence advanced by Copa is that the original Bitcoin white paper was written using OpenOffice software while the document provided by Dr Wright was found to have been made using software that did not exist at the time.
+
+Dr Wright said in one of his witness statements that he used a “multi-software approach” to creating the document, which “naturally led to multiple versions, some of which may contain errors or inconsistencies”, and that he kept no record of when different versions were created and when other people accessed them.
+
+Dr Wright is expected to give evidence over several days in the trial in the Rolls Building, which is expected to conclude next month.
+
+The judge, Mr Justice Mellor, will issue his decision in writing at a later date.

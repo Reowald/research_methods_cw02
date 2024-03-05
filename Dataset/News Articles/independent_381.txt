@@ -1,0 +1,27 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+England were powerless to stop India from upping their lead past 400 and Ravichandran Ashwin’s impending return to the third Test is set to add an extra layer of difficulty to the tourists’ hopes.
+
+India reached lunch on 314 for four as they stretched an overnight lead of 322 to 440 on the penultimate day in Rajkot, with England seemingly running out of ideas underneath the baking sun.
+
+The hosts are likely to declare at some point in the afternoon as they push to go 2-1 ahead in the five-match series and their bid will be boosted by Ashwin coming back into the fold at some point.
+
+Ashwin, India’s premier spinner, pulled out of the Test on Friday night to tend to a family medical emergency but it was announced he will return on Sunday afternoon and be available immediately.
+
+His absence effectively left India down to 10 players as he could only be replaced in the field and not with bat or ball although England’s batting collapse meant they had a first-innings deficit of 126.
+
+Yashasvi Jaiswal then made 104 before retiring hurt on the third evening although he was back in situ after England made their only breakthrough of the first hour when Shubman Gill was run out for 91.
+
+Gill set off from the non-striker’s end only to be sent back by nightwatcher Kuldeep Yadav and not even a desperate dive was enough as Tom Hartley whipped off the bails following Ben Stokes’ sharp throw.
+
+Up until that moment on the stroke of drinks, it had been a frustrating morning for England, underscored by a failure to review a leg-before off Kuldeep Yadav, who had missed a sweep off Hartley.
+
+England were down to just one review, having already spurned a review on a tail-end batter averaging just 10 earlier in the session, but they have now missed three referrals in this Test.
+
+The miss did not matter as Yadav failed to add to his 27 before edging Rehan Ahmed to Joe Root. There was no celebration and the umpires had to send the decision upstairs to confirm the dismissal.
+
+That merely brought together Jaiswal and Sarfaraz Khan, two of India’s bigger-hitters, and the pair looked utterly untroubled, each smashing Root over the leg-side boundary in a single over.
+
+Jaiswal was on 149 not out at lunch with debutant Sarfaraz on an unbeaten 22 off just 23 balls.

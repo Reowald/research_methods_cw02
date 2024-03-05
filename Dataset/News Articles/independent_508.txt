@@ -1,0 +1,229 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+You might think that you can just hop on a plane with an in-date passport and travel the world. In fact, many countries demand that visitors have months left on their passport before it expires.
+
+Some - including Australia, Canada and the US - only require your travel document to be in date for the duration of your trip.
+
+But others give a more restrictive time frame, with no real pattern from region to region – while most of Asia requires six months on your passport, for example, different Caribbean islands demand different time frames.
+
+In some destinations, you can also be caught out for not having enough space left in your passport for new immigration stamps.
+
+Here are the key passport validity rules for British passports for the world’s top holiday destinations.
+
+Valid for the duration of your stay
+
+These countries only ask that your passport is valid until the day you leave the country.
+
+Argentina
+
+Australia
+
+Barbados
+
+Canada*
+
+Chile
+
+Gibraltar
+
+Ireland
+
+Jamaica
+
+Japan
+
+Mauritius
+
+Mexico
+
+Tunisia
+
+St Lucia
+
+USA
+
+*While this is technically the rule for Canada, if you have six months or less on your passport, it may take longer for you to get through immigration.
+
+Valid for one day
+
+Costa Rica requires Britons to have one day’s validity from the day of their departure.
+
+Valid for three months
+
+All EU countries, plus those in the Schengen Area (excluding Ireland) require you to have three months left on your passport from the day you plan to leave. Your passport must also be less than 10 years old on the day you enter the country. This is true for the following countries:
+
+Andorra
+
+Austria
+
+Belgium
+
+Bulgaria
+
+Croatia
+
+Republic of Cyprus
+
+Czech Republic
+
+Denmark
+
+Estonia
+
+Finland
+
+France
+
+Germany
+
+Greece
+
+Hungary
+
+Iceland
+
+Italy
+
+Latvia
+
+Liechtenstein
+
+Lithuania
+
+Luxembourg
+
+Malta
+
+Monaco
+
+Netherlands
+
+Norway
+
+Poland
+
+Portugal
+
+Romania
+
+San Marino
+
+Slovakia
+
+Slovenia
+
+Spain
+
+Sweden
+
+Switzerland
+
+Vatican City
+
+These non-European countries also require three months’ validity on your day of departure:
+
+British Virgin Islands
+
+Cuba
+
+French Polynesia
+
+Kazakhstan
+
+Lebanon
+
+Morocco
+
+New Zealand
+
+Réunion
+
+South Korea
+
+Uzbekistan
+
+Valid for six months
+
+In most cases, this means valid for six months from the date you arrive in the country, but it’s worth checking the Foreign Office’s individual entry requirements for the country you’re visiting to make sure.
+
+Antigua and Barbuda
+
+The Bahamas
+
+Belize
+
+Bolivia
+
+Botswana
+
+Brazil
+
+Cambodia
+
+China
+
+Colombia
+
+Dominican Republic
+
+Ecuador (& Galapagos Islands)
+
+Egypt
+
+Fiji
+
+Jordan
+
+Indonesia
+
+Israel
+
+Kenya
+
+Laos
+
+Madagascar*
+
+Malaysia
+
+Maldives
+
+Mongolia
+
+Namibia*
+
+Nepal
+
+Oman
+
+Peru
+
+Philippines
+
+Qatar
+
+Russia
+
+Singapore
+
+South Africa*
+
+Sri Lanka
+
+Tanzania
+
+Thailand
+
+Turkey
+
+United Arab Emirates
+
+Vietnam
+
+*South Africa, Madagascar, Kenya also require you to have two blank pages left in your passport; Namibia requires one blank page.
+
+Valid for 180 days
+
+India requires a more specific 180 days of validity from the date you arrive. It also asks visitors to have two blank pages available for their visa.

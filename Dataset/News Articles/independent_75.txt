@@ -1,0 +1,159 @@
+You can enable subtitles (captions) in the video player
+
+SUBJECT 1: We are moving towards a new evolution in computing technology and digital interfaces, moving away from flat, framed content towards spatial three-dimensional content.
+
+SUBJECT 2: Your computer, in the near future, it's not going to be something you hold here, it's going to be super lightweight glasses.
+
+SUBJECT 3: The idea of the metaverse is not really here, yet, like the metaverse doesn't exist yet. We're building it.
+
+SUBJECT 4: And I do think we're not so far on the premise of the metaverse.
+
+SUBJECT 5: What we're seeing is a leap of understanding of these digital spaces, and they have the potential to be very valuable to people.
+
+SUBJECT 6: Great experiences start out being great before they're mature. They didn't start bad, and then as the technology progresses become good. They were good from the beginning. There's nothing like that in the metaverse right now.
+
+SUBJECT 7: A whole virtual universe.
+
+SUBJECT 8: So when you see Ready Player One, right, that's a pretty dystopic vision of the future of the metaverse. And you know, obviously, the people that are accessing that vision of the metaverse are using it through virtual reality, they're escaping the physical world because the physical world is not very fun. That's not the future that I want to see, right? I do think from gaming perspective, it starts with gaming. Gaming is on-ramp for the reason that a lot of these virtual experiences, whether it's an augmented reality or virtual reality, they are being created on game engines.
+
+SUBJECT 4: I think games will unlock all the possibilities of the metaverse, will create new forms of entertainment. The way games work is like life. And so using gaming mechanics at the core of building the metaverse will make it more accessible to everyone.
+
+SUBJECT 9: Most of the activities that we do online are going from things that you did by yourself to things that you do with other people, like shared, right? So gaming is a good example, because if you think about gaming 3D immersive and multiplayer has been there for a long while.
+
+SUBJECT 5: Games are, obviously, a somewhat older medium. They started as arcade games and small experiments by mathematicians.
+
+SUBJECT 10: With something that looked incredibly basic and pixel, like Pong Tennis, we came through the early console era of the Nintendos and Sega Mega drives. We now have these incredibly powerful PlayStations and Xboxes that are in tens if not hundreds of millions of homes.
+
+SUBJECT 5: Gaming has become a mainstay in modern society. And nowadays, we carry gaming devices with us every day in our mobile phones, on our laptops. People play games everywhere.
+
+SUBJECT 10: And so what used to be a kind of neat activity, perhaps for teenage boys in the '90s, like me, is now about 3 billion people I think is the estimate for the audience of gamers around the world. So the video game industry is orders of magnitude bigger than other kinds of entertainment. And that only accelerated further during the pandemic, when people couldn't go out to the cinema, or they couldn't go out to a rock concert, and they had to stay home and play video games.
+
+SUBJECT 5: But also to maintain their social life. For a lot of children, it was their only way to play with their friends. Also, for a lot of more adult players and senior players, it was a way to interact with their family, with their loved ones. People that would never have played a game three, four, or five years ago have now come to accept that gaming is part of life, of culture.
+
+SUBJECT 11: According to a new report by Accenture, the value of the global gaming industry now exceeds--
+
+SUBJECT 10: Given it's such a lucrative business, it's no surprise that some of the world's most valuable companies are now taking video gaming much, much more seriously. Amazon sort of made what was seen as quite a big move into games a few years ago, and it bought Twitch for a billion dollars. But we've seen the pace of consolidation in the gaming industry pick up, especially at the beginning of 2022 with some really monster deals, like Microsoft buying Activision Blizzard, Sony buying Bungie, the maker of Destiny and Halo, and Take-Two buying Zynga, the social and mobile gaming company.
+
+SUBJECT 12: This is some big news that's coming out right now. It looks like Microsoft is going to be buying Activision Blizzard.
+
+SUBJECT 13: Call of Duty, Warcraft, Candy Crush, Tony Hawk, Diablo, Overwatch, Spyro.
+
+SUBJECT 14: --will be joining team Xbox.
+
+SUBJECT 15: Sony, the owner of PlayStation, is going to buy Bungie. What's going on here?
+
+SUBJECT 10: Tech companies are basing their future on games, in part because of the games themselves, and the intellectual property, and the franchises that come with that. People will go out and buy the next Grand Theft Auto or the next Call of Duty every year when it comes out. But they're also betting that we'll spend more time in these virtual worlds.
+
+SUBJECT 8: You see an evolution right now where there's kind of a land rush to acquire gaming studios or gaming properties. You see Microsoft acquiring Activision Blizzard, right? That completely, completely makes sense from the future that they see ahead of them with Web 3.0 and with metaverse.
+
+SUBJECT 16: Today we're going to talk about the metaverse. I want to share what we imagine is possible. The experiences you'll have, the creative economy we'll all build. And you're going to have to do almost anything you can imagine.
+
+SUBJECT 17: The concept of the metaverse circulating in gaming spaces, right, where we have games such as Roblox, Minecraft, where young people go on and create worlds and have digital avatars and communicate through them. What's happened last year is that Facebook went out and said it wanted to build one huge singular metaverse, and that's really spurred a rapid acceleration in the number of companies jumping into the spaces and thinking about how we might be able to make money from them.
+
+SUBJECT 18: The metaverse vision, as it was presented over the past year by Facebook, now Meta, is a very not creative vision that was basically lifted directly from Matrix, Ready Player One. It's a very old idea.
+
+INTERVIEWER: We talk about the metaverse all the time, but I have to admit, I don't really understand it. I don't know what it means. What do you need in order for your games to translate into the metaverse?
+
+SUBJECT 18: So yeah, so I think I think when Microsoft and Activision merged, this talk of the metaverse was, again, it was just more marketing bullshit. They try to make a deal look more interesting to investors in the month that had happened. Had it happened six months before, they wouldn't have said the metaverse, they would have said something else.
+
+SUBJECT 10: If there's one buzzword that I've heard more from big tech companies over the last few months than any other it's the metaverse. People differ in their interpretations of what exactly the metaverse is. The term itself is derived from a book in the early '90s by Neal Stephenson called Snow Crash, which was actually quite a dystopian book about society sort of gone to hell. People were using virtual reality glasses as a form of escape.
+
+The same concept came up again in Ready Player One, which was a book that was released a few years ago. Steven Spielberg turned it into a film. It's different depending on who you ask. Satya Nadella of Microsoft thinks the metaverse could be people hanging out on Microsoft Teams, and doing a video call. For Facebook, it's very much about putting on a headset, being in a virtual world, and kind of feeling like you are really there and present with the people around you.
+
+SUBJECT 1: Metaverse right now is a broad term. But what it means to me is our virtual realities that we exist in. And right now, we already exist in many metaverses. When I go on my virtual reality headset, and hang out with friends in VR chat, that's a metaverse. But also if you look what Microsoft has done with the HoloLens and Magic Leap, we're seeing the foundation for augmented reality there as well.
+
+Then beyond that, Spatial Web. We're starting to see websites transforming into three-dimensional websites. And that's a whole avenue towards a metaverse that doesn't require any special hardware. And of course, video games. I mean, video games are so immersive.
+
+People are clocked into those for hours upon hours on end. And they lose themselves in video games. So I think when we look at the metaverse it's kind of the acceleration of these technologies, and this whole life and world that exists only in virtual space.
+
+SUBJECT 17: There is a lot of debate about what the metaverse is, and whether there will be one single metaverse or multiple metaverses. But the common agreement is that it's a shared virtual space in which you and I will have an avatar that will be able to do lots of the things they can do in the real world.
+
+SUBJECT 8: To me, there's only one metaverse just like there's only one internet, right? But there's many domains or many websites within the internet, there's many metaverse platforms. You almost have to envision it as when someone says the Metaverse, it's like the metaverse capital M, and then there's maybe metaverses lowercase m, or metaverse platforms.
+
+So what does it take to be a metaverse platform? I think there needs to be an element of social. A lot of these early metaverse platforms have to do with gaming, right? So gaming is on-ramp or is kind of the parent to that greater Metaverse capital M.
+
+SUBJECT 5: One thing that I find very interesting is that it's not something new. When you think about the games that we've played, games like World of Warcraft, or Second Life, or EVE Online are these big video games, where really real parts of the world overlap with the digital reality. In Second Life people build things themselves, and then sell them to other users. But you also see it in Fortnite, where people like just run around and have fun, and in games like Roblox where people can make their own video games and enjoy that.
+
+SUBJECT 19: Roblox was founded more than 16 years ago by Dave Baszucki, our CEO, and Eric Cassel. They started doing physics simulations. So for kids or people in the lab, who wanted to simulate say cars crashing, and you cannot do that in real life, so it was easier to learn computers. But they realised that people were having fun creating these experiences, and sharing it with other students. Nowadays, it's a platform where millions of people can come and create 3D immersive experiences for other people to hang out, share, play, , they can talk, they can work, they can learn something new.
+
+SUBJECT 4: You can already like come with your avatar into Social Lab, chat with other users, dance, express yourself through animation, and emote. You can play both single player and multiplayer game. You can also find like art galleries, virtual museum, fashion shows, dance clubs.
+
+SUBJECT 10: Early examples of what the metaverse can be, like Fortnite or Roblox, where you have lots of different people coming together, and it's a real kind of mishmash of different characters from different franchises, and different intellectual property. The problem is for games like Fortnite, you can play as Batman, and you can play as Superman, and you can play as characters from any number of different movies that are coming out, depending on what the studios wants to promote quite often. But you have to do it within Fortnite. And the real promise of the metaverse, and the way Mark Zuckerberg at Facebook talks about it, is that you will be able to take that character and go into any game, and the metaverse will be linked in the same way that the internet is today, but in a sort of 3D kind of way.
+
+SUBJECT 4: This movie scene where you see all the characters mixed from values, movies, and brands that we are familiar with, we have that in [INAUDIBLE]. It's coming to life. We can see this mash up, this medley of content made by the community, made by users, and mixing with Snoop Dogg, here Care Bears here, Smurf, Walking Dead, and enabling anyone to use all of them.
+
+SUBJECT 10: If you start thinking about blockchain games and NFTs, a lot of the new concepts that are starting up in there, which are small virtual worlds, like the Sandbox or Decentraland, these are starting from scratch. They're separate from all of the big tech companies. And in those, because of the blockchain, when you buy a piece of land or a virtual objects, you own it in a way that you don't when you're buying an object in game through Call of Duty or Fortnite.
+
+SUBJECT 4: Towards 2017, as we were exploring around the new technology, this time blockchain, we found the first blockchain game CryptoKitties. And we experimented with it, of course. And what struck us was this idea that those virtual cats as NFTs could actually be exchanged and sold on marketplace, and that marketplace actually being outside of the game. From there was born the idea to combine the technology, NFT, with user generated content, and then allow anyone to become their own creator, their own NFT creator, and use those NFTs in a game maker, so then they could monetize their content, play with it, exchange it the way they want.
+
+SUBJECT 17: There's been recent hype around what's known as NFTs, or Non-Fungible Tokens, which is essentially where you certify ownership of a digital good using blockchain technology. So if I buy a digital sneaker, I can sort of fuse into the blockchain that is mine, and nobody else's. And it's confirmed. And so the suggestion is that NFTs will be used to create lots of these sort of digital goods in these digital realms. And then they are obviously underpinned by virtual currency, and bought and sold in virtual currency, and so we see NFTs and virtual currency coming into the space.
+
+SUBJECT 10: That's perhaps the long term path to interoperability. I think it's a much bigger ask for true interoperability to happen between Call of Duty, and Battlefield, which are created by Electronic Arts and Activision, which are the two fiercest rivals in video games. Equally, it seems kind of difficult to imagine that Apple, which is working on its own augmented reality headset would some way interoperate with Oculus, which are made by the same company as Facebook. Those companies do not like each other. And it seems like the vision of a metaverse, where anyone can go anywhere and take all of their digital assets with them wherever they go is going to hit up against some pretty hard business rivalries and reality.
+
+SUBJECT 8: During the pandemic, we definitely had critical metaverse moments, right? And they happened inside gaming platforms. So you had Travis Scott doing his concert in Fortnite, which had millions, millions of views and participants. He made millions of dollars.
+
+And that was an experiment, but it was a successful one. Then you had Lil Nas X in Roblox, and then you have Ariana Grande. And you're going to see a lot more, I think, experiments inside these gaming platforms that are very, very successful.
+
+So the gaming industry is a very important part of the future of the metaverse, right? It's where a lot of these experiments are happening. But I think fashion is really the one leading innovation here. Gucci doing something in Roblox, and it is Balenciaga doing something in Fortnite. And it's all these different things that you see every day with fashion.
+
+SUBJECT 10: One part of the metaverse that I think does make sense is that we are increasingly seeing people dress up their digital avatars of themselves online in ways that reflect their offline personality. So if you are a big sneaker fan, or if you're a big sports fan, or if you really like a particular character from Squid Game, you want to dress up your avatar in a virtual world to reflect that.
+
+SUBJECT 4: Gucci came and decided to do something that they call the Gucci Gardens on Roblox, right? They were creating the Gucci Gardens in I think it was in Florence, and you needed to be there in real life if you wanted to attend it. But they realised that not many people can actually go to Florence and be in that event in real life. So they need us a replica of their Gucci Gardens inside Roblox.
+
+And one of the cool things that they did is that every morning they dropped a different item, and a limited item that you could actually collect when you join the experience. And those limited items became kind of like collection items that people could sell and resell on the platform. And many of those ended up selling for more than the cost of the real Gucci bag, which tells you the power of people expressing their digital identity and collecting these digital items.
+
+SUBJECT 8: And I think that's a mindset shift I think for a lot of people. When they see something happening in gaming spaces or in virtual spaces, they say, oh, that's not real, just because it's not physical. And I think that that's the big change that's happening is that for younger generations the Gen-Z and the Gen-Alpha, what happens in these virtual spaces is real.
+
+They own these virtual assets. They build these worlds. And they're very, very real to them.
+
+SUBJECT 18: I can understand why companies would be interested in this. Look, I understand why like Nike wants to sell you shoes in the metaverse. I get it.
+
+And if I could sell you stuff that isn't even real, it isn't even manufactured, it's much easier for supply chain, all that stuff. Of course, I get it. The question isn't like is this just more stuff for a company to sell you? Like, that that's easy to see.
+
+The question is like do people want this? And why do they want it? And is it good for them, and is it good for the world?
+
+And sometimes sure, it is. People buy skins and decorations and in Fortnite and Roblox whatever. But sometimes it's pretty bad. It's pretty harmful. It's pretty addictive.
+
+SUBJECT 4: I don't think we should be afraid of these technology. I mean, in the same way that when the print came out, many people many people may have been concerned about it. But now we have books, and it has been amazing for civilization that we have books. In the same way that when TV came up, books didn't disappear, and people kept reading books.
+
+SUBJECT 17: It's easy for the companies to just sort of plough in and create something. And it's in their interest to do it, to create spaces that people want to be in. But I think there's particular concern beginning to be raised among lawmakers, in particular, around keeping safe spaces for children. So for somewhere like Roblox it's not just protecting children from harmful content, it's also protecting children from predators and from seeing things that could be incredibly disturbing to them.
+
+SUBJECT 4: We have tools that proactively catch content, so they can actually analyse images, or they can analyse different assets, and determine whether they're appropriate or not. We think about it in a way that is flexible, where people are spending time. And they're going to use it hopefully wisely for the things that it does very well. If you want to feel immersed, if you want to feel presence, if you want to interact, this is amazing.
+
+SUBJECT 20: This is the Oasis, a whole virtual universe. You can do anything, be anyone without going anywhere at all.
+
+SUBJECT 4: I've seen the Ready Player One movie. I've read the Snow Crash book, Free Guy movie that kind of project the idea of the metaverse. And I do think we're not so far on the premise of the metaverse. This idea that we can form an avatar, engage into multiple virtual world, and do all sorts of activities, much beyond gaming or working, but really like socialising, dancing, interacting, learning, attending all sorts of shows, art galleries, museums. The thing that we are not necessarily close to is this MetaHuman representation, where we think that we need to be as realistic as possible on the graphic side to be immersed in the metaverse, or we need the headset, the VR headset as well.
+
+SUBJECT 18: The challenge is when you put it on a headset is having enough graphical power in that headset, because it's portable, so it has less power. It also gets hot, so you can't get it so hot so that it burns the person's face. You're in that world. If you're in VR for a long time, you take off the glasses sometimes the real world feels alien.
+
+SUBJECT 5: Wearing a thing on your face, and not being able to see where you really are or actually talk to people, and not being able to see people's real face, and being this kind of isolated, and doing everything in 3D is not fun. Or it's fun for certain experiences for a few minutes at a time. There are some pretty fun VR games right now.
+
+Like, I like Beat Sabre. I like Beat Sabre. It's great.
+
+I think there's another game that I really liked. I think it's called You Must Fall. You, like, fight monsters with two swords. It's kind of fun for 20 minutes at a time.
+
+This idea that there's an immersive world that we primarily experience through VR, through virtual reality, as sort of an alternative, a substitute to the real world that has a connected economics, that encompasses gaming, and living, and working, and we're all kind of spending our time in this like skeuomorphic 3D VR world, I think it's dystopian. I think it's unpleasant. It's stupid it has pretty bad repercussions for the world.
+
+SUBJECT 4: The metaverse shouldn't be a replacement for the real world. It should help you augment the real world. And what I mean by that is that it should allow you to do things that maybe were not possible to do, right? So when you think about the movie and when you think about the book, I mean some of the interesting concepts there is, hey, can two people who are in different geographies feel together, right feel that they are together? Can they represent themselves and be whoever they want to be? That's where you customise your avatar.
+
+And then when you are inside these worlds you want to do different things. You may want to play a game, as I mentioned, but you may also want to listen to a concert. You may also want to do some work, right? So all of these capabilities are there.
+
+SUBJECT 1: I just love the complete immersion of being in a VR headset. And I'm a total VR nerd, who goes into VR chat and Alt space with my group of other VR enthusiasts. And we world hop, and we hang out every week.
+
+SUBJECT 18: Yeah, the hardware is clunky today, but these things get lighter and faster. So you know, headsets are probably like at the backpack cell phone era, or the big clunky with a big antenna, like that cell phone. Like, that's where you can maybe view where VR headsets are today.
+
+SUBJECT 1: I certainly think that right now the hardware is still a little bit too cumbersome for mass adoption. But we are seeing some huge growth in areas I don't think necessarily people were expecting, like fitness. But if you ask me with my business hat on, which one I think is going to be more popular, no doubt I think AR is going to be more common than VR on a day to day basis, because it doesn't remove you from your physical reality. I can still be present in my physical world while engaging with 3D assets.
+
+SUBJECT 4: I think that every piece of technology, augmented reality, virtual reality, they have amazing use cases and amazing experiences for them, right? And there are situations where I may want to wear these goggles and feel completely immersed, like I want to be-- we're building a replica for, again let me pick the Eiffel Tower. So I really want to be able to move around it, feel that I can touch it, feel that I can move. And that technology will continue to advance so that you have sensors to manipulate things, so that you can see things, you can see things with someone next to you, and so forth.
+
+Augmented reality is also super great in the sense that it doesn't block you from the world around you, right? You are really seeing the world around you and you're overlaying content information that makes that world richer. So I think that each of these things will have its different use cases. But it's going to be really cool to actually be able to enjoy these experiences in an immersive way. But I don't think that's the only way.
+
+SUBJECT 10: So we hear a lot about the metaverse from the big tech companies. What I don't hear is a lot about the metaverse from players themselves. This seems to me like a vision that suits the business objectives of Facebook, Apple, Microsoft, and Epic rather than something that players themselves genuinely want.
+
+SUBJECT 18: The most influential games in the world, you know Minecraft, you know Fortnite, Diablo, World of Warcraft, they're not in the metaverse. It's not that they've been the most immersive experiences, they've just been the most creative, the most imaginative, the most fun. We've had full immersion technology for a very long time.
+
+Even like, let's say with movies, right? We've had 3D movies for, I don't know, 40 years, 50 years. There's very few examples of good 3D movies, not because people didn't know how to make them, because people who go to movies aren't actually looking for that sort of fake immersion. They're looking for good storytelling. And sometimes the 3D really gets in the way. And it's the same thing with games.
+
+SUBJECT 10: Part of the urgency for all of these tech companies to rush into the metaverse is that we've really kind of reached a bit of a plateau in the current generation of technology with the smartphone, and the PC. Smartphone penetration is very well established in Europe and the US at this point, and developed markets. And so the upside of getting more people to download your app is that much smaller. So tech companies are having to try and find a new frontier to colonise. And they've seized on the metaverse as that concept.
+
+SUBJECT 5: I just think the way it's being sold right now is very much in line with old science fiction books, getting beamed into a computer. If everything in the computer just kind of is what you do in real life, but now you're a virtual puppet, I don't really see the benefit.

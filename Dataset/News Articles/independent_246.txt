@@ -1,0 +1,77 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Rishi Sunak is this week facing a crucial test of some of economic promises he made as part of his five key priorities.
+
+The Prime Minister could have been forgiven for breathing a sigh of relief on Wednesday when the latest official figures put inflation unchanged at 4% in January, lower than forecasted.
+
+Now all eyes will turn to the latest gross domestic product (GDP) data on Thursday, to see if the UK has slipped into a recession. If that it the case, it will be a blow to Mr Sunak who has promised to grow the economy.
+
+Below, the PA news agency has looked at each of his five priorities and whether or not he has achieved them.
+
+– Halve inflation
+
+The Prime Minister met his pledge to halve inflation in 2023.
+
+Mr Sunak needed inflation to fall to below 5.4% in order to meet his target and the final figures for last year showed this had been achieved, with inflation falling to 4% by December.
+
+Economists suggested the fall in inflation was largely due to lower energy costs and rising interest rates rather than Government action, but Mr Sunak hailed the figures at the time.
+
+Nevertheless progress has not been linear, with inflation rising slightly from November to December and with the Consumer Prices Index (CPI) figure remaining fixed at 4% in January.
+
+While some economists had forecast a rise, the current level is still double the Bank of England’s 2% target.
+
+– Grow the economy
+
+Growth over 2023 was weak and, with the final GDP figures for the year set to be published on Thursday, it looks unlikely that the economy will have grown by much more than 0.5%, and may even have shrunk.
+
+ONS estimates suggest the economy did not grow at all between April and June, and actually shrank between July and September, posing the risk of a technical recession if figures show a further contraction between October and December.
+
+The vagueness of Mr Sunak’s pledge does give him a little bit of leeway. It is not clear whether he meant the economy would grow over the entire year, or simply from the third quarter to the fourth, and it is still conceivable that one of these measures could be met.
+
+But claiming a technical victory will be of little political use if the overall economic picture is still one of stagnation.
+
+The growth figures will give a clearer picture of whether Mr Sunak has been able to grow the economy or not, but a failure to deliver on growth will be fodder for Labour and the Tories’ opponents in the months leading up to the general election.
+
+In an interview with TalkTV, the Prime Minister recently admitted it was “on the wire” whether the economy had grown or stagnated, but added that either outcome was better than the recession some had feared.
+
+– Reduce debt
+
+The national debt rose over the course of 2023, and remains at levels not seen since the early 1960s.
+
+Figures for December 2023 suggest the total national debt stands at 97.7% – higher than it was a year earlier when it stood at 95.8%.
+
+Revisions to previous figures mean national debt has now climbed fairly steadily over the course of 2023, and underlying debt (excluding the Bank of England) has also increased, although not quite as rapidly.
+
+Despite this, Mr Sunak has claimed to be reducing debt, earning criticism from UK Statistics Authority chairman Sir Robert Chote for claiming that “debt is falling”.
+
+The picture is slightly complicated by the OBR forecasts, which suggest debt is on track to start falling in five years, meaning Mr Sunak may be able to claim success on this basis even if debt is not actually falling.
+
+– Cut NHS waiting lists
+
+Rishi Sunak has admitted that he has failed to cut NHS waiting lists, despite pledging to do this at the start of 2023.
+
+The number of people waiting for NHS treatment reached an estimated 7.61 million in November, up from 7.21 million in January 2023.
+
+In an interview with TalkTV, the Prime Minister said the Government had “not made enough progress” and, when asked if he had failed on his pledge, said: “Yes, we have.”
+
+But the Prime Minister may still be able to claim some success as the overall waiting list fell in October for the first time this year after reaching a record high of 7.7 million in September.
+
+There are some bright spots in the NHS waiting list data, with the total number of people waiting having fallen from its peak of 7.7 million in September and sharp reductions in the number of people waiting more than two years.
+
+Waiting lists of more than 18 months, 15 months and 12 months have also fallen since the start of 2023, though the number of people waiting more than 18 months has begun to creep up again.
+
+The final figures from the year are expected to be published on Thursday, but are very unlikely to show a fall in the overall waiting list for 2023.
+
+– Stop the boats
+
+The Prime Minister was forced to admit in December that there is no “firm date” for “stopping the boats”, despite making it one of his priorities for 2023.
+
+A total of 29,437 people crossed the Channel in small boats in 2023 and, while this represents a reduction from 45,755 in 2022, the crossings are still a long way from ending.
+
+Crossings have continued into 2024, with 1,335 people making the journey in January, slightly more than the number seen in the first month of 2023.
+
+Challenged by select committee chairs at the House of Commons Liaison Committee in December, Mr Sunak said there is now no “precise” date for achieving this aim.
+
+Meanwhile, the Rwanda policy, which Mr Sunak believes will be a strong deterrent to further crossings, remains in doubt as legislation to overcome the Supreme Court’s objections faces a difficult passage through Parliament.

@@ -1,0 +1,283 @@
+You can enable subtitles (captions) in the video player
+
+Your 3D printer is doing layer by layer, lap by lap, going around, building the structure.
+
+So as opposed to cutting something away, you're actually adding something up.
+
+I don't think Michelangelo could fathom a 3D printer.
+
+If you want to have innovation in the United States, you're going to have to have manufacturing in the United States.
+
+Digital manufacturing accelerates innovation. No question.
+
+Right now we need to be creating more machines because the demand is insane.
+
+We've got to go back to our roots. And our roots are our manufacturers and doers.
+
+It's a simple logical process. But it represents a revolution far beyond the wildest dreams of 18th century man.
+
+Manufacturing in America used to be a loud, dirty, messy business. But this is not your grandfather's factory. We're going to take a look at additive manufacturing, what used to be called 3D printing, and see what it's going to mean for the American economy, for the workforce, and for what supply chains of the future will look like.
+
+The 3D printing market is forecast to triple in size to $44.5bn between 2022 and 2026. I believe that as economies become less global and somewhat more local, technologies like this will change the way we think about manufacturing.
+
+I think we may be about to enter a new golden age of technological investment and innovation. And that's because legacy industries, like manufacturing, transport, logistics, healthcare, are all ripe for technological innovation.
+
+10, 9, 8, 7.
+
+Additive is already used in all kinds of industries, from art to automotives to aerospace.
+
+Lift off.
+
+After all, why would you have complex supply chains if you can make components on site , building precision parts quickly and reliably layer by layer?
+
+We start our journey at Xometry, based outside Washington, DC.
+
+It's a great example of how technology can shake up traditional manufacturing.
+
+One of the things that always amazes me is how many machines and how few people there are in modern factories.
+
+We've got all these 3D printing manufacturers in our marketplace.
+
+Yes.
+
+And they're running 24 hours a day, literally, because these machines are largely automated.
+
+Entrepreneur Randy Altschuler saw a chance to use the "long tail of the internet" to link buyers to all kinds of manufacturers in a way that hadn't been done before.
+
+And there's all sorts of opportunities for people to sell their goods via the internet. That wasn't true in manufacturing. Even in boom times, when seemingly manufacturing is exploding, we always have 20 per cent excess capacity right here in the United States. So we can tap into that capacity at any given time.
+
+The idea was to use the Xometry platform to optimise access, price, and lead times for customers while also giving manufacturers an opportunity to fill excess capacity.
+
+There are hundreds of thousands of small manufacturers. Here in the United States there's over 600,000. And 75 per cent of them have less than 20 employees.
+
+And these are local mum and pop manufacturers that historically have depended completely on their local customers. They have limited sales and marketing budgets. Maybe they have a website, maybe none at all.
+
+Xometry is primarily an online manufacturing marketplace and 3D printing is still only a small part of that marketplace. But they do have their own additive facilities. In this machine they're making a custom part in polycarbonate for a major automotive company. Over here, a Darth Vader mask.
+
+Tell us a little bit about what's happening in one of the machines?
+
+In 3D printing you're actually adding up material to produce something. So the waste is minimal. And it enables you to achieve geometries that aren't possible in traditional manufacturing.
+
+So in this case you've got a nozzle that's extruding two different kinds of plastic material to produce this part. And so a customer has created a 3D CAD file, basically an electronic schematic of what they want with all the details, and the software is interacting with the machine to give the instructions for the nozzle to extrude the plastic in a way to produce that part.
+
+You can't imagine that being cut on a traditional machine.
+
+Yeah. Very different than the old fashioned manufacturing you usually think about.
+
+There's something else about localised manufacturing and 3D printing in particular. It's nimble. Parts can be made fast and designs can be changed fast. In fact, the same machine can make all kinds of different parts.
+
+So this is what you'd usually consider as a desktop 3D printer. So this is something that I may have at my own shop in my house to make some parts. In this case, we're printing PLA, which is a low temperature material which you really use for rapid prototyping. And Xometry's platform, this is a low cost, quick way to kind of get your shape.
+
+Do you remember when you went from film camera to digital camera? I can now, at low cost and high speeds, iterate my design before it's a product and work out some kinks very early in that, just like you could with a digital camera, picking the right shot and moving forward. And it allows me to actually not just develop my product faster, but develop it better.
+
+I'm curious how being able to do this speeds up the production cycle. And does it allow you to innovate more quickly?
+
+Absolutely. And we're seeing that day after day. And I've been in this industry for about 15 years. 3D print was just something you did. It was kind of expensive. And now it's part of every single production. Every single product being developed, if it's not in the thing, it's probably used somewhere in the making of that thing.
+
+So you can increase diversity, and more people can do it, cut the supply chain, and sort of move fast, fail quickly, and innovate?
+
+Absolutely, yeah. It's an awesome tool.
+
+Manufacturing complex parts on demand, on location, cutting out complex international supply chains. So what's the catch? Why hasn't 3D printing gone more mainstream already?
+
+Well, the problem is that there are really big challenges. There's the cost of the equipment, there's the challenge of integrating existing manufacturing systems with these new technologies, reliability, and also how do you develop a skilled workforce.
+
+In the past, the reality hasn't lived up to the hype. At one point, we all thought we'd be making parts at home. But that hasn't happened.
+
+But the 3D printing industry is growing by around 20 per cent year on year. And although it's only a small fraction of overall US manufacturing, I believe that means there's huge opportunity. And there are big rewards, too. Covid and the war in Ukraine underline the need for supply chains that are resilient, not just efficient, while the chip war with China has put the emphasis on supply chain security.
+
+3D printing technology is incredible. It can reduce the parts and lead times by as much as 90 per cent, slash material costs by 90 per cent, and cut energy use in half. That all helps lower the cost of making goods here in America.
+
+Everything around us except the food that we grow and ourselves is manufactured. Every object that's manufactured has an incredible story. So I like to tell my students to think about the journey of every manufactured object and use that as a vehicle to understand the fundamentals of manufacturing and the implications of manufacturing for our society.
+
+I wanted to visit MIT in Boston. Because that's where the story of additive manufacturing really began. The technology was developed here, nurtured by grants from the Office of Naval Research and the National Science Foundation before being adapted by private industry. It's the kind of triple play between government, academia, and industry that's really held up as a gold standard for public-private partnerships.
+
+Manufacturing is not what it used to be in the United States. We've lost millions of jobs. And we've lost complete supply chains.
+
+If you take apart any advanced tech product and look through the complex manufacturing processes used, from the semiconductors to the surface finish, that shows how process and product innovation go hand in hand. And by doing it primarily offshore, we're not, on face, making a poor decision. But we're losing the connection between those two. And the more we decouple the process and product innovation, the harder it is for the US as a country or certain companies to stay ahead of the curve. So now we're at a critical moment in time where we need to rebuild advanced supply chains and also project where the United States can truly be strong in, inevitably, a global manufacturing economy.
+
+Professor Hart shows me two of MIT's research printers used to develop new metal 3D printing processes.
+
+So this printer is designed to combine laser powder bed fusion with inkjet printing so we can print components with different composition at different positions in the component. It's funded by the Department of Energy for....
+
+Wow.
+
+...enabling next generation turbine blades for higher efficiency energy conversion.
+
+Huh.
+
+But this is more of a prototyping scale. Because here we're more interested in studying the fundamentals on small pieces of material than making even, like, finished 3D parts. But this is designed to make a part about this large.
+
+You were saying that one of the key things is basically controlling for error, controlling for problems in each aspect of the part. Is 3D going to be fundamentally better at that at some point than traditional manufacturing?
+
+3D printing will have a closed loop. So we'll be able to simulate the process and measure the process in situ so we know what the quality is when we take the part out of the printer. And that will let us develop 3D printing processes in different configurations of 3D printers and materials to have different levels of quality for different industries and applications.
+
+Professor Hart founded VulcanForms with one of his MIT students. They produce high value metal components for aviation, defence, and medical industries. Their machines use lasers to melt and fuse metal powders.
+
+Most companies build and sell 3D printers and put risk upon the customer who wants to adopt the technology. That has been successful. But in order to bring additive to true production scale, we felt we need to build not only the technology, but build a vertically-integrated manufacturing company. So VulcanForms is a digital manufacturing company that uses additives and other digital technologies to stitch together a complete value chain.
+
+This is one of the, if not the world's most powerful continuous wave laser system, 100,000 watts of power making industrial components.
+
+Here raw materials are shaped, assembled, finally emerge as finished products.
+
+In this space, just like the old Henry Ford River Rouge plant, you have materials going in one direction and finished products going out the other. But in this case, it's taking days, if not hours, to have those products churned out. And that's because materials are being laid down layer by layer with cutting edge technologies.
+
+85 per cent to 90 per cent of an aviation engine can be made as a single part, whereas before it might have been made up of dozens or even hundreds of different parts.
+
+The way that we are setting up our supply chain, you have something that is dramatically more efficient while being more resilient.
+
+The key aim here is the ability to produce precision parts reliably at scale, like these processor cooling systems components.
+
+So you can't imagine carving something like this out of a block of material. It would be an entirely different kind of a process.
+
+Martin grew up in Germany's industrial Ruhr Valley, where school trips took in foundries and forges, linking industry with prosperity. But recently, US manufacturing ventures haven't necessarily been seen as a good investment. Setting up VulcanForms involved many challenges.
+
+On the additive side, we felt, yeah, that technology is not yet in a place where we can just procure equipment and seamlessly integrate this. There we needed to innovate. We needed to come up with a different architecture, one that enables us to make components reliably at scale.
+
+And then, of course, the challenges that are associated with that are manifold. First of all, find an investor. I literally put two out of five investors to sleep in the meeting that I was pitching our series seed. This is not a joke.
+
+One of them wanted to invest, by the way. That's the best part of this, one of the two that fell asleep. We didn't take their money.
+
+Finding solutions to climate change will be another driver of innovation.
+
+We have to decarbonise. And that will require the growth of manufacturing industries and new manufacturing technologies that will enable the low carbon technologies of the future. So there's many core manufacturing technologies we need to develop and scale to then enable the low carbon technologies to be fielded. I'm wearing shoes manufactured by Adidas with a 3D-printed midsole. You can see the lattice structure which is, of course, enabled by 3D printing.
+
+This is a 3D-printed acetabular cup, which is a component of a hip implant. And it's 3D printed because of this porous structure, 3D porous structure that is clinically proven to enable faster healing because of integration with bone cells. Implants like these are in humans in the multimillion quantities already.
+
+Additive will not make everything in the future. It won't make close to everything. But it will touch the life cycle of nearly every product that's designed and made. That can be prototyping, tooling, service parts, or volume production of at least some of its components. But it's the growth in the materials, the hardware, the software, and the readiness of industry to push forward the applications, the value creating applications, that puts the industry in a position to grow big.
+
+I'm going to come back to MIT to look more closely at the relationship between manufacturing jobs and innovation. But I also wanted to see additive manufacturing at a different scale, not with plastics or metal, but with concrete and with building an entire home.
+
+Like this one in Long Island, New York - it's a 1,500 sq ft, 8ft-ceilinged home, and it took just 80 print hours to build, spread over a few weeks. It cost $20,000 to build. Conventional methods would have taken $150,000.
+
+So what's the wait time for a house like this, would you say?
+
+Right now we need to be creating more machines and selling more machines so that more builders can help us out. Because the demand is insane. We get hundreds of emails a day of people asking to 3D print their next house.
+
+It looks, basically, like a normal house that you would buy anywhere in Long Island.
+
+Kristen Henry is the chief technology officer at SQ4D. She says their 3D-printed homes can help solve three issues here on Long Island, first, the lack of affordable housing, second, the lack of construction workers, and third, supply chain problems.
+
+3D printing we really want to use as a tool in order to help construction workers make their jobs easier, faster, and create a better product. Right now on Long Island there's really not enough people in the construction industry in order to keep up with the demand for housing, which is why we are seeing a lack of housing available and insufficient new construction.
+
+Really two to four people are all you need on site in order to 3D print a house. That's compared to traditional construction where, at times, you can have 20, 30 people on the job site doing various things. We need a person to operate the printer itself and someone to manage the mix.
+
+And what's really nice about concrete as well is it's pretty much available anywhere. You can go to your local Home Depot and get cement, sand, and water. And then you're ready to build your house. And as a result, there are not as many supply chain issues and the overall cost is decreased.
+
+The 3D printer is really doing the most of the work here, which is what's really exciting. We created something that is able to be reliably 3D printing a house any time of day, night, regardless of the weather.
+
+Wow. It's amazing. I see what you're saying about the different textures. So this is traditional, what you would find in any home. This is actually what the material looks like when it's laid down.
+
+Yes.
+
+SQ4D has only built three houses so far. One of the challenges is proving the technology to local building departments. But there are several other companies around the US and around the world that are also trying to scale up 3D-printed housing.
+
+And SQ4D's business plan is really all about spreading the technology, making and selling the printers themselves to construction firms. Kristen says the printing equipment costs around $1mn all in. But how does the technology actually work.
+
+You print a layer. And then once that layer has firmed up enough and is still curing, you can stack the next layer and keep going so that all of the layers cure together to create the structure while being firm enough to support the weight of the subsequent layers. At SQ4D, we actually 3D print the footings, foundation walls, slab, interior and exterior walls.
+
+If I'm deciding I want to live in a house like this, can I choose my size of windows? How much freedom do I have to make something look the way I want?
+
+The world is your oyster. You want a window that's 20ft wide, by all means. It might not feel reasonable to do that. But you can definitely do something along those lines.
+
+It almost looks like Play-Doh that you could squeeze...
+
+Yes.
+
+...and lay on top of one another. It's kind of cool, too. I actually like the irregularness in places. I find that charming.
+
+It adds character to it.
+
+Yeah. But you can make it smooth if you want.
+
+You can make it smooth. You would just stucco right over it.
+
+I understand with wood, curving is actually very difficult, right?
+
+Very difficult, yes.
+
+And expensive.
+
+Yep.
+
+It takes longer. It's custom.
+
+A lot of extra time. It's custom. You really don't see curved walls in traditional homes. But there's a lot of different opportunities to do architecturally unique features. And as this industry really takes off, architects are going to be able to really dive into 3D-printing specific techniques and features that aren't achievable otherwise.
+
+Most US homes are made of wood. And Kristen, a Yale graduate with a background in mechanical engineering, says concrete 3D homes are also more durable in the face of climate change as well as fire, wind, water, and pests.
+
+There's lots of areas of the country that now have to worry about natural disasters continually. You could pretty much drive a truck into the side of the building, and it's going to do a lot more damage to the truck. So the houses are really built to last.
+
+God, I want to buy this house.
+
+Yeah.
+
+It's not just industry where additive manufacturing is making a difference. The Factory NYC is a custom fabrication studio making sculptures for experiential marketing, retail displays, props, and artworks. 3D printing only makes up about 15 per cent of their business. But sculptors Paul Outlaw and Louie Hinnen say it's already revolutionised how they work.
+
+3D printing, for us, has been revolutionary in the way that we make three dimensional objects. Reductive methods were just sort of painstakingly slow. You have to start with this giant volumetric block. You're always just carving away all of this material until you can find the sculpture inside that you're trying to excavate.
+
+3D printing, we could skip the foam. We do all the artistry work in the computer. We can download models. We can create models. We can download and modify models. So the possibilities are much, much, much greater.
+
+Possibilities like creating the statue of Jesus with the face of actor Nick Cage.
+
+The beauty of 3D printing is that it is all done on the computer. So that we're able to do whatever manipulations we want to do and show the renderings to the client and be, like, this is exactly what you're going to get.
+
+Computer models are easily modified. You can even print 3D scans of real humans.
+
+She didn't co-operate during this scan. So we were only able to get a screaming child. But this is my daughter, Elvis Outlaw.
+
+This Venus de Milo is a more conventional example.
+
+We were able to download a model online, and modify the model, and make that within 15, 20 hours. So now we can make something like this Venus de Milo in a week or two for $8K to $10K, whereas before we would have had to carve it for weeks or months. And then it would be cost prohibitive. It might be $50 or $60,000.
+
+The factory has 10 different kinds of printing machines, ranging from $800 to $350,000. But with technology changing so rapidly, so does the price. A machine that was $8,000 three years ago might be closer to $800 today. The Venus de Milo was printed in their flagship Massivit 1800, which can do models that are six feet tall. Right now, it's printing a giant wrench.
+
+If Michelangelo had had a 3D printer, what would that have been like?
+
+I don't think Michelangelo could fathom a 3D printer. Right? I mean as genius as he was. I mean, I think the subtractive brain and the additive brain are very different ways to think about production of artwork or maybe manufacturing of anything.
+
+For your business, will 3D be the future?
+
+3D is going to play a huge part of what we do, yes. Right now the technology can't accomplish everything that we fabricate, but it certainly helps in a lot of different areas. It's really opening the doors to what we're able to offer our clients.
+
+We can take on projects that we couldn't take on before in timelines that we couldn't do them in before for budgets that we couldn't hit.
+
+And I got two asparagus.
+
+They're perfect for sword fighting.
+
+I know, exactly.
+
+It's really inspiring to see artists like these find a way to take their passion and turn it into such a burgeoning business. And that brings us back to MIT. Because additive manufacturing is wrapped up with innovation, both in terms of art and manufacturing. And manufacturing is about jobs and wages.
+
+From my own research in these manufacturing companies in the United States, I would say we're still far, far from the day when either 3D printing or robots are going to be significant factors. In fact, I'm really interested in how we can get more of this new technology into these plants. And because I believe that unless we get new technology into the plants, we're not going to be able to improve the quality of the jobs.
+
+Institute Professor Suzanne Berger has been researching globalisation and manufacturing for many years, visiting plants in the US, Asia, and Europe. She says that as the US lost manufacturing jobs, keeping production costs down was the rational thing to do. But there was a catch.
+
+People, in the US at least, still like making things. And they like making things that involves their hands, their brains. This is really not the problem. The problem has been wages and some reasonable security of employment.
+
+I see this as basically a low tech, low skill, low wage trap that American manufacturing has been stuck in for 30 years. And the real question is what kind of manufacturing are we going to have in the US, not whether or not we're going to have manufacturing. We will. But what will it be like?
+
+I'm certain that, in the future, there will be more manufacturing in the US than there is now. And we will better understand the importance of manufacturing to our economy and how to trade off the tangible financial costs and the intangible financial costs. And new technology will allow us to manufacture more efficiently and encode and transfer the knowledge that's needed to manufacture.
+
+It was in part the pressures of financial markets on manufacturers to get rid of everything that wasn't core. Workers weren't core. Factories weren't core. All that could be sent to China. And those companies that got rid of the most workers, that got rid of the most factory space, those were those that did best on Wall Street.
+
+And I think today we're looking at a very different picture. We're really seeing that manufacturing, first of all, it's essential for innovation. If you want to have innovation in the United States, you're going to have to have manufacturing in the United States.
+
+Digital manufacturing accelerates innovation, no question. That's a lot of buzzwords. But the ability to move new materials into production faster, the ability to digitally qualify a manufacturing process, and perhaps a finished part, means that organisations can think of a product development cycle that's much faster and more resource efficient.
+
+The introduction of technology, of new technology, could be a breakthrough. Because it will require new skills. And it will actually make the plants more productive. And that will mean that the companies will be able to pay the workers higher wages.
+
+Not everything is going to be 3D printed. And not all manufacturing is going to become more local. Even making an iPhone in the US would be difficult. Unlike China, the US won't be putting 300,000 workers on a single production site.
+
+But my journey through additive manufacturing has made me feel optimistic, not only about what's happening in the US in manufacturing, but what has the potential to go local in many countries.
+
+Knowledge needs to be made by actual direct contact with the makers in our system and not just spun out of a set of theories about the economy from which we deduce theorems.
+
+And with certain technologies, such as additive, you can get unprecedented flexibility. So the same machines can be configured to print medical implants, or components for rocket engines, or semiconductor cooling devices. And it's that combination of performance and flexibility that's really differentiating and lets us rethink about how we invest in manufacturing infrastructure, not only for certain industries, but across industries for the ecosystem.
+
+When there's a physical good that's produced and you can actually see what that's being used for, that's invigorating. We need more of that. I want my kids to celebrate that. I want them to be makers. I'd rather than be makers than them being investment bankers. And we've got to go back to our roots. And our roots are farmers and manufacturers and doers.
+
+We've seen how these high tech manufacturing techniques can be used at industrial scale to make parts and products that you can no longer get in chokepointed supply chains and how they can be used at a smaller scale to make things of great beauty and artistic value more cheaply and accessibly than ever before.
+
+I hope that you've seen in this film how manufacturing and innovation are linked and how new technologies are transforming supply chains. In past episodes we've explored why cheap isn't always cheap, how outsourcing has affected US jobs, and why keeping some manufacturing here at home is important for US employment and for communities. Whether you call it deglobalisation, decoupling, or localization, the world is changing. Thanks for watching.

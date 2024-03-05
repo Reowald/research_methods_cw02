@@ -1,0 +1,35 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A lithium-ion battery breakthrough using tiny silicon particles and a gel polymer may lead to electric vehicles that can travel around 1000 km, or over 600 miles, on a single charge, scientists say.
+
+Drivers have consistently reported suffering from range anxiety – or fear about how long a car’s battery will last – as one of the main reasons preventing their complete switch to electric vehicles.
+
+To counter this fear, research teams across the world are exploring new electrode designs to boost electric vehicle (EV) battery capabilities.
+
+Researchers have been attempting to use silicon as an electrode material in lithium-ion batteries for EVs due to its high charge storage capacity.
+
+However, this has remained a challenge as silicon expands by more than three times during charging, and contracts back to its original size while discharging, severely damaging the efficiency and structural integrity of batteries.
+
+The expansion issue of large silicon particles can become pronounced during battery operation, posing limitations for its use as an electrode material.
+
+The Untold Story: Why Many Americans Hesitate on Electric Vehicles!
+
+South Korean scientists have now developed a “next-generation” high-energy-density lithium-ion battery system that uses tiny silicon particles and gel polymer electrolytes.
+
+The gel electrolyte within the battery is a crucial component facilitating the movement of charged particles between the positive and negative terminals – anode and cathode.
+
+Unlike the typically used liquid electrolytes, gel electrolytes are either in a solid or gel state with an elastic polymer structure that has better stability than their liquid counterparts.
+
+Researchers made chemical links between the gel and the tiny silicon particles that disperse the internal stress caused by volume expansion during the battery’s operation.
+
+“The resultant intertwined system displayed outstanding properties, notably in mitigating volumetric expansion while delivering high ionic conductivity.,” scientists wrote.
+
+While the new “cost-effective” gel electrolyte system exhibited conductivity similar to conventional batteries using liquid electrolytes, it also came with a nearly 40 per cent improvement in energy density, according to the study.
+
+“We used a micro-silicon anode, yet, we have a stable battery. This research brings us closer to a real high-energy-density lithium-ion battery system,” study co-author Soojin Park said.
+
+The findings, according to researchers, highlight the potential of this new method to enhance energy densities in future batteries.
+
+They say the research can revolutionise energy storage systems and may help EVs that currently travel around 700 km on a single charge reach up to 1000 km in range.

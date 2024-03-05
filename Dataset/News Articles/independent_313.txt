@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A sub-4% mortgage deal for people with a 25% deposit has been launched by Yorkshire Building Society.
+
+The society said it has reduced rates by up to 0.65 percentage points.
+
+Its deals now include a five-year fixed-rate mortgage at 3.99% for people looking to buy a home or remortgage, with a 25% deposit. The deal has a £1,495 fee.
+
+The society is also offering a two-year fixed-rate deal at 4.49% for people with a 25% deposit who are looking to buy a home or remortgage, also with a £1,495 fee.
+
+And a five-year fixed-rate deal at 4.79% is available for home buyers with a 10% deposit, with no fee and £2,000 cashback.
+
+According to financial information website Moneyfacts, across all deposit sizes, the average five-year fixed homeowner mortgage rate is 5.29%, while the average two-year fixed rate is 5.69%.
+
+More lenders may well be looking to make some notable cuts in the weeks to come Rachel Springall, Moneyfactscompare.co.uk
+
+Fixed mortgage rates have been edging down amid falls in swap rates, which lenders use to price their loans.
+
+Rachel Springall, a finance expert at Moneyfactscompare.co.uk said: “It is encouraging to see Yorkshire Building Society cut their mortgage rates this week. There have been more than 30 lenders cutting fixed-rate mortgages since the start of the year.
+
+“Fixed mortgage rates are on the downward trend, so it has been a positive start to 2024 for borrowers. More lenders may well be looking to make some notable cuts in the weeks to come, to entice new customers, particularly as swap rates are down compared to this time last month.”
+
+Ms Springall continued: “There are big expectations for mortgage rates to fall in the coming weeks and any vigorous repricing can provide better deals for borrowers desperate to refinance.
+
+“Seeking advice to go over the true cost package of any deal is vital, so that consumers are not swayed by just the headline-grabbing rates.”
+
+The Yorkshire’s mortgage product manager, Aidan Smith, said: “The markets have responded very positively to the surprise fall in inflation announced by the Office for National Statistics before Christmas and, as a result, we’ve seen significant falls in market interest rates since then.”
+
+Many other lenders have marked the start of 2024 by cutting mortgage rates, including Barclays, reducing rates on a selection of products by as much as 0.50 percentage points across its residential purchase range.
+
+Halifax, HSBC UK, First Direct and TSB are also among the lenders to have cut their mortgage rates as the new year has got under way.

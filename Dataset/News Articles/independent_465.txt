@@ -1,0 +1,293 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Most major London hotels serve afternoon tea, but while some venues provide an experience you’ll never forget, others can be nothing short of dire. But don’t worry, we’ve selflessly eaten our way through tier after tier of delicate finger sandwiches, scones and indulgent pastries and cakes to find out which ones stand out, so we can bring you the best of the bunch – there’s not a soggy cucumber sarnie in sight.
+
+Whether you want panoramic views of England’s capital city, somewhere you can linger for the whole afternoon in style or a delightful tea on a budget, there’s something for everyone – including a few themed options. So, don your loosest-fitting clothes and get ready to indulge in stacks of sweet and savoury treats that would make the likes of Mary Berry and Paul Hollywood weep with joy.
+
+The best afternoon tea hotels in London are:
+
+Best for elegance: The Langham
+
+Neighbourhood: Marylebone
+
+The Langham: the first London hotel to serve afternoon tea (The Langham)
+
+Combining the indisputably traditional with contemporary pizazz is no mean feat, but Palm Court manages just that. Forming the centrepiece of this luxury hotel – which became the first ever London hotel to serve afternoon tea when it opened back in 1865 – it provides an immediate wow factor with service to match. Delicate finger sandwiches were joined by plain and golden raisin scones, which were perfection, while the raspberry sponge with raspberry confit and jasmine cream was one of many delectable cakes and pastries. No need to worry about table space – the dainty tiered plates (Wedgwood, of course) sit on floor-standing silver frames. And if you don’t have tummy space (we didn’t), you can take your cake of the day home. Take time to peruse the teas – there are almost 20, all chosen by a tea sommelier. There are dedicated vegetarian and vegan afternoon tea menus, too.
+
+Price: From £70 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for a special day out: Brown’s Hotel
+
+Neighbourhood: Mayfair
+
+Brown's Hotel: a firm favourite (Brown's Hotel)
+
+This is old London (the capital’s first ever hotel, in fact) at its finest, with smatterings of modern touches for panache. Think original wood panelling, Jacobean ceilings and roaring fires. It’s intimate, impressive and, on a cold winter’s day, it feels like a warm hug from a much loved glamorous relative. Hats off to the pianist too, who creates just the right ambience with both old and new favourites. No chance of the sandwiches curling up at the ends here – the bread feels fresh out of the oven, with traditional flavours such as smoked salmon and lemon butter on malted loaf, coronation chicken on onion bread, followed by soft and buttery scones with cakes and pastries such as apple and caramel choux, blood orange drizzle cake and lemon meringue pie. On a diet? There’s also an entire plant-based menu, if you’re looking for vegan treats.
+
+Price: From £75 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for old-school class: The Savoy
+
+Neighbourhood: The Strand
+
+The Savoy: a magic experience (The Savoy)
+
+Descending the black and white marble stairs into Thames Foyer, you’ll realise why you had to book so far in advance. The light-flooded formal room with tables centred round the gazebo – complete with grand piano – is breathtaking. But what really marks this afternoon tea out is that it’s first-class in atmosphere, service, tableware and culinary delights, yet somehow manages to be unstuffy. Finger sandwiches include pickled cucumber, chive and lemon cream cheese, eggs and watercress, and cured Dorset beef with celeriac remoulade, while open sandwiches include smoked salmon with seaweed butter. Scones come with jam, lemon curd and clotted cream, but do leave room for the seasonal pastries. Similarly to The Ritz, the pianist bursts into “Happy Birthday” while waiters in pairs (one to stop the candle blowing out) bring individual celebration cakes to the relevant tables – a bit ritualised and impersonal for our liking, but it seemed to please the rest of the punters. There are also vegetarian and vegan menus available.
+
+Price: From £65 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Savoy here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for views of London: Shangri-La at the Shard
+
+Neighbourhood: London Bridge
+
+Enjoy panoramic views of London at Shangri-La at the Shard (Shangri-La at the Shard)
+
+The first thing that hits you about this luxury tea is the view – or should we say views. Located on the 35th floor of this striking building, Ting has views that are both panoramic and spectacular – and all the low tables and armchairs are arranged to make the most of it. You’ll want to block out a big chunk of your diary to take it all in. Afternoon teas often come with a welcome drink, but this one topped them all, with the base tray immersing our table with billowing clouds of dry ice (long enough to take some great snaps). Sandwiches include classics such as smoked salmon and cucumber as well as truffle egg and cress, while the freshly baked scones come with lashings of jam and cream. Meanwhile, the melt-in-the-mouth sweets include such delights as pistachio profiteroles and white chocolate mousse. Service is attentive and there are some interesting teas to sample too. A vegan menu is also available.
+
+Price: From £71 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Shangri-La The Shard, London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for impressing: Claridge’s
+
+Neighbourhood: Mayfair
+
+Reserve your table well in advance at Claridge's (Claridge's)
+
+The 150-year-old ritual of afternoon tea at this sophisticated Art Deco hotel has waiting lists longer than any other offering in this round-up – with the possible exception of A-list celebs who are, frankly, part of the furniture. Expect stunning tableware and soft lighting, classical musicians playing well known tunes in the background and the scent of magnificent floral arrangements. The savouries are so good (seasonal examples include sandwiches such as chicken with gem lettuce and tarragon, and smoked salmon with crème fraîche on rye bread) that you’d be happy to leave it there. But the ultra-soft and light scones are not to be missed. The pastries are delicate and full of flavour – think fruity pavlovas and almond and pear tarts.
+
+Price: From £75 per person (from 1 April 2023 the price will increase, starting from £85 per person)
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for tradition: The Ritz
+
+Neighbourhood: Mayfair
+
+The Ritz: classic service in a busy tearoom (The Ritz)
+
+Serving 450 afternoon teas a day across five sittings, it’s no wonder this feels like such a well-oiled machine. The formal dress code, doormen in top hats and the stage (literally) of Palm Court sets the scene – this is posh London in all its theatre. The tea is good and traditional – plenty of fresh finger sandwiches (smoked salmon, egg mayo, cucumber and cream cheese, ham and mustard), brought out with an assortment of elaborate cakes (three each), with one tier left for the warm raisin and plain scones, which arrive about 20 minutes in. We had the Ritz Royal English tea (one of a choice of 18) – pleasant enough and refreshed half-way through. A cake trolley does the rounds – we opted for the orange cake, moist and full of flavour – while for birthdays, individual cakes arrive en mass to the tinkling of the pianist. And yet, of all the afternoon teas we tried, it somehow felt the least personal. You’ll love it if opulent surroundings and old-fashioned etiquette is your thing; you might not if the strict time slot of 90 minutes and the crammed-in tables are likely to irritate you.
+
+Price: From £70 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for laid-back luxury: The Connaught
+
+Neighbourhood: Mayfair
+
+Sweet treats for days await at The Connaught (The Connaught)
+
+Pastry chef Nicolas Rouzaud is the perfect fit for this Mayfair hotel, and his afternoon tea is a true feast for the senses. But first things first: the Jean-Georges restaurant deserves a special mention for its chic, conservatory-based surroundings and laid-back London buzz. The result is a sense of occasion but without the need to stand on ceremony. Savoury standouts for our tea (which changes seasonally) included egg and truffle mayo on white bread and roast ham, sweet potatoes and coconut with cranberry chutney on beetroot bread, while the melt-in-the-mouth plain and raisin scones came with organic mandarin and vanilla jam, strawberry jam and clotted cream. But the sweet treats are the real reason to come here, with every mouthful of our vanilla mousse and hazelnut praline on shortbread and the lime gel, coconut mousse with white chocolate outstanding in taste, texture and most of all, originality. Leave room for the fondue – you won’t want to try taking that home. The tea list could be longer, though.
+
+Price: From £75 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for exuberance: The Landmark
+
+Neighbourhood: Marylebone
+
+Enjoy afternoon tea in a 19th century courtyard (Landmark)
+
+Barely a hop, skip and a jump from Marylebone station, this hotel was built at the end of the 19th century, around a large central courtyard, to allow horse-drawn carriages to drop guests at the heart of the property. That courtyard, now covered with a glass roof, remains the beating heart of this grand hotel, providing a striking setting for afternoon tea. Traditional to the core, our finger sandwiches included smoked salmon, egg mayo, coronation chicken, and classic cucumber – delicious, albeit disappointingly fridge-cold (as was the Wedgewood plate). Next up were warm freshly baked raisin and apple and classic scones with an impressive choices of jams (Bergeron apricot among them) and a beautiful display of mini desserts, including choux and macarons. Our waitress couldn’t have been more friendly or knowledgeable, but we’d have liked posher glasses – they felt more pub-standard than crystal glass.
+
+Price: From £65 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The best themed afternoon teas
+
+Best for fashionistas: The Berkeley
+
+Neighbourhood: Knightsbridge
+
+Fashionistas will love The Berkeley's stylish selection (The Berkeley)
+
+If it’s fashion that floats your boat, the Prêt-à-Portea tea is for you. The pastry chefs at this Knightsbridge hotel attend London Fashion Week to assess the collections, which then inspire their sweet treats, which are served on Instagrammable china in the modern, light and airy Collins Room. The staff talk you through all the goodies, which are based on everything from Jimmy Choo heels to Fendi coats, while you inevitably coo at the exquisite detail – and there’s no disappointment when it comes to taste either. Flavoursome savouries include the likes of finger sandwiches and heritage beetroot tart. However, if you’re a fan of scones, be mindful that they are only available on request.
+
+Price: From £75 per person (from 12 April 2023 the price will increase, starting from £80 per person)
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for kids: The Ampersand
+
+Neighbourhood: South Kensington
+
+The Ampersand: fun for all the family (The Ampersand)
+
+We’ve all seen them – the kids, dressed to the nines, who look like they’d rather be anywhere else, eating anything else, than at a posh hotel tea. Not here – this quirky, imaginative affair is as child-friendly as it gets, yet manages to retain a feel of elegance for the grown-ups. No wonder the chic drawing room was packed when we visited – every table complete with little ’uns. Inspired by the nearby Science Museum, our kids’ science afternoon tea kicked off with a DIY lemonade kit, complete with test tubes, plus mini dinosaur biscuit ‘fossils’ hidden beneath chocolate soil. On the vibrant rocket stand, favourites included mini hot dogs, buttery scones with a squeezy tube of zingy curd, and chocolate and berry ‘planets’ – all arriving with gasp-inducing clouds of dry ice. For the adults’ science tea, highlights included the smoked salmon blinis, white chocolate and cranberry scones and fruity macarons.
+
+Price: Kids’ menu £35.00 per person; adults’ menu £49.50 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The best budget afternoon teas
+
+Best for value: Strand Palace Hotel
+
+Neighbourhood: The Strand
+
+The Strand Palace Hotel: a cheaper choice for those on a budget (Strand Palace Hotel)
+
+If The Savoy is out of your price range – or you simply don’t want that level of formality – this hotel just across the road serves a great afternoon tea for a fraction of the cost. Don’t expect the finger sandwiches to be cut to quite the precision of the top hotels reviewed here, or the scones to be quite such a triumph, but they are fresh, tasty and varied – and there are vegan and gluten-free options to choose from. Sweet treats include the likes of raspberry and milk chocolate éclair, lemon and strawberry macaron, and blood orange caramelised tart. Plus, you can add a glass of prosecco for £8. The service is attentive and the 1920s-themed afternoon tea salon has been decorated in rich reds, with Art Deco glitz. For a budget afternoon tea in a central London hotel, we give it a thumbs up.
+
+Price: From £39 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for tea with friends: Dean St Townhouse
+
+Neighbourhood: Soho
+
+Dean St Townhouse is great for those on a budget (Dean St Townhouse)
+
+This is the cheapest tea in our round-up, but the Dean Street Townhouse afternoon indulgence won’t leave you feeling hungry, with generous portions of neatly laid out sandwiches (egg mayo, smoked salmon and horseradish, and gin-and-tonic cucumber) and warm scones with homemade jams, along with a good dollop of fresh clotted cream. While the cakes are not quite on par – in terms of elegance, creativity and arrangement – with other grander hotels reviewed here, the texture and taste are still notable. There’s a selection of loose leaf teas to pick from and there’s no skimping on presentation – with the full tiered experience and beautiful matching blue-and-white china – and it’s served up in the intimate, dimly lit restaurant, complete with velvet chairs and plenty of privacy for each table. All for just under 30 quid – a bargain.
+
+Price: From £28 per person
+
+Book now
+
+Best for vintage: 11 Cadogan Gardens
+
+Neighbourhood: Chelsea
+
+11 Cadogan Gardens: exceptional value for money (11 Cadogan Gardens)
+
+This understated Chelsea boutique hotel offers good value for money with its afternoon tea. Served in the smart, homey drawing room (or in the relaxed restaurant, Hans’ Bar & Grill), it’s a more intimate offering than most, with a personal, friendly service and plenty of nice touches, including the tallest most delicate champagne flutes we’ve come across (mind those elbows) and attractive nature-themed bone china. Our sandwiches were ever-so-slightly on the dry side, but it was not a deal breaker, and the scones made up for it, while the top tier included beauties such as orange and cinnamon crème brûlée tarts and pistachio, white chocolate and cranberry macaroons. If the razzle dazzle (not to mention the price tag) of The Ritz and Claridge’s doesn’t appeal, this may be just the ticket. And despite being just a stone’s throw from Sloane Square, the quiet residential surroundings mean you’d never even know.
+
+Price: From £45 per person
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of 11 Cadogan Gardens Hotel & Apartments here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews:
+
+Read more on England travel:

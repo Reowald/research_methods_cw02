@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Xbox is preparing for an “update” that could bring dramatic changes to how it makes and sells games.
+
+The company is rumoured to be making an announcement that could represent one of the biggest changes in gaming strategy at Microsoft since it launched the first Xbox, more than 20 years ago.
+
+The company is widely rumoured to be launching new games that were previously thought to be first-party exclusives to other consoles beyond Xbox.
+
+Rumours suggest that upcoming and newly released games including Starfield, Sea of Thieves, Hi-Fi Rush and Indiana Jones and the Great Circle will all be made available on other platforms.
+
+That could bring the games to Sony’s PlayStations and the Nintendo Switch, as well as PCs and Xbox.
+
+In recent weeks, rumours about that potential change of strategy have become louder and louder. Xbox is yet to comment on them beyond promising an update in the future.
+
+“We’re listening and we hear you,” wrote Phil Spencer, the head of Microsoft gaming last week. “We’ve been planning a business update event for next week, where we look forward to sharing more details with you about our vision for the future of Xbox. Stay tuned.”
+
+Now Xbox has said that the truth will be revealed on Thursday, 15 February, at 8pm UK time or 12pm pacific time. The update will be released on YouTube as well as through podcast apps.
+
+The discussion will include head of Xbox Phil Spencer, its president Sarah Bond, and head of Xbox Game Studios Matt Booty, the announcement said. It gave no more information about what would actually be included in the podcast, beyond “updates on the Xbox business”, and the update could potentially relate to other questions.
+
+Xbox’s tweet announcing the event drew criticism that was almost universal and intense. “BELIEVE IN THE CONSOLE/BRAND YOU HAVE BUILT!” read one popular reply.
+
+Customers have argued that bringing Xbox games to other consoles would upset house that have invested in Xbox consoles and other parts of the ecosystem. But they have also argued that it could reduce competition with Sony.
+
+The concern has even reportedly led Microsoft to assure staff that it would continue making consoles. Staff were told at a meeting of the company that “Xboxes would continue to be part of a strategy that involves multiple kinds of devices”, wrote gaming reporter Shannon Liao in a newsletter.

@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The surprise announcement at Samsung’s event when it revealed the Galaxy S24 series of phones was a smart wearable, called the Galaxy Ring. It was one of the main talking points when I sat down with Dr Hon Pak, head of Samsung Electronics’ digital health team.
+
+Although there are many details which are not yet known, Dr Pak was open about its purpose as part of the features Samsung is working on that are concerned with health.
+
+“We think that our role, at Samsung Health, is to simplify healthcare and to help individuals understand where they are and their journey,” he told me. “We want to help them to change behaviours in a positive way so that they can have the capacity to care for themselves and care for others. We want to connect people to each other. We think health is a team sport, not an individual sport.”
+
+Samsung believes the time is right to offer more health features that we can use at home. “Because of unsustainable costs, healthcare shifting to the home. And this is accelerating particularly in the U.S. But I think it happens in other places. We have a challenge largely that’s happening because of cost but also because of the work force shortage. We think we’re uniquely positioned with our portfolio of devices.”
+
+There are sensors in Galaxy phones and Galaxy smartwatches which can measure heart rate and even blood pressure. That’s already in the Galaxy Watch series and is something the Apple Watch doesn’t match.
+
+Dr Hon Pak (Samsung)
+
+But health devices have their limits. It’s fine that a smartwatch can confirm in the morning that we didn’t sleep well last night, but that may not be enough to help.
+
+Dr Pak said, “People are saying to us that it’s nice that they can track how they’re sleeping or exercising, but they are saying they want to get better, they want a solution. Sleep has been a very significant focus for us. The Korean FDA approved our sleep apnoea screening detection.
+
+“We are able now, using blood oxygen dips that occur at night to say, we think you are at pretty good risk for having sleep apnoea. As you know, sleep apnoea is a huge problem. A hugely under diagnosed and the implication of sleep apnoea to cardiovascular and other diseases is pretty significant.”
+
+Sleep tracking had been widespread for a while and its implications are becoming more apparent. “We have four new indices that we are tracking during sleep, heart rate. respiratory rate, night movement and sleep latency. What we have come to realise is that during sleep, when we measure how the heart rate declines or how blood pressure dips, those things are indications of your overall health, not just the quality of your sleep And we think that those are indicators for potential early interventions, because doctors don’t have that information.”
+
+The buzzphrase of artificial intelligence inevitably entered our discussion. Dr Pak thought it would change things in a big way. “I see two important areas where AI will impact healthcare broadly. I think as a physician when I look at AI, being able to manage large mountains of information will be useful: humans can’t digest that much data from various sources, and go on to summarise it correctly.
+
+“For the first time, generative AI is able to do that in a very efficient way. I also think that, for the first time, conversational AI allows us to really mimic human conversations, which will really improve this concept of the digital assistant in the home, and it’s able to help you navigate and understand what’s happening in that environment.”
+
+Does he imagine AI would ever replace doctors? “I don’t think doctors will ever fully go away but I think the days of doctors not using AI will likely go away over time. Because I think that AI is now matured enough that if you don’t leverage it, you don’t get the efficiency, so you don’t get the scale.
+
+Then, with a theatrical flair, a sheet is removed to show me the Galaxy Ring. I’m warned that this is a prototype, so everything can change, from the colour to the material to the design.
+
+The prototypes, which I wasn’t allowed to photograph, came in a dozen sizes and four different colours, including a shiny gold and matte black. The rings had a concave outer edge that was strangely appealing to the touch. It was light and comfortable – making it much more appealing to wear at night, for instance, than a smartwatch.
+
+And that’s the key benefit of something like the Ring, which sits discreetly on the body at all times, with noticeable weight and no distracting screen. While you’re wearing it, the ring is quietly, constantly recording data. “What’s happening with wearables is that they can give us context in ways we’ve never known. We go to the doctor’s office, do a blood pressure check, say, and we come back to the office six months or a year later and do another check.
+
+“In reality, there’s a lot of context here that would change if the doctors knew, if the individual knew. And this would fundamentally change some of the management and lifestyle choices we make. For the first time, it’s giving us windows and opportunities for change in ways that were not possible. This kind of technology is helping us understand the last mile of healthcare.”

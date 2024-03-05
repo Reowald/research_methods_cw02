@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Lando Norris has committed his long-term future to McLaren, signing a new contract which will see him drive in papaya colours beyond 2025.
+
+The 24-year-old has raced for McLaren in F1 since 2019, having been honed through the team’s young driver programme since 2017 throughout his years in junior formula. But despite 13 impressive podiums in McLaren colours since 2020, including seven in 2023, Norris is yet to clinch his first F1 victory.
+
+His original deal, signed in February 2022, was due to expire at the end of the 2025 campaign but this new contract – where the specific length is not disclosed – will take him beyond that season and into Formula 1’s new era of regulations in 2026.
+
+Norris has been linked with a move to world champions Red Bull to partner close friend and three-time world champion Max Verstappen, with Sergio Perez’s deal at Christian Horner’s team expiring at the end of this year.
+
+“It’s a great feeling to be staying in papaya,” Norris said. “I’ve grown up with McLaren and feel at home here, the team are like family to me.
+
+“The journey so far has been exciting, we’ve had ups and downs, but last season showed our desire to get back to competing at the front of the grid.
+
+“The work Zak [Brown, CEO], Andrea [Stella, team principal] and the whole team have put in over the last year has been incredible and I’m confident in challenging for wins with McLaren. I’m excited to create more amazing memories and continue working hard with everyone at MTC for the next few years.”
+
+Lando Norris has signed a new contract with McLaren beyond the 2025 F1 season (Getty)
+
+The news comes 24 hours after Charles Leclerc committed his future to Ferrari by signing a new long-term deal, reported to be until 2029.
+
+Norris’ new deal comes four months after his team-mate Oscar Piastri, poached from Alpine ahead of last season, penned his own contract extension with McLaren until the end of 2026.
+
+McLaren CEO Zak Brown added: “I’m delighted that we’re continuing our relationship with Lando for multiple years to come.
+
+Norris has been linked with a move to Red Bull to partner Max Verstappen (right) (Getty)
+
+“It’s been a fantastic journey over the last six years, and he has shown fantastic commitment and desire to push the team forward and get McLaren back to the front of the grid.
+
+“Last season we saw the fundamental role Lando played with the impressive turnaround in results and I’m looking forward to continuing this push forward together with lots more podiums.”
+
+McLaren unveil their 2024 car on Wednesday 14 February, a week before pre-season testing gets underway.
+
+Norris later tweeted: “There’s nowhere else I’d rather be. Proud to say I’m staying with McLaren, let’s carry on what we started.”
+
+The 2024 F1 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

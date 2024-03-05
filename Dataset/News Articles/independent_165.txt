@@ -1,0 +1,39 @@
+Sign up for the View from Westminster email for expert analysis straight to your inbox Get our free View from Westminster email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+View from Westminster email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Illegal migration minister Michael Tomlinson has said he can guarantee flights carrying asylum seekers to Rwanda will take off before the next election as he defended the government’s floundering plans to “stop the boats”.
+
+Rishi Sunak has repeatedly refused to go that far, saying his aim is to get planes in the air.
+
+The prime minister is fighting to save his policy, with a new treaty with Rwanda and a bill currently going through parliament after the Supreme Court declared it unlawful late last year.
+
+In a sign of the increasing pressure he is facing over the issue, Mr Sunak recently made a £1,000 bet with Pier Morgan that he would get planes in the air – a move that led to howls of criticism.
+
+Speaking to the Sunday Morning with Trevor Phillips programme on Sky News, Mr Tomlinson said: “As soon as the treaty is ratified and the bill is through parliament … when that happens, the planes will take off.”
+
+Asked if he was guaranteeing flights before the next election, he said: “Yes. We need to get through the bill first. We need to get the treaty ratified and then the planes will take off.”
+
+He added: “I want that to happen as soon as possible, you can sense my impatience for that.”
+
+Last month, Mr Sunak said he was unable to guarantee flights before the election, as he urged peers not to block the bill.
+
+It is due to return to the Lords on Monday when peers who oppose the plan will table amendments to strip out measures they say breach international law.
+
+The prime minister has said he will not allow a foreign court to block Rwanda flights and is prepared to ignore injunctions that would ground them.
+
+However, he suffered a major blow when his immigration minister Robert Jenrick resigned and warned the legislation would not work.
+
+The new home secretary James Cleverly has also failed to deny he called the policy “bats***”.
+
+‘Impatience’: Michael Tomlinson (PA Media)
+
+The Supreme Court ruled the original plan unlawful, based on evidence that Rwanda is not a safe country.
+
+In response, the bill will declare the African nation safe.
+
+Last week, MPs and peers on parliament’s joint committee on human rights said the bill was “fundamentally incompatible” with the UK’s human rights obligations.
+
+Liberal Democrat Home Affairs spokesperson, Alistair Carmichael said:“Conservative Minister after Conservative Minister has put the public on this endless merry-go-round when it comes to the Rwanda policy. It is a never ending calamity.
+
+“It is a policy which is destined to fail and is extortionately expensive. Instead of getting on with driving down the backlog, this Conservative government is governing by press release and pursuing policies that have no chance of being effective.”

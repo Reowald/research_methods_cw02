@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Astronomers have found 85 possible planets that could be home to alien life.
+
+The distant worlds – which themselves are not yet confirmed – are thought to have temperatures that would make them cool enough to sustain life, the scientists who find them say.
+
+The exoplanets are similar in size to Jupiter, Saturn and Neptune. They were spotted by Nasa’s Transitioning Exoplanet Survey Satellite, or TESS.
+
+TESS enables scientists to observe dips in the brightness of stars, known as transits, caused by objects passing in front of them.
+
+Typically, at least three transits need to be seen to discover an exoplanet in this way, in order to determine how long they take to orbit their star.
+
+However, in the new study, researchers looked at systems that only transit twice, which results in planets that have longer periods of orbit, enabling the discovery of exoplanets at cooler temperatures.
+
+The 85 candidate exoplanets take between 20 and 700 days to orbit their host stars, whereas most exoplanets observed by TESS have orbital periods of 3-10 days.
+
+Researchers say that some of the planets are far enough away from their host stars that they could be the right temperature to sustain life. This is known as the “habitable zone”.
+
+At this stage the bodies still need to be confirmed as exoplanets but the researchers hope this will be achieved with future observations.
+
+Sixty of the 85 potential exoplanets are new discoveries while 25 have been detected in the TESS data by independent research teams using different techniques.
+
+Faith Hawthorn, PhD researcher at the University of Warwick, said: “We ran an initial algorithm searching for transits on a sample of 1.4 million stars.
+
+“After a painstaking vetting process, we whittled this down to just 85 systems that appear to host exoplanets that transit only twice in the dataset.”
+
+Professor Daniel Bayliss, also involved in the research, added: “It’s very exciting to find these planets, and to know that many of them may be in the right temperature zone to sustain life.”
+
+He added: “Encompassing the collaborative spirit of the TESS mission, we have also made our discoveries public so that astronomers across the globe can study these unique exoplanets in more detail. We hope this will drive further research into these fascinating exoplanets.”
+
+Dr Sam Gill, second author of the study, noted: “Detecting exoplanets from just two transits is a clever way to find longer period exoplanets in transit surveys. It allows us to find planets that are much cooler than can be found with traditional transit searches.”
+
+The international collaboration led by Ms Hawthorn at the University of Warwick was published on Wednesday in the Monthly Notices Of The Royal Astronomical Society (MNRAS).
+
+Additional reporting by agencies

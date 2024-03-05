@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+TikTok has launched its own native app for the Apple Vision Pro, beating many other video streaming apps.
+
+Since the headset was launched at the beginning of this month, much of the discussion has been over some notable holdouts who are yet to launch their own apps for the platform. Both YouTube and Netflix are not available in the Vision Pro, for instance.
+
+Some reports suggested the companies were waiting to see how popular the headset might prove. In the time since, YouTube has said that an app is on its roadmap – though it has not given any indication of when it might arrive.
+
+TikTok however has been more clear that it has been planning an app, but that it was not ready for the launch. At the end of last month, before the headset was launched to the public, TikTok said that a new app and a major redesign would be on its way.
+
+The app required a total redesign of TikTok to fit within Apple’s vision for spatial computing, said Ahmad Zahran, a product lead at the company.
+
+“While many app developers have ditched the Apple Vision Pro, my team has redesigned the entire TikTok experience from the ground up!” he said. “This was a master-class in product development and I’m certain most other big tech companies wouldn’t have been able to turn it around the way we did.”
+
+The app looks much the same as its iOS counterpart. It appears to use the same feed and shows video in much the same way.
+
+However, it includes specific design elements intended for the headset. The app makes use of the extra space by showing comments alongside videos, and those comments have some transparency to allow people to see the world behind.
+
+This week, Apple said that developers had built more than 1,000 apps specifically for the Vision Pro. That is alongside over 1.5 million iPad apps that are available within the headset.
+
+That includes many other streaming services. Disney+ for instance has been particularly keen in its support – offering a devoted app that includes 3D movies – but others such as HBO’s Max have also released special Vision Pro apps.
+
+Any streaming services that are not available in the headset can still be accessed through the headset’s built-in Safari browser. But that means missing out on some features, including YouTube’s 360-degree videos.

@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The City regulator is collecting information from financial adviser firms about whether they have assessed their services in response to the new consumer duty, which requires businesses to put customers at the heart of what they do.
+
+The Financial Conduct Authority (FCA) said it is writing to several firms, requesting information about their delivery of ongoing services, for which their clients continue to be charged after advice has been given.
+
+The regulator said the data gathering forms part of its work to raise standards in the consumer investment market, so that people can invest with confidence.
+
+Under the consumer duty, firms should ensure that products and services meet consumers’ needs and provide fair value.
+
+They should communicate in a way that supports customer understanding and provide support that meets consumers’ needs throughout the life of the product or service.
+
+The duty came into force in July last year for new and existing products or services.
+
+In July 2024, it will also come into force for closed products or services.
+
+In its survey, the FCA is asking if firms have assessed their ongoing services in response to the introduction of the consumer duty, and whether they have made any changes as a result.
+
+It is also asking for firms’ data on how many clients are due a review of the ongoing suitability of the advice – and how many have received that review.
+
+The regulator also wants to find out how many people paid for ongoing advice but had their fee refunded as the suitability review did not happen.
+
+The FCA is collecting this information to assess what, if any, further regulatory work it may undertake.
+
+It expects to give a further update, having considered firms’ responses.
+
+Around 20 of the biggest advice firms are receiving the survey.
+
+Their selection is not based on any particular concerns with those firms, the regulator said.
+
+In a letter sent out in December 2022, the FCA set out its concerns that advice firms were not adequately considering the relevance, nature and costs of ongoing services for all their clients.
+
+A further letter sent in January 2023 explained how advice firms should approach the consumer duty, reminding firms that they are required to act in good faith towards customers, avoid causing them foreseeable harm, and enable and support them to pursue their financial objectives.
+
+In a consumer duty webinar with firms in December 2023, the FCA flagged concerns that it appeared some consumers may be paying for a service, such as an annual review, but were not receiving it.

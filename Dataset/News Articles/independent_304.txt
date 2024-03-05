@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average quoted price of motor insurance jumped by 67.2% in the year to November 2023, according to an index.
+
+But data analytics company Consumer Intelligence, which compiled the research, said there are some signs of a slowdown.
+
+It said quoted premiums rose by 10.6% in the three months to November, which was significantly slower than a 22% rise in the three months to August and a 15.2% increase in the three months to May.
+
+Its research indicates that in November, motorists most commonly received a quote between £500 and £749.
+
+According to recent figures from the Association of British Insurers (ABI), which looks at prices paid rather than quotes, the average motor insurance price increased by 29% or £125 annually in the third quarter of 2023 to a record high of £561.
+
+Motorists across all age groups and all over the country are seeing major increases in quoted premiums Max Thompson, Consumer Intelligence
+
+The association has highlighted delays in repair and supply chains, the rising cost of parts and materials and increasingly sophisticated car technology as factors adding to insurers’ own cost pressures, which in turn feed into the prices paid by customers for insurance premiums.
+
+Rising energy bills have also affected costs.
+
+Max Thompson, insurance insight manager at Consumer Intelligence said: “There is evidence that in certain areas such as Scotland and the East Midlands recent storms have had an impact on premiums.
+
+“During the last quarter, small increases in telematics competitiveness were observed across all the age groups… However, motorists across all age groups and all over the country are seeing major increases in quoted premiums.”
+
+The averages of the cheapest premiums returned on comparison websites are calculated, to compile the research.
+
+Jenny Ross, Which? Money editor, said: “With household budgets under strain during the cost-of-living crisis and car insurance premiums at a record high, many drivers will understandably be feeling apprehensive about renewing their insurance.
+
+“However, there are ways to find a more affordable deal. It’s important not to renew your policy without first checking if you could pay less. The price quoted by your insurer is not necessarily the best price you can get. Doing your research on comparison sites, haggling and switching are effective ways of bringing down premiums.”

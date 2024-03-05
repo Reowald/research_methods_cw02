@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Bitcoin’s price has surged upwards, making for its best week in months.
+
+Since Wednesday, the price of the cryptocurrency has surged almost 11 per cent. It is up almost 5 per cent in the last day.
+
+Bitcoin is still a long way from its heights during the pandemic: today, it is trading at around $47,000, having reached as high as $67,000 in early 2021.
+
+It has however largely recovered from the crash and the “crypto winter” that followed that period of excitement. Bitcoin has now gained almost 110 per cent over the last year, with many of those gains coming since October.
+
+Other cryptocurrencies also saw positive performance over the last week. Ethereum, the second largest digital currency, is up almost 8 per cent.
+
+Interest in trading cryptocurrencies also seemed to have markedly increase. Around $72 billion of digital currencies has been traded over the last day – up more than 15 per cent, according to tracking site CoinMarketCap.
+
+The gains for cryptocurrency come ahead of the momentous “halving” event, which is scheduled to happen in mid-April. That will see the rewards for bitcoin mining slashed in half for the first time in almost four years.
+
+Cryptocurrency experts are split on whether that event is likely to lead to short-term price reductions – or whether it will increase interest in the technology, leading the price to go up.

@@ -1,0 +1,9 @@
+A robot guide dog may soon be able to help blind and partially sighted people navigate indoors.
+
+University of Glasgow researchers are developing the RoboGuide, an AI-powered four-legged pooch capable of chatting with humans.
+
+They aim to help visually impaired people move freely around spaces such as museums, hospitals, and shopping centres.
+
+The robot uses sensors to map and assess its surroundings.
+
+It can learn optimal routes between locations and interpret sensor data in real-time to avoid hitting moving obstacles while guiding a human, and can also understand speech in order to provide verbal responses.

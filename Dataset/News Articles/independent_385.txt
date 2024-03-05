@@ -1,0 +1,35 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Francis Ngannou will “100 per cent” compete in mixed martial arts with the Professional Fighters League (PFL), according to the promotion’s founder and chairman Donn Davis, despite the heavyweight’s ongoing boxing venture.
+
+Ngannou signed with the PFL in May after leaving the UFC and relinquishing the latter’s heavyweight title, with his PFL deal allowing him to box on the side.
+
+The Cameroonian, 37, has not yet fought in the PFL, but he did make his boxing debut in October, narrowly losing to Tyson Fury on points after knocking down the WBC champion.
+
+Ngannou will return to Riyadh, the Saudi city where he fought Fury, to box Anthony Joshua on 8 March, but Davis has told The Independent that the PFL has no concerns about Ngannou’s future in the MMA promotion.
+
+“I’m 100 per cent confident that Francis fights MMA for PFL – not just once, but several times,” said Davis, 61, on Thursday (15 February). “And I’m confident that Francis will be our long-term business partner. I believe that he will ultimately prove himself to be the greatest athlete in combat sports – the Bo Jackson, if you will, of combat sports.”
+
+Davis was referencing Ngannou’s role as chairman of PFL Africa, and Jackson’s status as the only All-Star athlete across two US sports (baseball and American football).
+
+“I think Francis has an appetite to be a champion in boxing and to remain a champion in MMA,” Davis continued. “That’s so audacious that only someone of Francis’s character can set that goal, so I think you will see him continue to do both and continue to be successful at both.”
+
+Davis added that Ngannou’s first PFL opponent could be the winner of Renan Ferreira vs Ryan Bader, which is set to headline the PFL vs Bellator card in Riyadh on 24 February. The PFL acquired Bellator in November, and the upcoming event will pit a number of the PFL’s champions against several of Bellator’s.
+
+Ngannou mocks Tyson Fury after knocking down the unbeaten boxer in October (AFP via Getty Images)
+
+“I believe the winner of ‘La Problema’ and Bader will interest Francis Ngannou,” Davis said. “I think whoever comes out of this [victorious] has proven themselves to truly be the No 1 contender in heavyweight MMA – not just in our organisation.
+
+“Bader has ruled the roost in Bellator for five years; La Problema is the toughest, most athletic opponent in the world. I don’t know who’s gonna win that, but I think whoever wins that can lay claim to challenge Francis – and I’m interested to see if Francis accepts that.
+
+“I think outside of Francis Ngannou and [UFC heavyweight champion] Jon Jones, these are the two best heavyweights in the world. People don’t think that, because of the UFC brand, but the rest of the heavyweights in the UFC are not particularly interesting. Stipe [Miocic] was, but he’s 41, he’s got one fight left. Then there’s nobody else on the rise there that’s any better or any more interesting than this match-up of La Problema and Bader.”
+
+The PFL is continuing its global expansion, with leagues in the Middle East and Africa set to launch (Cooper Neill / PFL)
+
+Ngannou’s position as chairman of PFL Africa will likely see him play a role in the promotion’s African league, which is set to launch in April 2025. That launch will follow the inception of PFL Europe in 2023 and a Middle Eastern league this April.
+
+“We haven’t made any announcements yet, but we are finalising business partners and media partners [for PFL Africa] – both linear streaming and mobile,” Davis told The Independent. “Whereas most people in Africa can’t see the UFC, PFL will be the most widely-available MMA product in Africa.
+
+“All African fighters. It will be their very own premium league, fighters and champion. We’re on our way to building the Champions League of MMA, with more regional leagues to come. We’re already working on leagues for 2026 in other regions right now.”

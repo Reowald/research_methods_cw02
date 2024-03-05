@@ -1,0 +1,75 @@
+Do catalogues from companies you have never heard of regularly land with a thud on your doormat? These deliveries of junk mail may make you wonder how the senders got your name and address – and if your personal details are being shared without your say-so.
+
+One Guardian Money reader got in touch after being inundated with unsolicited post which, she thinks, began when she ordered from fashion retailer Boden for the first time. Within weeks she was sent catalogues from more than a dozen other upmarket brands selling clothes, food and furniture, ranging from Me+Em to The Fold, Biscuiteers, Daylesford Organic and Loaf.
+
+“Any number of people might have had my address, sending me endless, thick, environmentally unfriendly catalogues for clothes I would never buy,” she says. “I felt that someone had been very careless with my privacy.”
+
+‘Legitimate interests’
+
+If you have a growing pile of catalogues, it could be that a retailer you have used has passed your address to a data broker.
+
+This legal trade in personal information is big business with the companies involved, ranging from vast multinationals to small UK firms. Some conduct straightforward activities, such as collating lists of names and contact details to sell. Others combine multiple sources of data to create rich profiles of individuals that some might consider intrusive.
+
+The way businesses acquire and use personal data (information such as your name, email, postal address, or telephone number) is governed by UK data protection as set out in the General Data Protection Regulation (UK GDPR) and Data Protection Act 2018.
+
+View image in fullscreen Have you wondered how senders of catalogues got your name and address? Photograph: Alicia Canter/The Guardian
+
+To comply, the Information Commissioner’s Office (ICO) says organisations must be upfront and tell people what they want to do with their data. This includes if they intend to use data-broking services to obtain additional information, or profile them. They must also inform people if they intend to share data with data brokers. “Organisations have to be clear about their purpose for processing and identify a lawful basis for processing,” says the ICO.
+
+“In the data broking context, the lawful bases that are generally referred to are consent and legitimate interests.”
+
+This is why the words “legitimate interests” and “consent” are often prominent in privacy notices on company websites.
+
+Andrew Northage, a partner at the law firm Walker Morris, says the first typically covers marketing “because it’s reasonable for a retailer to promote their products and services, and the marketing doesn’t have a strong negative impact on the customer”.
+
+Where the direct marketing is carried out electronically (this includes by phone, email or messaging) rather than by post, it’s also subject to the Privacy and Electronic Communications (EC Directive) Regulations 2003, says Northage. Here, the only legal basis for data sharing is consent.
+
+“Customers should read a retailer’s privacy notice to check if they propose to share their data with third parties for marketing purposes,” he advises.
+
+They should “only consent to this sharing where they are clear what they are agreeing to”.
+
+Prospect pools
+
+In its privacy notice Boden spells out that “like everywhere you shop online” it collects your personal information. “It means we can send offers tailored to you, for things that you’ll actually want (that spotted raincoat, for example).”
+
+The retailer also says it may share your name, address “and details about what you’ve ordered” with data brokers Epsilon and Experian which “manage prospect pools on behalf of UK retailers”.
+
+Epsilon (part of the French advertising group Publicis) manages the Abacus Alliance. This is a large database where more than 250 participating catalogue and multichannel retailers share the names and addresses of customers who shop with them, so other members can target them with mailshots.
+
+A “prospect pool” is what it sounds like: a collection of potential customer leads. Analysts or, these days, artificial intelligence software, comb this data to identify buying patterns. The end result is that your name could be given to a company that it thinks sells the kinds of things you like to buy.
+
+There is no suggestion of wrongdoing by Boden or Epsilon.
+
+View image in fullscreen Have you thought about what personal information is collected when you shop online? Photograph: Yui Mok/PA
+
+Boden says it “strictly adheres to the regulations on data protection”. It adds: “Customers can opt out of marketing at the time of purchase, via their marketing preferences in their accounts, or through our customer service team. We provide full details in our privacy policy of third parties that can be contacted directly.”
+
+The reader traced the source of her junk mail to the Abacus Alliance. “I rang them and they said it would take six months for the deliveries to stop,” she tells us.
+
+If you are in a similar situation and want your personal data to be removed from its database you can fill in a form on its website, call 020 89438049 or contact it on nomail@epsilon.com.
+
+The ICO says it has received a small number of complaints about Epsilon and Abacus Alliance in recent years, but adds: “These have now been closed as we were satisfied there was no further action for us to take in relation to these complaints.”
+
+No junk mail please
+
+If you are unhappy about the volume of junk mail you receive there are a number of things you can do to get your name removed from brokers’ databases.
+
+The free Mailing Preference Service (MPS) lets you opt out of unsolicited, personally addressed mail.
+
+Russell Roach, the head of preference services at the Data & Marketing Association (DMA) which runs the MPS, suggests that when you received unwanted catalogues, in the first instance, you should contact the business directly. “Write or email the business and ask them to remove your personal data from their records and any affiliates,” he says. “State how it’s making you feel receiving all this unsolicited mail.
+
+“If you register with the MPS we will do that for you. On our website there is a complaint section where we ask for you to scan or send in the mail you’ve received. Then my team will contact the organisation and give them 14 days to respond.
+
+“When we speak to the organisation we make the point that it’s going to save them time and money, and reduce waste, if they only mail people who want to receive the information.”
+
+View image in fullscreen There are ways to prevent receiving junk mail. Photograph: Martin Argles/The Guardian
+
+If you want to go a step further you can contact the Information Commissioner’s Office which has its own complaints process.
+
+If you are signing up to a new product or a service the key thing to look out for is the pre-ticked box. “You might tick to say ‘I understand your terms and conditions’ but there might be a pre-ticked box where it says ‘are you happy for us to pass your data on to some of our affiliates who have similar services?’,” says Roach. Uncheck this box to avoid unwanted contact.
+
+There are a growing number of companies, such as DeleteMe, that in exchange for a subscription fee (in this case £115 a year) will remove personal information being sold online.
+
+“DeleteMe exists to save people the time and headache of trying to figure out how to opt out of all these marketing schemes and data broker databases,” says its chief executive, Rob Shavell.
+
+“Hopefully the result is less direct mail, less spam, robocalls and phone calls, and marketing you may not be comfortable with and rarely benefits you as an individual.”

@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+OpenAI has tripled in value in just nine months after securing a new deal with venture capital firm Thrive Capital, according to reports.
+
+The ChatGPT creator, which was founded in 2015 as a non-profit, now ranks as the world’s third most valuable private company behind Elon Musk’s SpaceX and TikTok parent ByteDance.
+
+The latest deal, first reported by The New York Times, values OpenAI at around $80 billion – up from $27 billion last year.
+
+Reports of the new valuation comes after OpenAI released a new artificial intelligence tool called Sora that creates videos from a simple text prompt.
+
+Sora has already prompted both praise and concern since it was unveiled last week due to the highly realistic videos it is capable of creating.
+
+View more
+
+AI experts have warned that it could be used to spread disinformation, while some fear it could lead to the mass automation of entire creative industries.
+
+“You guys are going to end so many careers for people,” one user wrote on an OpenAI community forum following Sora’s release.
+
+“Photographers, artists, animators, filmmakers, and possibly even actors. Being in these industries is hard already, and now with this people might not have jobs anymore.”
+
+The product, which has not yet been released to the public, follows successful roll outs of other leading generative AI, including text-based chatbot ChatGPT and image-based tool Dall-E.
+
+OpenAI has frequently addressed safety concerns about its products, noting with the unveiling of Sora that it could potentially be misused.
+
+“We’ll be engaging policymakers, educators and artists around the world to understand their concerns and to identify positive use cases for this new technology,” the company said.
+
+“Despite extensive research and testing, we cannot predict all of the beneficial ways people will use our technology, nor all the ways people will abuse it. That’s why we believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems over time.”

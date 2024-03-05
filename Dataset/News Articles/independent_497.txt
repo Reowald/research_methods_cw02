@@ -1,0 +1,209 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+For the first time in a century, Paris is gearing up to host the Summer Olympic and Paralympic Games. It’s been a marathon rather than a sprint, and preparations have been under way for years. Now, France approaches the final hurdles before the Olympic torch begins its journey from Marseille on 8 May.
+
+The Olympic Games will run from 26 July to 11 August 2024, with the Paralympics starting on 28 August and running until 8 September. And while Olympic fever is spreading across the country, with events scheduled not just across metropolitan France but in overseas territories too (as far away as Teahupo’o, Tahiti, where the surfing competition will take place), the bulk of the action is happening in Paris itself.
+
+Already the city that sees the most footfall from foreign tourists, during the Olympics, Paris looks set to be bursting from the seams of its handsome Haussmann buildings. Plan your trip like an Olympic athlete, with careful preparation and training. If you haven’t yet secured tickets to one of the events, read The Independent’s handy guide here.
+
+Already the proud owner of a golden ticket? To avoid spending the Olympics sharing a bed with three of your mates, like Charlie Bucket’s grandparents, book your accommodation early. Here are 12 fantastic places to stay, hand-picked for their proximity to the venues.
+
+MOB House
+
+Four-star MOB House lies close to the Stade de France, venue for the athletics and rugby (MOB House)
+
+Just 23 minutes by Metro from the Stade de France – a walk in the park by Parisian standards – is the four-star MOB House. Urban chic, in an old warehouse with a generous terrasse and a swimming pool, it serves up vibes with regular DJ sets and an organic on-site bar-restaurant. The 100 rooms, minimalist with beige furnishings and light wood, are like visiting a friend with excellent taste – a far cry from the colour and chaos of Paris’s largest flea market, Saint Ouen, which is on your doorstep.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on France travel:
+
+Hotel Cabane
+
+Hotel Cabane provides easy access to the Metro and the venue for handball, volleyball and table tennis (Hotel Cabane/Leo Kharfan)
+
+An oasis in central Paris, Hotel Cabane is at odds with the highrise buildings of Montparnasse. With a generous garden and rooms with wooden panelling on the walls, it feels more like an Alpine chalet than the heart of the capital. The slap-up breakfast includes almost entirely local produce, and there’s a bar for unwinding after shouting yourself hoarse watching the sport. It’s half an hour on foot to the Paris Expo (which will be showing handball, volleyball, table tennis and weightlifting), or just one minute from Pernety Metro station on line 13.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Plaza Tour Eiffel
+
+Some of the rooms at the Plaza Tour Eiffel have views of the famous tower (British Airways Holidays)
+
+Recently renovated and newly reopened, the Plaza Tour Eiffel is just the other side of the Jardins du Trocadero, across the river from the Eiffel Tower. With soft gold and blue furnishings, the 41 rooms feel regal – even more so if you nab one with a view of the tower itself. Watching the world’s biggest sporting competition while looking over France’s most famous monument might sound like too many cliches, but it’s possible. The Champ de Mars Arena and the Eiffel Tower Stadium are hosting beach volleyball, judo and wrestling.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Hotel des Grands Voyageurs
+
+The Olympic torch isn’t the only new thing coming to Paris. Hotel des Grands Voyageurs opened its doors last year – a timely opening as it’s less than half an hour on foot from the Esplanade des Invalides, where the archery events will be held. Designed in a vintage style, it looks like the sort of place where Hemingway and his pals would have hobnobbed over one of the cocktails on the extremely extensive bar menu.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+TOO Hotel
+
+The restaurant at TOO Hotel boasts sweeping views over the city (TOO Hotel)
+
+A futuristic design in a glass tower in Paris’s 13th arrondissement, TOO Hotel is all about the views. From the restaurant (100 metres high) you’ve Paris at your feet – panoramas over the Eiffel Tower, Sacre-Coeur and Notre-Dame. It’s worth coming back down to earth though, particularly if you’ve got tickets for one of the events at Bercy Arena, which will be hosting the basketball, trampolining and artistic gymnastics. It takes under half an hour to reach on foot.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Generator Hostel
+
+Generator is just 15 minutes on foot from Gare du Nord, the Eurostar arrival station (Generator Paris)
+
+Blown your budget on tickets? That doesn’t mean you can’t enjoy the Olympics in style. Generator Paris, just minutes from Canal St Martin in edgy east Paris, is a hostel with a rooftop bar to die for and a club in the basement. Choose from dorm rooms that sleep between four and eight people (female only available) and private rooms. It’s just 15 minutes on foot from Gare du Nord, or 30 minutes from the Porte de la Chapelle Arena, where badminton and rhythmic gymnastics will be taking place.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+OKKO Hotel, La Defense
+
+Character hotels are few and far between in Paris’s most modern quartier, La Defense, but the OKKO brand does a great job of combining charm with luxury. The 184 rooms, spread over nine floors, are light and airy – and for budding Olympians who don’t want to miss out on training, there’s a small gym and a sauna. Getting to La Defense Arena, where the water polo and swimming are due to take place, is no sweat. It’s just across the road.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Hotel Jeu de Paume
+
+The Jeu de Paume is in Versailles, away from the buzz of the city proper (Hotel Jeu de Paume)
+
+It seems fitting that equestrian disciplines will be held at Versailles, and anyone watching will likely feel as though they’ve fallen into a period drama. Modern pentathlon is also taking place here, and by staying in Versailles you’ll avoid much of the crush of central Paris (at least in the evenings). Hotel Jeu de Paume has just 16 rooms, including family rooms, and walking to the Chateau de Versailles is no pentathlon – it takes under 10 minutes.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Hotel Dame des Arts
+
+Summer evenings spent on the rooftop of the Dame des Arts will provide great drinks and even better views (Ludovic Balay)
+
+Perfumed by its own signature scent, Hotel Dame des Arts appeals to all the senses. The rooftop and many of the private balconies enjoy panoramic views over the Eiffel Tower, Saint-Sulpice and Notre Dame. Better still, there’s a bar on the roof – cheering on athletes all day is thirsty work. Just steps from Saint-Michel Notre-Dame Metro, it’s easy to get anywhere in the city, but Olympic venues Hotel de Ville, Place de la Concorde and l’Esplanade des Invalides are all under 20 minutes’ walk away.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+La Villa Escudier
+
+La Villa Escudier lies temptingly close to Roland Garros, the venue for tennis events (La Villa Escudier)
+
+Finding accommodation close to Roland Garros that isn’t a) eye-wateringly expensive or b) completely lacking in soul has always been a challenge. La Villa Escudier, with its garden filled with rose trellises, blue shutters and opulent soft furnishings, is a welcome exception. There are just 18 rooms, all beautifully decorated. It’s not just Roland Garros that’s a tennis-ball throw away: Parc des Princes, the football arena, is just a 10-minute walk.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+L’Escale Royale
+
+L’Escale Royale offers a more peaceful oasis around 45 minutes from the city centre (L’Escale Royale)
+
+Does the idea of winning an Olympic gold in wrestling through the Parisian crowds fill you with horror? Stay outside the city and dip in only when the starting gun sounds. L’Escale Royale is just 45 minutes by train from the city centre, in Yvelines, Seine et Marne, but it could be a thousand miles away. A beautifully redecorated peniche, with hanging egg chairs on the deck and a freestanding bathtub that looks out over the Seine through glass doors, it’s so peaceful that you’ll be asking: “What Games?”
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read our reviews of the best Paris hotels

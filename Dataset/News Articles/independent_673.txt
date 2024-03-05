@@ -1,0 +1,95 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The setting is the Indianapolis Motor Speedway: home to the world-famous Indy 500 race. Ahead of the 2005 United States Grand Prix, at a circuit modified for Formula 1, ITV pundit and former F1 driver Martin Brundle is interviewing the sport’s long-term supremo and commander-in-chief Bernie Ecclestone on the grid. And you may well say, nothing unusual about that.
+
+What is more unusual is Brundle’s direct, bordering on combative, line of questioning. A huddle of camera crew and journalists huddle around, eager for answers. Because F1’s only race in the land of the free is about to become a farce. Out of 20 cars, only six take to the start line. For the sport and its tempestuous 55-year relationship with the US, it is the ultimate moment of absurdity. “The future of Formula 1 in America?” asks Brundle. “Not good,” Ecclestone replies.
+
+It is a far cry from where the sport is stateside now. Formula 1 is pushing boundaries and breaking the glass ceiling in a manner which would be unambiguously imposing if it wasn’t in the United States. There are now three races, with this week’s grand prix on the Las Vegas strip following on from a highly successful rebirth of the US Grand Prix in Austin and a street track in Miami.
+
+After 75 races at 11 different American venues, F1 has finally cracked the American code.
+
+“At my kids’ soccer game, you’ll see someone with a Red Bull shirt on,” says Scott Speed, a Californian native who raced in F1 for two years in the 2000s. “It’s been a long time coming but there is a noticeable difference when you see people walk around in F1 apparel. That’s very different to when I was in the sport.”
+
+But sometimes to understand the scale of the current highs, you have to revisit the lows of yesteryear. That ludicrous weekend in Indianapolis 18 years ago was, in his own words, a “super huge” weekend for Speed.
+
+He was testing for Red Bull at his home race, a week on from his first F1 test in Canada, but his team along with six others would not be racing come Sunday. Fourteen of the cars were using Michelin tyres which had resulted in several tyre failures in practice and qualifying at the final corner, including a heavy shunt for Toyota’s Ralf Schumacher, due to the abrasive nature of the high-speed banked turn.
+
+Installing a chicane to reduce speeds was suggested and rejected on the grounds that it would be unfair to the Bridgestone tyre runners – which included Michael Schumacher’s Ferrari team. Unable to take the risk of a serious accident, all Michelin cars did not start the 73-lap race. Schumacher won the six-car race to a chorus of boos in the grandstands.
+
+The 2005 United States Grand Prix turned into a farce when only six cars took to the start line (Getty Images)
+
+The remaining 14 cars – using unsafe Michelin tyres – entered the pits (Getty Images)
+
+It was a low moment for F1 and the sport’s supremo Bernie Ecclestone (right) (Getty Images)
+
+“The penalty if you went off there [turn 13] was just too hot, it was a big shunt,” Speed, who is a host on The Red Bull Bulletin’s F1 US-focused Ready for the Big Time podcast, recalls. “I remember in my meeting with the engineers, they said ‘your tyre was two laps from blowing up as well.’ That was a really surreal feeling and then I had a big feeling of relief. It was very scary knowing I’d have been in the same situation that Ralf [Schumacher] was in.”
+
+F1 did race in Indiana again, fulfilling its contract for two more years. But Lewis Hamilton’s win in 2007 was F1’s last venture at a track simply inadequate for both the basics and spectacle of the sport. One of F1’s lowest moments had been the catalyst for a period of nonexistence, with the sport undergoing a four-year period of inactivity across the Atlantic.
+
+Brundle closed that Ecclestone episode with one of his most famous lines. Trundling over to speak to the chief’s then-wife Slavica, he asks: “Mrs Ecclestone, this needs a woman’s intuition on this don’t you think?” She refuses to comment.
+
+“I think you should have something to say,” quips Brundle. “And give him a jolly good slapping.”
+
+***
+
+There have been years of ingenuity, dissatisfaction and scandal ever since the United States first hosted a race in Formula 1 in the sport’s inaugural year in 1950. Back then, the Indy 500 was classed as a championship race. In the decades since, Ecclestone and his team of millionaire race-makers had flirted ferociously with the American market – a crowded field of ultra-popular US sports, college competition and their own brand of motorsport with Indy Car and NASCAR.
+
+But the first signs of a rebirth after the Indiana farce came just over a decade ago. The composition and creation of the Circuit of the Americas (COTA) in Austin, Texas, gave F1 a lifeline in the United States.
+
+“They finally got their location right,” Speed tells The Independent. “Austin is a booming demographic, it’s like having a grand prix in New York. You’re in close proximity to a lot of fans and they’ve built a fantastic racetrack. That helps a lot, it’s a really special circuit.”
+
+Scott Speed raced in Formula 1 for two years in the 2000s (Getty Images)
+
+But it was still merely a foothold; hardly the stamp it craved. A proposed race in New York, with the Manhattan skyline and Hudson River in the backdrop, was crafted and discarded. COTA’s attendance of 265,000 at the inaugural race in 2012 dropped consistently to 224,000 by 2015.
+
+But Ecclestone’s 40-year stranglehold on the sport was loosening. New suitors showed their hand and Liberty Media – the world’s biggest sports media company – completed an $8bn takeover in January 2017.
+
+What followed was a revolutionary revamp of Formula 1, its leaders and, most significantly, its output. Liberty took full control, revitalising the sport’s social media output and relaxing out-of-date restrictions on teams publishing their own content. The immediate target demographic was young people and expanding the audience beyond its traditional European borders. But they still lacked a crown jewel.
+
+Enter Netflix and production company Box to Box Films. The US has been ahead of the curve in the department of fly-on-the-wall sports documentaries, with Hard Knocks on HBO and more recently All or Nothing on Amazon Prime proving popular with sports fans stateside. Now, F1 was making their own dive into the arena with Drive to Survive.
+
+Drive To Survive Season 5: Final Trailer
+
+“Fans have a lot of games to watch live, highlights to see, stories to read – all of that,” says sports media expert Brian Moritz. “But sports fans are typically insatiable in their desire for content, right? There’s never too much.
+
+“Going behind the scenes is exciting for fans. And I do think F1 was ahead of the curve in terms of taking a sport that Americans didn’t know or care a ton about and getting them to care. When you haven’t followed a sport your entire life, it can be hard to jump into a sport as an adult. I think Drive to Survive provided an entry point for American fans into the sport.”
+
+The growth of the series, year-on-year, has been staggering. Since the show’s first season in 2019, the viewership has increased by more than 350,000. F1’s audience for live races has skyrocketed to above one million per race. Cards fell favourably too: the Covid pandemic meant more people were stuck at home browsing and streaming online, while the 2021 title battle for the ages between Hamilton and Max Verstappen engaged a wider range of people too.
+
+The “Man on Fire” episode in season three – when Romain Grosjean’s car dramatically bursts into flames in Bahrain – is rated the most popular episode, according to IMDB.
+
+“F1 has this kind of exotic feel to it,” adds Moritz. “It’s primarily European and with all the money, glitz and glamour… I think that appeals to American viewers. Never underestimate the appeal of fast cars and rich people.”
+
+It would be a form of content that became almost a necessity when the professional tennis and golf tours went a similar way earlier this year with their first Netflix shows: Break Point and Full Swing. F1 has shown the path for all sports to draw in more engagement from an American market who, unequivocally, live and breathe for sport – but perhaps absorb the personalities of the stars and the elaborative storylines even more.
+
+Never underestimate the appeal of fast cars and rich people.”
+
+Drive to Survive’s impact is undeniable. But for Formula 1 and Liberty, there was still more to strive for – and two of the sport’s biggest stars have their sights set on unparalleled glitz and glamour. When asked in Australia in 2017 what their one wish from the sport’s new owners would be, Red Bull’s Aussie driver Daniel Ricciardo and Hamilton did not hesitate.
+
+“Race in Vegas!” beamed Ricciardo. “Miami, race,” added Hamilton. It was met with laughter among the media assembled. Even the drivers themselves perhaps were speaking more in hope than expectation.
+
+But boy how F1 have delivered. Miami was first proposed in 2018 and after tossing and turning over location and logistical plans for a few years, the sport landed on a custom-made street track around the city’s Hard Rock Stadium. It debuted last year and while initial impressions of the circuit and the racing have been mixed at best, it gives F1 a marquee event on the East Coast. And with Austin in the centre of the country now attracting 400,000+ spectators, there was one obvious slot left to fill.
+
+***
+
+So to Vegas, where slots are at every turn. F1 has tried and failed in Sin City before, toiling in an ineffective track in the car park of the Caesars Palace hotel for two years in the 1980s. But a race down the iconic Las Vegas Boulevard – the strip – was former F1 CEO Chase Carey’s dream concept when he took over the sport from Ecclestone. Indeed, Carey insisted F1 needed to start arriving in “destination cities.” But while the pandemic delayed plans, it didn’t derail them.
+
+F1 has spent $500m on a state-of-the-art pit building, the length of three NFL fields. Cars will zoom around the city’s new $2.3bn MSG Sphere. The sport is expecting to bring in $1.28bn for the city in year one alone. There has been anger and frustration among locals and tourists in recent months due to construction and road closures but the vision of an unparalleled ambition is now on the cusp of its grand opening.
+
+The new pit building constructed for the Las Vegas Grand Prix (Twitter - @F1LasVegas)
+
+Ex-F1 CEO Chase Carey has huge ambitions to bring a race to the Las Vegas strip (Getty)
+
+“It will be the biggest race in racing history,” famous American ex-driver Willy T Ribbs said. “The most talked about and the most glamorous. Vegas will be the one which is going to take Formula 1 in this country to a bigger level.”
+
+Yet where does F1 in the United States go from here? Like any sport, the spectacle can only do so much when the sport is not at its most enthralling. Verstappen’s two-year supremacy has not aided the product but periods of domination are not uncommon in Formula 1. This weekend’s race for example – in contrast to Saudi Arabia’s debut two years ago – does not have any world title at stake.
+
+Other factors can improve F1’s reach in the US further still. A driver capable of challenging at the top, with the only present American driver Logan Sargeant last out of all the current drivers this year, would entrap a significant following. Andretti’s application to join Haas as an American team – decision pending – could have a similar impact. Much like in Brazil, American fans are usually left rooting for seven-time world champion Hamilton, whose ground-breaking impact should not be forgotten as well.
+
+Ultimately, the world is their oyster. But more so than a likely upward trajectory, just how far will F1 push in search of further growth in the US? And will it lose its core, its traditionality, in the pursuit of further grandeur? Some may argue that’s already happening.
+
+Nonetheless, F1’s expansion in the United States can be decreed as nothing other than a roaring success. The most lucrative sporting market on the planet – in terms of fans and finances – has finally taken to Formula 1.
+
+It is now a sport and a product virtually unrecognisable from the shambles of Indiana in 2005.

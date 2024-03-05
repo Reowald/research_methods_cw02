@@ -1,0 +1,19 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Britain’s Phil Sesemann took a major step towards qualification for the Paris Olympics with his time at the Sevilla Marathon on Sunday.
+
+Sesemann ran an official time of 2 hours, eight minutes and four seconds, narrowly breaking the Paris standard by just six seconds. The 31-year-old set his personal best in the marathon, taking 45 seconds off his previous best set in Valencia in December.
+
+He is now likely to be one of Britain’s representatives in Paris this summer, with each nation permitted to submit up to three marathon runners per men’s and women’s race.
+
+Ethiopia’s Deresa Geleta won the men’s race with a course record time of 2:03:25, while compatriot Azmera Gebru won the women’s race.
+
+Here are the top results from Sunday’s race in both the men’s and women’s events:
+
+Sevilla marathon – men’s results
+
+Deresa Geleta Ulfata - 2:03:26 Morhad Amdouni - 2:03:46 Gashau Ayale - 2:04:52 Yemaneberhan Crippa - 2:06:05 Tefese Delelegn Abebe - 2:06:10 Ghirmay Ghebreslassie - 2:06:48 Christian Zamora - 2:06:53 Eyob Faniel - 2:07:07 Melaku Belachew Bizuneh - 2:07:27 Suldan Hassan - 2:07:35 Ibrahim Chakir - 2:07:46 Daniel Meucci - 2:07:49 Samuel Russom - 2:07:57 Rory Linkletter - 2:08:01 Petro Mamu Shaku - 2:08:01 Mohamed El Talhauqui - 2:08:03 Phil Sesemann - 2:08:04 Carlos Martin Diaz Del Rio - 2:08:04 Yitayal Atnafu Zerihun - 2:08:17 Abdi Ali Gelchu - 2:08:22
+
+Sevilla – women’s results

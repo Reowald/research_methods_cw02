@@ -1,0 +1,33 @@
+Once upon a time, nobody outside tech circles had heard of Sam Altman. But then his company, OpenAI, launched ChatGPT, and suddenly he was everywhere – touring the world, giving interviews to gushing journalists, granting audiences to awestruck politicians etc. Whiplash-thin, with a charmingly wide-eyed baby face, he instantly became the acceptable face of digital capitalism.
+
+Then the OpenAI board abruptly fired him, apparently on the grounds that he had not been, er, entirely candid with them. When Satya Nadella, Microsoft’s CEO (who had invested $13bn in OpenAI), heard about it, though, he was mightily pissed off. And in no time all, Altman was unsacked and reinstated in the OpenAI driving seat. And the world was transfixed by the drama of it all. Which only goes to show that appearances can be deceptive.
+
+If the world had read Tad Friend’s profile of Altman, which appeared in the New Yorker in 2016, it might have been less overawed. “I have narrow interests in technology,” he told Friend. “I have no patience for things I’m not interested in: parties, most people. When someone examines a photo and says, ‘Oh, he’s feeling this and this and this,’ all these subtle emotions, I look on with alien intrigue.” Altman’s great strengths, concluded Friend, “are clarity of thought and an intuitive grasp of complex systems. His great weakness is his utter lack of interest in ineffective people, which unfortunately includes most of us. I found his assiduousness alarming at first, then gradually endearing.”
+
+Two recent events suggest that it might be time to dial down the “endearing” bit. The first was the revelation that OpenAI was rowing back on its previous aversion to “military and warfare” use of its technology. The second was the announcement that Altman was wooing the United Arab Emirates for up to $7tn (£5.6tn) for the business of chips and AI. To put Altman’s aspirations in context, the sum he’s seeking to raise is just under a third of US GDP and pretty close to its £6.3tn federal budget for 2022. And, on a historical note, it’s $3tn more than the $4tn (adjusted for inflation) that the US spent on the second world war.
+
+His aspiration seems crazy. And yet the Silicon Valley crowd think he’s a genius. So what’s going on?
+
+So what would $7tn get you? Well, as the Register helpfully points out, it’s enough cash “to gobble up Nvidia, TSMC, Broadcom, ASML, Samsung, AMD, Intel, Qualcomm, and every other chipmaker, designer, intellectual property holder, and equipment vendor of consequence in their entirety – and still have trillions left over”. But Altman doesn’t just aim to become the John D Rockefeller of our times – owning everything. He wants to make things – specifically the GPUs (graphics processing units) that machine-learning systems require. That means building semiconductor fabrication units (fabs). These cost about $20bn each and take four or more years to commission and become productive. They also require very highly skilled staff – which the US semiconductor industry is short of by about 70,000.
+
+In addition, these plants are huge consumers of water, in a world that is rapidly running short of it. But Altman would have enough dosh to build 350 of the monsters. I could go on, but you get the message. This aspiration seems crazy. And yet the Silicon Valley crowd think he’s a genius. So what’s going on?
+
+The answer is that most of them belong to the church of technocracy, of which Altman is a charismatic member. Devout members of this sect believe that the world is terminally screwed-up, and that the only way to fix it is with tech. They are ecstatic about AI because finally a technology has arrived that apparently could fix everything – economic growth, healthcare, productivity, education, even the climate crisis. Strangely, though, warfare seems to be missing from the list.
+
+The only difficulty is that this magical technology needs unconscionable quantities of data and computational power. Our future, apparently, depends on infinite amounts of what the industry now calls “compute”, and Altman is lauded because only he has had the courage to say out loud how much of it is needed in order to save civilisation.
+
+He is deeply conscious of the responsibility he carries. “Democracy only works in a growing economy,” he told Friend in 2016. “Without a return to economic growth, the democratic experiment will fail.” If it does, though, Altman will be ready. In a discussion about aggressive AI and nations fighting with nuclear weapons over scarce resources, he said: “I try not to think about it too much. But I have guns, gold, potassium iodide, antibiotics, batteries, water, gas masks from the Israel Defense Forces, and a big patch of land in Big Sur I can fly to.” Nice to know that that $7tn will be in safe hands.
+
+What I’ve been reading
+
+Tech groupthink
+
+Adrienne LaFrance has written a terrific essay in the Atlantic on the underpinning techno-authoritarian ideology of Silicon Valley.
+
+Dead hand
+
+Robert Hutton has a Swiftian take on Britain’s zombie Conservatives 14 years on in the Critic magazine.
+
+Sing it proud
+
+The former US employment secretary, Robert Reich, has written a thoughtful Substack post titled “Why I preach to the choir”.

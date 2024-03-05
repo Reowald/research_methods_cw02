@@ -1,0 +1,545 @@
+Please read these terms carefully. You shall be legally bound by these terms when GNM sends You a countersigned Subscription Sales Term Sheet. You are advised to print off and keep a paper copy of these terms.
+
+1. Definitions
+
+Any terms not defined below shall have the meaning ascribed to them in the Subscription Sales Term Sheet.
+
+Agreement – the Subscription Sales Term Sheet and these Terms and Conditions for Subscription Content Sales;
+
+Account Period – each consecutive period of time during the Agreement Term for which Client shall prepare an accounting statement as applicable for the purposes of reporting Revenue Share in accordance with Clause 11.6;
+
+Content API – known variously as “Guardian Open Platform”, “Guardian API” or “Content API”, the set of API services through which GNM may provide delivery of the Services to the Client;
+
+Digital Media – together, Website Media, Mobile Media and any digital physical storage medium and any other electronic media capable of receiving the Services, excluding terrestrial television and radio in whatever form;
+
+Exclusivity Period – the period as defined in the Subscription Sales Term Sheet, to run from the date on which the Services were first published by GNM, in which the Client shall have the exclusive right to use the Services within the Territory(ies), Agreed Media and Client Services (where no Exclusivity Period is stated on the Subscription Sales Term Sheet the Services are provided to the Client on a non-exclusive basis);
+
+Facsimile Rights – together, the Facsimile Rights Website and Facsimile Rights Mobile;
+
+Facsimile Rights Website­ – the right to reproduce and redistribute via Website Media the Services substantially as they were incorporated into the Client Services, once the Client Services have been published or broadcast (e.g. an online version of a Client newspaper);
+
+Facsimile Rights Mobile – the right to reproduce and redistribute via Mobile Media the Services substantially as they were incorporated into the Client Services, once the Client Services have been published or broadcast (e.g. a mobile version of a Client website distributed to mobile phones);
+
+Fee(s) – as stated in the Subscription Sales Term Sheet and subject to any Special Terms;
+
+Force Majeure Event – an event beyond the reasonable control of a party (the “Affected Party”) which does not relate to its fault or negligence. Force Majeure Event includes acts of God, expropriation or confiscation of facilities, any form of Government intervention, war, hostilities, rebellion, terrorist activity, local or national emergency, sabotage or riots, and floods, fires, explosions or other catastrophes. Force Majeure Event does not include (i) strikes or other industrial action solely affecting employees of the Affected Party or its subcontractors or (ii) any event affecting a sub-contractor or supplier of the Affected Party, unless that event is itself a Force Majeure Event or (iii) any event which could be mitigated or avoided by standard business recovery, disaster mitigation and back up processes.
+
+Format Translate – translation of the Services from one machine language to another or from one media format to another to enable the Client to distribute the Services;
+
+Language Translate – rendering of the Services into the Language(s) by way of text, audio and subtitling where the Services are provided in languages other than the Language(s) and “Language Translation(s)“ and “Language Translated” shall be construed accordingly;
+
+Mobile Media – any portable device using wireless technology including but not limited to cellular phones, smart phones and tablets, personal digital assistants, and pagers, used by an individual to receive the Client Services from a dedicated mobile platform or the internet;
+
+Mobile Rights – the right to reproduce and distribute the Services via Client’s Mobile Media;
+
+Revenue Share – the share of revenues payable to GNM arising out of Client’s use of the Services, where applicable;
+
+RROs – reprographic rights organisations that license collectively the reproduction of copyright-protected material via photocopy and digital cutting services;
+
+Website Media­ – any internet site or online service owned by the Client; and/or any online channel bearing the Client’s trademarks or brands and on which Client is the publisher, such as a Youtube channel; and
+
+Website Rights – the right to reproduce and distribute the Services via Client’s Website Media.
+
+2. Services and Manner of Use
+
+2.1. Should the Delivery Method(s) to the Client include the Content API, then the Client shall be bound additionally by the Content API Conditions of Use as set out in the attached Schedule A and Clauses 2.6 and 2.8 below shall not apply.
+
+2.2. GNM shall use reasonable endeavours to provide the Services to the Client via the Delivery Method(s) and Format(s) as to enable the Client to incorporate the Services into the Client Services.
+
+2.3. The Client shall abide by any editorial or mandatory embargos, any other reasonable limitations or restrictions, and any Special Terms relating to usage in the Client Services as set out in the Subscription Sales Term Sheet and/or otherwise advised to the Client from time to time by GNM.
+
+2.4. The Client shall maintain in its Digital Media, at all times that the Services are displayed, a link from the Services to GNM’s website currently located atwww.theguardian.com or at some other URL as may replace it from time to time.
+
+2.5. Where access to the Client Services is restricted, the Client shall provide GNM with reasonable access to it free of charge to enable GNM to verify the Client’s compliance with this Agreement.
+
+2.6. The Client’s licence to use the Services is strictly limited to the Services provided by GNM pursuant to this Agreement. Unless otherwise specified in the Subscription Sales Term Sheet, the Client may publish the Services for editorial purposes only in any size in any part of the Client Services in all sections, magazines, supplements, sites and apps thereof without limitation on inside pages, front pages and covers, section covers and supplement covers, in galleries, individually or in sequence, in colour or in black and white. No Client Service shall be constituted exclusively of the Services.
+
+2.7. To the fullest extent permitted by law, the Client shall not: i) use, reproduce or publicly display; and/or ii) facilitate, authorise or permit the use of, in each case, any Services or any part of the Guardian IPR (including, any caption information, keywords or other associated metadata) in any way except as expressly authorised by this Agreement.
+
+2.7A. Clause 2.7 applies even if Client’s use may fall within the so-called “fair dealing” exceptions contained within the Copyright Designs and Patents Act 1988 (as amended from time to time) or within analogous exceptions in other jurisdictions. Accordingly, the Client expressly waives any entitlement it may have to rely on any defence of “fair dealing” in relation to any Services it has received pursuant to this Agreement.
+
+2.8. The Client may reproduce a reduced or edited version of the Services, including alterations of the layout of the Services to fit within the Client Services or contextualising the Services for publication in the Territory(ies), provided that the Client preserves the context, meaning and integrity of the Services as originally supplied by GNM. The Client shall ensure that any headlines or captions inserted by it to accompany the Services shall accurately reflect the material contained in the Services. For the avoidance of doubt, all other modifications, editing, alterations, or abridgements of the Services other than those expressly permitted under this Agreement are prohibited.
+
+2.9. In relation to Clients taking audio or audiovisual content from GNM, as a condition of Client’s licence to publish and transmit such Services, Client must:
+
+2.9.1. retain the GNM identifier that GNM supplies to Client with the Services in the position, form and size as embedded in the Services; and
+
+2.9.2. unless otherwise stated in the Subscription Sales Term Sheet, make the Services available via streaming only (and not for permanent download) on a VOD basis where “VOD” means the exhibition of material whereby the viewer is able to receive such material at the viewer’s discretion as to precise time for viewing.
+
+2.10. Client shall render all such services as are usually rendered by a first class publisher and/or platform in connection with the publication and distribution of the Services and in the event of enabling user comments on the Client Services shall ensure that its moderation and community standards shall be no less than those set out at https://www.theguardian.com/community-standards
+
+2.11. Notwithstanding any other term of this Agreement, Client recognises that GNM is a media institution of the highest international rank and GNM shall not be restrained from carrying out its business in the normal course of its affairs. For the avoidance of doubt, GNM (including without limitation any of its publications, whether in digital or print format, and any of GNM’s employees, non-staff contributors or representatives) shall not be restricted or limited in any way by the existence of this Agreement to continue to report on, write and broadcast about matters relating to Client or Client’s products and services and to continue without interference in the normal course of its business.
+
+3. Reporting on Client Services
+
+3.1. Should GNM request, the Client shall provide GNM with a monthly report containing a count and description (including the author name(s)) of the total amount of items from the Services published in the Client Services in accordance with this Agreement in the preceding month. Said report shall be emailed to syndication@theguardian.com. This Clause shall not apply in respect of Services where the Delivery Method(s) are solely the Content API; and
+
+3.2. Client shall grant GNM with free and unfettered access to any analytics dashboard providing performance statistics relating to the Client Service(s).
+
+3.3. The Client shall, at GNM’s request, provide any relevant circulation, audience or download figures with respect to the Client Services or its dissemination of the Services; any such information shall be kept confidential by GNM.
+
+4. Licence and Rights to Use
+
+4.1. Where the Delivery Method(s) to the Client include the Content API, then:
+
+4.1.1. the Client shall be bound additionally by the Content API Conditions of Use as set out in the attached Schedule A; and
+
+4.1.2. the Client shall be permitted during the Agreement Term on a non-exclusive basis to access GNM’s servers through the Content API for the sole purpose of (i) making service calls in order to receive the Services and associated metadata; (ii) store the Services and associated metadata on servers hosted by Client; (iii) index the Services; and (iv) exercise and operate the licence as set out below; and
+
+4.1.3. the terms of Clause 4.5 below shall not apply.
+
+4.2. Subject to the terms of this Agreement, GNM hereby grants to the Client for the Agreement Term including any Exclusivity Period a limited, non-transferable, non-sub licensable, and revocable licence in the Territory(ies):
+
+4.2.1. to use, reproduce and publicly display the Services in the Client Services in accordance with this Agreement, including publicly displaying the Services in internet search results in association with the Client Services; and
+
+4.2.2. to distribute headlines, short textual abstracts, or thumbnails (“Teasers”) of items from the Services as used in the Client Services i) in email, newsletters, RSS feeds and web widgets that it makes available on a non-commercial basis only to individual users of the Client Services; and ii) on Client’s branded social media presences, and with such Teasers always linking back to the corresponding items from the Services in the Client Services; and
+
+4.2.3. to distribute or authorise the distribution of cuttings of the Services in the Territory(ies) via local collective reprographic rights organisations (“RROs”) for the RROs’ licensed acts and purposes as amended from time to time only in the same form and context, and to the extent, that such Services have been reproduced in the Client Services in accordance with this Agreement; and
+
+4.2.4. to show Client’s identifiers and branding and serve advertisements in association with distribution of the Client Services.
+
+4.3. Client may distribute the Services via Digital Media when one or more Digital Media rights are granted in the Subscription Sales Term Sheet. Facsimile Rights shall be granted automatically when the primary media by which the Client Services are distributed is not Digital Media.
+
+4.4. Where Digital Media rights are granted, Client may distribute the Services via the relevant Digital Media subject to the following:
+
+4.4.1. Client confirms and represents that the primary and intended market for the Digital Media version of the Client Services is the Territory(ies); and
+
+4.4.2. Client shall not include in the Digital Media version of the Client Service any item from the Services which GNM identifies as being subject to any restrictions which such use/redistribution would contravene, including, but not limited to, any embargoes regarding mobile use or any geographical restrictions.
+
+4.5. GNM grants to Client a limited, non-transferable, non-sub licensable, and revocable licence in the Territory(ies) to:
+
+4.5.1. store the Services in internal archives and databases containing the Client Services; and
+
+4.5.2. publish the Services in Digital Media (where Digital Media rights or Facsimile Rights have been granted by GNM) and via RROs
+
+after the Agreement Term only in the same form and context, and to the extent, that such Services have been reproduced in the Client Services during the Agreement Term in accordance with this Agreement.
+
+4.6. End users of the Client Services may use the Services for their own personal, non-commercial use only. The Client shall ensure that the terms of use of its Client Services include restrictions of equivalent or greater affect to those set out in this Clause.
+
+5. Releases
+
+5.1. Unless expressly granted under this Agreement GNM gives no rights and makes no warranties with regard to the use of any names, trademarks, logos, registered, unregistered or copyrighted designs or works of art, and any and all rights in any musical or other recordings (including, without limitation and to the extent applicable, any performance or communication rights) depicted or carried in the Services. Unless otherwise agreed in writing, no model, property, team logo, trademark or other releases are delivered by GNM in connection with the delivery of the Services hereunder.
+
+5.2. The Client shall be solely responsible for the acquisition and payment (including under any collective bargaining agreement or otherwise to any third party (including any rights-holder or other person or entity authorised to receive such payment) of any and all third party clearances, consents, permissions, licences, authorisations, and rights which may be necessary in connection with Client’s exercise of any licence granted to it under this Agreement.
+
+5.3. The Client shall abide by any restrictions or limitations placed on the use of the Services by regulatory or self-regulatory third parties such as sports governing bodies. GNM shall notify such restrictions and limitations to the Client prior to the Client using the relevant Services. In addition, the Client shall use its reasonable endeavours to abide by any restrictions or limitations notified to it by GNM after it has commenced using the Services.
+
+5.4. With regard to any rights granted under this Agreement to use Services originated within English football stadia at domestic English football league matches (including Premier League), Client shall be bound by the terms of the attached Schedules B and C.
+
+6. Language Translations
+
+6.1. Where the Client is authorised to make Language Translations, the Client:
+
+6.1.1. hereby assigns absolutely by way of present assignment of future rights the entire copyright in any Language Translations throughout the universe for the full period of copyright and all renewals, revivals, reversions and extensions thereof together with the right to secure, renew or extend the same in GNM’s name; and
+
+6.1.2. shall always identify itself as having Language Translated the Services and shall bear all costs relating to Language Translation.
+
+6.2. The Client warrants that any Language Translation shall a) be prepared with reasonable skill and care; and b) preserve the context, meaning and integrity of the Services as originally supplied by GNM. GNM accepts no liability in respect of any claim by a third party relating to or arising out of Client’s Language Translation of the Services.
+
+6.3. If requested by GNM the Client shall submit its Language Translations to GNM for GNM’s purposes. The format, delivery method and regularity of such submission shall be agreed between the parties and any attributable costs excluding the cost of Language Translation shall be borne by GNM.
+
+6.4. Where Digital Media rights are granted to Client, Client is authorised to Format Translate the Services.
+
+7. Crediting
+
+7.1. Where the Delivery Method(s) to the Client include the Content API, the Clauses pertaining to credits and logos as set out in the Content API Conditions of Use attached as Schedule A shall apply in place of Clause 7.2.
+
+7.2. The Client must display i) in a prominent position (not in page gutters) adjacent to the Services; and ii) in no lesser font sizes than the Services the credits as set out in the attached Schedule D. If Services are supplied by GNM with a contributor by-line the Client shall not remove or alter such accreditation at any time.
+
+7.3. Client shall ensure that the headline, byline and credits published with the Services shall contain no additional clickable hyperlinks than those provided by GNM.
+
+7.4. In the event Client is in breach of this Clause 7, Client shall pay GNM on demand an amount as calculated in accordance with the following formula as liquidated damages:
+
+Number of users x 0.01% (the assumed conversion) x lifetime value calculation = total liquidated damages
+
+Examples:
+
+200,000 x 0.01% x GBP 100.00 (print) = GBP 2,000.00
+
+2,000,000 x 0.01% x GBP 10.00 (digital) = GBP 2,000.00
+
+The parties confirm that this sum represents a genuine pre-estimate of GNM’s loss.
+
+8. Intellectual Property
+
+8.1. All intellectual property rights with respect to the Services (including, but not limited to, GNM content and materials provided as part of the Services) and GNM’s name, logos and trademarks, whether now existing or which may subsequently come into existence, (“Guardian IPR”) which are not expressly granted to Client under this Agreement are reserved in full to GNM. Any goodwill generated through Client’s use of Guardian IPR will inure solely to GNM.
+
+8.2. Client will use commercially reasonable means to protect the security of the Services and Guardian IPR within the Client Services from unauthorised access, modification or distribution. Upon becoming aware of any breach in security, Client shall take prompt action to remedy such breach to protect GNM and the Services and Guardian IPR.
+
+8.3. Client shall promptly notify GNM of any infringement or threatened infringement of any Guardian IPR of which Client becomes aware and shall provide reasonable assistance to GNM, at GNM’s expense, in connection with such infringement.
+
+8.4. Client acknowledges that without prejudice to the exclusivity of rights, the Services may be receivable and/or distributed in the Territory(ies) via the services of third parties located outside the Territory(ies) and that this is not a breach of this Agreement.
+
+8.5 Where the Delivery Method(s) to the Client include the Content API, Client’s licence to use Guardian IPR is strictly limited to the Services as defined in the Subscription Sales Term Sheet notwithstanding that Client’s level of access to the Content API may present the Client with a wider selection of Guardian IPR.
+
+8.6. Without prejudice to Clause 2.7, the Client shall not:
+
+8.6.1. use, copy, scrape, reproduce, alter, modify, collect, mine and/or extract the Guardian IPR: i) for any machine learning, machine learning language models and/or artificial intelligence-related purposes (including the training or development of such technologies); ii) for any text and data aggregation, analysis or mining purposes (including to generate any patterns, trends or correlations); or iii) with any machine learning and/or artificial intelligence technologies to generate any data or content or to synthesise or combine with any other data or content; or
+
+8.6.2. use, or facilitate, authorise or permit the use of, any: i) “robot”, “bot”, “spider”, “crawler” or “scraper”; or ii) other automated device, program, technique, tool, process, algorithm or method (whether for data gathering, mining, collection, reading, scraping, extraction or other purposes), in each case, with the Guardian IPR; or
+
+8.6.3. use any service, software, device, tool, method, program, technique, algorithm or process to circumvent any restriction, condition, protection or technological measure that controls access to the Guardian IPR in any way, including bypassing or circumventing any access controls or use limits of the Guardian IPR, including by way of example robots.txt internet protocols or similar or successor protocols.
+
+8.7. Any breach of this Clause 8 shall be a material breach of this Agreement by the Client which is not capable of remedy for the purposes of Clause 15.1.1.
+
+8.8. Clauses 2.7 and 8.6 should be treated as an express reservation by GNM of all rights in the Guardian IPR, including for the purposes of Article 4(3) of Directive (EU) 2019/790 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC) and similar reserved rights in other jurisdictions, in each case, to the maximum extent permitted by applicable laws.
+
+9. Restrictions
+
+9.1. Notwithstanding anything else in this Agreement, the Services may not be used in any publication that contains any material which is reasonably considered by GNM to:
+
+9.1.1. be illegal;
+
+9.1.2. be sexually explicit;
+
+9.1.3. promote violence;
+
+9.1.4. be discriminatory against race, gender, religion, nationality, disability, sexual orientation or age or otherwise; or
+
+9.1.5. be derogatory.
+
+9.2. Notwithstanding anything else in this Agreement, the Services may not be used in any publication that contains any material which brings, or may bring, GNM into disrepute. For the avoidance of doubt, the restrictions in this Clause do not apply to any editorial material in the Client Services referring to GNM or its products.
+
+9.3. The Client shall not include any advertising or sponsorship in connection with the Services which:
+
+9.3.1. violates the privacy rights, publicity rights, copyrights, contractual rights or any other rights of any person; or
+
+9.3.2. does not comply with all applicable laws, regulations codes of practice and guidelines, or other applicable matters of a similar nature where the Client Services may be viewed; or
+
+9.3.3. falsely implies that the advertiser or sponsor is associated with GNM or the Services; or
+
+9.3.4. promotes any business involved i) in extracting fossil fuels, including but not limited to oil and gas companies; and ii) in any form of gambling, including but not limited to promotions for sports betting, online casinos and scratchcards.
+
+10. Legal Notices and Deletions
+
+10.1. Where the Delivery Method(s) to the Client includes the Content API, the Clauses pertaining to legal notices and deletions as set out in the Content API Conditions of Use attached as Schedule A shall apply in place of Clauses 10.2 to 10.4 below.
+
+10.2. The Client acknowledges that on occasion, either during the Agreement Term or following termination of this Agreement, GNM may need to remove from, or cease circulation of, certain parts of the Services for legal reasons and accordingly the Client shall, on receipt of a notice from GNM by the Client’s Legal Contact Name(s), cease to reproduce or distribute the relevant part of the Services, including where relevant the immediate removal from any Digital Media. In the event that any part of the Services identified in such legal notice from GNM is reproduced in new editions of the Client Services after receipt of such notice and/or is not removed from Digital Media within twenty-four (24) hours, the Client agrees to indemnify GNM from and against all costs, claims and expenses attributable to and/or resulting from such non-removal.
+
+For the avoidance of doubt this Clause 10.2 shall not apply to the removal or cessation of circulation of items from the Services which at the time of Client’s receipt of GNM’s notice have already been distributed in printed editions of the Client Services.
+
+10.3. The Client shall:
+
+10.3.1 follow any instructions contained in any notice that GNM issues to Client in relation to printing any corrections, clarifications or apologies in respect of the Services immediately on receipt of notice to do so from GNM; and
+
+10.3.2. keep confidential the existence and content of any notice sent to Client by GNM if so required by GNM in terms stated on the face of such notice.
+
+10.4. If in GNM’s reasonable opinion the Client is in breach of this Clause 10, it may immediately suspend and/or terminate the provision of all or part of the Services (without prejudice to GNM’s other rights in respect of such breach).
+
+11. Fees and Cancellations
+
+11.1. The Client shall pay to GNM the Fee(s) in the Currency and (save for the GNM Spot Sales Service) in accordance with the Payment Terms.
+
+11.2. GNM shall issue an invoice in accordance with the Payment Terms save where Client is paying a Revenue Share to GNM in which event GNM shall issue an invoice on receipt of the report as set out in Clause 11.6.1. below. Such invoice shall be payable within 28 days of the invoice date. The Client shall pay any VAT properly applied to the Fee(s) due at the applicable rate.
+
+11.3. The parties agree that on each anniversary of the Start Date, the Fee(s) shall be increased (but not, for the avoidance of doubt, decreased) by 5.00 per cent or in line with the Fee Review Basis where specified in the Subscription Sales Term Sheet. “UK RPI” in the Subscription Sales Term Sheet shall mean the percentage change recorded in the “all items” index figure of the Index of Retail Prices published by the Office of National Statistics in the United Kingdom or any successor body for the month immediately preceding the relevant anniversary of the Start Date.
+
+11.4. The Client shall pay, on demand, interest on all amounts which are overdue for more than 30 days, such interest to be calculated from the day after the date when payment fell due to the date of actual payment at the rate of four per cent (4.00%) above the base rate of the Bank of England from time to time. GNM may suspend and/or terminate provision of all or part of the Services if the Client is in arrears with the payment of Fee(s) at any time and the Client’s Commercial Contact has been given 7 days written notice prior to suspension and/or termination.
+
+11.5. In the event that this Agreement is terminated, Client shall be entitled to a refund, calculated on a pro rata basis, of any of the Fee(s) pre-paid for the period following such termination taking effect, except to the extent that such termination has been effected by a breach committed by Client.
+
+11.6. Where Client is paying a Revenue Share to GNM:
+
+11.6.1. For each relevant Account Period (as detailed in the Payment Terms section of the Subscription Sales Term Sheet), Client shall provide to GNM an accounting statement covering the calculation and determination of the Revenue Share setting forth a description and calculation of the applicable payments in detail sufficient to support the calculations of the Revenue Share to be invoiced by GNM.
+
+11.6.2. GNM (or its duly authorised representative) may, during the Agreement Term and for two years thereafter, upon giving reasonable notice to the Client, visit the Client’s premises during normal business hours to inspect and to make copies of all transaction records (to the extent permitted by the Data Protection Act 1998) relating to the Revenue Share.
+
+11.6.3. Should any inspection reveal that the Client has under-reported or misrepresented any amount payable to GNM, then the Client shall make immediate payment to GNM of the proper amount due together with interest calculated in accordance with Clause 11.4. Should any inspection reveal that Client has over-reported the amount, GNM shall raise a credit note for the appropriate amount.
+
+11.6.4. The rights referred to in Clause 11.6.2 above shall be exercised at the discretion of GNM and at its own expense save that in the event that any such inspection discloses an under-reporting equivalent to ten per cent (10.00%) or more of the total amount that is being accounted for by the Client during the period covered by such inspection, the Client shall forthwith reimburse to GNM its costs and expenses incurred in connection therewith (including enforcing the collection of the under-reported or misrepresented amounts).
+
+12. Confidentiality
+
+12.1. For the purposes of this Agreement, “Confidential Information” means all non-public confidential and proprietary information of a party which such party identifies in writing as confidential or which, under the circumstances surrounding disclosure, such other party should have understood was delivered in confidence and includes the terms of this Agreement.
+
+12.2. A party shall not, without prior written approval of the other party, disclose the other party’s Confidential Information or the terms of this Agreement except:
+
+12.2.1. in circumstances where it is legally compelled to disclose the other party’s Confidential Information; or
+
+12.2.2. to its employees, agent and professional advisers on a ‘need to know’ basis so far as it is necessary for the performance of this Agreement (or as permitted under the licence in Clause 4).
+
+12.3. The obligations of confidentiality set out above shall not apply to any documents or information which a party can show:
+
+12.3.1. at the time of its acquisition was in, or at a later date has come into, the public domain, other than following a breach of this Clause 12; or
+
+12.3.2. it knew prior to first disclosure to it by the other party; or
+
+12.3.3. it received independently from a third party with the full right to disclose.
+
+12.4. The obligations of confidentiality set out above shall remain in effect after the termination of this Agreement and the parties shall impose corresponding obligations on their employees and third parties involved in the performance of this Agreement.
+
+12.5. Each party undertakes not to make any declaration or announcement in any form regarding this Agreement without the prior written consent of the other.
+
+13. Warranties and Indemnities
+
+13.1. Subject to Clause 14 both parties warrant that they have necessary authority to enter into and perform their obligations under this Agreement.
+
+13.2. Subject to Clause 14 GNM warrants that:
+
+13.2.1. it shall provide the Services with reasonable care and skill and in a proper and timely manner; and
+
+13.2.2. subject to Clause 5 it either owns or has the right to license to the Client the copyright in the Services on the terms of this Agreement.
+
+13.3. GNM agrees to indemnify Client (subject to Clauses 13.5 and 14) against any claim, loss, damage or expense incurred as a result of a claim by a third party against Client as a result of GNM’s breach of Clause 13.2.
+
+13.4. Client shall indemnify GNM (subject to Clauses 13.5 and 14) against any direct loss or cost (including, but not limited to, reasonable legal fees and costs of investigation) it incurs arising out of any breach of this Agreement by the Client, or any claim by a third party relating to or arising out of the Client Services or any other activities of Client directly or indirectly related to use of the Services (including, but not limited to, infringement of any third person’s intellectual property rights), unless and to the extent such claim arose out of Client’s use of the Services as provided to Client and in accordance with the terms of the Agreement, and/or Client’s Language Translation of the Services.
+
+13.5. Any obligation under this Agreement to indemnify arises only if:
+
+13.5.1. the indemnified party promptly notifies the indemnifying party of any claim; and
+
+13.5.2. the indemnifying party is given immediate and complete control of the indemnified claim; and
+
+13.5.3. the indemnified party mitigates, to the fullest extent possible, any claim; and
+
+13.5.4. the indemnified party co-operates at the expense of the indemnifying party and does not materially prejudice the conduct of such claim; and
+
+13.5.5. in no event shall the indemnifying party agree to any settlement of any claim that involves any admission of any fault or liability, or the payment of any sums, on the part of the indemnified party, without the written consent of the indemnified party, which shall not be unreasonably withheld.
+
+13.6. GNM makes no warranty that any resource made available for the delivery of the Services (for example, a website, FTP service or API) shall be:
+
+13.6.1. uninterrupted and error free;
+
+13.6.2. regularly swept for viruses and other programs with contaminating or destructive properties.
+
+13.7. Content within the Services may contain links to websites provided by independent third parties. GNM shall not be responsible for the availability or content of such sites and shall not be responsible for any transaction concerning goods or services available from those sites.
+
+14. Limitation of Liability
+
+14.1. OTHER THAN AS EXPRESSLY SET FORTH HEREIN, GNM MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD PARTY RIGHTS, REGARDING THE SERVICES. EACH PARTY SHALL NOT BE LIABLE TO THE OTHER OR ANY OTHER PERSON OR ENTITY FOR ANY INDIRECT OR CONSEQUENTIAL LOSS, DAMAGE, COST, EXPENSE OR LIABILITY OF ANY KIND ARISING OUT OF THIS AGREEMENT, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE PARTIES ACKNOWLEDGE AND ACCEPT THAT THE OTHER PARTY’S PERFORMANCE OR DELIVERABLES UNDER THIS AGREEMENT ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND THAT THEY WILL NOT NECESSARILY MEET THE REQUIREMENTS OR DEMANDS OF THE OTHER PARTY OR END-USERS OR BE UNINTERRUPTED OR ERROR-FREE.
+
+14.2. Save for the indemnity in Clause 13.3, GNM’s liability to the Client in contract, tort (including negligence) or otherwise in relation to this Agreement is limited to the total annual Fees payable by the Client under this Agreement, provided that GNM shall not exclude or limit liability for death or personal injury resulting from its negligence.
+
+15. Termination
+
+15.1. Either party may terminate this Agreement by giving written notice to the other in any of the following events:
+
+15.1.1. if the other party commits any material breach of any of the terms of this Agreement and fails to remedy that breach (if capable of remedy) within 30 days after notice from the other party giving full particulars of breach and requiring it to be remedied; or
+
+15.1.2. if any step, action, application or proceeding is taken in relation to the whole or any material part of the other party for a voluntary arrangement or composition or reconstruction of its debts or winding up, dissolution, administration or receivership (administrative or otherwise) or there is a threat of the same.
+
+15.2. GNM shall be entitled forthwith to terminate this Agreement on notice in writing to Client if there is a change of control of the Client, “change of control” having the meaning given to it in section 435 of the Insolvency Act 1986 (as amended).
+
+15.3. On termination of this Agreement all rights and obligations of the parties shall terminate.
+
+15.4. The provisions of Clause 4.5 (Licence and Rights to Use) (if applicable), Clause 10 (Legal notices and deletions), Clause 12 (Confidentiality), Clause 13 (Warranties and Indemnities), Clause 14 (Limitation of Liability), Clause 16 (Dispute Resolution) and Clause 17 (Equitable Relief) shall survive any termination or expiration of this Agreement.
+
+16. Dispute Resolution
+
+16.1. If any dispute or difference shall arise out of or in relation to this Agreement, the parties shall first attempt to resolve it by discussion between the Commercial Contacts, as specified in the Term Sheet. Both parties must use reasonable efforts to attempt to resolve the dispute.
+
+16.2. In the event that the Commercial Contacts cannot resolve such dispute despite their reasonable efforts, then the dispute shall be subject to the exclusive jurisdiction of the English courts.
+
+17. Equitable Relief
+
+17.1. Both parties to this Agreement acknowledge that the Services belonging to GNM are a unique and valuable asset of GNM. Use of the Services in breach of this Agreement will result in irreparable injury to GNM for which monetary damages alone shall not be an adequate remedy.
+
+17.2. Therefore, the parties agree that in the event of a breach or threatened breach of the terms of this Agreement, GNM shall be entitled to specific performance, injunctive relief or other relief prohibiting any breach of this Agreement without giving an undertaking as to damages. Any such remedy shall be in addition to and not in lieu of, other appropriate relief at law to which GNM may be entitled.
+
+18. General
+
+18.1. This Agreement shall be governed by and construed in accordance with English law.
+
+18.2. Any notice to be given by a party to this Agreement shall be given in writing to the relevant Commercial Contact of the other party, as specified on the Subscription Sales Term Sheet, or such Commercial Contact as either party may notify to the other from time to time and may be delivered to the other party or sent by pre-paid post or email to the address of that party specified in this Agreement or such other address as may be notified under this Agreement by that party from time to time for this purpose.
+
+18.3. The parties do not intend for any third party to have any rights under this Agreement by virtue of the Contracts (Rights of Third Parties) Act 1999 or otherwise.
+
+18.4. A party shall not be liable for any failure or delay in performing its obligations under this Agreement to the extent that this failure or delay is the direct result of a Force Majeure Event, provided that the Affected Party has taken all reasonable steps to prevent or overcome that failure. If the Force Majeure Event prevents the Affected Party from materially complying with its obligations under this Agreement and it continues for more than 30 days, the other party may terminate this Agreement immediately by written notice.
+
+18.5. Neither party shall assign or transfer its rights or obligations under this Agreement without the other party’s prior written consent except that no consent shall be required for an assignment or transfer of GNM’s rights and obligations under this Agreement to any entity within its Group. In this Agreement, “Group” shall mean the companies controlling, controlled by or in current control with GNM.
+
+18.6. This Agreement represents the entire agreement between the parties in relation to its subject matter. Any variation to this Agreement must be agreed in writing by the parties. In the event of any conflict between any provision of the Subscription Sales Term Sheet and these Terms and Conditions for Subscription Content Sales, the provisions of the Subscription Sales Term Sheet shall prevail.
+
+18.7. Nothing in this Agreement shall be deemed to create a partnership or joint venture between the parties. No party shall have the authority to bind the other party or to contract in the name of or create a liability against the other party in any way for any purpose.
+
+18.8. No failure or delay by any party in exercising its rights under this Agreement shall operate as a waiver of that right nor shall any single or partial exercise by either party of any right preclude any further exercise of any other right.
+
+19. Revision History
+
+19.1. Revisions posted 24/10/2011 to incorporate revised terms arising out of new Football Leagues agreement between the NPA and Football Dataco.
+
+19.2. Revisions posted 10/11/2011 to incorporate a revised definition of Agreement Term and removal to Subscription Sales Term Sheet.
+
+19.3. Revisions posted 29/05/2012 to incorporate GNM Spot Sales Service and a new clause 17 relating to Equitable Relief.
+
+19.4. Revisions posted 04/09/2012 to incorporate a) GNM terms and conditions relating to API (Open Platform) to support content arrangements delivered via the API; and b) alignment with GNM standard late payment terms.
+
+19.5. Revisions posted 15/04/2015 to incorporate various contractual changes including liquidated damages clause, revised crediting, revenue share accounting. Further details available on request from rights@theguardian.com.
+
+19.6. Revisions posted 17/09/2015 to incorporate amendments to Schedules B & C that relate to use of content arising out of matches at English football stadia following conclusion of negotiations between the UK press and the football leagues for a renewed media agreement 2015-2018.
+
+19.7. Revisions posted 29/02/2016 to incorporate amendments to clause 4.2.2. to allow for distribution of teasers and links on Client social media presences.
+
+19.8. Revisions posted 16/05/16 divesting terms relating to Spot sales to a separate set of terms and conditions here.
+
+19.9. Revisions posted 08/02/17 to incorporate amendments to clause 14.1.
+
+19.10. Revisions posted 05/04/17 to incorporate amendments to clause 3.1.1 of Schedule A and a new clause 3.1.3 of Schedule A relating to analytics
+
+19.11. Revisions posted on 29/11/18 to incorporate amendments to clause 5.1
+
+19.12. Revisions posted on 26/03/19 to incorporate amendments to clause 10.2 to clarify the exception of the removal of Services from Client Services already distributed in print at the time of receipt of deletion notice.
+
+19.13. Revisions posted 11/12/2020 merging and de-duplicating standard content licence terms and API content licence terms.
+
+19.14. Revisions posted 28/09/2021 adding clauses relating to licensees’ moderation standards and GNM editorial independence.
+
+19.15. Revised clause 4.1.1 of Schedule A to add an indemnity from client for non-compliance with legal notices
+
+19.16. Revisions posted 10/07/23 adding clarification to clause 8.1 citing reservation of text & data mining rights, and new clause 9.3.4 covering Guardian ban on advertising linked to fossil fuels and gambling.
+
+19.17. The following revisions posted 23/10/23: i) Clause 2.7 amended to begin with “To the fullest extent permitted by law” and to add “and/or (ii) to facilitate, authorise or permit the use of…other associated metadata)”; ii) new clause 2.7A added to begin with “Clause 2.7 applies even if…”; iii) Clause 8.1 amended to include “(including, but not limited to, GNM content and materials provided as part of the Services)” and to define “Guardian IPR”. Remaining provisions of clause 8 amended to now refer to this Guardian IPR defined term. Clause 8.1 further amended to include “in full” and to delete the previously last sentence beginning “Unless expressly authorised by GNM…”; iv) new clauses 8.6 to 8.8 (inclusive) added; v) new clause 13.5.5 added; and vi) Clause 15.1.1 amended to state “if the other party commits any material breach of any of the terms…”
+
+Schedule A
+
+CONTENT API CONDITIONS OF USE
+
+The following conditions of use apply additionally to any Clients where the Delivery Method(s) include GNM’s Content API.
+
+1. Access to the Content API
+
+1.1. GNM shall provide the Client with a key to the Content API (“API Key”) for each Client Service. Client shall provide complete and accurate information when registering for the API Key.
+
+1.2. Client shall access the Content API and request the Services only using the API Key registered to the Client Service(s). API Keys are granted to the Client on a non-transferable basis and shall not be shared by the Client with any third party.
+
+2. Use of the Content API
+
+2.1. In addition to Client agreeing to be bound by the Licence and Rights to Use as set out under Clause 4 of the Terms and Conditions above, Client shall not use the Content API or the Services in any manner that is not expressly authorised in this Agreement. Without limiting the foregoing, Client shall not:
+
+2.1.1. make service calls via the Content API in a quantity or manner that is not reasonably necessary to carry out Client’s obligations or exercise Client’s rights under this Agreement; or
+
+2.1.2. modify, edit, disassemble, decompile or reverse-engineer the Content API without the prior written approval of GNM; or
+
+2.1.3. disable or otherwise interfere with the proper functioning of the Content API; or
+
+2.1.4. create, or facilitate the creation of, additional registration accounts or other technology for the purpose of accessing, or facilitating third party access to, the Content API without permission; or
+
+2.1.5. present the Services in any manner that seeks to replicate, or pass off the Client Services, as a resource belonging to or endorsed by GNM; or
+
+2.1.6. use headlines from the Services to create links to any content other than the full text of the underlying article in its original format.
+
+2.2. For legal reasons Client shall be strictly required either to replace (by re-requesting from the Content API) or to delete all of the Services (whether or not published in the Client Services) at least every twenty-four (24) hours during the Agreement Term.
+
+2.3. GNM may at its sole discretion withdraw the Services or any element thereof from the Content API. Should GNM withdraw the Services or any element thereof from the Content API, Client shall make commercially reasonable efforts to terminate display of such Services to end users of the Client Services within a reasonable period of time following GNM’s withdrawal of such Services.
+
+3. Crediting
+
+3.1. Client shall:
+
+3.1.1. retain: (i) the full text and/or HTML headline, byline and link to www.theguardian.com in the Services; (ii) any disclaimer footnote, correction or other notice that is contained within the Services; and (iii) all links to external websites contained within the Services; and
+
+3.1.2. include a link to the original article published on www.theguardian.com in all Services published in the Client Services.
+
+3.2. Client shall ensure that the headline, byline and credits published with the Services shall contain no additional clickable hyperlinks than those provided by GNM.
+
+3.3. Client shall send to GNM pageview information in real time by embedding a transparent tracker image in the web view that integrates the Services. The tracker image shall be embedded one time only per piece of content from the Services and requires the end users of the Client Services to be connected to the internet when accessing the Services in the Client Services. In the event that the Client Services allows end users of the Client Services to view the Services offline, Client shall track usage in the Client Services and provide the information to GNM the first time the end user using the Client Services has a network connectivity.
+
+4. Legal Issues, Notices and Deletions
+
+4.1. Client shall:
+
+4.1.1. unless a different period is specified on the face of any notice, within 24 hours of issue by GNM follow the instructions contained in any legal or other notice that GNM issues to Client in respect of the Services (which may require Client to cease using certain elements of the Services), and in the event of failure to comply to indemnify GNM from and against all costs, claims and expenses attributable to and/or resulting from such non-compliance; and
+
+4.1.2. keep confidential the existence and content of any legal notice sent to Client by GNM if so required by GNM in terms stated on the face of such notice.
+
+4.2. Parts of the Content API, including the means of accessing the Content API, may be powered by, hosted or otherwise managed by third parties. Such third parties may impose their terms of use on Client in respect of the area of the Content API under their control. In the event of a conflict between this Agreement and those of any third party, this Agreement shall prevail to the extent that such conflict concerns the Services (as opposed to access to them).
+
+Schedule B
+
+CONDITIONS OF USE RELATING TO ENGLISH LEAGUES FOOTBALL SERVICES
+
+1. The following conditions of use apply to any rights granted under this Agreement to use Services wholly or partially containing content, including but not limited to textual match reports, images, news video materials and data, originated within English football stadia at all league (including Premier League) domestic English football matches (“Football Services”).
+
+1.1. Football Services may be published for editorial/news reporting purposes only (for the avoidance of doubt sponsored content within the Client Services is permitted provided always that such content complies with the provisions of this Agreement);
+
+1.2. Football Services may not be used in any physical or virtual merchandise, souvenirs, memorabilia or collectible, including without limitation collector cards and stickers, posters (when sold separately from Client Services), artists reference (otherwise than for editorial/news reporting purposes) packaging, calendars, clothing, cups and badges;
+
+1.3. Football Services may not be used in (or for the purpose of promoting or advertising) any gambling service or product which for the avoidance of doubt includes any free-to-play gambling style services or products;
+
+1.4. Football Services may not be used in (or for the purpose of promoting or advertising) any game or competition save for a free to enter game or competition that is used as a promotional tool for Client Services which are bone fide editorial news services;
+
+1.5. Football Services shall not be used in a manner that emulates audio-visual or audio material (with the exception of products for people with visual impairment such as talking newspapers and post-match automated text to speech technology which are expressly permitted). Subject to compliance with the conditions in the Schedule, Sequences of Stills are permitted;
+
+For the purposes of this Agreement, “Sequence of Stills” means a sequence of still images comprising no fewer than three (3) still images in any consecutive period of sixty (60) seconds and any other method which imitates or suggests moving images of matches or players.
+
+1.6. In-Match Time Delays and Photograph Limitation
+
+1.6.1 A maximum of one hundred twenty (120) photographs may be published within the Client Services during that match. If applicable, an additional forty (40) photographs may be published during extra time in that match.
+
+1.6.2. No use of Football Services which amounts to a continuous match commentary or live data service may be published during the match.
+
+1.6.3. For the avoidance of doubt there are no limits on the number of photographs and editorial text reports that may be published after the conclusion of the match.
+
+1.7. Football Services shall not be used in any Client Services that the Client is aware (whether via written notification from GNM or otherwise) or should reasonably have been aware:
+
+1.7.1. includes any Unauthorised Audio Visual Match Content whether directly or by way of framing or embedding; and/or
+
+1.7.2. advertises or promotes (including without limitation via the inclusion of hyperlink(s)) Unauthorised Audio Visual Match Content on another website, publication or other service or product; and/or
+
+1.7.3. incorporates any unauthorised use of club/league logos or trademarks. For the avoidance of doubt, club/league logos or trademarks accompanying or within match reports and editorial articles in Client Services (or any special supplements/magazines provided the same are not sold or distributed at point of sale separately from such newspapers) are permitted; and/or
+
+1.7.4. incorporates any unlicensed data (and in respect of Clients outside of the EU only any unlicensed fixture lists) where such use amounts to an infringement of GNM or a third party’s intellectual property rights.
+
+For the purposes of this Agreement, “Unauthorised Audio Visual Match Content” means any communication to the public, transmission or other use of audio, visual and/or audio-visual coverage of any match which forms part of Football Services (whether by live or near live streaming, streaming or downloading of recorded content) other than pursuant to and in accordance with a licence granted by the applicable league or as otherwise permitted by law.
+
+1.8. Photographs supplied as part of Football Services shall not be altered or manipulated by means other than (i) ‘flipping’, (ii) ‘cropping’ performed in good faith and not so as to distort the meaning or the circumstances depicted in the photographs, (iii) manipulation which is fun, harmless and an editorial means of telling a story, (iv) standard computerised ‘enhancement’ in the form of minor alterations and/or presenting a player as employed by a club other than the club to which he is registered at the time of publication but only in order to anticipate the post-transfer photo call in circumstances where the player’s transfer has been officially announced or confirmed by the transferee club; and (v) computer-generated composite players. For the avoidance of doubt, and by way of example and not limitation, photographs supplied as part of Football Services shall not be manipulated or otherwise altered so as to obscure or remove a sponsor’s name or logo;
+
+1.9. Football Services may not be reproduced as part of any website, publication or other service or product that is offered, titled, described or promoted as:
+
+1.9.1. an official club or league website, publication or other service or product; and/or
+
+1.9.2. a Single Club Product/Service; and/or
+
+1.9.3. a Single Player Product/Service.
+
+For the purposes of this Agreement, “Single Club Product/Service” means any website, publication or other service or product offered substantially on a single club basis and includes (by way of example and not limitation) any product or service that is branded or promoted on a single club basis and any product or service where the content is based substantially on a single club. For the avoidance of doubt, a website shall not be deemed a Single Club Product/Service if it is logically separated as a sub-domain (or equivalent technical architecture) of a league based or division based directory/page located within the Client’s Digital Media. “Single Player Product/Service” means any website, publication or other service or product offered substantially on a single player basis and includes (by way of example and not limitation) any website, publication or other service or product that is branded or promoted on a single player basis and any website, publication or other service or product where the content is based substantially on a single player. For the avoidance of doubt, a website shall not be deemed a Single Player Product/Service if it is logically separated as a sub-domain as set out above.
+
+1.10. Photographs supplied as part of Football Services shall not be used to create an endorsement or commercial association unless such an endorsement or commercial association exists;
+
+1.11. Any use of Football Services shall incorporate unambiguous conditions of use that restrict any third party from using or reproducing Football Services other than for their own personal, private non-public facing use.
+
+2. In the event of a failure by the Client to comply with the above conditions of use, GNM shall notify Client in writing of such failure, requiring Client to remedy the failure within fourteen (14) days. Should the Client fail to remedy the failure to GNM’s satisfaction, GNM shall be entitled to terminate all or part of this Agreement forthwith.
+
+Schedule C
+
+SEQUENCE OF STILLS
+
+1. Sequences of Stills may be used only on the following basis:
+
+1.1. During any applicable match that forms part of the Football Services, no Sequences of Stills may be used; and
+
+1.2. Following the conclusion of any applicable match that forms part of the Football Services until 12 midnight immediately following that match (“1st Permitted Period”) not more than ten (10) Sequences of Stills of the match (each comprising not more than six (6) still images in any consecutive period of sixty (60) seconds with an interval of not less than ten (10) seconds between each still image) may be used in any consecutive period of two hours; and
+
+1.3. Following the 1st Permitted Period until seven (7) days after any applicable match that forms part of the Football Services, one or more Sequences of Stills (each comprising not more than 6 still images in any consecutive period of sixty (60) seconds with an interval of not less than ten (10) seconds between each still image) may be used; and
+
+1.4. Seven (7) days after any applicable match that forms part of the Football Services one or more Sequences of Stills may be used. Such Sequences of Stills may consist of more than six (6) images.
+
+1.5. For the avoidance of doubt individual still images must be sourced from photographs and cannot be sourced from audio visual footage of any match forming part of the Football Services.
+
+Schedule D
+
+CREDITING RULES
+
+1. Text
+
+Print usage: credit source publication, i.e. The Guardian OR The Observer OR theguardian.com
+
+Digital usage: www.theguardian.com as hyperlink
+
+2. Images
+
+[Photographer name] / The Guardian OR [Photographer name] The Observer depending on source publication;
+
+Where space does not permit the above credit, use “Guardian” OR “Observer” depending on source publication
+
+3. Video
+
+Clips usage: “The Guardian” onscreen watermark
+
+Standalone video: Guardian pre-roll identifier
+
+4. Audio
+
+Clips usage: On-page and in-programme credit to www.theguardian.com
+
+Standalone audio: Guardian pre-roll identifier

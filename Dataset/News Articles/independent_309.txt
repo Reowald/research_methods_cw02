@@ -1,0 +1,17 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Motorists are being warned they may not be covered if their vehicle is stolen while being left unattended to defrost with the keys in the ignition.
+
+The Association of British Insurers (ABI) said motor insurance policies may exclude theft where keys are left in the ignition, and all will expect policyholders to take reasonable care.
+
+It is always safer to brave the cold for a short while, than risk your vehicle being stolen Jonathan Fong, ABI
+
+The exact terms and conditions of individual policies vary.
+
+The association said people should not leave their vehicle unattended, even for just a minute, with the keys in the ignition while it defrosts.
+
+Jonathan Fong, manager, general insurance policy at the ABI said: “While it might be very tempting to stay in the warm while your vehicle defrosts, leaving your vehicle unattended is an open opportunity for thieves looking for easy targets in freezing temperatures.
+
+“It is always safer to brave the cold for a short while, than risk your vehicle being stolen.”

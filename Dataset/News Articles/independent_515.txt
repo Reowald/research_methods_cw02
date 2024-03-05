@@ -1,0 +1,143 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Since national rail strikes began in the summer of 2022, hundreds of millions of journeys have been cancelled. Billions of pounds have been lost to the UK economy, particularly hospitality businesses – and taxpayers are subsidising an increasingly decrepit and unreliable railway to the tune of £90 per second on top of the normal subsidy.
+
+After the latest round of industrial action by train drivers belonging to the Aslef union, the only certainty is that more walk-outs will follow.
+
+Strikes are planned on 1 March at LNER and Northern, though these are not connected with the main issues at stake.
+
+Over the past 19 months of strikes, there has been zero progress in the dispute between Aslef and the 14 rail firms controlled by the UK government and represented by the Rail Delivery Group (RDG).
+
+In a snap social media poll for The Independent, with 2,142 responses, one in three passengers say they will permanently travel less after the industrial action finally ends.
+
+These are the key questions and answers.
+
+Where are we with industrial action on the railways?
+
+Many rail passengers may feel national strikes have been going on forever. In fact, the first national rail walkouts since the 1980s began in the summer of 2022.
+
+The larger rail union, the RMT, has ended its campaign of strikes for now. But Aslef, the smaller yet more powerful train drivers’ union, is as far from an agreement as ever with the 14 English rail firms whose operations are controlled by the government.
+
+Since the dispute began, Aslef has called regular strikes and bans on rest-day working. The latest industrial action by train drivers, comprising an overtime ban and “rolling” regional walk-outs, hit for nine days from 29 January to 6 February.
+
+The aim of these rolling strikes and the ban on rest-day working is to cause maximum disruption for minimum loss of pay.
+
+How much has all the disruption cost?
+
+According to the RDG, industrial action from June 2022 up until mid-January 2024 has cost the rail sector around £775m in lost revenue. That does not include the impact of the most recent strikes, which probably adds a further £50m to the losses.
+
+UKHospitality estimates the lost business for places to eat, drink and stay amounts to almost £5bn. Kate Nicholls, the organisation’s chief executive, says: “Ongoing strike action hurts businesses, prevents people from getting to work and significantly erodes confidence in the rail network.”
+
+In addition, there is an unknowable loss of revenue from passengers who have adjusted their lifestyles or found alternative forms of transport; businesses that have stopped making trips and are using online communication instead; and people trimming back on travel because of the lack of certainty.
+
+What is at the root of the dispute?
+
+The train drivers are demanding a no-strings pay rise – and say that some Aslef members have not had an increase for five years. But the government insists that even a modest pay increase is contingent on radical changes to long-standing working arrangements in order to reduce costs and the almost £250 per second subsidy the railway is currently receiving from the taxpayer – 43 per cent higher than normal, according to government figures.
+
+Since the pandemic, travel patterns have changed. Ticket revenue is about one-fifth down on pre-Covid levels. As taxpayers will foot the eventual bill for the train drivers’ pay rise, the Department for Transport will sign off any deal. Ministers believe train drivers’ terms and conditions are part of the problem.
+
+To keep costs down, they must accept changes to how they work, such as making Sunday part of the working week everywhere. The union say this is completely unacceptable. The train drivers will negotiate on such changes, but only after they get a decent no-strings pay offer on top of their current pay, averaging £60,000 a year. They believe the money will be found to meet their demands, because it always has been in the past. They have also always “sold” reforms to working arrangements for an extra few per cent on their pay, and they don’t intend to stop now.
+
+Stuck in the middle: the passenger.
+
+Which rail firms are involved?
+
+Aslef is in dispute with the train operators that are contracted by the government to provide rail services. They are:
+
+Intercity operators:
+
+Avanti West Coast
+
+CrossCountry
+
+East Midlands Railway
+
+Great Western Railway (GWR)
+
+LNER
+
+TransPennine Express
+
+Southeast England commuter operators:
+
+C2C
+
+Greater Anglia
+
+GTR (Gatwick Express, Great Northern, Southern, Thameslink)
+
+Southeastern
+
+South Western Railway (including the Island Line on the Isle of Wight)
+
+Operators focusing on the Midlands and north of England:
+
+Chiltern Railways
+
+Northern Trains
+
+West Midlands Railway (including London Northwestern Railway)
+
+Which firms are not involved?
+
+ScotRail, Transport for Wales, Transport for London (including the Elizabeth Line), Merseyrail and “open-access” operators such as Grand Central, Hull Trains and Lumo. But their services are crowded on days of industrial action, where they duplicate journeys of strike-hit companies.
+
+What are the warring sides saying?
+
+Rail minister Huw Merriman told The Independent: “We believe a fair and reasonable offer is there on the table for Aslef if they put it to their members. These are train drivers that are paid an average £60,000 for a 35-hour, four-day week. The pay deal would take them up to £65,000.”
+
+A spokesperson for Rail Delivery Group, representing the train operators, said: “There are no winners from these strikes that will unfortunately cause disruption for our customers. We believe rail can have a bright future, but right now taxpayers are contributing an extra £54m a week to keep services running post-Covid.
+
+“Aslef’s leadership need to recognise the financial challenge facing rail. Instead of staging more damaging industrial action, we call on the Aslef leadership to work with us to resolve this dispute and deliver a fair deal which both rewards our people, and makes the changes needed to make services more reliable.”
+
+But Mick Whelan, general secretary of Aslef, says it’s a rubbish deal that he can’t possibly put to his members – some of whom have not had a pay rise for five years. Aslef members have consistently voted overwhelmingly for industrial action in pursuit of their demands.
+
+The union says it has had no talks with Mark Harper, the transport secretary, since 2022; with Huw Merriman, the rail minister, since January 2023; and with the employers since April 2023.
+
+Mr Whelan said: “We have given the government every opportunity to come to the table but it has now been a year since we had any contact from the Department for Transport. It’s clear they do not want to resolve this dispute.”
+
+Meanwhile, the corrosion in confidence among travellers continues, with no rail passenger able to plan journeys more than two weeks ahead – that being the minimum notice the union must give for industrial action.
+
+What about the new minimum service levels law?
+
+Legislation now allows the transport secretary to stipulate minimum service levels (MSLs) on strike days amounting to 40 per cent of the normal service. The government says the Strikes (Minimum Service Levels) Act 2023 aims “to ensure that the public can continue to access services that they rely on, during strike action.”
+
+No train operator is seeking to impose the new law on the train drivers’ union. LNER said it might do so, and opened consultations, at which point Aslef called a separate five-day strike on LNER alone. Then the train operator said it would not require drivers to work, and the strike was called off.
+
+The BBC reports that the prime minister is disappointed that train operators had not implemented minimum service levels. A Downing Street spokesperson said: “Yes, it’s something that we and the public expect them to use.
+
+“We’ve been repeatedly been clear that this legislation is available for train operators to use.”
+
+The Transport Select Committee has previously warned of potential unintended consequences of the legislation. The Conservative chair, Iain Stewart, said: “There is a risk of MSLs worsening worker-employer relations and that, as a result, MSLs could end up making services less reliable.”
+
+The minimum service level rules do not apply to union bans on non-contractual rest-day working – so there would be no benefit in imposing the law when an overtime ban is in force.
+
+What are the 1 March strikes about?
+
+Train drivers members of Aslef working for LNER, the main operator on the East Coast main line, and Northern – serving the north of England – will walk out on Friday 1 March.
+
+Hundreds of trains will be cancelled as a result of the strikes. In addition, an overtime ban will apply on the previous and following days, Thursday 29 February and Saturday 2 March.
+
+The industrial action has been called for what Aslef described as LNER’s and Northern’s “persistent failure to comply with existing agreements”.
+
+The Independent understands that the union is unhappy with what it sees as LNER’s routine use of managers to drive trains on some routes, and “toxic” local industrial relations at Northern.
+
+Aslef’s Mick Whelan said: “We are fed up to the back teeth with the bad faith shown, day after day, week after week, and month after month by these two companies.”
+
+A spokesperson for LNER said: “Our priority focus remains on minimising disruption to customers during Aslef strikes, which sadly will continue to cause disruption and delays.”
+
+Tricia Williams, chief operating officer at Northern, said: “We're surprised and disappointed that strike action has been called over a local disagreement that we have all been working positively to resolve.“
+
+Previous experience of train drivers’ strikes suggests that Northern will cancel all trains on 1 March, while LNER will run a skeleton service with reduced hours between London King’s Cross and Edinburgh via York and Newcastle.
+
+Both rail firms are state-run, having been brought back into public control after the previous franchise holders stood aside.
+
+What does the Labour Party say?
+
+Louise Haigh, Labour’s shadow transport secretary, said: “It is a staggering dereliction of duty that the transport secretary hasn’t got around the table with the unions to try to resolve it since the Christmas before last.
+
+“Labour will take an unashamedly different approach to the Tories, and will work with both sides to reach a deal in the interests of passengers and workers. If the transport secretary took this sensible approach then perhaps we wouldn’t still be having strikes on our railways.”
+
+The shadow rail minister, Stephen Morgan MP, has previously said: “Labour will bring our railways back into public ownership, as contracts expire, and ensure services work in the interests of the passenger.”

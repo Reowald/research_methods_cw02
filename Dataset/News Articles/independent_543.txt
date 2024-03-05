@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Moon is gradually shrinking, according to a new study, leading to a growing number of landslides that may threaten future astronauts.
+
+The Earth’s natural satellite has lost as much as 100m in circumference over the last few hundred million years as its core has cooled.
+
+This may seem like a gradual process, but the shrinkage is causing significant surface warping in parts of the Moon’s south pole – including areas proposed for Nasa’s crewed Artemis III landings, researchers from the University of Maryland say.
+
+Since the Moon’s shrinking is accompanied by seismic activity like moonquakes, scientists warn that locations near fault zones could pose dangers to future human explorers.
+
+“The global distribution of young thrust faults, their potential to be active and the potential to form new thrust faults from ongoing global contraction should be considered when planning the location and stability of permanent outposts on the Moon,” said study co-author Thomas Watters from the National Air and Space Museum.
+
+In the new study, researchers linked faults located in the Moon’s southern polar region to one of the most powerful moonquakes recorded by Apollo seismometers over 50 years ago.
+
+They found that some areas of the Moon’s south pole were particularly vulnerable to landslides from seismic shaking.
+
+Over recent geologic time, as the lunar interior cooled and contracted the entire moon shrank by about 100 m (Nasa)
+
+Similar to earthquakes, moonquakes are caused by faults in the Moon’s interior, and can be strong enough to damage human-made structures and equipment on the lunar surface, scientists say.
+
+But unlike earthquakes, which last only a few seconds, moonquakes could last for hours and even a whole afternoon, meaning these shallow quakes can devastate future human settlements.
+
+This is because the Moon has loose sediment on its surface formed from billions of years of asteroid and comet collisions.
+
+“You can think of the Moon’s surface as being dry, grounded gravel and dust. Over billions of years, the surface has been hit by asteroids and comets, with the resulting angular fragments constantly getting ejected from the impacts,” Nicholas Schmerr, another author of the study, said.
+
+“As a result, the reworked surface material can be micron-sized to boulder-sized, but all very loosely consolidated. Loose sediments make it very possible for shaking and landslides to occur,” Dr Schmerr explained.
+
+Nasa hopes to launch its first crewed flight to the moon in more than five decades as part of the Artemis missions in late 2024. With plans evolving to ultimately establish a long-term presence on the lunar surface, researchers hope to scope out the Moon further to identify more locations that may be dangerous for human exploration.
+
+“This work is helping us prepare for what awaits us on the Moon – whether that’s engineering structures that can better withstand lunar seismic activity or protecting people from really dangerous zones,” Dr Schmerr said.

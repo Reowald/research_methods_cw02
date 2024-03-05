@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ferrari fans have reacted with glee after the Scuderia unveiled their 2024 F1 car at Maranello on Tuesday.
+
+The SF-24 is Ferrari’s 2024 challenger with notable design inclusions of a yellow-and-white strip on the sidepod and nose of the car, as well as the usual scarlet red predominant colour.
+
+After a number of cars were launched in the last week with exposed carbon black livery elements, most fans online were excited that Ferrari have not followed suit with their 2024 car.
+
+While one fan described the car as a ‘beast’, another simply said: “Gorgeous, please be fast!”
+
+Another fan joked that he was simply “waiting for the 2025 launch” given Lewis Hamilton’s move to Ferrari next year. Ferrari’s chassis technical director Enrico Cardile explained that the car is “completely new” and detailed that “every area of the car has been redesigned.”
+
+The general tone of an aesthetically excellent car on the eye was matched by Charles Leclerc, who also added that the hope now is that the SF-24 produces the goods out on track.
+
+“I like the look of the car a lot, including the white and yellow parts on the bodywork - but of course, what really interests me is how it will perform on track, as that’s all that matters,” he said.
+
+“The SF-24 ought to be less sensitive and easier to drive and for us drivers that’s what you need in order to do well. I expect the car to be a step forward in several areas and from the impression I formed in the simulator I think we’re where we want to be.
+
+“This season the aim is to be front runners all the time and I want to give our fans plenty to cheer about, by dedicating race wins to them.”
+
+Ferrari finished third in the constructors’ championship last season, though did claim the only non Red Bull victory of the season with Carlos Sainz’s victory at the Singapore Grand Prix.
+
+Ferrari’s new 2024 F1 car - the SF-24 (Scuderia Ferrari)
+
+Charles Leclerc and Carlos Sainz with the new SF-24 (Scuderia Ferrari)
+
+Sainz, who will be replaced by Hamilton at the end of the season, added: “When I saw the SF-24 for the first time, I couldn’t wait to jump in and fire it up.
+
+“Now, I’m looking forward to driving it on track to see if it correlates with the feeling I had from the simulator, which is that it’s the step forward we all want. The aim is to have a car that’s more driveable and therefore able to run at a consistent race pace, as these are the basic requirements to fight for wins.
+
+“We drivers have done our very best to give the engineers precise feedback and I’m sure the workforce in Maranello will have listened to our needs. We want to give the fans something to cheer about, as they were so supportive last year, even when things weren’t going our way.”
+
+Both Leclerc and Sainz drove the car for the first time at a shakedown event at the nearby Fiorano circuit on Tuesday.
+
+The cars will get their first official reveal on track to the world next week at pre-season testing in Bahrain. The first race of the season is at the same track on 2 March.

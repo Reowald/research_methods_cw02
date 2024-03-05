@@ -1,0 +1,41 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Peregrine Mission One, the first American attempt to land on the Moon in 50 years, has hit an “anomaly”.
+
+The lunar lander had successfully left from Cape Canaveral in Florida on Monday morning, on board a Vulcan rocket. It successfully separated from that rocket and should now be on its way to the Moon.
+
+However, after the spacecraft’s own engines activated and it had made contact with Earth, “an anomaly occurred”, engineers said. That “prevented [it] from achieving a stable sun-pointing direction”, said Astrobotic, the private space company in charge of the launch.
+
+“The team is responding in real time as the situation unfolds,” it said. It gave no indication of the danger the spacecraft was in or what exactly had caused the problem.
+
+(AFP via Getty Images)
+
+Later, the company said that it was continuing to examine the data it had received from the spacecraft. Its engineers believe “the likely cause of the unstable sun-pointing is a propulsion anomaly that, if proven true, threatens the ability of the spacecraft to soft land on the Moon”.
+
+“As the team fights to troubleshoot the issue, the spacecraft battery is reaching operationally low levels,” it wrote. The team had sent emergency commands to try and reorient the spacecraft so that its panels were pointing the right way – but, soon after, it went through a scheduled loss of communication, meaning that the engineers could not immediately know whether it was successful.
+
+The spacecraft needs to be able to point its solar panels towards the Sun to gather energy and charge its batteries. They in turn power the electrical instruments on board the spacecraft, and so any problem with the solar panels could mean the mission is lost entirely.
+
+The launch had initially been hailed as a success by organisations including Nasa, which commissioned the spacecraft and placed instruments on board as part of its Commercial Lunar Payload Services (CLPS) initiative. But it had also described the mission as “high-risk”.
+
+“The first CLPS launch has sent payloads on their way to the Moon – a giant leap for humanity as we prepare to return to the lunar surface for the first time in over half a century,” said Bill Nelson, the Nasa administrator, in a statement. “These high-risk missions will not only conduct new science at the Moon, but they are supporting a growing commercial space economy while showing the strength of American technology and innovation.
+
+“We have so much science to learn through CLPS missions that will help us better understand the evolution of our solar system and shape the future of human exploration for the Artemis Generation.”
+
+Nasa hopes that the findings gained through the Peregrine mission will contribute to Artemis, its programme to send humans back to the lunar surface next year.
+
+The Peregrine spacecraft is also carrying a set of human remains, including those of a number of people involved with Star Trek.
+
+Astrobotic’s Peregrine lander as imagined after its landing on the Moon (Astrobotic)
+
+In its first statement released on X, formerly Twitter, Astrobotic had said: “After successfully separating from United Launch Alliance’s Vulcan rocket, Astrobotic’s Peregrine lunar lander began receiving telemetry via the Nasa Deep Space Network.
+
+“Astrobotic-built avionics systems, including the primary command and data handling unit, as well as the thermal, propulsion, and power controllers, all powered on and performed as expected.
+
+“After successful propulsion systems activation, Peregrine entered a fully operational state.
+
+“Unfortunately, an anomaly occurred, which prevented Astrobotic from achieving a stable sun-pointing orientation.
+
+“The team is responding in real time as the situation unfolds and will be providing updates as data is obtained and analysed.”

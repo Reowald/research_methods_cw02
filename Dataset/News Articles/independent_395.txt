@@ -1,0 +1,21 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Kenya’s Sarah Chepchirchir has been hit with an eight-year ban after the former Tokyo Marathon winner was found to have violated anti-doping regulations for a second time, the Athletics Integrity Unit (AIU) said in a statement on Tuesday.
+
+Chepchirchir had returned an adverse analytical finding for testosterone, the AIU said. The sample was collected at the Bangsaen42 Chonburi Marathon in Thailand in November.
+
+The 39-year-old was previously banned for four years in 2019, backdated to April 11, 2018, because of abnormalities in her athlete blood passport.
+
+The latest ban will be backdated to Dec. 22, 2023 and Chepchirchir’s competition results from Nov. 5 onwards will be disqualified.
+
+Chepchirchir, who won the Tokyo Marathon in 2017, had the option to have the ban reduced by one year by formally admitting to the charge, but failed to do so by the deadline of Feb. 11.
+
+Last year, the AIU and the Anti-Doping Agency of Kenya said a “medically-savvy operation” was helping Kenyan athletes cover up doping offences.
+
+Several Kenyan athletes have received bans or provisional suspensions in recent years, including Titus Ekiru, Betty Wilson Lempus and Diana Kipyokei.
+
+The AIU also announced a 12-year ban for Indian hammer thrower Rachna Kumari, who competed at last year’s Asian Games.
+
+Kumari had previously served a doping ban from 2015-19.

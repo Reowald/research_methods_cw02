@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+India is planning to fly a female-looking robot astronaut to space ahead of its ambitious Gaganyaan crewed space flight mission carrying Indian astronauts.
+
+The robot astronaut, dubbed Vyommitra – “Vyoma” meaning space, and “Mitra” meaning friend in Sanskrit – is scheduled for flight in the third quarter of this year, while the Gaganyaan crewed mission is slated to be launched next year, India’s science and technology minister Jitendra Singh said.
+
+Gaganyaan plans to demonstrate human capabilities in space by launching a three member crew into a low-Earth orbit of 400km altitude in a 5ton capsule for about three days, and bring them back safely by landing in India’s sea waters.
+
+Mr Singh told reporters on Sunday that the “Vyommitra” robot astronaut is designed to simulate human functions and interact with the space capsule’s life support system as part of the mission.
+
+The humanoid robot was first unveiled in January 2020 at the Human Spaceflight and Exploration symposium in Bengaluru.
+
+Gaganyaan: MoS Dr Jitendra Singh shares details of next stages of the mission
+
+Isro said it hopes to fly robots instead of animals onboard experimental missions to understand what weightlessness and radiation in the space environment could do to humans.
+
+The agency hopes for such a robot to help the crew monitor module parameters, operate panels, respond to queries, and simulate functions like humans in future missions.
+
+In October last year, prime minister Narendra Modi directed Isro’s top leaders to aim for new and ambitious space mission goals, including putting an Indian on the Moon and setting up the nation’s own indigenous space station by 2035.
+
+Isro set up a Human Space Flight Centre in Bengaluru to train astronauts for the future, including the crew that would be part of the Gaganyaan mission.
+
+Astronauts are preparing for the mission at the Bengaluru facility, including physical fitness and medical training, yoga, flight suit training and by running simulations, according to Isro.
+
+The crew may wear Russian-made spacesuits for the mission, the Hindustan Times reported last month, despite speculation that indigenously made suits may be used.
+
+They will take off in the agency’s heavy lift launcher LVM-3 reconfigured for the crewed mission in 2025.

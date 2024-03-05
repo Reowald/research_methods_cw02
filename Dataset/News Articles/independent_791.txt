@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+ChatGPT creators OpenAI are generating about 100 billion words each day, its founder Sam Altman has said.
+
+That is roughly 13 words each day for every person on Earth. But it is still far less than humans are thought to generate, Mr Altman wrote on Twitter.
+
+ChatGPT became the fastest growing app when it launched in late 2022. It now has more than 100 million weekly users – which equates to around a thousand words per person.
+
+“openai now generates about 100 billion words per day,” Mr Altman, who posts largely in lower case, wrote. “all people on earth generate about 100 trillion words per day.”
+
+One follower noted that the numbers suggest we “need more people”. In reply, Mr Altman wrote that we “need more GPUs”.
+
+That may be a reference to ongoing rumours that Mr Altman is looking to raise $7 trillion in funding to reshape the semiconductor industry ahead of the growth of artificial intelligence. The money will go to creating new graphics processing units, or GPUs, to train even better AI models, the Wall Street Journal reported.
+
+In a reply to his tweets about needing more of those GPUs, one follower asked how many GPUs could be bought for that rumoured $7 trillion. “probably a lot,” he wrote.
+
+In a tweet on Sunday, Mr Altman said that he doesn’t “really know that much about this rumored compute thing” and suggested that Trevor Cat, a colleague at OpenAI, could answer questions about it.

@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Formula One has rejected Andretti Global’s application to join the global racing series in 2025 or 2026 but said Wednesday it is willing to revisit the issue in 2028 when General Motors has an engine ready for competition.
+
+General Motors under its Cadillac brand had signed on to partner with Michael Andretti’s push to join to the top racing series in the world — a bid that has received extreme pushback from the majority of the existing 10 teams and F1 leadership.
+
+But the process became more complicated when GM said in November it had registered with Formula One’s governing body to become an engine supplier starting in 2028. That backed F1 into a corner because it would be very difficult to turn away one of the largest automakers in the world, particularly an American company at a time the series has gained massive traction in the United States.
+
+The FIA in July approved Andretti’s application to expand the grid by two cars for his new team, but F1 took six months to do its own review. The FIA had given F1 a Wednesday deadline to make its decision.
+
+“Our assessment process has established that the presence of an 11th team would not, in and of itself, provide value to the Championship,” F1 said in a statement.
+
+F1 is only interested in allowing Andretti in when General Motors has an engine built for competition. Had Andretti received approval for a new team, he would have had to use another manufacturer’s engine until 2028.
+
+GM already has started development and testing of prototype technology, and it said building an F1 engine will help the automaker advance in areas including electrification, hybrid technology, sustainable fuels, high efficiency internal combustion engines, advanced controls and software systems.
+
+F1 in 2026 has set new engine regulations that place an emphasis on sustainable fuels and greater electric power. Six manufacturers have signed with the FIA to supply engines in 2026, including newcomer Audi, which will partner with Sauber. Ford plans to return to F1 in partnership with three-time reigning champion Red Bull. Honda also plans to return as an official supplier in 2026.
+
+Andretti was the only applicant of seven to meet all the criteria for the FIA to expand the grid from 10 teams to 11, and with a car already built, hoped to be competing in 2025.

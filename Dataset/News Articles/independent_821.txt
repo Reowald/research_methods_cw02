@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Bluesky will now let anyone sign up.
+
+The social network has become one of the leading alternatives to X, formerly known as Twitter, as some users choose to move away from that site in the wake of Elon Musk’s takeover.
+
+But until now new users were only able to join with a sign-up code. A limited number of those codes were given to existing users, who could choose when and whether to share them.
+
+Now Bluesky has said that it is “ready for everyone to join the conversation”.
+
+It said that the update came as Bluesky achieved more than three million users in its invite-only beta. That period has also allowed it to introduce a host of new features, including custom feeds and moderation features.
+
+Those custom feeds are intended as an alternative to the hidden algorithms of other platforms such as Facebook and Twitter. Users can instead opt to join more than 25,000 custom feeds that focus on topics of interest, from cats to Formula 1.
+
+Bluesky also pointed to the fact that it offers an accessible experience with no “no technical knowledge required”. That was seemingly intended to set it apart from Mastodon, another open-source alternative that has sometimes struggled to grow because of the complexity of its sign-up process.
+
+“We made Bluesky so users can easily discover interesting content from a vibrant network of communities,” said Jay Graber, chief executive of Bluesky. “During our beta period we used an invite system to manage growth while building out our infrastructure, and were happy to see people start creating their own community on Bluesky. Now, we’re welcoming everyone in.”
+
+Bluesky was born within the official Twitter, as part of a plan from co-founder and then-chief executive Jack Dorsey. He said he wished to build a new “decentralized social network protocol” that would free users from the control of centralised platforms such as Twitter.
+
+In 2021, Blueksy was spun out to become an autonomous app and company, and hired its own employees. It not only runs its own app but a decentralised protocol on which it has been built.
+
+It began to grow more quickly after Elon Musk took over what was then Twitter, in October 2022. Alongside Mastodon and Instagram’s Threads, it became a key alternative to the platform run by Mr Musk, and was favoured by users who wished to protest against the changes to the site.

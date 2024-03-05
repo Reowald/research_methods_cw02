@@ -1,0 +1,25 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Astronomers have found an Earth-sized planet shockingly close to our own.
+
+The world – known as HD 63433d – is the closest and youngest Earth-sized world ever to be found. Researchers hope that proximity could prove useful: we could get a good look at the world that might be like a young version of our own Earth.
+
+“It’s a useful planet because it may be like an early Earth,” said Melinda Soares-Furtado, one of the co-leaders of the research from the University of Wisconsin-Madison.
+
+Young, hot, Earth-sized planet HD 63433d sits close to its star in the constellation Ursa Major, while two neighboring, mini-Neptune-sized planets — identified in 2020 — orbit farther out (Alyssa Jankowski)
+
+Researchers will be able to look closely at the planet and see whether gasses are escaping from inside of it or how its magnetic field works, for instance.
+
+“This is our solar backyard, and that’s kind of exciting,” said Soares-Furtado. “What sort of information can a star this close, with such a crowded system around it, give away? How will it help us as we move on to look for planets among the maybe 100 other, similar stars in this young group it’s part of?”
+
+But the similarities to Earth are limited. The newly discovered planet appears to be tidally-locked to its star, so that only one side is always facing it – on that side, the temperature can get up to 2,300 degrees Fahrenheit and the ground may flow as lava.
+
+The planet is named because it is the third planet found around the star HD 63433. That is roughly the same size and kind of star as our own Sun – but is much younger.
+
+It sits only 73 light years away and can be seen through a pair of binoculars.
+
+The newly found planet was discovered with Nasa’s Transiting Exoplanet Survey Satellite, or TESS, which has found a huge number of worlds beyond our solar system – including two others in the same planetary system as its new find.
+
+The research is described in a new article, ‘TESS Hunt for Young and Maturing Exoplanets (THYME). XI. An Earth-sized Planet Orbiting a Nearby, Solar-like Host in the 400 Myr Ursa Major Moving Group’, published in The Astronomical Journal.

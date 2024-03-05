@@ -1,0 +1,59 @@
+Sign up to our free Brexit and beyond email for the latest headlines on what Brexit is meaning for the UK Sign up to our Brexit email for the latest insight Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Brexit and beyond email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+London has led a rebound in fresh home buyer demand in the first weeks of 2024 – indicating that the tide may be turning for the housing market in the capital, according to a property website.
+
+The rebound in London is uniform across the inner city, the suburban outer area and the core commuter areas around the capital, Zoopla said.
+
+The website defines “demand” as would-be buyers contacting estate agents to inquire about and arrange viewings for a specific property listed on Zoopla.
+
+The East of England has also experienced a relatively strong rebound in demand as 2024 gets under way, Zoopla said, with the increase in buyer demand across most other regions being in line with or slightly ahead of this time last year.
+
+Our house price index shows that London house prices have risen just 13% since the start of 2016. Meanwhile, they are 34% higher across the UK Zoopla report
+
+The property website’s January report said: “This could reflect a turn of fortunes for the London housing market.
+
+“Over the last seven years, the city has lagged behind the rest of the UK in terms of sales volumes and house price inflation.
+
+“Our house price index shows that London house prices have risen just 13% since the start of 2016.
+
+“Meanwhile, they are 34% higher across the UK and almost 50% higher in Wales. The average value of a flat in London is just 2% higher over the same period.”
+
+Zoopla said that London reached “peak unaffordability” in 2016, following fast house price growth in the early 2010s. Property prices in London reached more than 15 times typical earnings on average.
+
+Several factors then affected demand and pricing in London, for example tax changes aimed at overseas investors, the Brexit vote and changes to working patterns prompted by the coronavirus pandemic, the report said.
+
+Higher mortgage rates, which have hit the more expensive end of the housing market particularly hard, also had an impact.
+
+However, London house prices remain expensive by UK standards at around 13 times earnings, Zoopla said.
+
+This will continue to improve affordability and support levels of housing sales rather than boost house prices Zoopla report
+
+The report continued: “Slowly improving housing affordability in London is positive news but home buyers still face a sizeable affordability challenge with mortgage rates doubling since 2021.
+
+“We expect market conditions in London to continue to improve over 2024, with earnings rising faster than house prices. This will continue to improve affordability and support levels of housing sales rather than boost house prices.”
+
+In terms of house sales, Zoopla said that Yorkshire and the Humber and the West Midlands are leading the improvements in new transactions.
+
+This is evidence that buyers and sellers are becoming more aligned on pricing, Zoopla said, with sellers continuing to cut asking prices to attract buyers.
+
+The overall supply of homes for sale is also growing – indicating more confidence among sellers.
+
+In the first three weeks of 2024, the overall supply of homes on the market was 22% higher than a year earlier.
+
+Buyers remain price-sensitive and focused on value for money. Over-optimism by sellers could quickly stall the current improvement in market activity Richard Donnell, Zoopla
+
+But Zoopla said the housing market continues to favour buyers.
+
+The report said: “Over one in five sellers are still having to accept more than 10% off the asking price to agree a sale.
+
+“This is close to one in four across London and the South East and rising across the rest of the UK. Sellers must continue to price realistically if they are serious about moving in 2024.
+
+“Improved market conditions will boost the chances of a sale, but sellers shouldn’t expect to list at a higher asking price.”
+
+Richard Donnell, executive director at Zoopla said 2024 has got off to a “positive start”, cautioning: “Sellers looking to move should be encouraged by these early signals of activity but buyers remain price-sensitive and focused on value for money. Over-optimism by sellers could quickly stall the current improvement in market activity.”
+
+Tom Ashwood, managing director at London agent Tom Ashwood Real Estate, said: “We have most certainly seen a spike in activity across all prices ranges from a buyer inquiry perspective in the early part of 2024 and alongside that there are more sellers looking to list their property, with both exceeding our internal expectations for January.
+
+“I feel the increase in buyer activity that has initially been fuelled by a reduction in mortgage rates and a lack of intent to buy through 2023 will assist in keeping asking prices fairly stable through the initial part of 2024, which will lead to more property being listed for sale.”

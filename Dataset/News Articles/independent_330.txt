@@ -1,0 +1,67 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Six Nations is back with Ireland looking to defend their grand slam crown and finding the perfect start with an emphatic win over France.
+
+The start of a new cycle has seen a significant change to the six competing unions since a thrilling Rugby World Cup in France.
+
+England, Ireland, Scotland, Wales and France all have new captains at the helm, while Italy begin life under Gonzalo Quesada after a post-World Cup coaching change.
+
+Scotland will be hoping to build on a third-placed finish a year ago in what looks to be an open edition of one of rugby’s most storied championships.
+
+Here’s everything you need to know.
+
+When is the 2024 Six Nations?
+
+The 2024 men’s Six Nations starts on Friday 2 February and will conclude with “Super Saturday”, with the final three games all held on Saturday 16 March.
+
+How can I watch it?
+
+Viewers in the United Kingdom will be able to watch every game live on the BBC and ITV, who share the rights to the Six Nations. Coverage will be available online via the BBC iPlayer and ITVX.
+
+Which cities are hosting games?
+
+While England (Twickenham), Wales (Cardiff), Scotland (Edinburgh), Italy (Rome) and Ireland (Dublin) are all in their traditional homes, France have been forced to relocate their fixtures from the Stade de France due to the Paris Olympics. Fabien Galthie’s side will instead play in Marseille, Lille and Lyon — all three cities hosted games during the World Cup.
+
+2024 Six Nations full schedule
+
+Round 1
+
+France 17-38 Ireland (Stade Velodrome, Marseille)
+
+Italy 24-27 England (Stadio Olimpico, Rome)
+
+Wales 26-27 Scotland (Principality Stadium, Cardiff)
+
+Round 2
+
+Scotland vs France (Murrayfield, Edinburgh) - Saturday 10 February, 2.15pm GMT
+
+England vs Wales (Twickenham, London) - Saturday 10 February, 4.45pm GMT
+
+Ireland vs Italy (Aviva Stadium, Dublin) - Sunday 11 February, 3pm GMT
+
+Round 3
+
+Ireland vs Wales (Aviva Stadium, Dublin) - Saturday 24 February, 2.15pm GMT
+
+Scotland vs England (Murrayfield, Edinburgh) - Saturday 24 February, 4.45pm GMT
+
+France vs Italy (Stade Pierre-Mauroy, Lille) - Sunday 25 February, 3pm GMT
+
+Round 4
+
+Italy vs Scotland (Stadio Olimpico, Rome) - Saturday 9 March, 2.15pm GMT
+
+England vs Ireland (Twickenham, London) - Saturday 9 March, 4.45pm GMT
+
+Wales vs France (Principality Stadium, Cardiff) - Sunday 10 March, 3pm GMT
+
+Round 5
+
+Wales vs Italy (Principality Stadium, Cardiff) - Saturday 16 March, 2.15pm GMT
+
+Ireland vs Scotland (Aviva Stadium, Dublin) - Saturday 16 March, 4.45pm GMT
+
+France vs England (Groupama Stadium, Lyon) - Saturday 16 March, 8pm GMT

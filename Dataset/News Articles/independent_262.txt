@@ -1,0 +1,63 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Housing market confidence could get a further boost from the continued freeze on the Bank of England base rate, it has been suggested.
+
+The Bank of England held interest rates at 5.25% on Thursday.
+
+Mortgage professionals said that while homeowners coming up to remortgage should still prepare themselves for a hike in their payments, the shock may not be as big as it could have been last year.
+
+Matt Smith, Rightmove’s mortgage expert, said: “The market appears more robust than last year, evidenced by the fact that the surprise uptick in inflation a couple of weeks ago didn’t derail the downward trend of mortgage rates.”
+
+This continued stability will increase buyer confidence Mark Manning, Northern Estate Agencies Group
+
+He added: “It’s been a promising start to the year for housing market activity, with more people than this time last year listing their home for sale, looking to buy, or getting a mortgage in principle to see what they can afford.”
+
+Jason Tebb, president of property website OnTheMarket, said the base rate hold “will come as further relief for buyers and sellers. It strengthens expectations that rates have peaked and the next move will be downwards, as the Bank of England continues to bring inflation under control”.
+
+Mark Manning, managing director at Northern Estate Agencies Group, which covers parts of Yorkshire and Lancashire, said: “It’s really positive that rates have been held again and this continued stability will increase buyer confidence and reduce the affordability issues faced by so many.
+
+“Mortgage rates are significantly lower than they were in 2023 and many fixed-rate products now boast rates much lower than the current base rate. This reflects the long-term view that rates will begin falling later this year, which will lead to increased activity and provide a much-needed boost for the housing market.”
+
+Nathan Emerson, CEO of property professionals’ body Propertymark said: “It is positive to see that many people intending to buy their first home or sell their current one won’t be hindered by an increase in interest rates.”
+
+Mark Harris, chief executive of mortgage broker SPF Private Clients said: “Those coming up to remortgage in the next few months will still face a payment shock as we are in a higher interest rate environment, but it won’t be as bad as it could have been.”
+
+Ben Thompson, deputy CEO at Mortgage Advice Bureau, said: “2024 has started positively for the mortgage market, with rate cuts from lenders prompting a surge of activity. There are now many competitive rates available, especially when compared to this time last year.”
+
+Simon Gammon, managing partner at Knight Frank Finance, said: “We saw substantial falls in mortgage rates through December and the first two weeks of January, but reductions have slowed as margins have grown thin.
+
+“Where lenders can’t cut rates, we’re seeing product innovation, like five-year deals with no early repayment charges after two years, which allow borrowers to benefit from rate cuts within their term without incurring hefty fees.”
+
+Borrowers on these deals should still prepare for a significant increase in their mortgage payments, but it won’t be as big a shock as it would have been if their deal ended last year Paul Broadhead, Building Societies Association
+
+Paul Broadhead, head of mortgage and housing policy at the Building Societies Association (BSA), said: “The markets remain confident that the bank rate will drop during this year, which has seen mortgage borrowers already benefiting from falling rates, as lenders reflect expected future rates.
+
+“This is good news for those on fixed-rate mortgages that were agreed before the bank rate started to increase in December 2021 – which is almost half of today’s fixed-rate mortgages.
+
+“Borrowers on these deals should still prepare for a significant increase in their mortgage payments, but it won’t be as big a shock as it would have been if their deal ended last year.”
+
+He continued: “It is a similar picture in the savings market, where the highest rates were seen towards the end of 2023. However, there’s still a wide choice of accounts with attractive rates available today, and shopping around can make a sizeable, financial difference, particularly for those who are holding a large amount of savings in their current account.”
+
+It is imperative consumers are proactive to review and switch their savings account if their loyalty is not being rewarded Rachel Springall, Moneyfactscompare.co.uk
+
+Sarah Coles, head of personal finance at Hargreaves Lansdown, said those waiting for a significant fall in mortgage rates before they buy a property “may have a longer wait than they were expecting”.
+
+She said people remortgaging should shop around “but if this isn’t enough to make a remortgage affordable, it’s worth talking to your lender, who may be able to offer an extension to the length of the loan, a temporary switch to interest-only or even taking a payment holiday”.
+
+Rachel Springall, a finance expert at Moneyfactscompare.co.uk, said: “First-time buyers may still be sitting on the fence as to whether now is the time to get their foot on the property ladder, due to both the uncertainties around interest rates and house prices and the stark reality of affordable housing remaining in short supply.
+
+“Any borrower concerned about their existing mortgage or looking for a deal would be wise to seek advice and support from their lender or an independent broker.
+
+“The recent volatility surrounding fixed mortgage rates may make it more pressing for borrowers to secure a deal as soon as possible, particularly as there are now a few lenders offering fixed rates below 4%. Lenders can pull deals if they have an influx of applications, and a volatile swap rate market can put pressure on pricing where margins are already tight.”
+
+She added: “Some consumers may not be able to afford to refinance and feel stuck on their standard variable rate (SVR), where the average rate is above 8%.”
+
+Looking at the savings market, Ms Springall said: “As we have seen in the past, any cuts to base rate, or indeed expectations for interest rates to drop, can have a notable impact on variable savings rates, so it will be interesting to see how resilient the market will be in the months to come.
+
+“Savers must not be apathetic and assume they are benefiting from rate rises on their existing account. It is imperative consumers are proactive to review and switch their savings account if their loyalty is not being rewarded.”
+
+Shona Lowe, financial planning expert at abrdn, said: “The main thing that households need to focus on while interest rates remain high is understanding and planning ahead with their own finances, taking into account their individual needs so they have a clear vision for the next 12-months or more.
+
+“Key to this will be to consider how any savings and investments could be working harder for you and how you can grow the value of your money over time.”

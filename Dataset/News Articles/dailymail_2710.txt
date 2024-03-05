@@ -1,0 +1,79 @@
+Potholes are a constant and often expensive menace on Britain's roads, but perhaps not for much longer.
+
+The first pothole robot is due to hit the streets of Hertfordshire within the next few months to test its autonomous repair technology.
+
+The robot, called ARRES (Autonomous Road Repair System) PREVENT uses AI to automatically detect, categorise, and fill in cracks.
+
+Should the test be successful, the robot could catch and repair cracks before they become too big to fix quickly.
+
+This could make road works cheaper, more efficient, and faster compared with human workers.
+
+The first autonomous pothole robot is set to hit the streets of Hertfordshire within the next few months
+
+While it is currently in the lab testing phase the autonomous repair robot will soon be used to patrol a residential street
+
+READ MORE: The science of salting roads: How city streets are being kept safe Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+ARRES PREVENT is the product of a collaboration between tech company Robotiz3d and academics at the University of Liverpool in partnership with Hertfordshire County Council [HCC] Highways Engineers.
+
+Robotiz3d is itself a spin-out of the University of Liverpool, having been founded with investment from the University's Enterprise Investment Fund.
+
+Having started development in 2020, the robot is currently the only autonomous road repair vehicle anywhere in the world.
+
+While the robot is currently only in a preliminary testing phase, it is due to be tested on real roads later this year.
+
+The robot will be let loose to find and repair damage to a residential road somewhere in Hertfordshire.
+
+A spokesperson for Hertfordshire County Council told MailOnline that the robots will complement the council's current human teams.
+
+The spokesperson said: 'The intention is to use the AI Robot alongside our human crews rather than to replace them.
+
+The ARRES (Autonomous Road Repair System) PREVENT uses AI to detect potholes and decide whether to make an immediate repair or report the damage to return later
+
+The robot can fill in cracks in the road before they become potholes, potentially saving local councils vast amounts of time and money
+
+'It will autonomously find and seal cracks in the road while our team gets on with other work, helping us get more work done in a single set of works to prevent future potholes while reducing disruption to the public.'
+
+The robot works by autonomously patrolling the roads and scanning the surface with cameras.
+
+Using AI, the robot can detect depressions in the road surface and categorise them as a pothole or crack.
+
+Once the robot has identified a surface imperfection it will decide whether to repair it right away or add the damage to a list for later inspection.
+
+If the robot decides to make the repair, it will inject filling material into the crack to keep out water that could cause more damage.
+
+Although the robot cannot fill larger potholes, Robotiz3d says that the objective is to prevent these potholes from forming in the first place.
+
+Potholes form out of small cracks in the road surface from age, poor weather, or other routine forms of wear and tear.
+
+Once the crack is formed, water seeps inside and begins to widen it.
+
+In the winter, the water freezes into ice and expands, cracking the hole open further.
+
+Robotiz3d, which makes the robot, says that its robots could one day patrol the streets of the UK day and night to stop potholes from forming in the first place
+
+Last year the government set aside £2.8bn for pothole repairs in the East of England, the South East, South West, and London (stock image)
+
+READ MORE: Futuristic car chassis promises to cancel unwanted motion on uneven road surfaces - and could even help with potholes Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_2 - ->
+
+Chunks of asphalt are then constantly knocked out by passing vehicles.
+
+Due to the wet and cold weather conditions of the UK water ponds, which is where rainwater floods the hole, the pothole deepens until it is big enough to damage passing cars.
+
+And while it might seem excessive to call out a robot army to tackle a few cracks in the road, potholes can become hugely expensive.
+
+Recently, the UK government allocated £2.8bn for road repairs just in the East of England, the South East, South West, and London.
+
+Hertfordshire County Council received £3.9m in November for potholes and resurfacing over the next 11 years, on top of a further £87.8m.
+
+According to Robotiz3d, the autonomous solution will be 90 per cent cheaper than using humans, which could save councils millions over the years.
+
+The council said: 'It's too early to tell how much money this could save us; at this stage we are helping Robotiz3d develop some ground-breaking tech but we’re convinced that the future benefits of this work are potentially huge.'
+
+From damage to tires and suspension to crashes caused by drivers swerving to avoid these roadside craters, potholes can lead to expensive damage, with Robotiz3d estimating that drivers in the UK pay £1.7 billion in pothole-related costs every single year.
+
+This is not helped by the fact that the average time taken to repair a pothole is 15 months in the UK.
+
+Because the robots do not have to sleep or rest, they can work full-time to constantly monitor and fix damage to the roads.
+
+By switching to robot lead services, the company estimates that it will be able to make repairs 70 per cent faster than humans.

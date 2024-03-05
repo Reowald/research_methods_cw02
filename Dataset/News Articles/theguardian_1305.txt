@@ -1,0 +1,87 @@
+Apple’s popular MacBook Air has been give its biggest redesign since it was first introduced in 2008, ditching its classic wedge shape and making it thinner, with a bigger screen and better than ever for 2022.
+
+The revamped laptop builds on the internal changes made with the gamechanging M1 model in 2020, introducing Apple’s next-generation M2 chip in a sleeker flat aluminium body.
+
+But in doing so, it also gets a nasty £250 price increase, making the starting model £1,249 ($1,199/A$1,899).
+
+The outside frame has adopted the simplified, retro design of the 14in MacBook Pro from last year, with no tapering, just a flat top and bottom with smoothed sides. However, the M2 Air is 4.8mm thinner, 50g lighter and 20% smaller by volume than the old model, making it much slimmer than the comparatively chunky-looking Pro.
+
+View image in fullscreen The sides of the deck are barely tall enough to accommodate the USB-C and MagSafe charging ports. Photograph: Samuel Gibbs/The Guardian
+
+Despite its slim frame, the laptop feels incredibly solid, with no flex in the deck and a rigid lid. Open the lid to reveal a larger, 13.6in screen, which is 25% brighter and just as crisp and beautiful while providing a little more real estate for work than the 13.3in size it replaces.
+
+It has a notch at the top of the screen that, like the MacBook Pro, houses an improved 1080p webcam, which is a well-overdue upgrade for those of us still chained to virtual meetings. The Air has four speakers hidden in its deck that are pretty good for a laptop and project a reasonably wide and immersive sound.
+
+View image in fullscreen The deck of the laptop looks the least different. Apple’s best-in-class trackpad, good keyboard and Touch ID fingerprint sensor in the power button are just as good here as last time. Photograph: Samuel Gibbs/The Guardian
+
+Specifications
+
+Screen: 13.6in LCD (2560x1600; 224 ppi) True Tone
+
+Processor: Apple M2 with eight or 10-core GPU
+
+RAM: 8, 16 or 24GB
+
+Storage: 256GB, 512GB, 1TB or 2TB SSD
+
+Operating system: macOS 12 Monterey
+
+Camera: 1080p FaceTime HD
+
+Connectivity: wifi 6, Bluetooth 5, 2x USB-C/Thunderbolt 3, headphones
+
+Dimensions: 215 x 304.1 x 11.3mm
+
+Weight: 1.24kg
+
+M2 speed and very long battery life
+
+View image in fullscreen The sleek MacBook Air is easy to slip into a bag and light enough to not be burden. Photograph: Samuel Gibbs/The Guardian
+
+The 2022 MacBook Air is one of the first machines to have Apple’s next-generation M2 chip. It is an incremental upgrade from the once-in-a-generation leap made by the M1 in 2020 but is still up to 18% faster, with 35% more powerful graphics.
+
+The M2 makes the MacBook Air a rapid, highly capable machine that will easily handle any general computing requirement and bursts of more demanding things. It is a fanless machine, making it completely silent in operation. The laptop stayed cool for three hours of fairly demanding photo manipulation work with large image files while attached to a separate 4K display. Unless you know your work is very computationally demanding, I would expect the Air to be more than capable for most, despite the lack of a fan for cooling.
+
+The battery life is still class-leading, too, regularly exceeding 16 hours of work between charges, including several hours of photo editing in Affinity Photo, having 20 or tabs open in Chrome most of the time, and using Apple Mail, Typora, Evernote and a variety of chat apps and smaller tools. You won’t need to carry the charger to lectures or work.
+
+It took two hours 15 minutes to fully charge the Air with the included 35W charger and MagSafe cable, hitting 50% in about an hour, but it can fast-charge to 50% with a 67W or higher-power adaptor if you have one.
+
+Sustainability
+
+View image in fullscreen The bottom of the laptop is flat with circular rubber feet to raise it slightly off a desk and small screws to access its components for repair.
+
+The MacBook Air is made with recycled materials including aluminium, steel, tin, rare earth elements and plastic. Apple breaks down the computer’s environmental impact in its report.
+
+The computer is generally repairable, and the battery can be replaced for £129 by Apple. Apple offers trade-in and free recycling schemes, including for non-Apple products.
+
+MacOS 12.5 Monterey
+
+View image in fullscreen The webcam is significantly improved but does not support Apple’s Centre Stage automatic panning and scanning technology or Face ID, features still reserved for Apple’s iPads. Photograph: Samuel Gibbs/The Guardian
+
+The MacBook Air runs the same version of macOS Monterey as the MacBook Pro from last year. It is generally an excellent platform with high reliability and low maintenance.
+
+Since last year, Apple has added the Universal Control feature, allowing the keyboard and trackpad on a Mac to control other Apple devices, which is particularly handy when used with an iPad but it can be unreliable in patchy wifi conditions.
+
+Price
+
+The Apple MacBook Air costs £1,249 ($1,199/A$1,899) with an 8-core GPU, 8GB of RAM and 256GB of storage. Doubling the storage or RAM costs £200 ($200/A$300) respectively.
+
+The model with a 10-core GPU, 8GB of RAM and 512GB of storage costs £1,549 ($1,499/A$2,349) and comes with a two-port 35W USB-C charger or 67W power adaptor.
+
+For comparison, the M1 MacBook Air costs £999, M2 MacBook Pro starts at £1,349, 14in MacBook Pro starts at £1,899, the Microsoft Surface Laptop 4 starts at £999, and the Dell XPS starts at £949.
+
+Verdict
+
+The MacBook Air has been given a thoroughly modern makeover and looks better than ever on the outside.
+
+Having founded the thin and light laptop category in 2008, the Air has always been the portable to beat. The larger 13.6in screen makes a material difference for getting work done, while the thinner and lighter body makes it easier than ever to fit in a bag. The return of the MagSafe charging cable frees up a USB-C port for more peripherals, too.
+
+Combined with class-leading battery life of about 16 hours, rapid performance of the M2 chip and a top-class trackpad and keyboard, you have the best premium consumer laptop available.
+
+The only thorn in its side is the price increase to £1,249 or more, which makes the M1 MacBook Air that is still on sale at £999 undoubtedly better value.
+
+Pros: super-fast M2 chip, silent and cool running, extremely long battery life, great 13.6in screen, great keyboard, best-in-class trackpad, MagSafe, good speakers, good mics and webcam, lots of recycled materials, Touch ID. Cons: expensive, only two USB-C ports and no USB-A or SD card slot, can only drive one external display, no Centre Stage camera or Face ID.
+
+View image in fullscreen The new midnight colour option is really nice, looking like a matt black with a slight blue tint that shines through in direct sunlight. Photograph: Samuel Gibbs/The Guardian
+
+Other reviews

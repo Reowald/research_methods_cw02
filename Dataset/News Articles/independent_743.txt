@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ollie Bearman believes he’d be “ready to go” if he was offered a seat in Formula 1 next year.
+
+The British 18-year-old, who made his debut on an F1 weekend in Mexico in October while driving a practice session for Haas, finished sixth in his first F2 season last year and is currently preparing for another season in the series with Prema Racing.
+
+But Bearman, who hails from Chelmsford in Essex, has his sights set on a spot at the top-table for 2025 – with both Kevin Magnussen and Nico Hulkenberg’s seat at Haas not secured beyond this year.
+
+“I know I’d be ready to go,” Bearman said, when asked about a potential seat in 2025.
+
+“I know I have what it takes, but of course preparation would be important and, first of all, I’d have to do a good job in F2 – that’s step one. But I have no doubt that if I get a call-up, I’m ready to go.
+
+“Once you join F1, you’re going up against guys with a lot of races under their belts, and coming in as a rookie is a difficult job. It’s something that we’ve thought about and it will be really important that before I start an F1 campaign, I need to be really prepared.
+
+“Hopefully that looks like more FP1s, and there’ll be some private testing as well. I don’t have any say on that, but in an ideal world, that will be how I approach an F1 season.”
+
+Ollie Bearman is eyeing a spot in F1 for 2025 (Getty Images)
+
+Haas boss Guenther Steiner was full of praise for Bearman’s performance in both Mexico and Abu Dhabi, where he took to the wheel in FP1.
+
+“He did a good job and stayed very calm,” said Steiner. “He behaved very maturely for an 18-year-old and also delivered a good performance in the car.
+
+“He’s confident, but not overly confident. That’s a fine line.”
+
+Bearman is in the Ferrari Driver Academy and has won the German and Italian F4 championships in the past. He also finished third in Formula 3 in 2022.
+
+The 2024 F2 season gets underway on the same weekend as F1, in Bahrain on 1-2 March.

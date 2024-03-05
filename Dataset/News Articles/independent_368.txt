@@ -1,0 +1,21 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Naomi Osaka has reached the quarter-finals at a tournament for the first time in nearly two years.
+
+The four-time grand slam champion was given free passage through to the last eight at the Qatar Open after opponent Lesia Tsurenko withdrew because of injury ahead of their scheduled contest.
+
+Osaka returned to the tour in January following the birth of daughter Shai last summer and had won only one of her first four matches prior to heading to Doha.
+
+But the Japanese star has hit form in the Qatari capital, reversing her Australian Open loss to Caroline Garcia in the first round and then defeating Croat Petra Martic.
+
+It is her best run since she reached the final of the Miami Open in April 2022, losing to Iga Swiatek.
+
+Top-seed Swiatek breezed into the last eight where she will face Victoria Azarenka after a comfortable 6-1 6-4 win against Russia’s Ekaterina Alexandrova.
+
+Belarus’ Azarenka upset Latvian eighth seed Jelena Ostapenko 6-0 6-3, while third seed Elena Rybakina came through three tough sets against American Emma Navarro 6-1 6-7 (6) 6-4.
+
+American Danielle Collins and the Czech Republic’s Karolina Pliskova also progressed after wins over Katerina Siniakova and Linda Noskova respectively.
+
+Wimbledon champion Marketa Vondrousova’s difficult start to the year continued with a 7-5 6-3 loss to Anastasia Pavlyuchenkova, while Australian Open runner-up Zheng Qinwen was beaten 7-5 6-3 by Canada’s Leylah Fernandez.

@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+George Russell is already reflecting upon his ‘special’ time racing alongside Lewis Hamilton, as the pair prepare for a final season together at Mercedes.
+
+Thursday (1 February) brought the dramatic news that Hamilton will join Ferrari at the start of the 2025 Formula 1 season, ending a 12-year stint with Mercedes in which he has won six drivers’ titles so far – with the chance to add one more in 2024.
+
+Russell, 25, joined Mercedes from Williams in 2022, and his sole F1 win came in his first season with the Silver Arrows.
+
+Reacting to the news of Hamilton’s eventual departure, Russell tweeted of his fellow Briton on Friday: “It’s been special racing alongside you, @lewishamilton.
+
+“Let’s make this season one to remember.”
+
+Russell also shared a photo of himself and Hamilton sitting atop their respective Mercedes machines, and a picture of the two drivers smiling in ice baths.
+
+Hamilton, 39, is without an F1 win since 2021, the season that saw him controversially denied a record-breaking eighth title on the final lap of the last race.
+
+Hamilton has since recorded 15 podiums, finishing sixth in the drivers’ standings in 2022 and third in 2023. Meanwhile, Russell has secured 10 podium places in the same time, finishing fourth then eighth in the drivers’ championship.
+
+Hamilton will replace Carlos Sainz at Ferrari next year, racing alongside Charles Leclerc. There is speculation that Sainz could replace Hamilton at Mercedes in a straight swap, while Sergio Perez, Lando Norris and Alex Albon are among the other contenders to race alongside Russell.

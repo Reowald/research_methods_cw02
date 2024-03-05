@@ -1,0 +1,19 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+More than half of people (52%) believe January is the time of year that causes the most financial stress, a survey has suggested.
+
+Some eight in 10 (84%) people said they expected this January to be the hardest yet financially, according to research for Nationwide Building Society.
+
+This week was expected to be particularly tough, as people waited for their end-of-month pay packet.
+
+Because we still believe in face-to-face service and we have listened to our customers, we have committed to keeping all our branches open until at least 2026. We also have a branch manager in every branch, since for many there is no substitute for physical reassurance Mandy Beech, Nationwide
+
+More than half of people (51%) blamed Christmas spending for January being a tough month, while more than two-fifths (43%) highlighted energy costs as a factor. Added debt due to the increased cost of living was a significant issue for more than a third (37%) of people.
+
+More than 51% of people said they would rather seek any assistance they needed in person than online.
+
+Mandy Beech, director of retail services at Nationwide, said: “Because we still believe in face-to-face service and we have listened to our customers, we have committed to keeping all our branches open until at least 2026. We also have a branch manager in every branch, since for many there is no substitute for physical reassurance.”
+
+Censuswide surveyed more than 2,000 people across the UK in December 2023.

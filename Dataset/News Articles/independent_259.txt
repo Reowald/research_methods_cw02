@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+UK consumers soaked up warmer weather with trips to Spain last month, while fewer people spent money in pubs and bars on home territory, according to new data from digital bank Monzo.
+
+Spending data from across the digital bank’s more than eight million customers revealed an increase in purchases on trips away in January.
+
+Travel-related spending rose by 12% during the month compared with the same period last year, with budget airline Ryanair the most popular provider, Monzo said.
+
+The top destination for customers who got away in January was Spain, with some regions experiencing record-high temperatures at the beginning of the year.
+
+Australia, the US and the United Arab Emirates also made the top 10 destinations list.
+
+Meanwhile, data showed that the typical January health-kick may have picked up pace this year.
+
+Total spending on going out to venues including bars, pubs and nightclubs fell by 11% during the month to January 29, compared with the same period a year earlier.
+
+The bank said this could indicate that more people had chosen to give up alcohol during the month as part of the Dry January movement.
+
+Separate data from Not On The High Street revealed that sales of non-alcoholic drinks more than doubled last month compared with January 2023, with people tapping into new brands selling alternative beers, wines and spirits.
+
+Meanwhile, Monzo said the number of fitness-related Pots had surged by 90% year-on-year last month.
+
+It's clear (our customers are) kicking off the year thinking about putting every penny they can towards the things that matter to them Sujata Bhatia, Monzo
+
+The feature lets customers put money aside into savings pots which can be designed for a specific goal, such as a house, a holiday, or keeping fit.
+
+When it comes to gym memberships, PureGym, which offers gym access 24-hours-a-day, seven-days-a-week, saw the highest volume of spending from the bank’s users.
+
+And the higher-end health group David Lloyd Clubs was the second most popular gym for customers who decided to splash out on well-being at the start of the year.
+
+Sujata Bhatia, Monzo’s chief operating officer, told the PA news agency that its customers had been finding “fun and savvy” ways to achieve goals for the year, such as by rounding up purchases and putting the extra cost in a pot, or setting automated saving challenges.
+
+Ms Bhatia added that “it’s clear they’re kicking off the year thinking about putting every penny they can towards the things that matter to them”.

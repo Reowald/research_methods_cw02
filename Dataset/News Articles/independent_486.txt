@@ -1,0 +1,147 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Chiang Mai, lovingly known as Thailand’s “second city”, is a place where contemporary culture meets ancient tradition; a low-rise, wide spanning metropolis full of medieval architecture, hip live music venues and a deeply Buddhist population. Founded in 1296, the city sits between mountains, jungle, river and rice fields, so is in close proximity to nature on all sides – with views of the mountains framing most west facing streets. The medieval moat and walls mark out the perfectly squared old city, known for its exceptional food, beautiful temples and lovely inhabitants.
+
+It’s a vibrant university town, plus a hub for yoga practitioners and remote workers, so the nightlife is vibrant and diverse; you’re just as likely find yourself at an EDM festival as at a Tibetan sound bath.
+
+What to do
+
+Temple hop
+
+Chiang Mai is famous for its terracotta brick temples – there are over 200 of them in the city, bringing in domestic and international visitors alike. (Thais from across the country come here to make merit, Buddhist energy gathered by doing good deeds.) The oldest is Wat Chiang Man, in the heart of the old city – its elephant-lined stupa has sat in situ for over 700 years. Almost as old and just as enthralling are Wat Umong, whose labyrinthine passageways were designed for walking meditation, and Wat Jed Yot, which stands out for its unusual, Indian-style design.
+
+Read more on Asia travel:
+
+Other favourites are Wat Pha Lat, set in the forest halfway up Doi Suthep mountain; and Wat Suan Dok, home to the graves of the Lanna kings who ruled the region for centuries before it was incorporated into Siam (later renamed as Thailand). If you want the stories behind the stupas, take a tour with North, the extremely knowledgeable local guide at North’s Chiangmai.
+
+The forests and hills around the city hide temples such as Wat Pha Lat (iStock)
+
+Graze on street food
+
+This is a culinary paradise, with some of the best street eats in the country on offer. Vendors sell bowls of spicy noodle soup or skewered meats on just about every main junction in the old city. To make sense of it all, join Noot and her team at Chiang Mai Foodie Tours; they lead a fantastic four-hour loop for £32 and donate the profits to a local children’s charity. Or level up your own gourmet skills with a cooking class at family-run Asia Scenic Thai Cooking School (£28 for a full day) or longstanding Thai Farm Cooking School (£28 for a half day or £35 for a full day). Both companies give lessons on their lush organic farms and will pick you up from your accommodation at no extra charge.
+
+Get an expert massage
+
+Chiang Mai is an epicentre of northern Thai healing principles, with some of the most unusual yet effective traditional methods in its spas and salons. Specific to the region is tok sen, a massage that utilises a wooden block and hammer to realign your muscles: try it at the Thai Traditional and Complementary Medicine Center. Another local method is pao ya or “fire massage”, where your therapist gently sets fire to a pool of herbs on your stomach to relieve any digestive issues. Local medical practitioners can administer this at Anantara Chiang Mai Resort’s Spa. Or try a soak in a Lanna-style herbal steam room; the nicest private booth is bookable at the charming Heart N Soul spa.
+
+Communal spaces at Eleven Pillar Site, Chiang Mai (Eleven Pillar Site)
+
+Where to stay
+
+Bargain beds
+
+Chiang Mai is home to one of the biggest clusters of hostels in Thailand, many of which are enjoyably bijou and civilised. The likes of The Common Hostel, August Hostel and Sylvis Hostel will see to it that you have a social yet culturally rich time.
+
+Best of the small guesthouses in the old city is Eleven Pillar Site, which is a steal price-wise and a win for design lovers. Manager owner Jom has gone for Scandi minimalist textures while keeping a very strong Chiang Mai vibe, using local interior designers Pommballstudio and furniture makers Crop Mark to platform some of the sleekest style in town throughout his hotel. Alongside the four boutique rooms, he runs a cafe on site that serves Certified Naturally Grown- grown and roasted coffee to accompany a menu of home-cooked Thai meals, as well as a small store selling unique gifts.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Also in the heart of the old city is ultra swish boutique stay, The Inside House – a sumptuous architectural homage to the Lanna-era gingerbread houses of the late 1800s. Built around a tall, elegant bodhi tree, finely carved woodwork dons every corner of the hotel from the leafy poolside pavilion to the elegant lobby and restaurant. This isn’t the only jawdropping feature though; 14 of the heavenly, individually designed rooms have their own private pool and freestanding bathtubs en suite. You’ll be loath to leave for breakfast and high tea, so have it delivered to your door.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+If you’re celebrating or treating yourself, head to the gloriously located Onsen at Moncham. It’s a completely serene, Japanese-style luxury hotel that sits amid the rice terraces in gorgeous Mon Jam, a quaint mountainside region in greater Chiang Mai that’s just 40 minutes out of the city centre. The peaceful resort has three different onsen baths to enjoy – one private, one public and one for tired feet – plus most rooms come with an ensuite onsen of their very own, which the staff will make for you. The in-house dining experience is an incredible seven-course affair that mirrors the attention to detail throughout every corner of the place.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Where to eat
+
+Northern Thai food is a whole new genre to discover (Tourism Authority of Thailand)
+
+Classy yet full of homey character, it’s the decor and the service that put the home in B Samcook Home 16, with collections of plants, paintings and antiques filling the atrium-like space. Chef Boy circulates the tables to explain his seasonal seven-course tasting menu, which is also available for vegetarians and vegans, delivered by his attentive staff who make sure diners are happy and full. The careful service even extends to driving you home if you’ve enjoyed their wine pairing with your dinner. Book well in advance.
+
+Michelin-listed and a firm favourite with both locals and visitors, Ginger Farm Kitchen is one of three branches of Ginger Farm, who grow their own organic produce just southeast of the city. This outpost in swanky shopping quarter One Nimman serves elegantly presented and super fresh plates of Thai staples like red and green curries and Som Tum papaya salad that burst with flavour. Pre-booking is advised, particularly in peak season (Nov-Feb).
+
+Another foodie staple in nightlife hub Nimman is a Michelin-listed spot that specialises in the dish of the north: Kao Soy Nimman, who make – you guessed it – Khao soy. Young, hip staff serve an extensive khao soy menu that sees exceptionally tasty varieties of the flat noodle soup sold here, made to spice level perfection (not horrific, but with a good kick.) Service is fast and cheap once seated but expect a queue.
+
+Chiang Mai has a burgeoning plant-based scene and one of the first who led the way is long-standing favourite Vegan Heaven. Owner Nan offers a lengthy menu of western and Thai dishes, which includes an unmissable Massaman curry, known to be the best vegan version of the local dish available in the city. It’s wise to book a table at peak times.
+
+North Gate Jazz Co-Op is a local institution (Facebook/North Gate Jazz Co-Op)
+
+Where to drink
+
+Chiang Mai’s coffee scene is booming, with world-class roasters launching and flourishing in the past 10 years. Leading chain Baristo is one to prioritise; both Baristo by the River and Baristo Asian Style are set in fantastic buildings in idyllic surrounds (it’s £2 entry fee for the latter due to the swathes of instagrammers who’d come in for shoots without ordering – but you can use it as credit towards your bill). Their menu of hot, iced or cold brewed coffee is extensive and baked treats like their salted caramel cheesecake go perfectly with caffeinated fare.
+
+Trendy neighbourhood Nimman is packed with award-winning coffee shops like ​​Ristr8to Original, who lead the way with artistry and presentation, and Roast8ry Lab, who take an almost scientific approach to brewing the perfect coffee. There are also swathes of bars that stay open until the small hours; Rise Rooftop Bar stands out, with its lush mountain views and swish little swimming pool to enjoy with a cocktail in hand.
+
+Music lovers are in for a real treat in the city: there’s quality live music every night of the week in Chiang Mai. Veterans of the scene, North Gate Jazz Co-op, host raucous open mics twice a week, as well as booking an eclectic range of jazz acts. Popular with the local cool kids, MaHoRee city of music specialises in traditional Lanna Thai sounds – you’ll often run into a band with a Ranat ek player, a rare style of xylophone. Or for something funkier, check the line-up at Thapae East, the spot for blues and soul.
+
+Tha Phae Gate, part of the ancient city walls (Tourism Authority of Thailand)
+
+Where to shop
+
+The mother of all Chiang Mai shopping experiences is visiting a night market. The city has a few, but none so grand as the Sunday Night Market, aka Tha Pae Walking Street. It’s a weekly jamboree of colours and flavours that reaches from Wat Phra Singh on the western helm of the old city all the way to Thapae Gate on the eastern side. Stalls are packed in and visitors shuffle along the one-way system (keep left, like the road traffic) much like all of Thailand’s infamous night markets, only here you’ll find a Lanna aesthetic which is very pro crafts, such as block printing, wax seals, watercolour postcards, quintessentially Northern Thai textiles and hill tribe handicrafts with very chunky stitching. There’s also a cascade of local foods to try here; keep your eyes peeled for Ba Bin, the coconut-flavoured mini pancakes.
+
+Additionally, the city is home to posh-yet-affordable boutiques, like the Weave Artisans Society where the annex upstairs sells designer homewares and elegant clothes that are more upmarket than those on the walking street, using big block prints and locally made fabrics. If you miss the markets, shop for gifts in Kaew Gallery, which, as well as selling pieces of art of all sizes, also has a fantastic range of artisanal jewellery, homewares and ornaments in stock.
+
+There’s more bamboo than you can shake a stick at in Wyenumpueng Changmoi Furniture. The store exclusively sells rattan bags, hats, furniture and homewares, run by an endearing old couple who will source your dream rattan item if they don’t have it in stock. Round the corner Siamaya Chocolate sells exciting flavoured bars, made from locally grown cacao; the Khao Soy or Masala Chai flavours are a must to take home.
+
+Architectural highlight
+
+The Treasury Museum Chiang Mai is design bliss. A lovely bit of Tropical Modernist architecture, the building was completed in 1967 as the residence of a Northern Thai (now Myanmarese) prince, and converted to a museum in the 1990s. The pastel pink exterior, with grandiose slabs of coloured marble, will draw you in but it’s the wood-panelled interiors, flooded with natural light from the huge windows, that really impress.
+
+Nuts and bolts
+
+What currency do I need?
+
+Thai baht.
+
+What language do they speak?
+
+Thai.
+
+Should I tip?
+
+10 per cent.
+
+What’s the time difference?
+
+GMT+7.
+
+How should I get around?
+
+The city’s red Songthaew vans charge approximately £1 (40 THB) per journey. Motorbike taxis are the fastest option; use apps Grab or Bolt to hail them. Or rent a bicycle or a moped if you are a licensed, confident driver.
+
+What’s the best view?
+
+The view back down over Chiang Mai from the hillside temple Wat Pha Lat really shows just how wide and vast the city is.
+
+Insider tip?
+
+The best Thai massages are available in the temples. They’re not luxurious or private, but join the locals in the big massage halls and get ironed out, cheaply.
+
+Getting there
+
+British Airways, Thai Airways and EVA Air all have direct flights to the Thai capital, Bangkok, from where you can fly domestically or lower your carbon footprint by taking a train (10–14 hours) on to Chiang Mai.

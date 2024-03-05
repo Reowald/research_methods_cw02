@@ -1,0 +1,297 @@
+Anything goes in Brighton – it’s an excellent choice for a seaside break, come rain or come shine. And with its burgeoning restaurant scene luring Londoners to move south, a stay here has become even more appealing.
+
+Of course, no trip to Brighton would be complete without visiting the pier, getting lost in the legendary Lanes – lined with independent shops, restaurants, bars and art galleries – or enjoying panoramic views from the top of the 450ft-high i360 observation tower. Add to this the vibrant night life and LGBT+ scene, and it becomes clear a visit to this seaside spot has much more to offer than your typical bucket-and-spade break.
+
+But where to bed down after exploring everything Brighton has to offer? Want sparkly sea views? Tick. Hip pub with rooms attached? No problem. Quiet glamour or burlesque kitsch? We’ve got them covered. In fact, the choices are as colourful as the city itself, with some (almost) rivalling the lavish interiors of Brighton’s Royal Pavilion, when it comes to bold and eclectic decor. Wherever you choose to stay, you’re bound to have a blast in this trendy city on the south coast.
+
+The best hotels in Brighton are:
+
+Best for decadent glamour: Blanch House
+
+Neighbourhood: Kemp Town
+
+You’ll find grown-up glamour at Blanch House (Blanch House)
+
+This is the sort of bolthole you dream of for a romantic getaway: small, perfectly formed, no kids allowed, and a swish champagne bar on the ground floor. Plus, as Brighton’s first-ever boutique hotel, and with years of experience, Blanch House really delivers the glamour.
+
+All of the 12 updated and themed bedrooms across this attractive Georgian townhouse are the stuff of fantasy, featuring oodles of richly coloured velvets, mirrored wallpaper, and a flash of the Jazz Age in furniture and fittings, alongside sumptuous beds and gilded mirrors. If we really had to choose, though, we’d recommend the vibrant Pommery Room or the opulent Art Deco-styled Legacia Room. Vintage glamour at its finest.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Blanch House here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best cool-looking B&B: Hotel Nineteen
+
+Neighbourhood: Kemp Town
+
+Cool and calm, with pops of drama (Nineteen Hotel)
+
+Tucked away up a narrow Kemp Town side street, this skinny, salt-flecked Victorian townhouse may appear to be your typical seaside B&B. However, once inside, it’s a scene of cool, white calm, with refurbished rooms mixing original cornicing and bold artwork with minimalist décor. Expect spotless bedrooms, scrummy breakfasts, and pops of drama from Brighton-themed murals, alongside crisp, white linen and heavenly beds.
+
+There are only six bedrooms, but all are decently sized and equipped with Bluetooth docking/charging stations, retro fridges, snacks, plus tea- and coffee-making facilities. Nineteen will soon be launching its very own baking school too.
+
+Price: Doubles from £90
+
+Book now
+
+Best for brilliant breakfasts: The White House
+
+Neighbourhood: Kemp Town
+
+This impeccably decorated guest house comes with a friendly vibe (The White House)
+
+Set in a stunning, whitewashed Victorian villa just 100m from Kemp Town’s seafront, this friendly guest house benefits from a sunny, plant-decked patio alongside three bedrooms, each with a private balcony.
+
+Family-run, The White House is impeccably decorated with Orla Kiely touches, and its modern breakfast room carries a snazzy seaside vibe, with Brighton-themed artwork, lime-green banquettes and a candy-striped feature wall.
+
+Settle in for chef Shaun’s top-notch full English (taken outside, if the sun is shining), smoked salmon and scrambled eggs or creamy wild mushrooms on toasted brioche – all created from locally sourced ingredients, natch.
+
+Price: Doubles from £99
+
+Book now
+
+Best for flea-market snoopers: Snooze
+
+Neighbourhood: Kemp Town
+
+Snooze’s full-on retro breakfast room (Snooze)
+
+Expect loads of vintage eye candy in this funky guest house. Outside, it’s all period Victorian charm but, inside, you’ll be treated to a riot of reclaimed fairground rides, LP covers, shag-pile carpets, classic gig posters and flying ducks. You name the era, and they’ve probably sourced the go-to accessory – all huge fun, if retro is your bag.
+
+Snooze offers eight individually styled bedrooms, including two attic suites, all with BeeKind eco-friendly products, tea trays and Snooze-branded sticks of Brighton rock. Meanwhile, the breakfasts – from classic full English to scrummy vegan options – are the epitome of belt-busting deliciousness.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Snooze here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews in Brighton
+
+Best for celebrations: Drakes Hotel
+
+Neighbourhood: Kemp Town
+
+One of Kylie’s fave Brighton hangouts – need we say more? (Drakes)
+
+Stylish, seriously sexy and a firm favourite with Kylie Minogue and Cate Blanchett, Drakes is a gem of a boutique hotel, and its basement restaurant serves top-notch modern British cuisine. Even better, 13 of the 20 bedrooms enjoy pier and sea views, and some have roll-top baths in front of floor-to-ceiling windows.
+
+The look of this double-fronted Georgian hotel is 1930s swish, with elm-wood detailing, rippled cornices, sizeable wet rooms and handcrafted beds. Order up a bottle of bubbly or a love hamper of adult toys, run a bath and relax.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for indie shopping: My Brighton
+
+Neighbourhood: North Laine
+
+One of the original rooms at My Brighton (My Brighton)
+
+On the fringes of the boho North Laine district, this 79-room hotel is ideally placed if you’re into creative eateries, indie shops and gnarly flea markets. My Brighton may look a tad bland from the outside, but step inside and there’s a playful Teletubbies-chic look going on – think porthole windows, citrus colours, curvy walls and pod-shaped bathrooms. It makes for a fun stay and most bedrooms have huge picture windows, with the best views to the rear.
+
+Kick off the evening at the Merkaba cocktail bar downstairs, then slip next door to the award-winning Chilli Pickle for one of the best curries in town.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for quirky art lovers: Artist Residence
+
+Neighbourhood: Centre, Regency Square
+
+Vintage fans will love the pre-loved and found furniture that decorates Artist Residence (Artist Residence)
+
+At the top end of Regency Square and facing the i360 observation tower and skeletal West Pier, Artist Residence is an impressively stylish, 25-room boutique hotel. Junk shop finds – old tea chests, copper slipper baths, wrought iron beds and vintage lamps – mix with striking graffiti or murals hand painted by the owners’ favourite contemporary artists.
+
+Downstairs is The Set, a locally acclaimed restaurant that majors in clever cooking at affordable prices. This is a hotel for style-conscious media types, although their “below deck” bunk rooms provide perfect crash pads for small groups out on the razz.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Artist Residence Brighton here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews in Cornwall
+
+Best for seaside glamour: The Grand
+
+Neighbourhood: Seafront
+
+For old-school glamour, head to The Grand (The Grand)
+
+A recent refurbishment sees this Victorian Italianate beauty looking as glam and glossy as when it opened way back in 1864. The Grand is certainly the grande dame of Brighton’s hotels – perfectly located overlooking the sea, a pebble’s throw from the pier and just minutes from the antiques shops of The Lanes.
+
+New bedrooms (the best, of course, face the sea) carry a cool rethink on Art Deco, with soft Farrow & Ball colours. The bar is buzzier than ever and serves bang-on cocktails with free nibbles and live jazz.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for extroverts: Hotel Pelirocco
+
+Neighbourhood: Regency Square
+
+The Dolly Would room at Hotel Pelirocco pays homage to the queen of country (Hotel Pelirocco)
+
+Sassy and saucy, this 19-room boutique hotel takes kitsch up a notch: hot pinks, glitter sofas, mirrored ceilings – you name it, they’ve bought into it. Each of the rooms is different – and by different, we mean seriously bonkers. A fan of Star Wars? Check into Lord Vader’s Quarters, complete with light sabers and Darth Vader costume. Fancy 1950s kitsch? Ask for Bette’s Boudoir – all whirlpool bath and leopard-print excess.
+
+The breakfast room doubles as a DJ/live gig and cocktail space, while downstairs there’s karaoke. And, yes, the ‘Peli’ will happily serve you bloody marys in bed the next day.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for clubbers and groups: YHA Brighton
+
+Neighbourhood: Seafront
+
+Party animals or those on a budget will find YHA both economical and centrally located (YHA)
+
+Brighton has its fair share of hostels, but easily the most stylish is this pad, located in a former swish Regency hotel just north of the beachfront. You’re within staggering distance of the city’s best bars and clubs, and with 180 beds across 51 rooms, it’s ideal for groups. That said, there are doubles if you want privacy on a budget – the best of which is the en-suite premium, with a floor-to-ceiling bay window overlooking the pier and coastline. If you’re a light sleeper, avoid the rooms above the coach station.
+
+Downstairs is a reasonably priced café-bar (open until 2am) and self-catering kitchen. A decent self-service cooked breakfast can be scored for £9.95.
+
+Price: Doubles from £29
+
+Book now
+
+Best for boutique B&B: Hotel UNA
+
+Neighbourhood: Centre, Regency Square
+
+The luxury room, Danube, at UNA, which has a balcony with sea views (UNA)
+
+With side views to the sea and i360, this 18-room boutique hotel exudes good looks – think handcrafted furniture, funky pendant lamps and sparkly abstract paintings that enhance rather than mar the regency footprint. It’s a super-discreet pad, much loved by rock stars and politicians, and each room is individually decorated and named after a river.
+
+Quaile, the luxury duplex, has a private cinema with leather recliners. But even better still are the first-floor, south-facing rooms, with oodles of space for sofas and roll-top baths in the bedroom, and access to a sit-out balcony for perfect sunset moments. Oh, and the trendy UNA Bar serves up seriously good cocktails delivered to your door.
+
+Price: Doubles from £160
+
+Book now
+
+Best for hanging with the locals: The Ginger Pig
+
+Neighbourhood: Hove
+
+The cool rooms above the Ginger Pig are the perfect place to unwind after feasting downstair (The Ginger Pig)
+
+This cool gem opened a couple of years ago above the highly popular Ginger Pig restaurant. All 11 of the beautifully rendered bedrooms come with dense Farrow & Ball colour schemes – inky blues and velvety greys – with brighter accents found in orange-trimmed cushions and retro radiators. Add to that prints by Hackney steampunk artist Dan Hillier, well-stocked beach bags, Nespresso machines and pre-mixed mini-bar “Ginger” cocktails, and you’ve a swish place just up from Hove’s sedate seafront.
+
+Locals adore The Pig’s big-flavour cooking – such as hake with mushrooms and chestnut, or the venison pie and celeriac – and Sunday lunch is buzzing.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our hotel reviews in Kent
+
+Best cosy sea-view bolthole: A Room with a View
+
+Neighbourhood: Kemp Town
+
+Come rain or shine, the view’s glorious at A Room with a View (A Room with a View)
+
+Nearly every bedroom in this smart nine-room Kemp Town B&B enjoys some sort of sea view, but arguably the loveliest is at the top of the house: the cosy roof-terrace room has a tiny balcony sheltered enough to watch the waves going wild in winter.
+
+Elsewhere, expect seriously comfortable rooms decked out in soft tartan fabrics, high thread-count linen and space enough for armchairs. We also like the thoughtful extras: binoculars, ironing boards, kettles and a mini fridge you’re encouraged to fill up. Breakfasts focus on locally sourced grub, with delicious hot choices cooked to order.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for wine-lovers and foodies: Hotel du Vin & Bistro
+
+Neighbourhood: Centre
+
+Sea views and double tubs in the Signature Suite at Hotel du Vin & Bistro (Hotel du Vin & Bistro)
+
+Pistachio-toned gothic from the outside and cool, beachy vibe within, Hotel du Vin & Bistro was formerly a wine merchants – an appropriate beginning for this renowned temple to all things grape. Be sure to book a table at its smart Parisian-style bistro before heading upstairs to one of 49 stunning bedrooms.
+
+Comfort is key here: seaside colours, beds dressed in crisp Egyptian cottons, drench showers and squashy sofas. The best, the Signature Suite, has a wet room big enough to accommodate a rugby team and side-by-side roll top tubs with an overhead widescreen TV.
+
+If you don’t feel like a beach stroll, the private terrace features a powerful telescope trained on the waves.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more UK hotel reviews:
+
+Read more on UK travel:

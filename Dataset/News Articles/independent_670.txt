@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Red Bull future engine supplier Ford Motor Co. said Friday it is awaiting the results of an investigation into alleged inappropriate behavior by team principal Christian Horner, but a top executive stressed that Ford holds its company and partners to very high moral standards.
+
+Ford is slated to become Red Bull's engine supplier in 2026 and is the first of Red Bull's existing partners to comment on the controversy surrounding Horner. The team leader has remained defiant in his denial of claims of misconduct made to parent company Red Bull, which two weeks ago announced it had launched an independent investigation into the claims.
+
+Mark Rushbrook, global head of Ford Performance Motorsport, said Friday at Daytona International Speedway that Ford is awaiting the outcome of the investigation into Horner.
+
+“As a family company, and a company that holds itself to very high standards of behavior and integrity, we do expect the same from our partners,” Rushbrook said. "It appears to us, and what we've been told, was that Red Bull is taking the situation very seriously. And of course, they're worried about their brand, as well.
+
+“And that's why they've got an independent investigation and until we see what truth comes out of that, it's too early for us to comment on it all.”
+
+Horner one day earlier insisted it was “business as normal” as he took center stage at the launch of the team’s car for the upcoming Formula 1 season.
+
+“Obviously, there’s a process that’s ongoing at the moment. Some allegations have been made which I fully deny and I comply, obviously, with that process and will continue to do so,” Horner said. “I think it’s been very clear and the position of Red Bull has been that it’s business as normal. Obviously there’s a job to do and I deny fully the accusations that have been made. My role obviously continues."
+
+What Horner has been accused of doing by a Red Bull employee has not been made clear. The investigation was launched by parent company Red Bull Energy out of Austria and initially seemed to involve Horner's “aggressive management style.”
+
+But in the two weeks since, the F1 industry has been rife with gossip, speculation and, as of Friday, news reports indicating Horner's supposed transgressions involve allegations of sexual misconduct. And, with much of the unsubstantiated claims being made to Dutch media outlets, there's loud chatter that both three-time reigning world champion Max Verstappen and his father, Jos, are behind the leaks.
+
+Max Verstappen, who races under the Dutch flag, at the launch on Thursday said his relationship with Horner remains “very good” ahead of the new season.
+
+“We’ve seen each other quite a few times. We’ve achieved a lot of things together so that doesn’t change suddenly,” he said. “My contact with Christian has been the same as on the first day. It’s been like normal.”
+
+The 50-year-old Horner has been Red Bull’s team principal since it entered F1 as a full constructor in 2005. He has guided the team to six constructors’ championships and seven drivers’ championships during his time at the top. Verstappen has won the drivers’ title in each of the last three seasons. The team won all but one of the 22 races last year.
+
+Horner is married since 2015 to Geri Halliwell, better known as Ginger Spice of the female pop group The Spice Girls.
+
+___
+
+AP auto racing: https://apnews.com/hub/auto-racing

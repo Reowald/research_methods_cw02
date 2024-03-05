@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Popular AI girlfriends and boyfriends harvest “creepy” information and fail to meet basic privacy standards, according to new research.
+
+Of the 11 AI chatbots reviewed by researchers at the Mozilla Foundation – including Replika and Eva AI – none met the organisation’s safety requirements. This put them “on par with the worst categories of products” that the organisation had ever reviewed for privacy.
+
+AI chatbots offering users a romantic relationship have seen huge growth over the last year, with more than 3 billion search results for ‘AI girlfriend’ on Google. Their popularity follows the release of advanced generative artificial intelligence models like ChatGPT that are capable of coming up with human-like responses.
+
+Mozilla noted a couple of “red flags” when it came to popular chatbots, such as not encrypting personal information to meet minimum security standards.
+
+“To be perfectly blunt, AI girlfriends are not your friends,” said Misha Rykov, a researcher at Mozilla’s Privacy Not Included project.
+
+“Although they are marketed as something that will enhance your mental health and well-being, they specialise in delivering dependency, loneliness, and toxicity, all while prying as much data as possible from you.”
+
+The research was detailed in a blog post on Wednesday, published to coincide with Valentine’s Day, which warned that romantic AI chatbots violate users’ privacy “in disturbing new ways”.
+
+The report on Eva AI Chat Bot & Soulmate, which costs around $17 per month, noted that it had a good privacy policy, yet was still “pushy” for personal information.
+
+“Eva AI chatbot feels pretty creepy with how it really pushes users to share tonnes of personal information, even if their privacy policy seems to be one of the better ones we reviewed,” a blog post on the Mozilla Foundation’s website stated.
+
+“And just because their privacy policy says they aren’t sharing or selling that information far and wide now, doesn’t mean that privacy policy couldn’t change in the future.”
+
+The Independent has reached out to Eva AI and Replika for comment.
+
+The researchers advised users of AI chatbots to not share any sensitive information with them, and to request data be deleted once they no longer use the app.
+
+People are also advised to not give AI chatbot apps consent to constant geolocation tracking, nor give them access to a device’s photos, video or camera.

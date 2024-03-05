@@ -1,0 +1,53 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The City regulator is reviewing whether people could be owed compensation for being charged too much for car loans, following a high number of complaints.
+
+The Financial Conduct Authority will look at historical discretionary commission arrangements in the motor finance market. It said that, if it finds widespread misconduct, it will make sure those affected receive settlements in an orderly, consistent and efficient way.
+
+The ombudsman service meanwhile said it has heard from more than 10,000 people who fear they were charged too much for their finance and “many more are waiting in the wings”.
+
+The Financial Ombudsman Service (FOS) has resolved complaints where it found that the way the commission arrangement between the lender and the car dealer worked was unfair on the consumer – and it is thought this could trigger more complaints.
+
+In 2021, the FCA banned discretionary commission arrangements, after its research into the motor finance sector indicated they had led to higher finance costs for consumers.
+
+But the regulator said there have been a high number of complaints from customers to motor finance firms, claiming compensation for commission arrangements before the ban.
+
+There is significant dispute between some firms and consumers on whether firms have breached legal and regulatory requirements, it said.
+
+The FCA is using powers under the Financial Services and Markets Act 2000, to review historical motor finance commission arrangements and sales across several firms.
+
+It has paused an eight-week deadline for motor finance firms to provide a final response to relevant customer complaints.
+
+The pause, which started on Thursday, applies to complaints about motor finance agreements where there was a discretionary commission arrangement between the lender and the broker and will last for 37 weeks – or around nine months.
+
+It will apply to complaints received by firms on or after November 17 2023 and on or before September 25 2024.
+
+Consumers may also have up to 15 months to refer their complaint to the FOS, rather than the usual six months, depending on when the firm’s final response was sent out.
+
+Companies are rejecting most complaints because they consider they have not acted unfairly nor caused their customers loss based on the applicable legal and regulatory requirements, the FCA said.
+
+As well as complaints to the FOS, claims have also been brought in the county courts, some of which have been upheld.
+
+The FCA plans to set out next steps in the third quarter of 2024.
+
+Sheldon Mills, executive director of consumers and competition at the FCA, said: “We are taking a closer look at historical discretionary commission arrangements in the motor finance market following a high number of complaints from customers, which are being rejected by firms.
+
+“If we find widespread misconduct, we will act to make sure people are compensated in an orderly, consistent and efficient way.”
+
+Abby Thomas, chief executive and chief ombudsman at the FOS, said: “When people take out a car loan it’s imperative they are treated fairly and the financial implications are totally transparent.
+
+We’ve heard from more than 10,000 people who fear they were charged too much for their finance, and we know many more are waiting in the wings Abby Thomas, Financial Ombudsman Service
+
+“Unfortunately, that is not always the case. We’ve heard from more than 10,000 people who fear they were charged too much for their finance, and we know many more are waiting in the wings.
+
+“We’ve resolved two complaints where we found that the way the commission arrangement between the lender and the car dealer worked was unfair on the consumer. Our decisions could signal the way forward for many more similar complaints that have not been resolved between firms and consumers.
+
+“That’s why I welcome the Financial Conduct Authority’s decision to assess this issue further. In the meantime, we’re totally committed to continuing to investigate cases with our service.
+
+“If people are concerned about their car loans and are unhappy with how firms have responded, they can come directly to our free, independent service and we will investigate their complaint.”
+
+Stephen Haddrill, director general of the Finance & Leasing Association said: “We welcome today’s announcement as the pause will ultimately provide certainty for firms and customers after a period where speculative and unfounded complaints issued by claims management companies have congested what should be a smooth, prompt and clear process.
+
+“We will work with the FCA over the coming months to resolve this issue.”

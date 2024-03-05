@@ -1,0 +1,75 @@
+A portable device was able to detect breast cancer with just a drop of saliva
+
+A portable spit test costing just $5 (£3.97) could detect breast cancer using a single drop of saliva, a study suggests.
+
+Researchers in Florida and Taiwan developed a palm-sized handheld device that detects cancer biomarkers like genes and proteins in saliva in just five seconds.
+
+The sensor uses common components such as glucose tests, which diabetics use to measure blood sugar, and cheap open-source hardware.
+
+The researchers said that the device could be a low-cost alternative to invasive procedures like mammograms and ultrasounds for detecting breast cancer, which is rising in the US and UK.
+
+Hsiao-Hsuan Wan, study author and a doctoral candidate at the University of Florida, said: 'Imagine medical staff conducting breast cancer screening in communities or hospitals.'
+
+Researchers in Florida and Taiwan developed a handheld device that can detect breast cancer markers in five seconds using just a drop of saliva
+
+The device uses glucose test strips and an open-source hardware called Arduino. When a drop of saliva hits the test strip, which are treated with antibodies, it sends electrical signals throughout the device. These are then translated into an electronic reading that shows how much breast cancer is detected
+
+'Our device is an excellent choice because it is portable — about the size of your hand — and reusable.'
+
+'The testing time is under five seconds per sample, which makes it highly efficient.'
+
+In experiments, the researchers dipped paper glucose test strips in antibody solutions meant to interact with the proteins HER2 and CA 15-3, which cause breast cancer cells to develop and grow quickly.
+
+According to the American Cancer Society, one in five breast cancer patients is HER2 positive, including actress Angelina Jolie.
+
+Additionally, experts estimate that up to 80 percent of breast cancer patients produce have elevated CA 15-3 levels.
+
+The team then obtained 17 human saliva samples from breast cancer patients and four from healthy volunteers.
+
+Samples were divided into three groups: people without cancer, people with cancer that had not spread, and those with breast cancer that had spread beyond its primary site.
+
+This graph shows the levels of HER2 detected in healthy patients, as well as those with early and late-stage breast cancer
+
+Additionally, this graph shows the levels of CA 15-3 detected in healthy patients, as well as those with early and late-stage breast cancer
+
+In the tests, one drop of saliva was placed on the test strip. Electrical pulses were then sent to contact points on the device, which was built with the open-source hardware Arduino.
+
+The pulses then bound to the antibodies and altered the charge of the electrode, which was translated into a digital signal of cancer biomarkers on the device.
+
+The experts said that the tests were able to differentiate between which patients had breast cancer and which did not. And the results came in after about five seconds.
+
+'The simplicity of operation and the potential for widespread public use in the future position this approach as a transformative tool in the early detection of breast cancer,' the researchers wrote.
+
+'This research not only provides a crucial advancement in diagnostic methodologies but also holds the promise of revolutionizing public health practices.'
+
+Dr Wan said: 'In many places, especially in developing countries, advanced technologies like MRI for breast cancer testing may not be readily available.'
+
+'Our technology is more cost-effective, with the test strip costing just a few cents and the reusable circuit board priced at $5.'
+
+'Ultimately, we’ve created a technique that has the potential to help people all around the world.'
+
+However, the method could take several years to be available to patients, as it has to seek approval from regulatory bodies like the Food and Drug Administration (FDA) and the Medicines and Health Products Regulatory Agency (MHRA).
+
+Additionally, in the UK, it will then have to be approved by the National Institute for Health and Care Excellence (NICE), which will determine if it's cost-effective and can be covered by the NHS.
+
+Breast cancer is the most common form of cancer in both the US, UK, and the world.
+
+Death rates have plummeted after successful public health awareness campaigns, better screening and new drugs.
+
+However, cases of advanced forms of the disease have risen in recent years, which has been blamed on a lack of testing during the pandemic.
+
+The National Cancer Institute (NCI) estimates there will be more than 300,000 new cases this year in the US, along with 43,700 deaths.
+
+According to Cancer Research UK, there are around 56,000 cases of breast cancer each year, which is about 150 per day. This includes 11,500 deaths.
+
+'The prevalence of breast cancer in women underscores the urgent need for innovative and efficient detection methods,' the researchers wrote.
+
+According to the Mayo Clinic, signs of breast cancer include a lump that feels different from surrounding tissue, a change in the shape or appearance of the breast, inverted nipple, peeling or flaking of pigmented skin around the nipple, and redness or pitting around the skin of the breast.
+
+Breast cancer is usually detected with an x-ray called a mammogram.
+
+This involves placing the breasts between metal plates to flatten them and get images from above and from the sides.
+
+Currently, all women ages 50 to 74 in the US are advised to get a mammogram every two years. In the UK, women ages 50 to 71 are encouraged to have a mammogram every three years.
+
+The study was published Tuesday in the Journal of Vacuum Science & Technology B.

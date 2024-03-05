@@ -1,0 +1,37 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Tiger Woods is said to be feeling “much, much better” after the 48-year-old was forced to withdraw from the Genesis Invitational in California due to suffering flu-like symptoms.
+
+The 15-time major champion, tournament host this week, returned to the PGA Tour on Thursday, finishing his opening round at the Riviera Country Club on one-over par.
+
+But the American could not back that up a day later as he withdrew after six holes due to illness.
+
+(Getty Images)
+
+Rob McNamara, executive vice president of TGR Ventures, told PGATour.com Woods had started feeling flu-like symptoms on Thursday night.
+
+“He had a little bit of a fever and was better during the warm-up, but then when he got out there and was walking and playing, he started feeling dizzy,” McNamara said.
+
+“Ultimately the doctors are saying he’s got some – potentially some type of flu and that he was dehydrated. He’s been treated with an IV bag and he’s doing much, much better and he’ll be released on his own here soon.”
+
+Tiger Woods left Riviera Country Club after suffering flu-like symptoms (AP)
+
+Woods is still adapting to ankle fusion surgery, having undergone treatment in April last year after withdrawing from the Masters during the third round and he did not compete again until the Hero World Challenge in December.
+
+He had suffered from a back spasm towards the end of his first round, shanking his second shot on the 18th from the fairway over into the trees on the right, eventually sinking a two-putt bogey to make a five.
+
+Woods started in fine form on Friday, producing a birdie on the first, but back-to-back bogeys arrived from the fourth and he called it a day after a third par on the sixth left him one over for his round.
+
+He was driven back to the locker room by a rules official.
+
+Tiger Woods was driven off the course after withdrawing from the tournament (AP)
+
+Following Friday’s play, it was also announced that Jordan Spieth was disqualified for signing for an incorrect scorecard.
+
+In a statement on Twitter/X, the PGA Tour said: “Jordan Spieth has been disqualified from The Genesis Invitational for signing for an incorrect scorecard.
+
+“Spieth signed for a 3 and made a 4 on No. 4.”
+
+American Patrick Cantlay takes a five-shot lead into the weekend at 13-under, while Rory McIlroy fought hard to make the cut after following up Thursday’s 74 with a flawless 66.

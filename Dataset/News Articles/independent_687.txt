@@ -1,0 +1,41 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Fernando Alonso believes he is an “attractive” candidate to replace Lewis Hamilton at Mercedes – but has denied holding talks with the Silver Arrows.
+
+Hamilton, 39, is entering his final season with the team which carried him to six of his seven world championships after agreeing a shock move to Ferrari in 2025.
+
+Hamilton’s departure from Mercedes will create a vacancy alongside George Russell, while Max Verstappen’s Red Bull team are also due to have a seat available with Sergio Perez’s contract expiring at the end of the season.
+
+Alonso’s two-season deal with Aston Martin is up for renewal in 2025. It is understood the British team are keen to retain the double world champion’s services.
+
+“I am aware of my situation which is very unique,” said Alonso, who won back-to-back world championships with Renault in 2004 and 2005.
+
+“There are only three world champions on the grid and I am the only one available for 2025, so I am in a good position.
+
+“On a move to Mercedes, there has been nothing at all. I know the driver market has started earlier this year, but this will not affect me in terms of preparing for the season.
+
+“If I want to keep racing beyond this year, the first and only talk at the beginning will be Aston Martin. I trust this project and that will be my first priority.
+
+“But if we cannot reach an agreement I know that I am attractive to other teams. I will not stay in Formula One just to have fun. I am not that kind of person and not that kind of driver. Let’s see what the options are.”
+
+Commenting on Hamilton’s move to Ferrari, Alonso, who drove for the Italian team between 2010 and 2014 but fell short of winning the title, added: “It was a surprise, I will not lie, not because the change itself but from the outside it seemed like he was very linked to Mercedes and very loyal to Mercedes.
+
+“Ferrari is a special team but it is more special when you win. Maybe Lewis can bring that extra fight for the championship because the car is there.”
+
+Alonso finished fourth in last year’s drivers’ championship as his Aston Martin transformed from also-rans to frontrunners.
+
+Alonso scored six podiums in the opening eight rounds and might have ended his 10-year wait for victory had his team’s strategy been more on point at the rain-hit Monaco Grand Prix.
+
+The Silverstone-based team’s form fell away in the second half of the year but Alonso continued to out-perform his machinery, taking further podiums in the Netherlands and Brazil.
+
+He ended the year 132 points and six places ahead of team-mate Lance Stroll – son of the team’s fashion billionaire owner Lawrence Stroll – and was voted third, behind Max Verstappen and Hamilton, by his fellow drivers and finished runner-up to Verstappen in a poll of the grid’s team bosses.
+
+Alonso, 43, in July will this season become the first driver to take part in 400 grands prix and the evergreen Spaniard raised the prospect of competing deep into his forties.
+
+He added: “A few years ago I would say 41 or 42 is the limit, but after last year I saw I was motivated, performing well, and I was thinking I could race a few more years.
+
+“Now, this winter, I have exceeded expectations in terms of the physical tests, so if I am motivated and ready to commit, I can race until 48, 49 or maybe even 50.”
+
+Pre-season testing starts in Bahrain a week on Wednesday ahead of the first race, also in the Gulf Kingdom, on March 2.

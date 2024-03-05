@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The government has announced a major change to the taxation for double cab pick-up trucks that will see them classed as cars from July.
+
+Double-cab pick-ups have grown significantly in popularity in recent years as their dual-purpose attributes have meant they’re suitable for being a working vehicle as well as for personal use. Many have also chosen them for the tax breaks they offer, as any double cab that had a payload of more than a tonne was considered a van, and therefore attracted far cheaper company car tax.
+
+However, HM Revenue and Customs (HMRC) quietly announced yesterday (February 12) in a note that this will change from July 1, 2024, saying that it will ‘no longer interpret the legislation that defines car and van for tax purposes in line with the definitions used for VAT purposes’.
+
+Double cab pick-up trucks will be classed as cars from July (Ford)
+
+HMRC says it will now assess the classification of each vehicle of this type on an individual level, but says that from July 2024 ‘most if not all double cab pick-ups will be classified as cars when calculating the benefit change’. HMRC says this is because these vehicles are ‘equally suited’ to both transporting goods and also passengers.
+
+Company vehicle tax is based on benefit in kind (BIK), which on cars is a percentage based on their CO2 emissions that takes into account a vehicle’s list price. It favours electric and hybrid cars, which emit lower CO2.
+
+However, currently, pick-up trucks are charged at a flat rate which is £3,960 for the 2023/2024 tax year. For a 20 per cent taxpayer, van BIK is £792 per year, or £66 a month. For 40 per cent taxpayers, it’s £1,584 per year, or £132 a month.
+
+But under these changes, pick-ups will become significantly more expensive for company car tax, because it will now be calculated based on their typically-high CO2 emissions. A Ford Ranger – the UK’s most popular pick-up, and the fourth best-selling ‘van’ in the UK last year – has CO2 emissions of more than 200g/km, putting it in the highest BIK tax bracket of 37 per cent.
+
+According to Professional Pickup, from July 2024 a driver using a Ford Ranger Wildtrak 2.0 as a company car will face a tax bill of £290 a month, or £580 a month for a higher rate taxpayer. It means a driver could end up spending £5,376 more on company car tax per year under these new rules, making a double cab pick-up uneconomical to run, and likely to cause demand for these vehicles to fall.
+
+Any new double cab pick-ups ordered or leased until June 30, 2024, will still qualify for the current lower tax rates, even if they aren’t registered by July. Single-cab pick-ups are unaffected by these changes.

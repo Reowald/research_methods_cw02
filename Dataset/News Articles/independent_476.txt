@@ -1,0 +1,31 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Up to 200,000 passengers on Lufthansa will have their flights cancelled by a short-notice strike involving ground staff at the German airline.
+
+A short-notice walk-out by 25,000 members of the Verdi union aimed at disrupting passenger flights will run from 4am on Tuesday 20 February until 7.10am on Wednesday 21 February.
+
+The main effects will be felt at the key hubs, Frankfurt and Munich, though Lufthansa workers at Berlin, Cologne-Bonn, Düsseldorf, Hamburg and Stuttgart will also strike.
+
+Lufthansa warns passengers: “Due to the strike, we currently assume that only around 10 to 20 per cent of the Lufthansa airline flight programme can be operated, particularly on 20 February.”
+
+The German airline currently carries around 200,000 passengers a day. Besides the impact on Tuesday’s flights, the “first wave” of departures on Wednesday is being targeted – leading to many more cancellations.
+
+Research by The Independent suggests that the vast majority of flights to and from Frankfurt and Munich, including all links serving UK airports, are grounded on Tuesday.
+
+The first flight from Frankfurt to London on Wednesday is also cancelled.
+
+Lufthansa says: “Passengers who are affected by flight cancellations because of the Verdi strike will be informed by email or via the Lufthansa app. We regret the inconvenience for our guests.”
+
+Under European air passengers’ rights rules, travellers are entitled to be rebooked on any available flight as soon as possible – and provided with meals and accommodation as necessary, at Lufthansa’s expense.
+
+Talks between the union and airline broke down last week, with Verdi claiming 96 per cent of members had rejected the most recent offer from Lufthansa.
+
+The union says pay for ground staff is slipping behind other Lufthansa workers, and that at a time of record profits the airline should “give employees back part of their lost income from the corona pandemic”. It warns: “Major flight cancellations and delays are expected to occur.”
+
+Verdi negotiator Marvin Reschinsky said: “While the group gives its pilots with annual basic incomes of up to €270,000 [£231,000] high double-digit pay increases, ground workers with starting hourly wages of sometimes €13 [£11] are not even expected to be compensated for the price increases of the last few years.
+
+“This is blatantly anti-social.”
+
+Talks are due to resume on Wednesday, after the strike.

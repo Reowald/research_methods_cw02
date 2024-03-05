@@ -1,0 +1,169 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+If you set sail from England’s southern shore to the quietly cool Isle of Wight for a staycation, you’ll find a destination that values the simple pleasures: food, fresh air and good old-fashioned fun. The Hampshire isle, once the home of dinosaurs and now a haven for the illusive red squirrel, marches to a gentler beat than the mainland, with over half of its countryside now recognised as an Area of Outstanding Natural Beauty.
+
+Beyond pocket-sized villages like Godshill that epitomise “chocolate-box”, a population of almost 142,000 call The Needles’ famed land of military forts and royal residences home. Classic beach days full of salt and sand meet the reinvented style of seafront restaurants and luxe hotels on the island that’s going from musty to modern.
+
+Here’s what you need to know if you’re planning an Isle of Wight holiday.
+
+Best time to travel for price, weather and crowds
+
+While weather-dependent ferry crossings may not make it the easiest locale to access on a drab winter day, the Isle of Wight is rich with seasonal delights from March to November.
+
+Notable as the southern shore that basks in some of the UK’s sunniest days, springs are green and autumns orange before big-name headline acts descend to serenade the island and kickstart the al fresco activities at the Isle of Wight Festival in June.
+
+With August comes Cowes Week, the sailing regatta that draws a nautical-loving crowd of over 100,000 in the height of the summer holidays. Accommodation prices, slow traffic and a dearth of car parking spots tend to peak – it’s always best to book ferries in advance for the lowest price.
+
+The Cowes Week sailing regatta draws a nautical-loving crowd (Getty)
+
+Read more on England travel:
+
+Where to stay
+
+With parapets and battlements from Henry VIII’s lifetime, Ryde Castle’s grand four-poster beds and ambient dark wood accents are an affordable option situated among a hotchpotch of traditional shop fronts, decorative stucco and Georgian townhouses.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Warm and welcoming, The Seaview Hotel, in the upmarket coastal village of Seaview, has comfortable, naval-themed rooms, a dining room strewn with warships and a swish restaurant, The Aquitania, for inventive meals created from local produce by head chef Mark Wyatt.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Seaview Hotel And Restaurant here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The Royal is one of the island’s oldest hotels (The Royal Hotel/Booking.com)
+
+One of the island’s oldest, The Royal Hotel is perched on the cliffside of Victorian resort Ventnor and has sprawling sea views, contemporary modern rooms and a choice of tiered afternoon teas and seafood risottos in The Royal Kitchen.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Royal Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+For glamping at its best, Tom’s Eco Lodges at Tapnell Farm promotes hassle-free luxury in its safari tents, wood cabins, modulogs, eco pods and geo domes – plus wood-fired hot tubs, pizza ovens and sunset views.
+
+Eco pods for two adults from £138 per night.
+
+Book now
+
+What to do
+
+Visit Osborne House
+
+Osborne House, the former residence of Queen Victoria, gives an intimate insight into the royal’s life (Getty)
+
+Queen Victoria’s seaside retreat in East Cowes, the grand Osborne House, fuses Victorian opulence with Italianate gardens for a visually and culturally enriching afternoon spent glimpsing royal life – with pinkies raised while sipping tea in the terraced cafe.
+
+Travel on the Steam Railway
+
+It’s all aboard the Isle of Wight Steam Railway for a charming journey back in time as you puff through the countryside, rolling from Havenstreet to Smallbrook Junction and on to Wootton in ornate Victorian and Edwardian carriages, with or without the kids.
+
+Dine at The Garlic Farm
+
+Garlic chutney, garlic olives and garlic vodka strongly season Arreton Valley’s Garlic Farm with its pungent namesake and tractor-trailer tours, with a side of garlicky taste tests in the restaurant. Well worth the necessary breath mint post-visit.
+
+Surf at Compton Bay
+
+A reliable surf swells on Compton Bay – particularly during the wetsuit-wearing winter months (Getty/iStockphoto)
+
+Surf’s up at Compton Bay on the Isle of Wight’s west coast, an exposed beach with reliable breaks that peak in the winter. The popular spot gets winds from the southeast and northwest, and surf schools including Eddie’s Surf Academy are on-hand to teach beginners how to stand up on the board.
+
+Try the UK’s oldest rides
+
+At Ventnor’s Blackgang Chine, the UK’s oldest family theme park, you can ride, scream and dance your way through 180 years of thrills and games, with summer firework extravaganzas and Halloween spookfests a family-friendly highlight of the island calendar.
+
+Walk with an alpaca
+
+It’ll be hard not to fall for the residents of West Wight Alpacas on a trek of the farm’s 23 acres of countryside with a woolly Suri alpaca as a companion. Whether walking with Larry, Oreo or even Amadeus, you’ll learn all about the South American animals on a scenic stroll with your unique new pal.
+
+Cruise the Needles
+
+Take a high-speed rib from Alum Bay for a whistle-stop tour on the water (Getty/iStockphoto)
+
+A trip to Alum Bay not only offers an action-packed high-speed ride with The Needles Pleasure Cruises – for a whistle-stop tour of the water’s iconic chalk stacks – but also a steep trip down the colourful cliffs on the famed chairlift, giving you the chance to see the three landmarks up close for yourself.
+
+Where to eat
+
+If you’re getting off the ferry in Yarmouth, an Off the Rails brunch featuring the fish finger sandwich to end all sandwiches in the town’s old railway station sets the tone for a foodie island affair. Just down the road, pick-me-up coffees in Chessell Pottery Cafe’s homemade ceramics are sure to warm the cockles on a rainy day.
+
+Putting on a seasonal showstopper, The Crab Shed’s famed crab and mackerel pasties are well worth the downhill climb to Steephill Cove for a seafood lunch, or if its pan-Asian dishes that make your mouth water, the Smoking Lobster on Ventnor’s nearby esplanade (along with boozy sister bar, the Drunken Lobster) never misses a chance for a flavour explosion.
+
+The Duck in Ryde serves an elevated taste of seasonal British plates, including slow-cooked beef stews and roast pork – complete with crackling, of course – taking local classics to contemporary new levels.
+
+As Totland braces for the glam new arrival of The Pier in 2024, The Hut in Colwell Bay still reigns as the seafood spot in West Wight for stylish surf ‘n’ turfs and unrivalled sunset views.
+
+Vegetarians are looked after on the island with PEACH Vegan Kitchen & Zero Waste Store in Newport stacking meat-free “Tricken” burgers high with vegan “cheeze” and slaws.
+
+What’s a trip to the British seaside without a fish and chips feast? The Blue Crab’s beer-battered cod and generous chip portions are ideal for a beachfront picnic in Yarmouth. For a pizza fix, Gusto2Go’s sourdoughs bring a wood-fired pizzazz to Freshwater Bay in summer.
+
+Where to drink
+
+Holding the title of the UK’s oldest commercial vineyard, Adgestone Vineyard’s tantalising wine tastings swirl through full-bodied reds, crisp glasses of blush and a sparkling blue for just £20pp, including a self-guided tour of the cellars and vines, and live music performances.
+
+Wood beams, a crackling fire and a hearty roast dinner menu – the traditional pub essentials – make The Red Lion in Freshwater an ideal watering hole for a post-ale trail pint or a warming glass of rouge.
+
+Fancy an al fresco cocktail? The George in Yarmouth has a waterfront beach bar to rival the Mediterranean (on balmy summer nights, at least), complemented by a masterful menu of classic drinks.
+
+You’ll find it hard to miss the local Mermaid Gin on your Isle of Wight holiday, and The Mermaid Bar Distillery in Ryde is the spot to sample a fine G&T or a Mermaid Margarita while learning all about the distillery process.
+
+Where to walk and cycle
+
+Not one but two annual walking festivals take place on the island, in October and May, to encourage outdoors enthusiasts to tread the more than 500 miles of footpaths that the Isle of Wight has to offer.
+
+It’s a 14-mile walk from Carisbrooke to Alum Bay on the Tennyson Trail (Getty/iStockphoto)
+
+Keen walkers can get their steps in on the Tennyson Trail, an invigorating 14-mile hike from Carisbrooke to Alum Bay – best planned with a well-deserved refuel at Dimbola Tea Rooms – or embrace nature on the gentle 3.6-mile Newtown Estuary Walk, bound to feature sightings of visiting birds and rare butterflies. For a more relaxed island rendezvous, a scenic stroll around Shanklin Chine’s historic gorge comes alive at night as the narrow paths, streams and waterfalls are illuminated at dusk from April to November.
+
+The Red Squirrel cycle trail weaves through 32 miles of largely traffic-free countryside if you’re looking for a family-friendly pedal. Alternatively, cyclists ready to give it a lot of leg can take to the winding Military Road on two wheels for a 65-mile round lap of the island in either direction.
+
+Where to shop
+
+High Street hits, eco-conscious outlets and indie boutiques – specialists in all things nautical – dot Newport, Cowes, and Ryde, but it’s the tucked-away traders that will lighten your wallet.
+
+Newport town centre is considered to be the “capital” of the island (Getty)
+
+Quirky home furnishings and one-of-a-kind gifts litter Oasis in Brading, and if you’re still on the hunt for a keepsake, you’ll find a trail of artisan shops covering everything from glass sculptures to bespoke leather belts and ceramic ghosts at Arreton Barns, the island’s largest craft centre.
+
+Peruse the fine jewellery collection of the Isle of Wight Pearl on Military Road for timeless and statement pieces with a side of sprawling views of the southwest coast or venture east to Cowes Arcade for a bric-a-brac fusion of chutney, socks and mystical memorabilia.
+
+Getting there
+
+Wightlink operates two routes to the Isle of Wight (Getty)
+
+City dwellers after a country escape can take a South Western Railway train to reach Southampton or Lymington Pier from London Waterloo in less than two hours before setting sail across the Solent.
+
+With Wightlink, that’s a 45-minute journey from Lymington to Yarmouth or Portsmouth to Fishbourne from £44.50 per vehicle and a £27.20 return ticket for adult foot passengers. Red Funnel ferries sail from Southampton to East Cowes in under an hour from £28.00 each way or 30 minutes for foot passengers travelling on a Red Jet from £12.30. Portsmouth’s passenger hovercraft arrives in Ryde in just 10 minutes; £31.50 for an adult return ticket.
+
+How to get around
+
+A car provides the most flexibility for reaching remote beaches and the inland Area of Outstanding Natural Beauty, with Red Funnel’s heritage driving trail a great way to see all of the island’s historic sites.
+
+Thankfully, ferry foot passengers need not worry. Southern Vectis buses connect the main towns of Newport, Cowes, Ryde and Yarmouth, even offering Breezer open-top bus tours to top attractions and a Christmas Lights journey around the island’s best festive displays.
+
+Read more on the best Isle of Wight hotels

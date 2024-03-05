@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A vast, unexplained object has been spotted in our galaxy.
+
+The object is probably the most massive neutron star ever observed, or the least massive black hole found, researchers believe. Either way, it would break records and challenge our understanding of the universe.
+
+When a neutron star gets too massive, usually by joining with another stars, they will collapse. Scientists don’t know exactly what happens after that, but they are thought to turn into black holes.
+
+Astronomers believe that neutron stars need to be 2.2 times the mass of the Sun. The black holes that come after are much larger, at about five times more massive than the Sun.
+
+The gap in between is known as the “black hole mass gap”. Scientists do not know exactly what objects might fill that gap.
+
+The newly discovered object appears to sit at the low end of the gap, at roughly 2.1-2.7 solar masses. Astronomers therefore struggle to know what it is – but hope that whatever it is could prove useful for understanding that mysterious gap.
+
+“Either possibility for the nature of the companion is exciting,” said Ben Stappers, professor of astrophysics at The University of Manchester. “A pulsar–black hole system will be an important target for testing theories of gravity and a heavy neutron star will provide new insights in nuclear physics at very high densities.”
+
+The object was found in orbit around a rapidly spinning pulsar, some 40,000 light years away, among a dense set of stars. Astronomers were able to use the rhythmic spinning to understand the object.
+
+They found it using the MeerKAT Radio Telescope, in South Africa. It was noticed during study of NGC 1851, a cluster of old stars that are so tightly packed together that they interact and sometimes collide.
+
+They spotted pulses from one of the stars, and found that it was a radio pulsar, which spins and shines beams of radio light through the universe as it does. That ticking can be used to precisely measure how fast it is spinning, which in turn can be used to understand where it is.
+
+That let them realise that the object orbiting with the pulsar was not just a regular star, but the extremely dense leftovers of a collapsed one. They were able to measure its mass and found that it was in that mysterious gap.
+
+“We’re not done with this system yet,” sad Arunima Dutta, from the Max Planck Institute for Radio Astronomy.
+
+“Uncovering the true nature of the companion will a turning point in our understanding of neutron stars, black holes, and whatever else might be lurking in the black hole mass gap.”
+
+The findings are reported in a new article, ‘A pulsar in a binary with a compact object in the mass gap between neutron stars and black holes’, published in the journal Science.

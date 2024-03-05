@@ -1,0 +1,51 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa’s Mars helicopter Ingenuity will never fly again, the space agency gas said.
+
+The pioneering robot vehicle was the first ever to achieve powered and controlled flight on another world.
+
+It had only been intended for a 30-day mission, intended as a demonstration of the technology, which it conducted by travelling to Mars along with the Perseverance rover. But that month became almost three years and dozens of flights, before Nasa said that it would never take off again.
+
+Nasa lost contact with Ingenuity recently but managed to get in touch with it once again. However, it sent back imagery that showed it had become damaged.
+
+Those pictures, sent on 18 January after its 72nd flight, showed that it would be its final mission. The pictures show that a part of one of its rotor blades had broken and that it would no longer be able to fly again.
+
+“It is bittersweet that I must announce that Ingenuity, the ‘little helicopter that could’ - and it kept saying, ‘I think I can, I think I can’ - well, it has now taken its last flight on Mars,” NASA Administrator Bill Nelson said in a video posted on social media.
+
+What was planned as a 30-day technology demonstration of no more than five short flights ended up stretching well beyond the expectations of engineers who designed and built the helicopter at NASA’s Jet Propulsion Laboratory (JPL) near Los Angeles.
+
+Ingenuity ultimately buzzed over the Martian terrain 14 times farther than originally planned, logging more than two hours, eight minutes of flight time and covering a distance of 10.5 miles (17 km) through all 72 flights. Its peak altitude was measured at 78.7 feet (24 meters).
+
+The rotor-craft was carried to the Red Planet strapped to the belly of NASA’s Perseverance rover, which landed three years ago on the floor of a vast Martian basin called Jerezo Crater on a separate mission aimed primarily at collecting surface samples for eventual return to Earth.
+
+When the 4-pound (1.8-kg) rotor craft performed its modest, debut takeoff and landing in the thin Martian atmosphere on April 19, 2021 - a flight of 39 seconds - it was hailed as an seminal feat of interplanetary aviation.
+
+NASA likened Ingenuity‘s achievement at Jezero Crater to the historic first controlled flight of the Wright brothers’ motor-driven airplane near Kitty Hawk, North Carolina, in December 1903.
+
+Over time, JPL continued to send the helicopter on progressively more ambitious flights, pushing its capabilities.
+
+The end came after JPL teams began flying Ingenuity into a particularly barren, featureless area of Mars, testing the limits of an auto-navigational system that depends on visible landmarks for aviation guidance, according to Teddy Tzanetos, JPL’s Ingenuity project manager.
+
+The US space agency said Ingenuity made an “emergency landing” during what became its penultimate flight on 6 January, apparently setting itself down more abruptly than planned due to navigational disorientation.
+
+When JPL controllers sought to perform a short, vertical flight 12 days later to determine Ingenuity‘s location, data shows it rose off the ground, hovered briefly, then began a descent before losing contact with the rover, which serves as its communications relay with Earth.
+
+Images the helicopter sent days later captured the shadow of its damaged rotor blade, apparently broken during its final touchdown, Tzanetos told reporters.
+
+Engineers believe guidance difficulties posed by the “bland” terrain where Ingenuity was flying resulted in a loss of equilibrium that caused the vehicle to suddenly tilt or move sideways, which in turn led to the rotors striking the surface, Tzanetos said.
+
+Ingenuity, resembling a box with four legs and parasol of rotor blades and solar panel, will live out its final days idle but emitting periodic blips of data before losing contact with the rover as Perseverance moves farther away.
+
+Still, Nasa officials celebrated Ingenuity‘s exploits as paving the way for a new mode of aerial exploration on Mars and elsewhere in the solar system, such as Saturn’s moon Titan, for which a rotor-craft called Dragonfly is under development.
+
+Building a helicopter to fly on Mars posed major engineering hurdles.
+
+While Mars possesses much less gravity to overcome than Earth, its atmosphere is only 1% as dense, making it especially hard to gain aerodynamic lift. Thus, Ingenuity was fitted with rotor blades that are larger and spin far more rapidly than would be needed on Earth for a similar craft of its size.
+
+The small, lightweight vehicle also had to withstand punishing cold, with nighttime temperatures dipping as low as 130 degrees below zero Fahrenheit (minus 90 Celsius).
+
+Engineers will run final tests on Ingenuity and download remaining images from its onboard computer, Nasa said.
+
+Additional reporting by agencies

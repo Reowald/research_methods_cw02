@@ -1,0 +1,35 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Researchers have discovered that male characters in role-playing games have 50 per cent more dialogue than female characters.
+
+Role-playing games (RPGs) are those that allow the gamer to play as one or more characters, often in a fantasy or dystopian world. The characters tend to be on a quest with the need to undertake missions to progress to further levels.
+
+Researchers from the Universities of Glasgow and Cardiff analysed the dialogue of 50 RPGs released between 1986 and 2020, including popular titles Final Fantasy, Skyrim and Mass Effect.
+
+The study examined 6.2 million spoken words from 13,000 characters.
+
+The results, published in the Royal Society Open Science journal on Wednesday (24 May), suggest 94 per cent of the games studied had more male dialogue than female dialogue. This includes titles with multiple female protagonists, such as Final Fantasy X-2 and King’s Quest VII.
+
+Dr Stephanie Rennick, research associate in philosophy at the University of Glasgow, said: “While we expected to find a larger proportion of male dialogue overall, we were surprised to discover how few games – just three of 50 – had more than 50 per cent female dialogue.
+
+“I was also surprised that the lack of female characters compared to their male counterparts persisted at every level, from main player characters through to background NPCs (non-player characters).”
+
+Final Fantasy VII Remake (2020) (Square Enix)
+
+For the study, the researchers obtained the transcripts of dialogue used in the games and identified which character said what.
+
+The researchers found only 35 per cent of words were spoken by female characters, and they were more likely to apologise, hesitate or be polite, compared with their male counterparts.
+
+Another discovery of the study showed examples of gendered behaviour from accompanying characters. In the game Stardew Valley, researchers found that characters responded differently depending on the player character’s gender.
+
+For example, they said, female players are offered salad and wine, repeatedly described as “beautiful”, and are assumed to have little experience with video games. In contrast, male players are offered pasta and ale, described as “full of energy”, and are assumed to be good video game players.
+
+As a result of this study, Cardiff University lecturer Dr Sean Roberts expressed his hope that developers would use these findings to make useful changes in the future.
+
+“Around half of gamers are female, but they experience a lot of abuse and exclusion,” he explained.
+
+“More diverse representation is being called for by players and developers. So we hope that developers will consider addressing the imbalances we found in order to create more inclusive games.”
+
+Additional reporting by PA

@@ -1,0 +1,21 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Aston Martin will reveal their 2024 F1 car on Monday 12 February at their new state-of-the-art base in Silverstone.
+
+Aston, who impressed in the early stages of last season before slipping down to finish fifth in the constructors’ championship, are the fourth team to reveal their car launch date.
+
+Two-time world champion Fernando Alonso is set to be present as will team-mate Lance Stroll, son of team owner Lawrence Stroll, for the launch of the AMR24 challenger.
+
+Aston will unveil their car one day before Ferrari’s launch day, and a week after Williams’ and Sauber’s (now called Stake F1 Team).
+
+Alonso, who joined Aston from Alpine ahead of last season, recorded an impressive six podiums in the first eight races in 2023 and went close to a first victory in 10 years at Monaco last May.
+
+Although the likes of Mercedes, Ferrari and McLaren caught up with the team donned in royal green, Alonso still finished fourth in the drivers’ standings behind only Max Verstappen, Sergio Perez and Lewis Hamilton.
+
+Alonso recorded eight podiums over the course of the 22-race season and will be striving for that 33rd race win this year, in what will be his 21st season in Formula 1.
+
+It was a trickier 2023 campaign for Stroll, who failed to finish on the podium and recorded a best-finish of fourth at the Australian Grand Prix as he finished 10th overall.
+
+The 2023 season starts with the Bahrain Grand Prix on Saturday 2 March. Alonso earned a memorable third-place finish at the season-opener last year.

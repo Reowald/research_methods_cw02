@@ -1,0 +1,45 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The first vertical rocket launches from the UK will begin next year after a site in the Shetland Islands received approval from regulators.
+
+The Civil Aviation Authority (CAA) granted SaxaVord Spaceport on the island of Unst a licence for up to 30 launches a year, making it the first vertical-launch spaceport in Western Europe able to deliver payloads to orbit.
+
+The regulator verified that the privately-owned spaceport met the safety and environmental requirements for vertical space launches.
+
+Owned by husband and wife Frank and Debbie Strang, the former RAF base will cater for companies looking to launch satellites into polar, sun-synchronous orbits.
+
+So far, just under £30 million has been spent on developing the spaceport, which includes three launch pads and a hangar for assembling rockets.
+
+German companies Rocket Factory Augsburg and HyImpulse hope to carry out launches from SaxaVord in 2024.
+
+“Granting SaxaVord their licence is an era-defining moment for the UK space sector,” said Tim Johnson, director of space regulation at the CAA.
+
+“This marks the beginning of a new chapter for UK space as rockets may soon launch satellites into orbit from Scotland. We are undertaking vital work to make sure the UK’s space activities are safe and sustainable for all.”
+
+SaxaVord is on the northern tip of Unst (SaxaVord/PA) (PA Media)
+
+Mr Strang said the award of the licence is “historic”, adding: “Our team is very proud that the Government has entrusted us with operating a complex, multi-disciplinary and multi-launch spaceport, and we all take this responsibility very seriously.
+
+“There is much to do still but this is a fantastic way to end the year and head into Christmas.”
+
+He and his wife took over the former RAF base in 2004. They also have plans for a hotel and visitor centre at SaxaVord.
+
+Both the UK and Scottish governments welcomed the news of the licence.
+
+UK Transport Secretary Mark Harper said: “The United Kingdom’s space industry is growing, with SaxaVord set for lift-off to become this country’s first vertical spaceport.
+
+“Today’s historic announcement will boost Shetland’s economy and put the United Kingdom at the forefront of spaceflight innovation.”
+
+The Scottish Government’s innovation minister Richard Lochhead said: “This milestone heralds a new era for space in Scotland.
+
+“As the UK’s first licensed vertical spaceport, SaxaVord and Scotland can soon be a gateway to space, deploying cutting-edge small satellites into orbit for international and domestic customers alike.”
+
+SaxaVord’s licence allows it to host vertical launches rather than horizontal launches of rockets carried by aircraft, such as those attempted at Cornwall Spaceport.
+
+The Cornish site was the UK’s first licensed spaceport, however attempts to deliver payloads to orbit using planes have so far failed.
+
+SaxaVord is one of several spaceports under development in Scotland, with the UK Space Agency recently announcing nearly £7m of funding for the sites.
+
+Additional reporting from agencies

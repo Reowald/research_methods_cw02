@@ -1,0 +1,65 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ever since it was first announced at E3 in 2018, Starfield has been one of the most hotly anticipated game releases for the Xbox Series S/X.
+
+Originally expected to come out in 2022, the game got pushed back to 2023 as director Todd Howard said the extra time would allow Starfield to be a better game. Coming from the same studio responsible for Skyrim and the Fallout series, this is Bethesda’s newest property in 25 years and now it is only a few months away.
+
+With release now right around the corner, the title revealed the opening minutes of gameplay in a presentation at Gamescom 2023 in Germany.
+
+The First Minutes of Starfield Gameplay Revealed | gamescom 2023
+
+What is Starfield?
+
+Starfield is the first new property from Bethesda in over two decades but Todd Howard said during the huge Xbox showcase on June 11 that taking the concept of games like Elder Scrolls and Fallout to space had been something the studio has wanted to do for many years; however, the technology simply wasn’t there.
+
+At its core, Starfield is a multiple-choice RPG (role-playing game) set across the backdrop of space, meaning there are literally hundreds of worlds to explore as you set out on an adventure to uncover “humanity’s greatest mystery”.
+
+Starfield: Official Gameplay Trailer
+
+Around the year 2310, the two largest factions in the game, the United Colonies and Freestar Collective, engaged in a bloody conflict known as the “Colony War”. The events of the game take place two decades after this event during an uneasy peace.
+
+Like many Bethesda games, the choices you make along the way will likely change the outcome of numerous events throughout the galaxy, so, no pressure.
+
+When is Starfield released?
+
+(Bethesda)
+
+Starfield is released on 6 September 2023 on Xbox Series X/S and Microsoft Windows PC, sort of.
+
+The game is also being released in ealy access on August 31 - a week before the actual release.
+
+Los Angeles – August 31 – 5 PM
+
+Ciudad de Mexico – August 31 – 6 PM
+
+Chicago – August 31 – 7 PM
+
+New York – August 31 – 8 PM
+
+Sao Paulo – August 31 – 9 PM
+
+London – September 1 – 1 AM
+
+Paris – September 1 – 2 AM
+
+Berlin – September 1 – 2 AM
+
+Saudi Arabia – September 1 – 3 AM
+
+India – September 1 – 5:30 AM
+
+Eastern China – September 1 – 8 AM
+
+Japan – September 1 – 9 AM
+
+Sydney – September 1 – 10 AM
+
+Auckland – September 1 – 12 PM
+
+The game will be locked at 30FPS (frames per second) on both Xbox Series S and X to ensure “consistency” of performance, according to Howard.
+
+The game will be arriving on Xbox Game Pass on day one, so those who are subscribed to that service won’t have to pay a penny. In fact, you can already pre-install it.
+
+Find the latest and greatest gaming deals on IndyBest.

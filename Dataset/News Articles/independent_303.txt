@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Insolvency Service is looking into concerns around the potential mis-selling of IVAs (individual voluntary arrangements).
+
+The service said it wants to understand the experience of some consumers when taking out an IVA.
+
+IVAs are a formal type of personal insolvency, whereby money is shared out between creditors.
+
+Charities have previously raised concerns that some people may be pushed towards debt solutions that are not right for their individual needs.
+
+Specific issues and concerns have been raised which can have negative impacts for those who are most vulnerable Insolvency Service statement on website
+
+The Insolvency Service said on its website: “IVAs support a valid, public policy objective by providing debt relief for individuals in financial distress.
+
+“However, specific issues and concerns have been raised which can have negative impacts for those who are most vulnerable.”
+
+RSM UK Creditor Solutions LLP has been commissioned to undertake research.
+
+This will seek to establish whether there is identifiable poor quality take-on, or “mis-selling”, across the IVA market as well as its prevalence and form, the service said.
+
+The research will be used by the service to consider whether there is a need to make changes to the regulatory framework.
+
+Information about the research placed on the gov.uk website said: “It should be noted there isn’t an agreed definition of what ‘mis-selling’ is; and others dispute that this is a relevant phrase in this context.
+
+“Nevertheless, we are using the proxy term ‘mis-selling’ in this context to describe a set of poor quality take-on practices.
+
+Matthew Upton, acting executive director of policy and advocacy at Citizens Advice, said in July 2023: “People seeking debt help should be able to trust the advice they get.
+
+“Instead, they are being bombarded with adverts promising quick-fix solutions and huge debt write-offs.
+
+“The reality is that these tactics are deceptive and lure people into fee-paying debt solutions like IVAs, which they so often can’t afford.”

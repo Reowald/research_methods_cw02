@@ -1,0 +1,31 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Defending champion Carlos Alcaraz slipped to a surprise straight-sets defeat to Nicolas Jarry in the semi-finals of the Argentina Open.
+
+World number two Alcaraz lost 7-6 (2) 6-3 in a little under two hours in Buenos Aires to the Chilean 28-year-old, who is 19 places lower in the ATP rankings.
+
+Jarry did not face a break point against his serve in the first set, which he clinched in a tie-break, and broke Alcaraz in a decisive eighth game in the second.
+
+(Getty Images)
+
+World number 21 Jarry will face Facundo Diaz Acosta in Sunday’s final after the Argentinian wild card beat fellow countryman Federico Coria 6-2 6-3.
+
+Jarry sealed his first victory against Alcaraz at the third attempt, while the Spaniard’s winless run was extended to nine tournaments since he became Wimbledon champion last summer.
+
+Jannik Sinner is on course to win his second successive tournament after beating Tallon Griekspoor in the ABN AMRO Open semi-finals in Rotterdam.
+
+Sinner, back in action this week for the first time since winning the Australian Open, won 6-2 6-4 against home favourite Griekspoor and will play Alex de Minaur in Sunday’s final.
+
+World number four Sinner, top seed in Rotterdam, came through his quarter-final after opponent Milos Raonic was forced to retire through injury as he trailed 7-6 (4) 1-1.
+
+Australian world number 11 De Minaur booked his place in the final with a 6-4 6-3 win against Bulgaria’s Grigor Dimitrov.
+
+At the Delray Beach Open in Florida, top seed Taylor Fritz stormed home in the semi-final to defeat compatriot Marcos Giron 7-6 (8) 6-2.
+
+He will face fellow American Tommy Paul in Sunday’s final after the third seed eclipsed second seed Frances Tiafoe 6-2 6-2.
+
+Britain’s Julian Cash and American partner Robert Galloway reached the men’s doubles final with a 6-4 7-5 win against Hugo Nys and Jan Zielinski.
+
+In Sunday’s final, Cash could face fellow Briton Neal Skupski and Mexican Santiago Gonzalez, who face Diego Hidalgo and Cristian Rodriguez in their semi-final.

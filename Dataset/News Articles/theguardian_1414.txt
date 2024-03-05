@@ -1,0 +1,47 @@
+Everyone seems to have an opinion on artificial intelligence (AI) these days, especially since the release of the AI chatbot ChatGPT in November last year. Predictions as to where this technology might lead vary dramatically – depending on which expert you believe, AI will either add trillions of dollars to global economic growth or, in the worst-case scenario, cause human extinction.
+
+But anticipating how new technologies will be used and change our lives is far from straightforward. For example, when mobile phones were invented in the 1970s, it was far from obvious that 50 years later we would spend more time using them to send text messages, watch videos and listen to music than make phone calls.
+
+With AI firmly embedded into many facets of our everyday lives – from the apps we use to manage our money to the tools we use in the office – it already shapes our daily experiences, whether we’re conscious of it or not. Dr Paul Sant, head of computer science at The University of Law, is well placed to run through five ways it impacts us and our work – and how this might develop in the future …
+
+Personal finance
+
+Personal finance apps such as Plum (as well as Cleo and Mint in the US) help customers manage their money by giving them sophisticated tools to budget and set savings goals. For example, Plum uses AI to analyse users’ spending habits and automatically suggests a daily allowance. It can also alert them if they could save money on utility bills by changing to a new provider.
+
+Sant says that customers can ask the apps questions about their finances in conversational language, such as: “I need to cut monthly spending by £10. Can you suggest ways I can do this?” These AI-powered personal finance apps are at an early stage but are becoming more popular.
+
+Energy use
+
+If AI is linked to smart energy meters in our homes, it could help us reduce energy consumption, save money and benefit the planet, says Sant.
+
+AI could, for instance, analyse our energy use and suggest ways to reduce it, or guide us to cut our bills by running appliances when energy is cheaper, says Sant, who has carried out research in this field.
+
+View image in fullscreen How – and when – we use energy can be guided by AI. Photograph: agrobacter/Getty Images
+
+In a simulated environment, he and a colleague experimented with linking a microcontroller to sensors that measured the energy use of typical items found in a home or office. The idea is that if it ran in real time, the information and guidance generated could help people to think more about how energy is used, prompting changes in behaviour that could cut household costs and help address the climate crisis.
+
+Companies, too, can use AI to cut their carbon footprint and bring down energy costs. Boston Consulting Group has estimated that applying AI to multinational companies’ sustainability plans could be worth $1.3tn to $2.6tn through additional revenues and cost savings by 2030.
+
+Healthcare
+
+AI is being used to detect and treat diseases. For example, a NHS-developed AI program is helping to reduce the time cancer patients must wait before they start radiotherapy treatment. It does this by rapidly assisting doctors to work out where to direct the therapeutic radiation beams, and minimising the number of healthy cells affected in the process. Artificial intelligence is also being used to predict demand for hospital beds and create personalised medicine, such as tailoring drug combinations that could improve patient outcomes.
+
+AI in healthcare may also help doctors understand how proteins fold (how chains of amino acids fold up into complex structures) and how they cause diseases, Sant says. This may possibly help us prevent diseases, he adds
+
+Customer marketing
+
+AI and “data analytics” technologies are already widely used in business. AI helps businesses gather and analyse vast amounts of customers’ data, and helps businesses work out how to better communicate with customers so as to sell more of their products.
+
+“It analyses customer sales data and identifies trends [in customer spending and behaviour],” says Sant. It can also draft marketing messages to customers and suggest new ways to market products to certain categories of customers. (A pre-AI example of this was supermarkets placing nappies and beer in adjacent shelves to target new fathers, after spotting spending patterns, says Sant.)
+
+Software companies including Google and Microsoft are incorporating more advanced AI in their business software such as Word, Excel, Teams and Google’s search engine. Among the advantages of this AI use are being able to summarise long email threads, clearing your inbox in minutes instead of hours, and noting key discussion points.
+
+View image in fullscreen However AI is used, it is vital that consumers’ personal data is kept secure. Photograph: Oscar Wong/Getty Images
+
+Work
+
+AI is likely to have a major impact on most aspects of our work – especially in automating important but slightly tedious tasks, such as drafting contracts and cross-referencing data in documents. In legal services, AI is being used to automate an increasing amount of contract drafting and administrative work. Used this way, AI could, for example, speed up the house-buying process, Sant says.
+
+Technology as powerful as AI needs to be treated with caution and regulated appropriately, so it’s not misused, says Sant. “There will always be concerns about AI …,” he adds, emphasising that consumers’ personal data must be protected when interacting with AI. The challenge is “how to use AI ethically and safely to reap all the benefits and minimise all the risks”, he says.
+
+Find out more about the new BSc computer science degree at The University of Law

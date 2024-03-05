@@ -1,0 +1,69 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Jay Blahnik wants to help you feel fit and healthy. That’s probably not particularly surprising, given he’s Apple’s vice president of fitness technologies. But what might be a little more unexpected is that he doesn’t much care how you do it.
+
+He doesn’t mind if you work out in classes or on your own: if you want to join people virtually then you can use Apple’s Fitness+, but if not then you can still track your exercise on your Apple Watch. He doesn’t mind if you work out at home or at the gym: that Fitness+ streaming service includes classes intended to be taken in both. He doesn’t even necessarily mind if you find yourself ready to move to working out on a different fitness service. He just wants you to work out.
+
+That spirit of positivity and inclusiveness is probably not a surprise to anyone who’s seen Blahnik at work, including in Apple events, where he has appeared onstage to introduce new fitness technologies. It also won’t be new to anyone who has used Fitness+, the streaming service that Blahnik helped build, and which was built from the beginning to be as welcoming as possible.
+
+(AFP via Getty Images)
+
+“The launch of Fitness+, three-plus years ago, was completely rooted in one simple idea. That North Star was: can we make the the most welcome and inclusive fitness service on the planet? Everything we do is built around that idea,” he tells The Independent.
+
+As well as Fitness+, Blahnik’s team looks after the Activity app on the iPhone and the workout app on the Apple Watch, as well as other fitness technologies built into both of those products. One of the guiding principles of building those is to “build great features that meet people where they’re at, and then also inspire them to build healthy habits”. It’s about “really ensuring that that everything we do is welcome and inspiring”, he says; “in the space of health and fitness, it can be really intimidating for people.
+
+That starts with just pushing people to get a little more active than they are now: the “move” goal in the Apple Watch measures everything, even a brisk walk, and so can encourage people to just move around a little more. A couple of years ago, Apple launched the Watch Ultra, for the total other end of the spectrum: it’s build for “ocean explorers and people that are really looking to push the limits even further”, and came with the biggest redesign of the Workout app since it launched, in part to highlight those limit-pushing exercises.
+
+(Getty Images)
+
+That spectrum might not be quite as clear as it appears. We associate the idea of the beginner with somebody who might be trying to get active, but it is also those who want to take up something else: runners who want to get into yoga, for instance, or hardcore spin fans that want to look after their mental wellbeing through mindfulness, too.
+
+There is a danger, of course, in being too expansive; you run the risk of offering something for everyone but everything for no-one. Fitness+ is now vast – the largest library of ultra-high definition health and fitness content in the world, says Blahnik – which means that you can very easily be spoilt for choice. How does Apple ensure that the service stays cohesive and coherent even when there is such a vast array of options?
+
+“We’ve always said it needs to be really easy to get to where you need to go.” He points for instance at the filtering system, which allows people to quickly reduce the number of options: you can choose a duration, a tempo, an instructor and much more besides to quickly get rid of anything you don’t want. “If you know a little about what you want, the filter makes it really easy to reduce the library.”
+
+“But if you are new, we are constantly working with the editors in the service to make sure that the most interesting things in the moments are surfaced in the right shelves for you,” he says. “Giving you more of what you do; giving you a chance to try something new that counterbalances what you’ve already done.” Apple looks to highlight topical moments that might be particularly interesting: he points to recent walk with Bernice King, Martin Luther King’s daughter, which launched for Black History Month, and Apple is also rolling out some new videos with Joe Wicks.
+
+“We’re constantly adding both the human touch and also the digital touch,” he says. And you’ll continue to see that a big theme for us is really making sure it remains personalised as it grows even bigger, so that it’s really easy to open it up and feel like you’re seeing yourself in the service and that you can find what you need.”
+
+Fitness+ launched in December 2020, at a time when people were both working and working out from home. It looked like perfect timing, but it was more luck than choice: “building something like that takes more than 10 months or so – we’d been working on it for years”, says Blahnik. Apple had already been trying to ensure that Fitness+ wasn’t just for home workouts – that it was useful anywhere and at any time.
+
+“We really wanted to push further than just home fitness. We felt strongly that the service needed to complement what you do at the gym or when you’re on the go. We always had all those things in mind.” A third of the workouts use equipment that most people don’t have in their home, for instance – treadmills, rowing machines, bikes.
+
+(AFP via Getty Images)
+
+That also meant that as the world came out of the pandemic, the service was ready to “complement you where you’re at”, Blahnik says. “If you’re a beginner, you might be too intimidated to go to the gym, for example, so maybe you are doing the whole experience at home. But often you will then graduate and you suddenly are feeling stronger and feeling fitter. And you might actually decide to join the gym – and we want to go with you on that journey.”
+
+What if you want to go a bit further on that journey? What if, say, you’ve started out with Fitness+ but are finding yourself wanting something a little more structured, like the graphs and numbers of more devoted cycling apps? Blahnik is not going to hold you back.
+
+“We obviously continue to push our features in both the watch and Fitness+,” he says. “But if somebody is ready to graduate to something that they find more motivating – we actually are just happy we’ve been able to be there on the journey.”
+
+He points to the wide variety of fitness and mindfulness experiences on offer in the App Store, for instance. And he notes that Apple has just announced that it is working with Joe Wicks to film some new content for Fitness+, but he continues to run his own app and appear on YouTube.
+
+“I think for us, we just really want people to see that there are hardware, software and services that can help them be healthy,” he says. “And we certainly build experiences that we think can really enhance that for people. But we're not really hyper-focused on whether or not they might choose something else – we feel like that's just great, because it raises the tides for everybody.
+
+If people do graduate to other services, then “we all benefit”, he says. “So from that perspective we don’t spend much time on it. Even Fitness+, we’re incredibly welcoming, but we may not be for everybody. There may be somebody that’s really, really excited about another experience they use. So we work really hard to make sure that our hardware is compatible,” he says, pointing to the fact that Apple’s GymKit platform means that Apple Watches can tap onto fitness equipment and swap data.
+
+“Very early on, we were focused on saying: we’re going to build these activity experiences, workout experiences, mindfulness experiences. We didn’t know early on that we were going to do a service. But then when we added that, we’ve always said: let’s just make the Watch feel like a device where you can get credit for everything you do, no matter where it is that you do it.
+
+“We know that we can’t be everything to everybody, but we’ll try really hard to invite as many people in as we can. And if there’s something else you’d prefer, we just want to be there to make sure it enhances it.”
+
+Recently, Apple has focused on mental wellbeing as well as physical. That has included mental health features such as the Journal app and the option to track one’s mood. But it has also meant bringing similar options to Fitness+, including guided meditations in a variety of forms.
+
+But so often people will be using at least some of those mindful moments to take a break from their devices. Is there a danger that we are trying to escape from stress using the very same tools that brought us to it in the first place?
+
+Blahnik points to the features such as Screen Time, which make it easy to track how much you are using a device, as well as offering ways to try and improve habits. Others might not be quite so obvious: the Apple Watch offers an alert every hour if its owner hasn’t stood up, for instance, and that can provide a useful opportunity to just take a mental as well as physical break.
+
+We’re speaking just ahead of the launch of the Vision Pro, Apple’s new headset; a technology so personal that it is literally attached to your face. Is it also a fitness technology?
+
+Blahnik starts by voicing his appreciation for the product: it’s “incredible immersive”, he says, and has “the most advanced technology we’ve ever put in a hardware product”. But his team has also worked specifically on the mindfulness app that is built into the hardware.
+
+That was part of the demos that Apple showed to the press last year. In it, sweeping petals of the kind familiar from the Apple Watch’s Mindfulness app take over the screen, and users can go through a guided meditation led Jessica and Christian, trainers from Fitness+. (When Good Morning America presenter Robin Roberts tried this out last summer, she seemed visible moved: “"I'm someone who meditates, and I found something new in that moment," she said.)
+
+“What I love about it being so immersive – spatial computing at its finest – is that for many people, the challenging part with meditation and mindfulness is just taking a moment to not be distracted. And what you’ll see in the experience is the way it’s been put together, it really gives you something to focus on.”
+
+Is that where the fitness uses of Vision Pro end? It’s easy to imagine working out in virtual spaces, for instance, though that might be a little difficult given the heft of the headset.
+
+“I think what I would say is we are super excited to see what’s next. Because we think that there’s a lot of opportunity for great health and possibly fitness experiences as well. And we’ll always do what we think makes sense for the products we’re designing.”

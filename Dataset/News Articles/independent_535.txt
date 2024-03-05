@@ -1,0 +1,35 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Russian cosmonaut Oleg Kononenko set a new record for the most time spent by a human in space, logging in more than 878 days at the International Space Station.
+
+At about 8:30 am GMT on Sunday, the 59-year-old surpassed the record of 878 days, 11 hours, 29 minutes and 48 seconds that was previously set by fellow Russian Gennady Padalka during his five space missions till 2017.
+
+“I am proud of all my achievements, but I am most proud that the record for the total duration of human stay in space is still held by a Russian cosmonaut,” Mr Kononenko told Russian state news agency Tass.
+
+“I fly into space to do my favourite thing, not to set records. I’ve dreamt of and aspired to become a cosmonaut since I was a child. That interest motivates me to continue flying,” he said.
+
+The Russian cosmonaut is scheduled to spend time at the ISS till late September, which would take his total time spent in space to 1,110 days.
+
+This would make him the first person to clock 1000 days in space on June 5, 2024.
+
+NASA's fallen astronauts honored
+
+Mr Kononenko started his career in space at the Central Design Bureau in Samara as an engineer, according to the European Space Agency.
+
+He began training as part of the group of cosmonauts selected for the ISS programme at the age of 34.
+
+His first mission to the ISS was in 2008, lasting about 200 days during which he performed two spacewalks.
+
+He spent over 12 hours in space to outfit the Station’s exterior, including the installation of a docking target.
+
+The Russian cosmonaut said he could keep in touch with family thanks to video calls and messaging, but added it was on coming back that he realised how much of life he missed out on.
+
+“It is only upon returning home that the realisation comes that for hundreds of days in my absence the children have been growing up without father....No one will return this time to me,” Mr Kononenko told Tass.
+
+His current trip began on 15 September 2023 when he was launched to the ISS along with Nasa astronaut Loral O’Hara and Russian cosmonaut Nikolai Chub.
+
+The ISS is one of the few areas over which Russia is still cooperating with the US after Moscow’s invasion of Ukraine in February 2022.
+
+Last year, Roscosmos hinted it would extend its support for the ISS until at least 2028 after Nasa said it would keep the orbiting laboratory functional till 2030.

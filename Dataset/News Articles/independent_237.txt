@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+When it comes to personal finances, do you always sort out everything yourself, or do you sometimes get a helping hand from professionals?
+
+There can be pros and cons to taking a DIY approach. On the plus-side, you may save yourself some money, but in some cases it may pay off in the longer term to get the help of a professional.
+
+Karen Barrett, CEO and founder of Unbiased, a platform which connects people with independent financial advisers, says that while it’s good to be proactive with your finances: “It’s important to recognise that the DIY approach isn’t always in your best interest, and it can come at great cost.”
+
+She highlights tax returns, for example, adding that some areas where tax relief could be claimed may be overlooked if you handle it all yourself.
+
+“Or perhaps you even get it wrong, which can result in penalties. So it’s not just costing you time, but actual money,” Barrett adds.
+
+For those who want to do it themselves, HM Revenue and Customs (HMRC) has a range of support online, including an app, YouTube videos and help sheets.
+
+“Mortgages are another area where expert advice can be extremely valuable and save you money,” says Barrett.
+
+According to figures from trade association UK Finance, around 1.5 million homeowners are on fixed-rate mortgages due to end this year. Many homeowners will be re-mortgaging onto much higher rates than those they have previously been used to paying.
+
+Again, there may be steps some homeowners could take to improve their position, such as keeping an eye on movements in the Bank of England base rate, and “best buy” mortgage tables online.
+
+Homeowners with savings put by may also want to consider whether it could be worth paying down some of their mortgage debt, which may potentially put them in a lower loan-to-value (LTV) bracket and enable access to lower rates. Individual circumstances will vary, so the decision will need careful weighing up.
+
+Professionals may also help you save time and money when searching for suitable insurance options.
+
+According to the Association of British Insurers (ABI), the average price paid for a combined buildings and contents home insurance policy jumped by 19%, or £59, annually in the fourth quarter of 2023.
+
+The British Insurance Brokers’ Association has a directory of specialist providers on its website to help people in flood-risk areas to find cover. It also has a travel insurance directory for people with medical conditions.
+
+Getting advice about your retirement can also help you to make the right choices for your circumstances. The Government-backed MoneyHelper website has a retirement adviser directory on its website. People aged 50 and over can also get impartial guidance from the free Government-backed Pension Wise service.

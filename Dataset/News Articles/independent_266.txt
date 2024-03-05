@@ -1,0 +1,59 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average UK house price increased by 0.7% month on month in January, amid a “little more positive” outlook for the property market, according to an index.
+
+Property values were down by 0.2% compared with a year earlier, Nationwide Building Society said.
+
+The average UK house price in January was £257,656.
+
+Housing market experts said the report adds to evidence that house price declines are “bottoming out”.
+
+Robert Gardner, Nationwide’s chief economist, said: “There have been some encouraging signs for potential buyers recently with mortgage rates continuing to trend down.
+
+“While a rapid rebound in activity or house prices in 2024 appears unlikely, the outlook is looking a little more positive.
+
+“The most recent Rics (Royal Institution of Chartered Surveyors) survey suggests the decline in new buyer inquiries has halted, while there are tentative signs of a pick-up in the number of properties coming on to the market.
+
+How mortgage rates evolve will be crucial, as affordability pressures were the key factor holding back housing market activity in 2023 Robert Gardner, Nationwide Building Society
+
+“How mortgage rates evolve will be crucial, as affordability pressures were the key factor holding back housing market activity in 2023.
+
+“Indeed, at the end of 2023, a borrower earning the average UK income and buying a typical first-time buyer property with a 20% deposit had a monthly mortgage payment equivalent to 38% of take-home pay – well above the long-run average of 30%.”
+
+He added that, “other things equal, mortgage rates of 3% would be needed to bring this measure of affordability back towards its long-run average”.
+
+Mr Gardner continued: “Raising a deposit also remains a major challenge for those wanting to buy, with a 20% deposit on a typical first-time buyer home equating to (around) 105% of average annual gross income – down from the all-time high of 116% recorded in 2022, but still close to the pre-financial crisis level of 108%.”
+
+Samuel Tombs, chief UK economist at Pantheon Macroeconomics, said: “Nationwide’s data add to evidence that mortgage rates already have fallen far enough to arrest the downturn in house prices.
+
+“Lingering consumer caution, as well as an increase in the supply of homes being put up for sale this year, will likely ensure the house price upturn does not get out of hand.”
+
+Prices are starting to pick up but we are not getting carried away Estate agent Jeremy Leaf
+
+Jeremy Leaf, a north London estate agent, said: “In the last quarter, we were receiving interest in property but many buyers were uncertain as to whether they may be overpaying if prices continued to fall.
+
+“However, lower inflation and mortgage repayments combined with new year optimism has changed the picture, as shown in these figures. Prices are starting to pick up but we are not getting carried away.
+
+“Increased supply and affordability concerns mean the market remains price-sensitive.”
+
+Mark Harris, chief executive of mortgage broker SPF Private Clients, said: “Despite swap rates, which underpin the pricing of fixed-rate mortgages, moving up and down a bit, the general trend is still downwards…
+
+“While falling mortgage rates provide some relief, borrowers must still get used to a higher interest rate environment.”
+
+Tom Bill, head of UK residential research at estate agent Knight Frank, said: “UK house price declines are bottoming out as the economic news improves.
+
+“Mortgage approvals are creeping up and we expect UK house prices to rise by 3% this year. A general election later rather than sooner would allow more momentum to build.”
+
+The housing market has started the year strongly, and increasing buyer demand has pushed average prices up in the first month of the year Nicky Stephenson, Fine & Country
+
+Nicky Stevenson, managing director at estate agent group Fine & Country, said: “The housing market has started the year strongly, and increasing buyer demand has pushed average prices up in the first month of the year.”
+
+Andrew Montlake, managing director at mortgage broker Coreco, said: “The housing market thrives on sentiment, and these latest figures showing market resilience will help to instil confidence in buyers and sellers alike.”
+
+The figures were released as HM Revenue and Customs (HMRC) said an estimated 80,420 home sales took place in December 2023, which was 18% lower than in December 2022 and a 1% decrease compared with November 2023.
+
+Nathan Emerson, chief executive of property professionals’ body Propertymark, said: “A drop in transactions at the end of the year is a usual seasonal trend but coupled with rising costs and in turn, consumer confidence taking a dip, it’s inevitable that this figure will be slightly lower than usual.
+
+“However, we are seeing promising signs in the housing market as serious buyers remain active and with interest rates remaining static, affordability is improving.”

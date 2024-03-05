@@ -1,0 +1,123 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Millions of sitting rooms are glued to the game – and The Traitors’ lavish setting is as key to the show as its round table duels.
+
+As a nation newly faithful to a staycation, the desire to lord over a castle like Claudia has stirred in the UK.
+
+Ardross Castle, the 19th century house and estate where the BBC reality show is filmed, is used as a wedding and conference venue, as well as as a film and TV set, but the rooms are not available to let individually. Fortunately, similar haunts to this Gothic Scottish Highlands castle welcome fans from Fife to Bristol.
+
+Hiring whole castles, tucking-in to turret rooms and slumbering in affordable four-poster beds await – and they won’t require plotting for a slice of the prize pot.
+
+We aren’t lying when we say these paranoia-free pads host nooks built for gossip, acres of grounds for games and breakfast spreads that your whole party can arrive alive to enjoy.
+
+Here are the best stronghold stays from Scotland to Cumbria – where shields are decor, not lifelines – to make your booking mission easier.
+
+Read more on UK travel:
+
+Lumley Castle, Durham
+
+Faithfuls can live out their very own fairytale in Lumley Castle’s former chapel (Getty Images)
+
+Chester-le-Street’s Lumley Castle looms over the River Wear and its opulent four-star suites echo a bygone era. Baroque four poster queens clash with the wallpaper in the Bishop’s Suite, and bed chambers in the castle’s former chapel are fit for a faithful to live out a fairytale.
+
+Look out for murder mystery dinner dates to sleuth the stronghold in your very own whodunnit tied into a decadent three-course meal in the Knights Restaurant and a royal night’s sleep.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Scone Palace, Perthshire
+
+Tuck yourself into Scone Palace’s three-bedroom Balvaird Wing (Scone Palace )
+
+In the heart of Perthshire, Scotland, the traditional Balvaird Wing at Scone Palace greets six guests to sleep and eat in the home of the Earls of Mansfield. Teeming with heritage dating back fifteen hundred years to the Pictish kingdom, this is the place to don your satin cloak and dive into the great secrets of the missing Stone of Scone before tucking into a culinary feast in a grand state dining room that rivals the round table.
+
+Two nights for six people in the Balvaird Wing Apartment from £900.
+
+Glenapp Castle, Ayrshire
+
+Glenapp Castle sits on 36 acres of South Ayrshire woodland (Glenapp Castle)
+
+Hidden in acres of Ayrshire woodland, Glenapp Castle’s 17 period suites promise a cosy castle stay punctuated with crystal chandeliers, bold four-poster beds in rich reds, and sprawling sea views.
+
+Start the day dining on full Scottish breakfasts and make it your mission to depart the oak-panelled halls for a Hebridean Sea Safari hopping the headlands to bring the Traitors flair to your grand Glenapp weekend.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Carron Castle, Fife
+
+Hire Carron Castle for the Traitors experience with up to 28 of your closest faithfuls (Carron Castle )
+
+This ancestral Scottish castle on the bank of the Tay Estuary is studded with oil paintings, grand pianos and baronial bedrooms – and you can hire the whole thing for a Traitors-style retreat with up to 28 of your closest faithfuls. At Carron Castle, there’s an elegant drawing room and library with quiet corners for tittle-tattle, 1,500 acres of private estate to roam and crackling fireplaces that backdrop evening cocktails sipped from a chalice.
+
+Three nights sleeping 28 people at Carron Castle from £10,500.
+
+Thornbury Castle, Bristol
+
+Stately suites ooze opulence at Thornbury Castle (Thornbury Castle)
+
+If it’s Tudor opulence within the stone walls of an English castle that you seek, banish yourself to Bristol for bed chambers in Thornbury Castle. The 1520s hotel offers suites that are nothing short of stately with period detailing winding all the way up the 77 spiral steps to the magnificent Catherine of Aragon tower suite and an unrivalled grandeur that spills into the 3AA rosette dining room.
+
+Notable guests include royalty – namely Henry VIII and Anne Boleyn – so we’re sure the stronghold lodgings will live up to Claudia Winkleman’s standards.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Thornbury Castle - A Relais & Chateaux Hotel here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Dunskey Estate, Stranraer
+
+This Edwardian castle features elegant rooms fit for a queen (Dunskey Estate)
+
+Shrouded in the shrubbery of the Dunskey Estate on Scotland’s west coast, this Edwardian castle invites guests to stay within its magic. Spacious canopy beds exude luxury, claw-footed tubs offer muscle-melting baths and the 25 rooms complete with original features and sea views are naturally fit for a queen. There’s even archery, axe throwing and wild swimming on site for traitors-in-training to fine-tune their most treacherous skills.
+
+Three nights for four people in the two-bedroom Castle Penthouse from £390.
+
+Augill Castle, Kirkby Stephen
+
+For the lived-in castle experience visit the Augill stronghold in Cumbria (Augill Castle )
+
+A night’s sleep in Augill Castle in Cumbria blends antique with contemporary as stained glass windows and mahogany wardrobes meet smart bathrooms and the inventive flavours of The Music Room restaurant.
+
+Forget formal stately home etiquette, this is a castle that champions authenticity, hospitality and lively conversations around the table when it’s time to banish the kids back to their four-poster beds.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our best UK hotel reviews

@@ -1,0 +1,53 @@
+Game development is an expensive and time-consuming business. Right now, 2,000 people are working on the next instalment in Ubisoft’s blockbuster Assassin’s Creed series, across 18 studios around the globe, and it’s a project that will take 2 to 3 years. Imagine how any of those people might feel to learn that last year, a self-taught programmer racked up nearly £280,000 from a series of games he made while sitting in his pants on hot days in a two-bedroom flat in Harlesden. And that each one took him about 30 minutes.
+
+“The first one, I’ll be honest, probably took seven or eight hours,” says TJ Gardner. “But the subsequent ones – Stroke the Beaver, for example – would have taken about half an hour.”
+
+Gardner is the creator of the “Stroke” video games, available to download from the PlayStation Store for £3.29 a pop. Each one features a different animal – cats, dogs and hamsters, along with less cuddly creatures such as snakes and fish – and they all follow the same blueprint.
+
+When you start the game, an image of the animal appears against a plain blue background. In the top left-hand corner of the screen are the words “Strokes 0”. You press X to stroke the animal. The animal flashes briefly. The number in the corner goes up by 1. After 25 strokes, you are rewarded with a bronze trophy. Keep going until you hit 2,000 strokes, and you will receive a platinum award.
+
+View image in fullscreen ‘It’s still a video game’ … Stroke the Beaver. Photograph: TJ Gardner
+
+That’s it. There is no animation; there are no sound effects. Just a picture of an animal under a Creative Commons licence from Wikipedia, and some lo-fi acoustic beats looping endlessly in the background. No running, no jumping, no guns, no baddies, no special moves or power-ups or puzzles. Are the Stroke games even video games at all?
+
+
+
+“It depends how you define ‘game’,” says Gardner. “There is interaction – granted, that interaction is very limited, but it is there, and there is a goal … I’ll happily admit it’s not hard, it’s not complex, but it is still a video game.”
+
+Looking at the figures provided by Gardner, perhaps it doesn’t matter – at least to his bank manager. Since launching in September 2022, the Stroke games have been downloaded more than 120,000 times, amassing over £275,000 in sales. Sony takes a 30% cut for hosting the game in the PlayStation Store, leaving Gardner with a pre-tax profit of more than £190,000.
+
+No one is buying these titles for the addictive gameplay, gripping storyline or whizzy visuals. So what’s the attraction?
+
+It all started in the mid-2000s, when console manufacturers began rewarding players with virtual accolades for completing extra objectives within games. These are called Achievements on Xbox, and Trophies on PlayStation. A new subculture emerged, established by a community of gamers who play for prizes rather than pleasure. They are known as trophy hunters. Some will go to any lengths in the pursuit of glory, perhaps even playing Hannah Montana: The Movie: The Game.
+
+The PlayStation Store became populated with dozens of games aimed at these players: low cost, laughably simplistic titles, offering easy trophies in exchange for a few quid. Gardner, who had a partner and toddler to support, had recently taught himself to code (“mostly from YouTube videos and online tutorials”) and saw an opportunity.
+
+View image in fullscreen Easy trophies … Stroke the Beaver gameplay. Photograph: TJ Gardner
+
+“It was a bit of a struggle, with a young family, going from paycheck to paycheck,” he says. At that time, says Gardner, anyone could apply to sell a game on the PlayStation Store, and submit a design document outlining how it would work. “I had a look through Sony’s back end, and saw it was actually quite easy to get through their quality assurance,” he says. In 2022, his first game, Stroke the Dog, sailed into the Store without any issues. “So then I tried a few more, obviously with slightly different animals.”
+
+Stroke the Hamster is the bestseller, with more than 11,000 downloads. Cats are the second most popular animals for stroking, followed – perhaps surprisingly – by tortoises. But what was the inspiration behind Gardner’s magnum opus, Stroke the Beaver?
+
+“I’ll be honest, at one point it sort of became a joke to me,” he says. “I thought, I’ll see how far I can push it.” Quite far, it seems. Gardner then released Stroke the Dik-Dik. “It’s an animal, yeah?”
+
+Not everyone found the games funny. Internet forums are full of posts condemning trophy hunter titles, the people who make them, and Sony for allowing them into the PlayStation Store at all. Gardner has attempted to address the criticism, admitting the Stroke games are shovelware, and winning some defenders among the critics.
+
+“He found a niche and exploited it,” wrote forum user the1andonly654. “More power to him … Which company doesn’t do that? All the Call of Duties, FIFAs and Assassin’s Creeds are not that much different, in essence.”
+
+skip past newsletter promotion Sign up to Pushing Buttons Free weekly newsletter Keza MacDonald's weekly look at the world of gaming Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+View image in fullscreen Photograph: TJ Gardner
+
+Of course, there’s a vast difference in terms of how much time, money and creative endeavour is invested in those games, and the richness of the experience they offer. But there are similarities in the business models: new instalments are churned out frequently, with a view to exploiting an existing market. There is an emphasis on reskinning the visuals, rather than developing new ideas.
+
+There’s an argument that Gardner’s Stroke games represent a more honest transaction than, say, loot boxes with randomised in-game rewards. At least when you buy a Stroke game, Gardner says, “you know exactly what you’re buying. There’s nothing in there to take advantage of you … Or to suggest you have to buy the other ones. If you don’t want to buy it, you don’t need to buy it.” He hasn’t had many complaints – of the 11,105 people who have bought Stroke the Hamster, only 10 have asked for a refund.
+
+But the critical voices remain, and it appears Sony is listening. In November 2022, the platform holder reportedly began a crackdown on shovelware, threatening in emails sent to developers to delist trophy hunter games and terminate their creators’ publisher accounts.
+
+It’s hard to see evidence of this policy in action on the PlayStation Store, though, which is still full of such titles. Sony didn’t seem to mind when, last December, Gardner released Stroke the Animals – a bumper offering featuring 10 creatures. (“Do you,ike aminales?” [sic], reads the game info. “Great! Well we have a load of them that you can stroke, so start stroking them.”) Perhaps it’s not such a mystery why Sony hasn’t cracked down: thanks to that 30% cut, the company has made more than £80,000 from the Stroke games.
+
+The first thing Gardner did with his share of the profits was to pay off his debts. Then he decided it was time to turn his attention away from shovelware: “I did get to the stage where I thought I’d try something a bit different, because while it’s making money, it’s not the most rewarding, as you can probably imagine.” One of his new projects is a new website, gameachievements.net. Launching in a couple of months, it will allow players to track their in-game awards across multiple platforms.
+
+So does Gardner have any regrets?
+
+“I’ll be honest – no,” he says. “I did it for my family, so I’m never going to regret anything I do to help them.”

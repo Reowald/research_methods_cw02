@@ -1,0 +1,23 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly a third (32%) of people would rush into booking a holiday to make sure they got a “deal” without making checks first, potentially leaving them vulnerable to scammers, a survey has found.
+
+While booking and travel agents and airline websites remain the most popular places to look for a holiday, one in seven (14%) people search social media websites for breaks, the research for Nationwide Building Society found.
+
+The survey also found that 44% of people said they do undertake research after seeing a limited-time offer online.
+
+Nationwide is encouraging any customers concerned about a purchase to use its scam checker service before making any payment. It is available in branch or by calling a 24/7 freephone number (0800 030 4057).
+
+If the payment goes ahead and the customer is subsequently scammed, unless Nationwide told the customer not to proceed, they will be fully reimbursed.
+
+That age-old adage of 'if it looks too good to be true, it probably is' most certainly applies with holidays Jim Winters, Nationwide Building Society
+
+The society said holidaymakers should check for Abta or Atol protection and be careful how they pay.
+
+Jim Winters, Nationwide’s director of economic crime, said: “That age-old adage of ‘if it looks too good to be true, it probably is’ most certainly applies with holidays – do your research and if in doubt get support.
+
+“Our scam checker service is completely free and for the sake of a few minutes on the telephone it could mean you’re not getting conned out of your hard-earned money and deserved time away.”
+
+Censuswide surveyed more than 2,000 people across the UK in December 2023 and January 2024.

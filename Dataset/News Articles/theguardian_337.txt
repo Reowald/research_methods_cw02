@@ -1,0 +1,57 @@
+Academics in the UK, Australia and the US collaborated on research related to drone technology with an Iranian university that is under international financial sanctions and known for its close ties to the military, the Guardian can reveal.
+
+The collaborative research was described by one security expert as having direct military applications, while another called it potentially “very dangerous”. Iranian-made drones have been responsible for a number of deadly attacks in the Ukraine and Middle East conflicts, and their development is known to be a top priority for the government in Tehran.
+
+The Guardian has seen no evidence that the research contravenes any sanctions or breaks any laws.
+
+The research was published in 2023 by the Institute of Electrical and Electronics Engineers, a global platform which hosts peer-reviewed studies. It examined the use of drones – known as unmanned aerial vehicles (UAVs) – in wireless networks and as communications hubs.
+
+“There are direct implications of the technology presented in this paper for military use,” said Conor Healy, the director of government research at IPVM, a US publication focused on security technology.
+
+They include the ability to establish “new communication channels when an adversary deploys jamming, which is directly relevant to drone warfare in Ukraine”, Healy said.
+
+Robert Czulda, a professor in international and political studies at the University of Łódź in Poland, said the research was potentially “very dangerous.”
+
+“It is not a good idea for any university to engage in these projects,” he said. “Any system relating to communications or repeating signals could easily have military application.”
+
+The study was co-authored by researchers from the University of Southampton, the University of New South Wales in Sydney, the University of Houston and Sharif University of Technology in Tehran.
+
+Among the funding agencies listed on the published study are government-backed research councils in the UK, EU and Australia.
+
+Sharif University is subject to financial sanctions imposed by the EU and UK, and a senior official who works at the institution is sanctioned by the US. The speed with which Iran developed its UAV program was in part due to research support from Sharif, according to a report from the US-based Washington Institute.
+
+The range and accuracy of the drones Iran manufactures was achieved by equipping them with “gyro-navigation devices developed by Sharif University”, the report states.
+
+Iranian-made drones have become ubiquitous across battlefields over the past five years, changing the nature of warfare. They are known to have been responsible for attacks in Ukraine, Syria, Iraq and Saudi Arabia, and against shipping in the Red Sea.
+
+US officials have said Iran manufactured the drone that attacked a US base in Jordan in January, killing three American soldiers and injuring more than 40.
+
+Daniel Roth from US watchdog group United Against Nuclear Iran (UANI), said “Iranian universities don’t operated under the same principles of academic independence that we understand. They’re ultimately directed by the regime when it comes to specific areas of research.”
+
+UANI, which first uncovered the research, regularly highlights academic collaboration that it deems to be a security risk and found this to be among the most “egregious”, Roth said.
+
+Iran is known to strategically use knowledge from national and foreign academics to strengthen its security priorities, he said.
+
+A decree from the Iranian government – issued in 2021 and reported on by the Jewish Chronicle and the Times – is said to have called for “collaborations with national and international [university] departments”.
+
+Among the defence and security priorities listed in the document are “automated and unmanned equipment (drones)”.
+
+Czulda, who at one time conducted research at a university in Iran, said: “If you work on drones in an Iranian university they will be used by the Iranian military.”
+
+In recent years governments around the world have launched initiatives to block or hinder international academic collaboration that might help to further Iran’s program.
+
+In June 2023 the UK government launched an investigation into allegations that a number of UK universities had collaborated with their Iranian counterparts on UAV research. No universities were singled out when the investigation was announced.
+
+In January, the Canadian government unveiled new restrictions on research funding, to prevent the sharing of technologies deemed to be important to national security. UAVs were among the technologies listed by the government as sensitive and Sharif University was among the institutions the government said that it believed posed risks to national security.
+
+A University of Southampton spokesperson said it had “stopped all formal and informal research collaborations with Iran” since the publication of the research.
+
+“This followed a review of our international research relationships prompted by significant updates to government advice,” the spokesperson said. The university “adheres to all UK government advice regarding working with countries, institutions and individuals subject to sanctions”, they said.
+
+The University of Houston said that it had no record of the research and the academics in question were not currently “employed by or affiliated with” the university.
+
+“The University of Houston is fully committed to complying with all export control laws and regulations and has set forth specific measures to ensure that our research efforts are protected,” the university said in a statement.
+
+The University of New South Wales said it took its security and compliance obligations very seriously and denied that the research had been directly funded by the Australian Research Council (ARC). However, the academic who conducted the research at UNSW had received funding from the ARC to conduct studies in the area of drone-based communication during the period that the research was published, according to public records.
+
+A spokesperson from the university said any collaborations with “countries or institutions considered high-risk are thoroughly risk-managed, where appropriate registered with the Department of Foreign Affairs and Trade (DFAT) under the Foreign Arrangements Scheme (FAS), and undergo rigorous assessment as required under the Australian Government’s Defence Export Controls framework”.

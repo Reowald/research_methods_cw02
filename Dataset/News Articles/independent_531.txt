@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The Sun’s upcoming period of high activity could help explain some of its secrets, scientists hope.
+
+Observations taken during the imminent “solar maximum” – the part of the Sun’s 11-year cycle where it is at its most energetic – might explain some of our star’s mysteries, scientists hope.
+
+The Sun is spewing out gamma rays, the most energetic form of light, far more than scientists ever expected. While we are shielded from those rays by the Earth’s atmosphere, there is an intense stream of energetic emissions coming from our star.
+
+In a new study, scientists hoped to better understand those gamma rays. They compressed fourteen years of videos of the Sun, seen in gamma rays, so that they could be visualised in the hope of understanding where they are coming from.
+
+Scientists had expected that tool would show that the high energy photons were spread out evenly across the Sun. But it instead made clear that the solar disc was more energetic at its polar regions.
+
+Color-coded density plot of gamma rays with energies between 5 and 150 gigaelectronvolts per photon, emitted by the Sun between October 2013 and January 2015, and registered by NASA’s Fermi-LAT telescope (Arsioli and Orlando 2024 & NASA/SDO/Duberstein)
+
+That unexpected tendency was clearest when the Sun was at its solar maximum, as could be seen in data from June 2014. The solar maximum is coming again soon – leading scientists to hope that more observations taken this time could provide more information about the Sun.
+
+While scientists were able to see from the data that the active period came during the maximum, they still do not know why that asymmetry is there at all.
+
+“We have found results that challenge our current understanding of the Sun and its environment,” said Elena Orlando, from the University of Trieste, INFN, and Stanford University, and co-author of this study, in a statement. “We demonstrated a strong correlation of the asymmetry in the solar gamma-ray emission in coincidence with the solar magnetic field flip, which has revealed a possible link among solar astronomy, particle physics, and plasma physics.”
+
+Researchers believe that the Sun’s gamma rays could be connected to its solar flares and coronal mass ejections, as well as the linked changes in its magnetic configuration. Better understanding them could help improve the physics models that are used to predict how active the Sun is – which in turn are useful for space weather forecasts.
+
+Those forecasts are vital to protect instruments that are currently floating around space. Scientists fear that if the Sun’s activity became energetic enough it could cause substantial damage to technology on the Earth, as it has in the past.
+
+The work is described in a new article, ‘Yet Another Sunshine Mystery: Unexpected Asymmetry in GeV Emission from the Solar Disk’, published in The Astrophysical Journal.

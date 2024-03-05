@@ -1,0 +1,25 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+High street bank Virgin Money has agreed to buy Abrdn’s stake in its investment platform for £20 million, less than a year after it was launched to customers.
+
+The lender joined forces with investment giant Abrdn in 2019 to start Virgin Money Investments, expanding its offering from traditional retail products like savings and loans.
+
+It launched a new digital platform, including a mobile app, for people to choose a range of investments in April last year.
+
+A new pension product was later added, where people can start saving from £25 a month or move existing pensions onto the platform.
+
+At the end of last year, Virgin Money Investments was managing about £3.7 billion worth of assets and more than 150,000 customer accounts.
+
+Taking full control of Virgin Money Investments will mean we can bring the investments and pensions business together with our deposits, mortgages, credit cards and daily banking Allegra Patrizi, Virgin Money
+
+Virgin Money, which has about 6.6 million UK customers, said buying Abrdn’s 50% stake in the platform will help it achieve its growth ambitions, including doubling the amount of assets under management within the next five years.
+
+Allegra Patrizi, managing director for business and commercial at the bank, said: “Our joint venture with Abrdn has successfully delivered a new investment service offering simple and straightforward investment options for customers.
+
+“Taking full control of Virgin Money Investments will mean we can bring the investments and pensions business together with our deposits, mortgages, credit cards and daily banking, enabling us to help more customers feel confident to invest for the future and driving significant growth in assets under management.”
+
+The bank intends to move all staff from the investments arm into Virgin Money, and said it is not expecting there to be any job losses.
+
+Abrdn will continue to provide investment advice for the platform.

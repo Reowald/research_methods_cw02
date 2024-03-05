@@ -1,0 +1,15 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+It’s a great time to be a Final Fantasy fan as more details, another trailer and a release date for the second part of the Final Fantasy 7 remake have landed.
+
+The Final Fantasy 7 remake was one of the biggest releases during the latter years of the PS4, but only part of the game was shared with fans. Ever since it came out in 2020, fans have been waiting for an announcement of when the sequel/conclusion would arrive.
+
+First teased a year ago, Final Fantasy 7 Rebirth now has multiple trailers and a release date. The first trailer was shown in June at Summer Game Fest while a second one wwas debuted at a Sony PlayStation State of Play.
+
+FF VII Rebirth Release Date Trailer
+
+Better yet, it won’t be too long until it’s playable as it’s confirmed to arrive on February 29 2024 across two discs for the PS5. It will be the second party of the FF7 remake with a third part arriving further down the line.
+
+Of course, Rebirth isn’t the only major Final Fantasy release gamers have to look forward to. Final Fantasy XVI (16) landed earlier this summer. FFXVI released for the PS5 on June 22nd.

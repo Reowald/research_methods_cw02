@@ -1,0 +1,119 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+This winter might be one of Arctic chill but that doesn’t mean there’s not hot new hotels to get your wanderlust flowing.
+
+The UK has welcomed a flock of incredible places to stay over recent months. Raffles London at The OWO has grabbed much of the attention, taking pride of place as part of the massive transformation of an Edwardian Baroque building in the heart of Whitehall.
+
+Outside the capital, a Lake District favourite has been given an exciting facelift, with Langdale Chase more delightful than ever, while Surrey’s grand mansion of Beaverbrook now has a sister in which to stay in the form of The Village. In the West Country, one of Somerset’s top restaurants, Holm, has added a string of rooms – making it more destination dining than ever.
+
+Here’s where to stay if you want to get away and experience something new.
+
+Raffles London at The OWO
+
+A staircase to impress at Raffles London at The OWO (Raffles London at the OWO)
+
+It’s been a bumper year for swish hotel openings in London, with the arrival of The Peninsula London, art’otel Battersea and The BoTree to name but a few. Latest to add to the list is the long-awaited Raffles London at The OWO, which has seen the Old War Office – an imposing Edwardian Baroque building in the heart of Whitehall – transformed by way of a seven-year, £1.5bn investment into the polished, ultra-elegant UK debut from Raffles Hotels and Resorts.
+
+Fittingly, given The OWO was once an epicentre of British government, Raffles has enlisted a raft of today’s heavyweight creative talent to ensure fresh intrigue for guests. As well as restored original features, such as the photogenic marble grand staircase, 120 bedrooms – including plush heritage suites inside Winston Churchill and John Profumo’s offices – have been designed by the late Thierry Despont, who, during his career, reimagined the Statue of Liberty and The Ritz, Paris.
+
+Read more on UK travel:
+
+Spaces once frequented by Ian Fleming – a naval intelligence officer at the OWO during WWII, and the author who created James Bond – now holds a trio of restaurants overseen by renowned Argentinian chef Mauro Colagreco, of Mirazur fame; by the end of 2024, there will be a roster of nine world-class dining options to choose from. Plus, there’s a showstopping, four-floor Goddard Littlefair-designed Guerlain Spa, with gym and movement studio, 20-metre swimming pool, thermal suite, and experts from Pillar Wellbeing for training and nutrition advice. And, if the nightly cost north of £1,000 is out of reach? Make for the crimson-hued Guards Bar and Lounge to sip on a London Sling – a new riff on Raffles’ signature cocktail, using British ingredients, including local honey, lime leaf tea and strawberries.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Langdale Chase, Lake District
+
+A year-long renovation has given this lakeside hideaway a fresh look (Langdale Chase)
+
+Another grand getaway given an exciting facelift is Lake District favourite Langdale Chase, an 1890s vision in Brathay Blue stone with mullioned windows and turrets, which has a plum position at the shore of Lake Windermere. Reopen after a year-long revamp, interiors are more cossetting than ever, and its 30 bedrooms (with lake or fell views) have earthy brown and lake-blue palettes alongside wallpapers blooming with curling florals and leaf motifs.
+
+Expect Italian marble bathrooms stocked with natural skincare from Cumbrian brand Bath House, stacks of books to thumb through, and in-room binoculars to take a closer look at the steamers and Canada geese that glide across the lake.
+
+The Langdale Pikes suite, with slipper bathtub and its own octagonal turret lounge, is particularly special. For lovers of the great outdoors, staff can help set up off-road driving trips, paddleboarding and boating sessions, and stock picnic baskets for mid-hike feasts. Those who prefer the great indoors are well catered for, with wine tastings, screenings of classic films in the hotel’s cinema room, nooks by flickering fireplaces to tuck yourself into, and meals at the two AA Rosette restaurant, where chef Michael Cole serves up British dishes with a by-the-Lakes twist.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The Village, Surrey
+
+The JRR Tolkien room at The Village (The Village)
+
+Beaverbrook, the grand mansion and former home of press magnate Lord Beaverbrook turned spoiling hotel, offers a masterclass in refined stays, with its spoiling spa, rolling pergola-peppered grounds and botanical print-filled Art Deco bar. A little sister property, The Village, has just opened in the heart of the estates’ pine forest, a 10-minute stroll (or quick self-drive buggy whizz) from the main house.
+
+Built on the site where estate workers’ cottages would have stood in days gone by are 10 slate-roofed, Victorian-style cottages with sage-trimmed buttermilk facades and 21 rooms for guests to slumber in. Rooms full of flounce and flourish, dreamt up by Nicola Harding, are as imaginative as the great British authors and playwrights they’re named after (Edward Lear, Beatrix Potter and Jane Austen, and more) with sweeps of olive and cherry red gingham, accordion pleat lampshades and frilled armchairs. Some, with discreet design-led bunk beds, will suit families; interconnecting options work well for groups.
+
+As well as having access to Beaverbrook’s delightful grounds, The Village has its own restaurant, Mrs Beeton’s, for classic British food delivered with contemporary flair – think duck shepherd’s pie followed by knickerbocker glory.
+
+From £600 B&B; book now
+
+The Lawns Rooms, Norfolk
+
+The Lawns Rooms is sibling to The Feathers (Emma Cabielles)
+
+Another popular property with an appealing new offshoot is The Feathers, a pub-with-rooms in the middle of picturesque Georgian market town Holt. Just a two-minute walk away comes its little sister property, The Lawns Rooms, with 15 bright rooms inside a red brick townhouse opposite Gresham school’s playing fields.
+
+The latest Chestnut Collection opening has a peaceful, homely feel, with a communal lounge and nooks stocked with tea bags and gear for DIY shoe shining. Bedrooms, designed in collaboration with Holt-based interiors whizz Birdie Fortescue, deliver countryside charm in a contemporary rather than chintzy way, with walls licked in sages, duck-egg blues, and blush pinks, rattan headboards and floral-patterned blinds.
+
+Bathrooms have Bramley goodies to lather up with, and some of the best rooms have extra pull in the form of exposed beams and window seats. As for dining, Adam Cook’s menu at The Feathers celebrates north Norfolk’s ingredients in a good range of pub grub, from ploughman’s and fish sharing platters to butternut squash and truffle Wellington. For another lunchtime option, The Owl Tea Rooms – Norfolk’s oldest tea rooms – are close by for slabs of quiche and an excellent roster of cakes by the slice, including pistachio and cherry, and ginger treacle.
+
+From £90 B&B; book now
+
+Holm, Somerset
+
+Dine on West Country fare before heading off to bed at Holm (Dave Watts)
+
+In brilliant news for foodie travellers, hit 34-cover Holm has just opened seven bedrooms upstairs. Channelling the same minimal-yet-warm design allure as the restaurant itself, rooms feature exposed lime plaster walls, muted tones and abstract art.
+
+Much as Holm’s menus are zoned in on best-of-the-best local produce in the likes of moreish panisse topped with pickled walnut and Westcombe cheddar, the design narrative upstairs underlines Holm’s commitment to a local connection.
+
+As well as beautiful oak headboards from furniture designer Tortie Hoare – who also calls South Petherton home – there are ikebana vases made in reclaimed materials by Devon’s Pacha Design, and cosy British wool blankets from Somerset-based Gather to snuggle under.
+
+There’s also a lounge-meets-studio space with an honesty bar where guests can potter or have a nightcap, that will also be used for Pilates classes, exhibitions and events. As for breakfast? Expect a seasonally shifting roster of deliciousness: foraged mushrooms in truffle butter on housemade sourdough and decadent cinnamon butter brioche buns.
+
+From £140 B&B; book now
+
+Room2, Belfast
+
+Winnie’s Cafe and Bar is the place to hang out at Belfast’s Room2 (Room2)
+
+Forward-thinking Room2, who launched a net zero hometel just off Chiswick High Road in London three years ago, have made their Irish debut in Belfast’s city centre this winter. With parent company Lamington Group achieving B Corp certification, room2’s ethos remains rooted in creating places to stay that have a positive impact on the health and wellbeing of visitors, staff and the planet.
+
+As such, the 175-room property – which has a reception deck crafted from leftover soap bottles from the Chiswick property – is run on 100 per cent electric and low-carbon renewable energy, has two on-site “lab rooms” to monitor consumption, a focus on local sourcing and suppliers who offer packaging-free deliveries, and any carbon generated through operations throughout the year will be rebalanced to zero.
+
+As well as relaxing bedrooms with colour-pop details – some with kitchenettes and living rooms – and a communal laundry room (ideal for long stays), there’s Winnie’s Cafe and Bar, a space of terracotta arches, orb lighting and potted monstera plants for light-bite focaccias and salads, open-mic nights and art exhibitions. Another welcome draw is that 24-hour stays come as standard, with both check in and check out at 2pm.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on the best UK hotels

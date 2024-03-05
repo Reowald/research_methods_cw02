@@ -1,0 +1,73 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Arcadia. The name conjures images of goat-hoofed god Pan playing ditties on a reed flute to shepherds and nymphs in a bucolic wilderness. So it’s a surprise to discover that Arcadia is a real place, located in Greece’s Peloponnese. On previous visits, I’d been too busy rushing to the ancient sites around its fringes, such as Olympia and Mycenae, to explore its rugged mountainous heart. Now, with the chance to experience this Paradise Lost, I couldn’t refuse.
+
+I’m in Langadia, preparing to trek through Arcadia’s Menalon massif. The stonemasons who built this village were renowned as the region’s best – they had to be to tame these impossibly steep hillsides. Just living here keeps you fit. And even in death you can’t escape the climbing – the cemetery straddles four tiers.
+
+As the coaches roar off to Olympia, I ascend a signposted trail into pastures studded with ancient stone threshing floors and golden grasses. A shepherd hurries past with a flock of sheep with clinking bells. I’m on the 75km Menalon Trail, arguably Greece’s best-known long-distance footpath.
+
+Just four monks inhabit Prodromou monastery (Clare Hargreaves)
+
+I visit in late October, keen to eke out summer as Blighty plunges into darkness. The twentysomething-degree temperatures are perfect for walking, and the tree colours spectacular. Spring is glorious too, mind you, with the bonus of wildflowers and longer days. The walking is moderately easy – it’s hill walking not mountaineering – although be prepared for plenty of quad-stretching climbs as you switch from valley to valley.
+
+Read more on Greece travel:
+
+In Valtesiniko, the second of six mountain villages I stay in, and predictably precipitous, I descend to the square where a click-clacking draws my eye to an open balcony. It’s the walnut harvest and two elderly women in black perch on a sofa, one smashing nuts with a hammer, the other winkling them out with a knife. I join them and am offered tea – which in rural Greece means mountain herbs, mainly sage.
+
+We chat, but when I reveal I’m walking alone, shelling stops and the women stare in disbelief. “Where’s your husband?” asks one. When I break the news that there isn’t one, her jaw drops further. She swiftly changes topic. “It’s no coincidence walnuts look like brains. They’re excellent for brain power. Here, try some.”
+
+My final leg follows a river bed aflame with plane trees before climbing into a limestone gorge, its cliffs glowing salmon-pink in the now-evening light
+
+At breakfast the next morning I fill up on fried feta pasties and spinach pie (muesli’s now a distant memory), ahead of what’s billed in my walking instructions as the longest stretch – 21km, which “can take up to 11 hours”. I’m not taking any chances.
+
+The day is a blissful blur of silent, moss-clad pines, pink cyclamen that burst from the leaf litter like tiny fairy tutus, and a 14th-century monastery that served as a ”secret school” where Greek was taught during the Ottoman occupation. My final leg follows a river bed aflame with plane trees before climbing into a limestone gorge, its cliffs glowing salmon-pink in the now-evening light. Fields of dead mullein flowerheads, like stooping dinosaurs, escort me to the enticing lights of my next stopover, Vitina.
+
+The following afternoon I reach mountaintop Elati where I lodge in the chalet-style home of Vanna and Kostas. “Mrs Clarey, we’re eating kokkoras kokkinisto (reddened rooster) tonight, would you like to see how it’s made?” Vanna asks. The kokkoras, it turns out, is the couple’s Transylvanian cockerel who got the chop a couple of days earlier. “He got too heavy for the hens,” sighs Kostas. Its meat is as dark as the juniper berries I’ve seen along my trail and we redden it further with garden-grown tomatoes. It’s served on a bed of homemade hilopites, minute pasta squares made from local goat’s milk, eggs and flour. It’s stellar – even better than coq au vin.
+
+The walnut harvest is in full swing in Valtesiniko (Clare Hargreaves)
+
+My next stop, stone-built Stemnitsa, is known for its gold and silversmiths and still has a silversmithing school. I glimpse the students hammering inside, then sample the village’s skaltsounia (little socks), miniature pasty crescents stuffed with local walnuts and honey.
+
+In the square, I meet economist Ioannis Lagos, who first conceived of the Menalon Trail in the 1980s. “I believed that by using our historic trails we could save both them and the region’s villages. Some locals said I was mad.” Undaunted, Ioannis drew on the knowledge of shepherds and huntsmen to map the area’s paths and link them into a 75km trail that officially opened in 2015. “Hikers came from worldwide,” he says. “My critics admitted they were wrong. Everyone from taxi drivers to shopkeepers and hoteliers has benefited.”
+
+He accompanies me on my final leg through the lush gorge of the Lousios river, apparently where nymphs gave newborn Zeus his first bath. To our right, a monastery hangs precariously from the limestone cliff like a swallow’s nest. Inside its womb-like chapel, hewn from the rock, flickering candles illuminate sombre frescoes.
+
+To our right, a monastery hangs precariously from the limestone cliff like a swallow’s nest. Inside its womb-like chapel, hewn from the rock, flickering candles illuminate sombre frescoes
+
+Today just four monks inhabit Prodromou. Visitors are offered Turkish delight and tea, as enticing cooking smells waft from the kitchen. “The food’s good here,” a bearded monk confides. “We take it in turns to cook. But I don’t often get asked; my style’s considered rather experimental.”
+
+More monasteries, silver olive groves and an 18th-century gunpowder mill bring us to medieval Dimitsana, piled onto a mighty rock overlooking the gorge. As usual, there’s a final climb but I’m amply rewarded by its cobbled streets and stately stone houses. I might not have been serenaded by nymphs but I’ve encountered shepherds, wilderness and Christmas trees to last a lifetime. Arcadia has not disappointed.
+
+Clare travelled with On Foot Holidays (onfootholidays.co.uk).
+
+Dimitsana is all cobbled streets and stately stone houses (Clare Hargreaves)
+
+Travel essentials
+
+Getting there
+
+Wizz, Ryanair, easyJet, British Airways and Aegean all fly direct from the UK to Athens. From there, hire a car or take a bus to Tripoli.
+
+Staying there
+
+Amanites Hotel in Dimitsana offers traditional rooms and a daily buffet breakfast.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+More information
+
+Find out more at menalontrail.eu
+
+Read more of our best Greece hotel reviews

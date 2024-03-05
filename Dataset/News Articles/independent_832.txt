@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Crypto market analysts have predicted new all-time price highs for bitcoin in 2024, however some have warned of a short-term sell-off in the coming weeks.
+
+Analysis from market intelligence platform DecenTrader forecasts a downwards trend in the build-up to the momentous ‘halving’ event, which will see mining rewards slashed in half for the first time in nearly four years.
+
+Bitcoin’s halving is currently scheduled for 18 April, with the current price of around $42,000 expected to drop by more than 10 per cent before then, according to DecenTrader’s analysis.
+
+“Circa 75 days remain until the bitcoin halving... This is important if we make a simple assumption, that there will be buying interest some time before the halving,” a DecenTrader blog post speculated.
+
+“This would mean that bitcoin has around 30 days from now to meander through its corrective phase before finding the FOMO demand anticipated.”
+
+Bitcoin has seen strong price gains in recent months, mostly buoyed by interest surrounding the first ever exchange-traded fund for the cryptocurrency, which was approved by regulators in January.
+
+The upcoming halving has also boosted market sentiment, with the event typically preceding record-breaking rallies.
+
+The latest market commentary from the trading platform Coinbase said the event, combined with expected rate cuts in the US, would create “a positive setup for the asset class more broadly”.
+
+Despite the prospect of short-term losses, some experts have pointed to current market trends to suggest that the world’s most valuable cryptocurrency has a sturdy floor price that traders will not sell below.
+
+“Bitcoin 200 week moving average is $31,000... Bitcoin has never gone below 200WMA. So 31k might be the absolute floor, and bitcoin might never see 31k ever again,” said pseudonymous crypto analyst PlanB.
+
+The popular analyst noted that such a prediction could be derailed by a so-called black swan event, such as a major geopolitical event disrupting financial markets, or a ban on cryptocurrency by a leading economy.
+
+PlanB has gained a popular following among bitcoin investors after popularising the stock-to-flow model that uses halving cycles to predict price trajectories.
+
+According to the Dutch analyst, the next post-halving price run will see it surpass the previous record of $68,000 and could potentially reach a market cap surpassing gold – although his previous predictions have occasionally proved to be overly optimistic.
+
+“After April halving, bitcoin will be scarcer than gold and real estate,” he wrote on X, previously Twitter.
+
+“It would surprise me if bitcoin market cap (<$1T) will stay below gold market cap (>$10T). This implies a BTC price >$500k (>$10T/20m).”

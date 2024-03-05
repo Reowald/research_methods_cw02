@@ -1,0 +1,35 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A landmark test of beaming solar power to Earth from a satellite has concluded successfully after a year-long mission.
+
+The Space Solar Power Demonstrator (SSPD-1) project launched on 3 January last year with the goal of demonstrating the feasibility of one day harvesting the Sun’s energy and transmitting it wirelessly back to Earth on a commercial scale.
+
+Led by scientists at the California Institute of Technology (Caltech) in the US, the mission completed all three of its primary experiments to test key technology for such an endeavour. They included a new origami-inspired solar panel structure, different cell designs, and a microwave transmitter.
+
+An illustration of how solar energy could be beamed to Earth via satellites (iStock/ Getty Images)
+
+Caltech said the success of the mission would “help chart the future of space solar power”, though warned that a lot more research needs to be done before it becomes a reality.
+
+“Solar power beamed from space at commercial rates, lighting the globe, is still a future prospect,” said Caltech president and professor of physics Thomas Rosenbaum. “But this critical mission demonstrated that it should be an achievable future.”
+
+Recommended Nuclear fusion laser could shoot down space junk
+
+Space-based solar arrays that beam massive amounts of clean and renewable energy to Earth via microwaves were first conceived more than 50 years ago, with scientists noting that such setups are not limited by cloud cover or the Sun’s cycle.
+
+The European Space agency plans to explore space-based solar power through its Solaris program (ESA)
+
+Last year, Japanese space agency JAXA announced that it planned to set up a commercial-scale solar farm in space by 2025, while the European Space Agency (ESA) is also aiming to set up a development project through its Solaris programme.
+
+JAXA first succeeded in beaming solar power via microwaves in 2015, transmitting 1.8 kilowatts of power to a receiver 55 metres away – roughly the same amount of electricity as it takes to boil a kettle.
+
+The latest experiments saw the first ever successful demonstration of collecting solar power from a photovoltaic cell and beaming it back to Earth.
+
+“The space test has demonstrated the robustness of the basic concept, which has allowed us to achieve a successful deployment in spite of two anomalies,” said Sergio Pellegrino, a professor of aerospace and civil engineering at Caltech. “The troubleshooting process has given us many new insights.”
+
+There are several challenges to overcome before the researchers believe it can be a commercially feasible prospect, including reducing the cost of materials and making the panels resistant to space radiation.
+
+Last year, scientists at the University of Pennsylvania discovered how to double toe efficiency of an ultra-lightweight solar cell that could be potentially used in space-based solar farms.
+
+Separately, researchers at the University of Sydney in Australia invented a type of self-healing solar panel that is able to recover 100 per cent of its original efficiency after being damaged by space radiation.

@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The price of bitcoin has risen above $50,000 for the first time since 2021, marking a major milestone in its recovery from below $20,000 at the start of last year.
+
+The cryptocurrency remains a way off its all-time high of close to $69,000, which it reached in November 2021, though some crypto analysts believe the latest rally could challenge that record.
+
+Bitcoin’s price has been boosted in 2024 by a new influx of demand and an impending drop in supply. In January, the US Securities and Exchange Commission (SEC) approved the first ever spot exchange-traded funds (ETFs) for bitcoin, opening up the asset to billions of dollars worth of institutional investment.
+
+An upcoming event known as a halving, which is hard-coded into bitcoin’s underlying network, will see rewards for mining the cryptocurrency slashed in half.
+
+Taking place roughly every four years, the halving has typically preceded record-breaking price rallies. The next halving is set to take place in April, with its imminent arrival potentially contributing to increased buying interest.
+
+View more
+
+“Bitcoin’s winning streak since the start of the year shows that increased mainstream demand, especially from bitcoin ETFs, will continue to drive strong upward price momentum,” Alex Adelman, chief executive of the crypto platform Lolli, told The Independent.
+
+“The biggest financial firms in the world are now actively buying bitcoin to cover record-breaking inflows for bitcoin ETFs, providing new sustained tailwinds for bitcoin.”
+
+Popular market analyst PlanB noted the convergence of the ETF approval with the halving event by posting rocket emojis on X, formerly Twitter.
+
+The pseudonymous Dutch analyst has grown an audience of nearly 2 million followers on X after his Stock-to-Flow model was used to roughly estimate the peaks of previous cycles.
+
+The latest price surge has revived “moon” predictions from crypto advocates, with some claiming bitcoin can reach a similar market cap to that of gold.
+
+Bitcoin is currently the 10th most valuable asset in the world, according to CompaniesMarketCap, roughly $300 billion below silver.
+
+Its market cap of $980 billion remains a long way off gold’s $13.1 trillion market cap.

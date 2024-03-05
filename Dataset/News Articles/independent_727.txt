@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Max Verstappen admits he needs to be “lucky” to overtake Lewis Hamilton and Michael Schumacher’s F1 title tally of seven.
+
+The Red Bull driver is a three-time world champion, having stormed to the championship in the last two years after his thrilling and controversial inaugural triumph in 2021 in Abu Dhabi.
+
+Verstappen and Red Bull will, undoubtedly, be the favourites when the 2024 Formula 1 season starts on 2 March in Bahrain – but the Dutchman admits that anything that comes his way from this point onwards is a “bonus” given everything he has already achieved.
+
+“It it happens, it happens,” Verstappen said, when asked if he could overtake Hamilton and Schumacher in the all-time leaderboard.
+
+“But you need to be lucky to be in a great car for a longer period of time. You’re very dependent on the material you have.
+
+“When I won my first title, I said, everything that comes next is a bonus because, realistically, in F1, I’ve achieved everything that I wanted to achieve. Being on the podium, having a pole position, winning a championship. These kinds of things were my dream to achieve in Formula 1. From now on, I’m just, yeah, trying to stay on top.”
+
+Verstappen, 26, has a £40m-a-year contract at Red Bull until 2028, which would take him to 14 years in the sport having made his debut in 2015 as a 17-year-old.
+
+Last year particularly, Verstappen was in a league of his own as he won 19 out of 22 races in a Red Bull car streets ahead of its competitors – but he is sceptical that a season of such domination can be repeated.
+
+Max Verstappen is on three F1 world titles - with the record standing at seven (Getty Images)
+
+“It cannot always be like this, I know that,” Verstappen told The Sunday Times.
+
+“The season we’ve had has been probably the best single season performance in F1, in terms of stats and records.
+
+“So I know that it will be very hard to try and do better than that. I think I just have to manage my expectations from now on. That’s just something that you have to keep telling yourself.”
+
+The 2024 F1 season, which will feature a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

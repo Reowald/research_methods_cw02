@@ -1,0 +1,55 @@
+In what appears to be a vehicle recall epidemic, the self-driving car service Waymo has issued a software recall after two of its vehicles collided with a tow truck in December.
+
+A tow truck was pulling a pickup truck in Phoenix, Arizona when a Waymo vehicle’s camera sensor allegedly misjudged the truck’s location, causing the collision.
+
+The truck continued driving and was hit a few minutes later by a second Waymo vehicle – there were no passengers in either Waymo vehicle at the time of the accident.
+
+Waymo announced the recall in a blog post on Tuesday, repeatedly calling the incident a ‘rare event’ and said it had immediately started rolling out a software update to its entire fleet of autonomous vehicles.
+
+Waymo issued a voluntary recall after two of its self-driving vehicles collided with the same two truck only minutes apart
+
+The company said it reported the crashes to the Phoenix Police Department, the Arizona Department of Public Safety, and the NHTSA and conducted an internal review of the two incidents.
+
+Waymo said: ‘Given our commitment to safety, our team went to work immediately to understand what happened.’
+
+It reported that the pickup truck was allegedly being ‘improperly towed’ and was angled so it rested in between a center turn lane and a traffic lane on December 11, 2023.
+
+Because the pickup truck was partially in a separate lane, Waymo’s AV software perceived the pickup truck and tow truck to be two separate vehicles, which caused the ride-share car to incorrectly predict which direction the tow truck was moving.
+
+No one was hurt in the accident and the vehicles suffered minimal damage from the accident, the company reported.
+
+Waymo's recall included a software update to its entire fleet of autonomous vehicles between December and January
+
+Waymo started accepting riders in early 2022, but self-driving companies have recently come under fire for accidents involving their autonomous vehicles, despite claims that they are potentially safer than human drivers.
+
+A Waymo vehicle fatally struck a dog while in self-driving mode when a person was test driving the autonomous function in San Francisco in June 2023.
+
+In July, a Waymo in Tempe, Arizona, caused a three-car pileup when it braked to avoid hitting a downed branch - there was one rider in the vehicle who sustained minor injuries.
+
+In yet another incident, one of Waymo's driverless vehicles struck a bicyclist last week after allegedly not seeing the person until it was too late.
+
+Waymo AV uses light detection to create a 3D picture of what’s going on around the vehicle and uses lidar sensors to send millions of ‘laser pulses’ in all directions.
+
+The amount of time it takes for a pulse to bounce off an object tells the vehicle how far away a person, car, sidewalk, or any other object is.
+
+It also has 360-degree cameras that allow it to see in both daylight and low-light conditions to spot traffic lights, construction zones, and other objects from hundreds of meters away.
+
+Waymo uses laser sensors, a radar, 360-degree camera, and an onboard computer to assess its surroundings
+
+The vehicle’s radar detector provides information about another object’s distance and speed while its onboard computer collates all the data from the cameras and sensors in real-time to identify the different objects and plan the best route to its destination.
+
+Waymo self-driving car in 'autonomous mode' with a test driver behind the wheel hits and kills dog in San Francisco Waymo self-driving car in 'autonomous mode' with a test driver behind the wheel hits and kills dog in San Francisco Advertisement !- - ad: https://mads.dailymail.co.uk/v8/gb/sciencetech/none/article/other/mpu_factbox.html?id=mpu_factbox_1 - ->
+
+After determining that its guidance system had malfunctioned, Waymo changed and updated its vehicle software on all its vehicles between December and January.
+
+The company said it consulted with the National Highway Traffic Safety Administration (NHTSA) on four separate occasions and ultimately chose to issue a voluntary recall which serves as a notice to the public that it had deployed the update.
+
+Waymo did not specify what the software update entails, but a spokesperson told Dailymail.com that it addressed the autonomous driving system’s error when it incorrectly predicted the future motion of the towed vehicle.
+
+The company did not remove its self-driving vehicles from the road and said the recall has not affected its service.
+
+‘This voluntary recall reflects how seriously we take our responsibility to safely deploy our technology and to transparently communicate with the public,’ Waymo said.
+
+‘There are hundreds of recall reports submitted annually to NHTSA and we respect the importance of this road safety framework and our relevant legal obligations.’
+
+Waymo declined Dailymail.com’s request for comment.

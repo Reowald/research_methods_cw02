@@ -1,0 +1,37 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The success of Red Bull during the 2023 Formula 1 season means that the team is set to pay a record entry fee in 2024.
+
+Max Verstappen was virtually untouchable as he cruised to a third consecutive world title, with the Red Bull driver taking race victories at 19 of the 22 season stops.
+
+With teammate Sergio Perez also securing two race victories, the team ultimately totalled 860 points across the season, 451 more than closest rivals Mercedes.
+
+While the financial rewards that come with such success are obviously significant, F1 rules mean that Red Bull will have to outlay more than any other team to remain on the grid in 2024.
+
+The 2013 revision of the Concorde Agreement that sets out the FIA’s regulations includes a ruling that entry fees for each competing team are determined by their success the season before.
+
+A base fee of $657,837 (£521,691) is paid by all as a base fee, with an extra $6,575 (£5,214) per point on top. The Constructors’ Championship winners are hit even harder: Red Bull must pay $7,893 (£6,259) for each of their 860 points.
+
+Here’s how much each team is set to pay.
+
+Red Bull: $7,445,817 (£5,904,830)
+
+Mercedes: $3,347,012 (£2,654,314)
+
+Ferrari: $3,327,287 (£2,638,672)
+
+McLaren: $2,643,487 (£2,096,391)
+
+Aston Martin: $2,498,837 (£1,981,678)
+
+Alpine: $1,446,837 (£1,147,400)
+
+Williams: $841,937 (£667,690)
+
+Visa Cash App RB: $822,212 (£652,047)
+
+Stake: $763,037 (£605,119)
+
+Haas: $736,737 (£584,261)

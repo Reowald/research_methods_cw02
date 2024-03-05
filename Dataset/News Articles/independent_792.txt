@@ -1,0 +1,31 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Three has apologised after customers of its phone network were hit by problems for the fourth day running.
+
+The company said that its services were recovering – but that so many people were calling its customer services about the outage that it was unlikely they would get through.
+
+Three did not say what the issue was that had caused phone connections to go offline, or how it had been fixed. But it advised customers to wait before calling for more answers.
+
+“Unless your query is urgent, we’d advise against calling as wait times are likely to be very long,” it said. We’re very sorry for any inconvenience caused.”
+
+It apologised to customers for the issue - which was the fourth consecutive day the company had been hit by, and apologised for, a network issue, but has not commented further on what has caused the ongoing problems.
+
+“Following an issue with our network that started earlier, services are now recovering,” the company said in a statement posted to X, formerly Twitter.
+
+“We know a number of our customers are still waiting on their service to be restored, and our engineers are working to fully fix it.
+
+“Our customer services are still impacted and unavailable, so please check back here for the latest updates.
+
+“We are very sorry for the issues with service over the past few days and sincerely apologise for any inconvenience caused.”
+
+According to service outage tracking website, Downdetector, more than 12,000 reports were made to the site about issues with Three on Monday morning.
+
+That followed the mobile operator confirming it had suffered network issues on Friday, Saturday and Sunday - at one point urging customers to “fully restart their device” in order to reconnect to its network.
+
+Three is currently the subject of a potential merger with Vodafone in a £15 billion deal which would create the UK’s largest mobile network.
+
+Last month, the UK’s competition regulator announced it was launching a formal investigation into the proposed deal over concerns it could have a negative impact on mobile competition in the UK market.
+
+Additional reporting by agencies

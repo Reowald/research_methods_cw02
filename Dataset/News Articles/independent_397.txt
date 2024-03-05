@@ -1,0 +1,39 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Eliud Kipchoge has paid tribute to Kelvin Kiptum after the marathon world record holder’s death in a car crash.
+
+Kiptum, who was 24, died alongside his coach in an accident in Kaptagat, south-west Kenya, at 11pm local time on Sunday.
+
+The Kenyan’s record mark of 2hr 0min 35sec was set in Chicago in October and ratified last week, taking more than 30 seconds off Kipchoge’s previous record.
+
+Kiptum, the winner of the London Marathon last year, had been set to attempt to become the first man to break the two-hour barrier in an official marathon at an event in Rotterdam in April.
+
+Kipchoge, who shares the four fastest men’s marathon times in history with his compatriot, said that he had been left “deeply saddened” by the news.
+
+“I am deeply saddened by the tragic passing of the marathon world record holder and rising star Kelvin Kiptum,” Kipchoge said in a post on social media.
+
+“An athlete who had a whole life ahead of him to achive incredible greatness. May I offer my deepest condolences to his young family.”
+
+Kiptum had established himself as the new dominant force in men’s marathon running , becoming only the third man to break two hours and two minutes in a breakthrough debut in Valencia in December 2022 and then following it up with record runs in London and Chicago last year.
+
+Kelvin Kiptum won last year’s London Marathon in a record time (PA Wire)
+
+He is survived by wife Asenath Rotich and their two children.
+
+Event director of the London Marathon, Hugh Brasher, said in a statement: “Kelvin had the sport of marathon running in his feet and at his feet. He was a ‘once in a generation’ athlete who was set to redefine the boundaries of our sport.
+
+“Three marathons, three wins. The fastest marathon debutant in Valencia, London’s course record holder and the world record holder in Chicago, all within the space of less than 12 months.
+
+“His was a flame that burned so bright and last night was tragically put out.”
+
+Similar sentiments were echoed by four-time Olympic gold medallist Sir Mo Farah, who wrote on X: “I’m so sad to hear the passing of Kelvin Kiptum and his coach, Gervais Hakizimana.
+
+“Kelvin was an amazingly-talented athlete and had already achieved so much. He truly had a special talent and I have no doubt he would have gone on to have had an incredible career.
+
+“I send all my sympathies and condolences to his and Gervais’ family and friends at this tragic time.”
+
+“We are shocked and deeply saddened to learn of the devastating loss of Kelvin Kiptum and his coach, Gervais Hakizimana,” Sebastian Coe, president of World Athletics, said. “On behalf of all World Athletics we send our deepest condolences to their families, friends, teammates and the Kenyan nation.
+
+“It was only earlier this week in Chicago, the place where Kelvin set his extraordinary marathon World Record, that I was able to officially ratify his historic time. An incredible athlete leaving an incredible legacy, we will miss him dearly.”

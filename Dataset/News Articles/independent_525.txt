@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have discovered water molecules on an asteroid for the first time, a key finding that can help reveal how the Earth may have become the Blue Planet it is today.
+
+Studying the composition of asteroids has helped astronomers unravel how materials, including water, are distributed across the Solar System, and how this distribution has evolved over eons.
+
+Since water is a key ingredient for all life on Earth, researchers hope this new understanding will help find places to look for potential life, both in the Solar System and beyond.
+
+“Asteroids are leftovers from the planetary formation process, so their compositions vary depending on where they formed in the solar nebula,” astronomer Anicia Arredondo, who was part of the discovery, said in a statement.
+
+“Of particular interest is the distribution of water on asteroids, because that can shed light on how water was delivered to Earth,” Dr Arredondo explained.
+
+The Moon Is Shrinking: Challenges Ahead For Lunar Colonization
+
+In the new study, scientists discovered “unambiguous” features of molecular water on the asteroids Iris and Massalia.
+
+They used data from the retired Stratospheric Observatory for Infrared Astronomy (Sofia) – a joint project conducted by Nasa and the German Space Agency – to make the discovery.
+
+While previous observations had detected some form of hydrogen both on the moon and on asteroids, these studies could not distinguish between water and its close chemical relative, hydroxyl.
+
+In earlier research, scientists found roughly equivalent to a 12-ounce bottle of water trapped in a cubic meter of lunar surface soil which was chemically bound in minerals.
+
+In the new study, scientists found that the level of water on the asteroid is consistent with its abundance on the sunlit surface of the Moon.
+
+“Similarly, on asteroids, water can also be bound to minerals as well as adsorbed to silicate and trapped or dissolved in silicate impact glass,” Dr Arredondo said.
+
+Following the latest findings, researchers are enlisting the premier infrared space telescope – Nasa’s James Webb Space Telescope – to investigate more targets due to its precise optics and superior signal-to-noise ratio.
+
+“Of particular interest is the distribution of water on asteroids, because the distribution can shed light on how water was delivered to Earth, with implications for how water could be delivered to potentially habitable planets outside our solar system,” researchers said.
+
+“We have another proposal for the next cycle to look at another 30 targets. These studies will increase our understanding of the distribution of water in the solar system,” Dr Arredondo said.

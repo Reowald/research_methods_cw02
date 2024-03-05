@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+More than 465,000 households in the UK will experience “fuel poverty” this winter due to a price cap increase in January, figures show.
+
+Data science firm Outra revealed that the price cap increase on January 1 led to a 12.2% rise in households affected by fuel poverty, compared to October 2023.
+
+A household is in fuel poverty when they spend more than 10% of their income on heating.
+
+The UK now has 4.29 million households experiencing fuel poverty, up from 3.83 million, the research found.
+
+Birmingham has the largest number of new UK households entering fuel poverty with an extra 19,000, followed by South Yorkshire with 17,200 more, Newcastle with another 12,100, and Glasgow with an 11,900 increase.
+
+The energy price cap, which limits the amount a supplier can charge per unit of energy, has led to an average increase of £94 per year on energy bills, from £1,834 to £1,928.
+
+Outra said these figures indicate that while inflation has eased, the cost-of-living crisis is still dominating the lives of British households.
+
+The firm’s chief data and technology officer, Peter Jackson, said: “Our household level data analysis shows that, while fuel prices have dropped from their peak, financial pain felt by those struggling with a sharp rise in household bills is far from over.
+
+“With this 5% rise in energy costs for the average household and the coldest weeks of winter potentially still ahead of us, many will need to make sacrifices if they have any hope of making ends meet.”
+
+The data science firm also found self-defined “high risk” households are more likely to fall into fuel poverty, and the new rates are expected to cause 383,000 “high-risk” households to become fuel impoverished – an increase of 61,000 or 19% more than the number reported in October 2023.
+
+Between October 2023 and January 2024, these households will face an average increase of 6.68% in their energy bills. This hike is likely to push a significant number of households into fuel poverty, given their current financial struggles.
+
+Housing costs will continue to be a “significant burden” for people as increases in mortgage payments and rent has put increased pressure on finances, Outra says.
+
+A Resolution Foundation report said 38% of people have reported a worsening financial situation, which is more than twice the number of those who reported an improving one (15%).
+
+The report said that an increase in benefits and wages may help some people, but those who have not benefited from the rise may be suffering “disproportionately”.
+
+The Foundation predicts that by October 2023, “severe levels” of food insecurity levels may affect a fifth of people, this is almost three times the number of people affected before the pandemic.

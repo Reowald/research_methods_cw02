@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+An investigation is underway into a collision between a driverless taxi and a cyclist in San Francisco on Tuesday.
+
+Californian police and regulators are reviewing the incident, first reported by Reuters, after the cyclist was left with minor injuries.
+
+The vehicle involved was a robotaxi owned by WaYmo, the autonomous driving unit of Google’s parent company Alphabet.
+
+A spokesperson for Waymo said the vehicle was pulling out from a four-way intersection and failed to spot a cyclist hidden behind a truck that was turning into the intersection.
+
+“The cyclist was occluded by the truck and quickly followed behind it, crossing into the Waymo vehicle’s path,” the spokesperson said.
+
+“When they became fully visible, our vehicle applied heavy braking but was not able to avoid the collision... We are making contact with relevant authorities surrounding this event.”
+
+A passenger riding in the vehicle at the time was reportedly not injured, while the cyclist received “minor scratches” and left the scene on their own.
+
+Waymo reported the incident to police and referred it to the California Department of Motor Vehicles (DMV), who are both currently investigating.
+
+Driverless taxis are legal in San Francisco, which is home to some of the nation’s biggest tech companies, as well as Phoenix, which has been used as a testbed for the technology due to its flat and grid-like street layout.
+
+Waymo and GM’s autonomous unit Cruise are planning to expand their services to other cities, including Austin, Los Angeles, Miami and New York City, though there has been some pushback to their rollout.
+
+City officials in San Francisco have previously blamed the self-driving taxis for causing traffic and obstructing emergency vehicles.
+
+The state’s DMV logged eight autonomous vehicle collision reports in January, and more than 130 in 2023.
+
+Most incidents were minor crashes that resulted in no injuries, however a Waymo autonomous vehicle struck and killed a small dog last May in an accident that the company described as unavoidable.

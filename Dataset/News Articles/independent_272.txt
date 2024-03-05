@@ -1,0 +1,55 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of people needing breathing space from their debts jumped by 25% in 2023 compared with the previous year.
+
+Across England and Wales, there were 88,390 registered breathing spaces in 2023, comprised of 86,928 standard and 1,462 mental health breathing space registrations, the Insolvency Service said.
+
+A standard breathing space is available to people with problem debt and gives legal protections from creditor action for up to 60 days.
+
+A mental health crisis breathing space is available to someone who is receiving mental health crisis treatment. It lasts as long as the person’s mental health crisis treatment, plus 30 days.
+
+Breathing space numbers were 25% higher than in 2022 – and, since the start of the scheme on May 4 2021, more than 200,000 breathing spaces have been registered, the service said.
+
+People registering for breathing space may or may not end up entering a formal insolvency procedure.
+
+While breathing space registrations increased, the number of people formally going financially insolvent last year across England and Wales fell to the lowest annual level since 2017, when there were 99,095 cases.
+
+Some 103,454 personal insolvencies were recorded, which was a 13% fall compared with 2022.
+
+Personal insolvencies are made up of bankruptcies; individual voluntary arrangements (IVAs), whereby money is shared out between creditors; and debt relief orders (DROs), which are aimed at people with lower amounts of debt that they cannot realistically pay off.
+
+The lower number of individual insolvencies in 2023 was driven by a 27% decrease in IVAs compared with 2022.
+
+The Insolvency Service said 2023 saw the lowest annual number of IVAs since 2017, while DROs were at the highest annual level since their introduction in 2009.
+
+Bankruptcies increased slightly from the 40-year low in 2022, but remained at less than half of pre-2020 levels.
+
+Inflation might have moderated but many costs are still rising Mark Ford, Evelyn Partners
+
+Meanwhile, the Insolvency Service said the number of company insolvencies across England and Wales last year was the highest since 1993, with 25,158 registered company insolvencies in 2023.
+
+Although company insolvency volumes were at a 30-year high in 2023, the number of companies on the Companies House register has increased over time, so the rate of businesses going insolvent in 2023 compared with active companies remained much lower than a peak seen during the 2008/09 recession, the service said.
+
+Mark Ford, a partner in restructuring and recovery services at professional services firm Evelyn Partners, said: “Inflation might have moderated but many costs are still rising, particularly wage bills, which many firms are struggling with as earnings growth has gathered pace.”
+
+Nicky Fisher, president of insolvency and restructuring trade body R3, said: “The last year has seen a rising tide of corporate insolvencies…
+
+“Unless the economic picture improves, costs come down and people start spending, it seems likely that insolvency numbers will remain high this year.”
+
+Financial distress and money worries are still serious problems in England and Wales, and the last 12 months have hit many people’s finances hard Nicky Fisher, R3
+
+She went on: “The upsurge in consumer spending that many businesses had been hoping for since the end of lockdown hasn’t happened, or at least hasn’t been sustained, and the firms who were hanging on and hoping for it have simply run out of time and money.”
+
+Ms Fisher said the annual fall in personal insolvencies last year “masks the fact that demand for debt advice and support is still high in England and Wales”.
+
+She added: “We also know that there is often a time lag between people facing serious financial difficulties and the release of personal insolvency statistics, so the figures seen in government data may not be a real-time representation of the current hardships faced by many UK households.
+
+“Financial distress and money worries are still serious problems in England and Wales, and the last 12 months have hit many people’s finances hard.
+
+“Rising bills, food and fuel prices were a major concern and a major expense in 2023, while high inflation forced up interest rates and left a lot of people worrying about the costs of mortgages and loans.
+
+“Our message to anyone who is worried about their finances or the financial health of their business is to seek advice as soon as possible.
+
+“We know how hard it is to talk about this topic, but starting the conversation when these problems are new will give you more options and more time to take a decision about how you move forward than if you’d waited.”

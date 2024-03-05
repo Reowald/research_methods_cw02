@@ -1,0 +1,19 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Romance scammers may put pressure on victims to make fake insurance claims, the Insurance Fraud Bureau (IFB) is warning.
+
+In a new twist on romance scams, victims may be asked to take out fraudulent insurance policies and then persuaded to make fake claims, so that criminals can bank the payout, the IFB said.
+
+It added that the scam often started with small claims and then increased over time, leaving victims stuck in a criminal funding cycle.
+
+Being convicted of insurance fraud can have life-changing consequences; don’t risk it all to line someone’s pocket Shelley Comb, IFB
+
+Committing insurance fraud is a serious criminal offence and even if someone avoids prosecution, they could be added to the Insurance Fraud Register (IFR) for five years. The IFR is a database of known insurance fraudsters, which is checked by insurers when people take out a new policy.
+
+They have the option to increase premiums to account for the added risk of providing or may opt to not provide coverage at all. People could be left unable to drive, lose their job or struggle to find work.
+
+From existing investigations, this type of fraud is often intertwined with other, often more serious crimes, the IFB said.
+
+Shelley Comb, IFB intelligence and investigations manager, said: “Being convicted of insurance fraud can have life-changing consequences; don’t risk it all to line someone’s pocket.”

@@ -1,0 +1,91 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nearly three million people will live in a parliamentary constituency without a physical bank branch by the end of the year, research by Which? indicates.
+
+Banks and building societies have closed at an alarming rate in recent years, with over 5,800 branches shutting since 2015, the consumer group said.
+
+Which? research indicates that 30 parliamentary constituencies, with an estimated population of 2.8 million people, will have no physical bank branches left by the end of this year.
+
+A decision to close (a bank) is never taken lightly and only happens after an extensive review of its usage and consideration of other options in the local area UK Finance spokesperson
+
+Sam Richardson, deputy editor of Which? Money, said: “A closed bank branch isn’t just a high street eyesore, but one less place for consumers to go to withdraw cash or access in-person banking services.
+
+“Which? research shows that millions of people could be without a local branch by the end of 2024 as banks continue to close at an alarming rate.
+
+“Alternatives like banking hubs could help plug the gaps, but they are being rolled out too slowly, so more must be done to ensure communities get these replacements for their closed bank branches as soon as possible.”
+
+A spokesperson for UK Finance, which represents the banking and finance industry, said: “An ever increasing number of people are using telephone, mobile and internet banking and fewer people are visiting bank branches on a regular basis.
+
+A closed bank branch isn't just a high street eyesore, but one less place for consumers to go to withdraw cash or access in-person banking services Sam Richardson, Which? Money
+
+“This means banks are having to make difficult decisions about the number of branches they operate. A decision to close one is never taken lightly and only happens after an extensive review of its usage and consideration of other options in the local area.
+
+“The banking industry is committed to ensuring there is continued access to cash for those who need it, when they need it. Significant ongoing investment is being made to deliver this commitment, including shared banking hubs, free ATMs and cashback without purchase.
+
+“There are 31 shared banking hubs open now across the country, with a further 70 scheduled to open later this year.
+
+“There is also the option to do a lot of day-to-day banking at the Post Office, which has around 11,500 branches across the UK.”
+
+Here are the constituencies identified by the consumer group which used census data to make population estimates:
+
+Barnsley East
+
+Bolton West
+
+Bradford South
+
+Central Suffolk and North Ipswich
+
+Clwyd South
+
+Colne Valley
+
+Denton and Reddish
+
+Don Valley
+
+East Worthing and Shoreham
+
+Erith and Thamesmead
+
+Glasgow North East
+
+Liverpool, West Derby
+
+Mid Bedfordshire
+
+Mid Derbyshire
+
+Newport East
+
+North East Derbyshire
+
+Nottingham East
+
+Penistone and Stocksbridge
+
+Plymouth, Moor View
+
+Reading West
+
+Rhondda
+
+Sedgefield
+
+Sheffield, Hallam
+
+St Helens North
+
+Stone
+
+Swansea East
+
+Warrington North
+
+Wentworth and Dearne
+
+Wirral West
+
+York Outer

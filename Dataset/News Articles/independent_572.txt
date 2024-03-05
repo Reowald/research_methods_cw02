@@ -1,0 +1,53 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+UK scientists who helped develop a key piece of technology for the first private Moon launch said their sensor and electronics are performing well, despite the mission going not as planned.
+
+The Peregrine Mission One (PM1), built by US space company Astrobotic, blasted into space on Monday but encountered a fuel leak shortly after launch, scuppering any hope of a soft lunar landing.
+
+In a statement on X, formerly Twitter, the company said that the probe has been operating in space for more than four days.
+
+It was thought that the spacecraft had less than two days of propellant (fuel) but in its most recent update, Astrobotic said “the rate of leak had slowed more than anticipated” and now estimate that Peregrine has about 52 hours of propellant remaining.
+
+Dr Simeon Barber, of The Open University, helped develop the sensor – called the Exospheric Mass Spectrometer – on an onboard instrument known as the PITMS (Peregrine Ion Trap Mass Spectrometer).
+
+He and his colleagues are working around the clock to gather data from the spacecraft before it loses power and starts tumbling.
+
+He said: “I am so grateful to colleagues at The Open University and RAL Space who have dropped everything in their work and personal lives in the race against time to get the very best from the PITMS instrument in these challenging circumstances.
+
+“We are hugely encouraged that the instrument including the UK-led sensor and electronics are performing well in our post-launch check-out tests, and we look forward to getting the instrument fully operational and taking measurements.”
+
+Dr Barber added: “I also wish to acknowledge the fantastic response that we have received from the UK media and public.
+
+“Since the anomaly arose we have, of course, had to focus 100% on the immediate work to be done to secure the instrument and support the wider mission team.
+
+“We look forward to being able to provide a fuller update in the coming days.”
+
+The 1.2-tonne probe – about the size of a garden shed – was launched from Cape Canaveral in Florida, and the aim of the mission was to land on February 23.
+
+But shortly after separating from United Launch Alliance’s Vulcan Centaur rocket, the Astrobotic team found that Peregrine was struggling to achieve a stable position pointing towards the Sun.
+
+The company later said the cause may have been a valve on the spacecraft that failed to close.
+
+However, it has ruled out a soft landing on the Moon, saying that the mission parameters had changed as a result.
+
+Astrobotic said: “We have successfully received data from all nine payloads designed to communicate with the lander.
+
+“All 10 payloads requiring power have received it, while the remaining 10 payloads aboard the spacecraft are passive.
+
+“These payloads have now been able to prove operational capability in space and payload teams are analysing the impact of this development now.
+
+“We are proud of the mission team for achieving this incredible feat under such challenging circumstances.”
+
+The Exospheric Mass Spectrometer would have been the first instrument on the Moon built in the UK and in Europe.
+
+Its key aim was to analyse the thin lunar atmosphere as well as find out more about how water might be moving around the Moon.
+
+Meanwhile, Nasa has also confirmed that all its onboard instruments – including PITMS – have received power and are making measurements.
+
+Joel Kearns, deputy associate administrator for exploration with Nasa’s Science Mission Directorate at Nasa Headquarters in Washington, said that measurements from those instruments “will provide valuable experience, technical knowledge and scientific data” for future lunar missions.
+
+Astrobotic is the first of three US companies to attempt to send a spacecraft to the Moon as part of Nasa’s Commercial Lunar Payload Services initiative.
+
+Two other commercial ventures – Intuitive Machines and Firefly – have planned missions to the lunar surface this year.

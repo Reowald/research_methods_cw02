@@ -1,0 +1,21 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Australian Open champion Jannik Sinner knows his rivals will be eager to get a victory over the ATP Tour’s newest Grand Slam winner but the Italian showed in his opening round win at the Rotterdam Open on Wednesday that he welcomes the challenge.
+
+In his first match since coming back from two sets down to beat Daniil Medvedev and win his first major last month, Sinner cruised to a 6-3 6-3 win over Botic van de Zandschulp, who he also beat in the first round at Melbourne Park.
+
+“I’ve been working a lot in Monaco but I wanted to come here and feel the court,” the world number four told reporters. “I’m happy to get my first win here over a really great player.
+
+“It’s a little bit different (playing as a Grand Slam champion) and you have to be prepared for your opponents to know you better and know your weaknesses more, so you have to be prepared to work hard and be ready.”
+
+Sinner can climb to a career-high ranking of number three if he wins his 12th career title at Rotterdam, but the 2023 runner-up faces a tricky test against French veteran Gael Monfils in the second round.
+
+“Gael is a very dangerous opponent. It doesn’t matter where you play him. He’ll be a fan favourite for sure, but it’s part of the game and you have to accept it,” Sinner said of the two-times Rotterdam champion.
+
+The top seed has won four of his five career matches with Monfils but is not taking him lightly.
+
+“It’s always a really tough match when we play,” he added. “I saw his first-round match and he played really well.”
+
+Reuters

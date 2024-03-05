@@ -1,0 +1,43 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The average two-year fixed mortgage rate on the market recorded its biggest month-on-month fall since December 2022 in February, according to a financial information website.
+
+Across all deposit sizes, the average two-year fixed-rate mortgage had a rate of 5.56% at the start of February 2024, down from 5.93% at the start of January this year.
+
+The 0.37 percentage point fall was the biggest monthly decrease recorded by Moneyfacts since December 2022.
+
+Five-year fixed mortgage rates edged down from 5.55% to 5.18% on average, comparing the start of January 2024 with the start of February this year.
+
+It is likely rates will fluctuate in the coming weeks due to the noises surrounding future rate expectations Rachel Springall, Moneyfacts
+
+Rachel Springall, a finance expert at Moneyfacts, said: “Borrowers searching for a new mortgage deal may be delighted to know fixed mortgage rates continued their downward trend, with the average two-year fixed rate dropping by its biggest margin since December 2022.
+
+“Those borrowers who have waited patiently in recent months to re-finance, or indeed are preparing for when their mortgage deal expires, would be wise to review rates, as lenders are closely monitoring the volatile swap rate market, which tends to influence fixed-rate pricing.
+
+“There have been big expectations for fixed rates to fall further, and whether now is the right time to refinance will come down to an individual’s circumstances.
+
+“Lenders are in constant review of their ranges, and it is likely rates will fluctuate in the coming weeks due to the noises surrounding future rate expectations.”
+
+Some borrowers may be sitting on their lender’s standard variable rate (SVR), while they decide what to do.
+
+According to Moneyfacts, the average SVR at the start of February was 8.17%.
+
+Ms Springall added: “The average two- and five-year fixed rates are much lower than the average SVR. Seeking advice from an independent broker is wise to work out if an individual could save a decent sum on their monthly repayments by changing their mortgage deal.”
+
+Ms Springall said mortgage rates have also fallen in the first-time buyer bracket of the market.
+
+She said: “The average two-year fixed-rate mortgage at 95% loan-to-value (LTV) has dropped below 6% for the first time since May 2023 (sitting at 5.84% at the start of February), much lower than six months ago, when it was just over 7%.
+
+“Product choice has also increased at this LTV bracket.”
+
+– Moneyfacts used data from the first available day of each month for its analysis.
+
+Meanwhile, Nationwide revealed on Monday that the interest rate for some of its mortgages will be increasing this week.
+
+The building society said that its mortgage rates would rise by up to 0.25 percentage points from Tuesday, although some will rise by much less.
+
+First-time buyers and home movers will pay 4.49% interest for a two-year mortgage, while those remortgaging will pay 4.54%.
+
+Nationwide said: “Swap rates, which are a key factor in mortgage pricing, have been rising and as a result we need to increase selected rates to ensure our rates remain sustainable.”

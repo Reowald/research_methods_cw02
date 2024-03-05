@@ -1,0 +1,27 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mark Zuckerberg claims he was surprised by the downsides to Apple’s Vision Pro when he first tried it.
+
+The Meta chief executive said that his company’s headsets are preferable to those made by Apple. While he expected his own headset to offer “better value”, the Meta Quest 3 is “the best product, period”, he claimed.
+
+He said that “fanboys” would be “upset” about his criticisms of Apple’s product. His comments did indeed draw criticism from those who believe Apple’s headset represents the future, with some likening the video to Microsoft’s dismissal of the iPhone when it was first released.
+
+In a video posted to Instagram, and filmed using the cameras on the front of Meta Quest 3 headset, Mr Zuckerberg said that “there are a lot of people who just assumed that Vision Pro would be higher quality because it’s Apple and it costs $3,000 more”. But he found there was problems with the Apple headset, including the wires that attach to the external battery.
+
+“I expected that Quest would be the better value for most people since it’s really good and it’s like seven times less expensive,” he said. “I think it’s just a lot more comfortable, and we designed it to weigh 120 grams less which makes a really big difference on your face.
+
+“There’s no wires that get in the way when you move around - it’s a big deal.”
+
+He also pointed to the Meta Quest 3’s wider field of view, and claimed that it had a brighter screen than the competitor.
+
+Mr Zuckerberg conceded that the Vision Pro had some advantages, such as its more detailed resolution. But he said that Apple had made trade-offs, such as its heavy weight, to do that.
+
+He said that the Quest allowed for working with big virtual screens, which is the main use case that has been seen since Apple’s headset was released. But he suggested that features such as games and social experiences were less good in the Vision Pro.
+
+And he claimed that Quest has a “deeper” content library than that on Apple. He also appeared to reference YouTube’s decision to not offer a video app on Apple’s platform.
+
+The video also drew approval from Andrew Bosworth, known as Bob, who is Meta’s chief technology officer and runs Meta’s Reality Labs, which develops its headset and other mixed reality technology.
+
+Apple released the Vision Pro at the start of this month, offering the headset from $3,499. The Quest 3 was released in October of last year, and costs $499.

@@ -1,0 +1,73 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Around 1,000 people who have been affected by the Post Office and Horizon scandal face a looming tax deadline.
+
+But HM Revenue and Customs (HMRC) said it wants to reassure any postmasters who are struggling to meet the January 31 deadline due to late top-up payments that they will have any penalties or associated interest cancelled.
+
+The cancellation will apply to postmasters who, due to a late top-up payment, do not file their self-assessment return and/or do not pay their tax on time.
+
+It is understood that around 1,000 people who received compensation from the Horizon Shortfall Scheme in the 2022/23 tax year will need to declare the payments via self-assessment and pay any tax due.
+
+HMRC has a dedicated team to provide postmasters with support and it said those who are unable to pay their tax liability in full can set up a payment plan.
+
+We can reassure any postmasters struggling to meet the deadline for filing their return and paying their tax because of a late top-up payment, that any penalties and interest associated with this will be cancelled HMRC spokesperson
+
+An HMRC spokesperson said: “We’ve now published guidance and set up a dedicated helpline.
+
+“We can reassure any postmasters struggling to meet the deadline for filing their return and paying their tax because of a late top-up payment, that any penalties and interest associated with this will be cancelled.”
+
+The Horizon Shortfall Scheme (HSS) was put in place by the Post Office to compensate postmasters who, while not subject to criminal conviction, made good the apparent losses caused by the Horizon system from their own pockets.
+
+The scheme’s design meant that the original HSS compensation payments are subject to income tax and national insurance contributions (NICs).
+
+Guidance placed on gov.uk says: “If you received Horizon Shortfall Scheme (HSS) compensation between 6 April 2022 and 5 April 2023 you may have to pay income tax and NICs.”
+
+Faulty Horizon accounting software made it appear as if money was missing, and ITV’s acclaimed drama Mr Bates vs The Post Office has put a fresh spotlight on the long-running scandal.
+
+The gov.uk website says that if someone has already received a notice to file a 2022/23 self-assessment tax return, the deadline for filing online is January 31 2024.
+
+But the revenue body added that it understands that people may not be able to file their returns or pay tax due by that date.
+
+Sarah Coles, head of personal finance at Hargreaves Lansdown, said: “The impact of the Horizon scandal on postmasters never seems to end.
+
+“Some of those affected were forced to make up the losses caused by the computer system out of their own pockets, in order to avoid criminal prosecution, and while a scheme has been established to refund them, there’s now a potential tax headache.
+
+The impact of the Horizon scandal on postmasters never seems to end Sarah Coles, Hargreaves Lansdown
+
+“The way the scheme works means that postmasters will have to pay tax and national insurance contributions on compensation payments. It means anyone who got their payment in the tax year running 2022/23 will need to pay by the end of January.
+
+“A separate scheme of top-up payments from the Post Office is designed to help cover the cost of the tax. However, not all of these top-up payments have been made.”
+
+In June last year, the Government announced that postmasters in the HSS would receive top-up payments to ensure the amount of compensation they receive is not unduly reduced by tax – but not all top-up payments and tax advice grants have yet been made by the Post Office, the gov.uk website said.
+
+The top-up payments announced in June 2023 are being made to compensate postmasters for any undue reductions to the amount of compensation caused by the tax treatment of the scheme.
+
+The gov.uk website says: “If you have not received your top-up payment and tax advice grant from the Post Office in good time to file your return and pay your tax by 31 January, we will not charge any interest or penalties if you file your return or pay your tax late as a result.”
+
+The website says that if someone has received HSS compensation payments between April 6 2022 and April 5 2023 and has not yet been asked by HMRC to file a self-assessment tax return by January 31 2024, they should speak to its dedicated support team.
+
+A dedicated HMRC helpline on 0300 322 9625 is open from Monday to Friday between 8am to 6pm.
+
+Bankruptcy and claims for compensation are a complex area and we are helping claimants understand whether their bankruptcy orders can be cancelled and signposting appropriate advice Insolvency Service
+
+The Post Office is providing funding of up to £300 for independent tax advice to help postmasters in the HSS scheme to file their self-assessment tax return and HMRC said it would encourage claimants to take advantage of this.
+
+Payments in the Overturned Conviction (formerly known as the Overturned Historical Conviction scheme) and Group Litigation Order schemes were made exempt of income tax and NICs and recipients do not have to pay any tax on these payments or report them to HMRC, the gov.uk website says.
+
+The Insolvency Service said on Tuesday that it is continuing to assist people affected by bankruptcy as a result of the scandal.
+
+It said in a statement: “Bankruptcy and claims for compensation are a complex area and we are helping claimants understand whether their bankruptcy orders can be cancelled and signposting appropriate advice.”
+
+The service is appealing for people who have been subject to a bankruptcy/adjudicator or sequestration order; lived in England, Wales, Scotland, or Northern Ireland; and believe they were impacted by the Horizon discrepancies to contact it if they have not already done so at Horizoncases@insolvency.gov.uk.
+
+Tax lecturer and chartered accountant Rebecca Benneyworth has set up a website – subpostmasterstax.org.uk – as an additional resource for people who have received compensation payments and are concerned about their tax position.
+
+The website aims to bring together people who need help with professionals. People can use a contact form on the website for help, or to act as a volunteer.
+
+Ms Benneyworth told the PA news agency: “I think HMRC have done an absolutely fantastic job standing up a team and getting a phoneline implemented… they’ve obviously worked really hard to get that stood up and done.”
+
+She said her website had gone live on Sunday, adding: “There’s a ‘contact us’ and you can say either I’m a volunteer or I need help, so I’ve got around 20 tax advisers lined up ready to go.”
+
+She added: “I was brought up in a sub-post office in rural Gloucestershire in the 50s and 60s so that’s why I’m so moved by the plight of these (people). I’ve followed the story for a long time.”

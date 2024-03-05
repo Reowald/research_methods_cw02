@@ -1,0 +1,65 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Homeowners with mental health problems are particularly likely to have cut back on food, energy and other essentials to keep up with mortgage payments, a survey indicates.
+
+Three in 10 (30%) mortgage holders with mental health issues have cut back spending on essentials such as food, energy and medicine to keep up with mortgage repayments, compared with a fifth (21%) of people without mental health problems.
+
+The YouGov research among more than 2,100 people across the UK was carried out for the Money and Mental Health Policy Institute.
+
+It also found that people with mental health problems are around twice as likely (29% versus 15%) as those without to have used savings to keep up with their mortgage payments, and to have reduced their spending on essential maintenance and repairs to their home (27% versus 14%).
+
+Only three in 10 (29%) mortgage holders said they are aware of the Mortgage Charter introduced last year. Many lenders have signed up to the charter, which gives struggling borrowers various options, depending on their circumstances.
+
+When you’re struggling with your mental health, simple tasks like cleaning your teeth can be difficult, never mind picking up the phone to tell your lenders that you don't know how you're going to afford your next payment Conor D'Arcy, Money and Mental Health Policy Institute
+
+Two-thirds (65%) of mortgage holders with mental health problems said they would feel anxious about reaching out to their mortgage provider if they were struggling to keep up with payments, as would 41% without mental health problems.
+
+Conor D’Arcy, chief executive of the Money and Mental Health Policy Institute, said: “The good news is there are options available if you are struggling.
+
+“We’re calling on lenders to make that help as accessible as possible for the one in three mortgage holders with mental health problems.
+
+“When you’re struggling with your mental health, simple tasks like cleaning your teeth can be difficult, never mind picking up the phone to tell your lenders that you don’t know how you’re going to afford your next payment.
+
+“It’s crucial that mortgage lenders understand these practical challenges, identify those at risk and reach out to them through a channel that suits them.”
+
+The YouGov research was carried out across the UK in September 2023.
+
+We work closely with our members and specialist charities to ensure banks meet their responsibilities and deliver good outcomes for customers UK Finance spokesman
+
+A spokesman for trade association UK Finance said: “The financial services industry is committed to supporting all customers, and lenders work hard to make it easier for customers to disclose their needs so that they can give them the support they need.
+
+“We work closely with our members and specialist charities to ensure banks meet their responsibilities and deliver good outcomes for customers.
+
+“Lenders are ready to support anyone who is struggling with their mortgage payments, and UK Finance’s Reach Out campaign was launched to raise awareness of the help available.
+
+“We would encourage anyone worried about their finances to get in contact with their lender to discuss the support available – reaching out to your mortgage lender will not affect your credit score.”
+
+Reach Out raises awareness of the range of support available to mortgage holders, including outside of the Mortgage Charter. Polling for the campaign has indicated that 74% of people are aware of support available from mortgage lenders.
+
+The Money and Mental Health Policy Institute’s research was released as a separate survey in England, from housing charity Shelter and HSBC UK, found that two in five (40%) people are worried their housing pressures will get worse this year.
+
+More than half (56%) reported being kept awake at night in the last year, while seven in 10 (70%) said they felt anxious, and around half (49%) said their housing situation has left them feeling hopeless.
+
+We know how easy it can be to feel overwhelmed, but our message is that you don't have to face it alone Nadeem Khan, Shelter
+
+Shelter and HSBC UK are urging anyone who is feeling overwhelmed by their housing problems to get in touch with Shelter, or to reach out to their bank for broader financial health support. They said that by tackling issues early, they are less likely to escalate.
+
+Nadeem Khan, emergency helpline operations manager at Shelter, said: “The housing emergency can feel like a pressure cooker, and we know how easy it can be to feel overwhelmed, but our message is that you don’t have to face it alone.”
+
+HSBC UK’s head of financial inclusion and vulnerability, Maxine Pritchard, said: “If you are feeling worried about your finances you’re not alone – and getting help and advice early can make all the difference.
+
+“Together with Shelter we’ve helped thousands of people experiencing homelessness rebuild their lives, and now we’re working to help more people and communities build financial resilience and access meaningful support before they reach a crisis point.”
+
+The Shelter/HSBC UK survey was also carried out by YouGov, among more than 3,200 people with housing costs in England in January 2024.
+
+Here are Shelter emergency helpline operations manager Nadeem Khan’s tips on easing the pressure of housing problems:
+
+1. Whatever the housing pressure or problem you face, if it is affecting your or your family’s health, take the first step towards getting help.
+
+2. Respond to letters and phone calls. It is natural to want to keep your head down and hope your worries will go away but it is important to read everything. Keep a record of every letter and phone call.
+
+3. If you are falling behind on your rent or at risk of losing your home, get advice straight away. There may be steps you can take to improve your situation. For example, you may be able to claim housing benefit to help pay the rent.
+
+4. Your mental health matters. You can get specialist help with mental health issues from charities such as Rethink Mental Illness and Mind, or by speaking to your GP.

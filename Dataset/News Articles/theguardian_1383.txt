@@ -1,0 +1,41 @@
+As the higher education sector catches its breath after the rollout of emergency pandemic online learning, students are re-evaluating what they really want from their university experience, according to new research from the professional services firm EY.
+
+The company surveyed more than 3,000 students from universities around the world to understand how technology could facilitate their success in higher education. The findings were sobering, with one-third of students surveyed stating they were neutral or unhappy with their university choice. This is a challenge university leaders must address to ensure they maintain the student numbers they need. But what would help redress these significant levels of dissatisfaction, and how can a digital revolution ensure the needs of modern students are met?
+
+Convincing students
+
+The journey begins before enrolment. EY’s report found that students want to be assured that they will belong, and that their courses will open doors to careers. Paul LeBlanc, president at Southern New Hampshire University, in the US, says this focus on belonging is particularly pertinent to the growing number of students who do not have higher education in their family background. “Lots of first-generation university students are now entering university – it’s important that the university validates that they belong there,” he says.
+
+The application process itself is central to this. The research found that the application journey must be clear and straightforward. Institutions should design digital pathways that take prospective students to application within just a few clicks. And those who abandon their applications part-way, perhaps due to self-doubt or concerns about fit, should be intercepted and personally re-engaged.
+
+It’s also about the offer set out to students when they are exploring options. With 80% of respondents agreeing that improved career prospects are very or extremely important to the overall university experience, showing prospective students that courses will stay up to date with industry – perhaps by harnessing data on in-demand workplace skills and employment trends to pivot course content as needed – could be compelling. With 48% of students choosing their university course to qualify for a chosen career or improve their career prospects, the promise of education that adapts to industry would go a long way in convincing students that they are choosing the right institution.
+
+View image in fullscreen The quality of online learning was very or extremely important to the university experience, said 62% of students. Photograph: Westend61/Getty Images
+
+The importance of quality teaching
+
+Though students are reasonably happy with the quantity of online learning they have received, they are dissatisfied with the quality, which is failing to engage, motivate, enable collaboration or check their understanding. With quality teaching ranking as the most important aspect of students’ university experience, and with 62% of students saying the quality of online learning was very or extremely important to their university experience, defining what “quality” looks like for today’s students is imperative. Again, a human-centric approach to technology implementation is crucial: if funds were available to invest in technology, 45% of students would prioritise upskilling faculty to deliver digital learning more effectively, 41% would want their university to invest in developing better digital learning materials, and 40% asked for more student support with effective digital learning.
+
+“People think that online learning is digital learning. But it’s not,” says Alison Cairns, EY’s Oceania education lead. We saw the distinction during Covid, she explains, as educators hurried to turn lectures and readings into online content. “We need to recognise how amazing the universities were,” she says. “But what they did was emergency response teaching. They took traditional learning and put it on a platform so it could be consumed remotely.” Digital goes a step further and embraces the rich possibilities offered by technology, it’s not about just replicating analogue lessons online.
+
+Students want convenience, flexibility, and self-paced learning – a curated, even personalised, education. They want to feel like people, not numbers. And when it comes to digital, they expect a consumer-grade experience. As one student from Australia said: “I do a lot of online learning, but it’s not very interactive, which is frustrating because I often feel like I’m paying for a course that I’m teaching myself.”
+
+View image in fullscreen Alison Cairns, Oceania education leader at EY.
+
+It’s a feeling Cairns recognises: “We can see that if you have old content on a new platform, you don’t get a great outcome.” Though a few universities have championed a new wave of learning – one that is consistent with the seamlessness of our everyday digital experiences – many are behind when it comes to managing digital infrastructure.
+
+There are challenges ahead for convincing teaching faculty that digital is the way forward. “The fact is, we worked our staff in universities to the bone [during the pandemic],” says Cairns. “If you ask them if they want more online teaching, they’ll hesitate. Academics felt burned out by the experience. They will need to be convinced how incorporating digital into learning not only provides a richer, more effective learning experience for students, but can also ultimately help them be more productive.”
+
+The reality of digital or hybrid education
+
+Student cohorts are more diverse than ever, as are their needs: 42% of the surveyed students work part time, 17% report having a disability, and 12% are carers. Universities must adapt to these realities to facilitate success. EY’s report highlights a number of strategies that universities could employ to make a more convincing offering to prospective students – including the “flipped learning” model. In a flipped classroom, you can choose the elements you like at home. “You might choose video or gamification,” says Cairns. “And then you come into the classroom and it’s all about discussion and applied learning. This is also where they get a lot of value from the teaching faculty.”
+
+This hybridity speaks to what students want from modern universities: 43% said they would prefer to have at least an equal blend of online and in-person lectures, and while students are more likely to prefer face-to-face for seminars and group discussions, for collaborative/group tasks, around 41% would gladly have at least an equal amount online. But how do universities make this sort of bespoke education a reality?
+
+“Say you’re a lecturer, AI can take your life’s work and make you a new course,” says Cairns. “It can pump out the information in all different forms.” This could include multimedia elements such as videos, audio clips, images, animation and interactive simulations. Content that might otherwise take months or years to update can be adapted in a matter of weeks. “Technology should be an enabler,” says Cairns. “If you’re someone who has a literacy challenge, quality digital learning allows you to have that content read out loud to you or translated into a preferred language.”
+
+Equally, faculties can monitor student learning models and patterns using analytics that allow them to identify gaps in student learning and intervene accordingly, adapting course content to help students who are struggling. Or alternatively, suggest additional courses and units based on the students’ propensity and alignment to in-demand industry roles.
+
+Universities find themselves in the midst of transformation, and with change often comes growing pains. But Cairns and her colleagues at EY believe the solution is placing humans at the centre of digital design. And as the research shows, the student experience has much to gain from this ethos.
+
+To find out more about harnessing tech to transform learning, read EY’s latest report into higher education

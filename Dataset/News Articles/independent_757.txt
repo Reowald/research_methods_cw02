@@ -1,0 +1,55 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+OpenAI has unveiled a new tool which can generate short videos based on text prompts.
+
+Called Sora, it is able to create videos up to a minute long based solely on a short text-based description of what the user wants to create.
+
+OpenAI, the maker of ChatGPT, said Sora was being made available to safety testers to “assess critical arears for harms or risks”, as well as being given to a range of “visual artists, designers, and filmmakers” to try out and offer feedback.
+
+“We’re teaching AI to understand and simulate the physical world in motion, with the goal of training models that help people solve problems that require real-world interaction,” OpenAI said of its new tool.
+
+The firm said the model has a “deep understanding of language” which enabled it to “accurately interpret prompts and generate compelling characters that express vibrant emotions”.
+
+But OpenAI said it was also taking “several important safety steps” around Sora ahead of making it more widely available.
+
+It said it was “red teaming” the tool, meaning it was being tested for vulnerabilities and its ability to be exploited, and was adding a detection classifier to the metadata of Sora videos which identifies it as content created by AI.
+
+Video examples of Sora in action on the OpenAI website also included a watermark, identifying the content as being AI-generated – an important tool in combating misinformation.
+
+The ChatGPT maker added: “We’ll be engaging policymakers, educators and artists around the world to understand their concerns and to identify positive use cases for this new technology.
+
+We believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems over time OpenAI
+
+“Despite extensive research and testing, we cannot predict all of the beneficial ways people will use our technology, nor all the ways people will abuse it.
+
+“That’s why we believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems over time.”
+
+Earlier this week, the company revealed that it had detected and removed several state-backed groups using its AI tools for malicious activities, including working on content to be used in phishing attacks.
+
+OpenAI and a team from Microsoft, a major investor in the AI firm, had uncovered groups linked to China, Iran, North Korea and Russia, the company said.
+
+In a busy week for the firm, it also unveiled plans to give ChatGPT a better memory so that it could remember more of its users’ chats.
+
+Dr Andrew Rogoyski, from the University of Surrey’s Institute for People-Centred AI, said he was encouraged by OpenAI’s safety approach to Sora, but questioned what access AI safety institutes had had to the tool ahead of its announcement.
+
+“OpenAI has recognised the potential for harm with such a system,” he said.
+
+“The idea that an AI can create a hyper-realistic video of, say, a politician doing something untoward should ring alarm bells as we enter into the most election-heavy year in human history, with over 60 democratic elections in 2024 and half the planet’s population voting.
+
+OpenAI’s Sora system potentially marks a ChatGPT moment for video Dr Andrew Rogoyski, University of Surrey
+
+“Interestingly, OpenAI plans to watermark Sora’s outputs with C2PA, a digital certification system that is growing in popularity as a means to track the provenance of information.
+
+“Although OpenAI is promising further details on the safety measures put in place for Sora, one has to ask whether the UK’s AI Safety Institute, announced by Rishi Sunak last November at Bletchley Park and enjoying a commitment from the big AI firms to share their breakthroughs, has actually seen sight of Sora before its release yesterday.”
+
+But Dr Rogoyski also acknowledged the potential of Sora, calling it a “major step forward” for AI video.
+
+He said: “OpenAI’s Sora system potentially marks a ChatGPT moment for video.
+
+“In the same way that the text-based ChatGPT launched just over a year ago has transformed and disrupted text-based work, from scriptwriting to email marketing, the Sora system could do the same for video.
+
+“With a simple text-based prompt, Sora will create a video sequence with astonishing realism and clarity.
+
+“If OpenAI’s showreel is to be believed – there have been examples of AI companies faking their own systems’ outputs – then this is a major step forward.”

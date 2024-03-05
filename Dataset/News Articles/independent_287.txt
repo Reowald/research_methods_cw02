@@ -1,0 +1,27 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Britain’s biggest building society is slashing selected mortgage rates by up to 0.81 percentage points from Wednesday and introducing a new range of fixed and tracker rate products.
+
+The changes were announced as another major lender said it is tweaking some of its mortgage rates upwards.
+
+Nationwide Building Society’s products include a five-year fixed-rate mortgage at 3.85% for new customers with a 40% deposit who are moving home. The deal has a £1,499 fee.
+
+We are now offering sub-4% rates for the first time in eight months Henry Jordan, Nationwide Building Society
+
+For first-time buyers, Nationwide’s new range includes a two-year fixed-rate mortgage at 4.56% for people with a 15% deposit, also with a £1,499 fee.
+
+Henry Jordan, director of home at Nationwide Building Society, said: “These latest changes mean we are now offering sub-4% rates for the first time in eight months.”
+
+Many other lenders have slashed their mortgage rates as the new year has got under way – although sticky inflation and wider global uncertainties have prompted some experts to suggest that higher interest rates may be around for a while yet.
+
+Nationwide’s announcement was made as Santander said it is making small increases to some of its products, having reduced some of its mortgage rates earlier this month.
+
+Santander continually reviews its rates based on a number of factors, such as wider market conditions including swap rates Santander spokesman
+
+A Santander spokesman said: “Santander continually reviews its rates based on a number of factors, such as wider market conditions including swap rates.
+
+“We offer a range of competitive mortgage deals with five-year deals starting from 3.99% and two-year deals starting from 4.25%.”
+
+Referring to Nationwide’s announcement, Riz Malik, founder and director of R3 mortgages, told website Newspage: “The last guest has finally joined the party and we are glad they have. However don’t expect these rates to be around for long given some of their competitors are already pricing upwards.”

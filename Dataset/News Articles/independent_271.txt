@@ -1,0 +1,53 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The number of company insolvencies hit a 30-year high in 2023 as firms suffered amid high interest rates and cost pressures.
+
+Figures from the Insolvency Service revealed that 25,158 firms across England and Wales went bust last year – up 14% on 2022 and the highest annual number since 1993.
+
+The number of creditors’ voluntary liquidations (CVLs) surged 9% to 20,577, marking the highest since records began in 1960.
+
+There were also 2,827 compulsory liquidations, up 44% on 2022, a 27% rise in administrations to 1,567, a 67% increase in company voluntary arrangements (CVAs) to 185 and two receivership appointments.
+
+It comes after the number of firms going bust across England and Wales in the final three months of 2023 reached the highest quarterly level since the financial crisis.
+
+Businesses across the UK were hit by a barrage of costs last year, including higher interest rates, energy and staff wage bills, while they also grappled with falling consumer confidence.
+
+Budget retailer Wilko was the year’s most high-profile casualty, with its failure leading to the loss of more than 12,000 jobs and leaving holes in many high streets across the country.
+
+Experts warned that 2024 is set to be another difficult year for UK businesses.
+
+Julie Palmer, partner at insolvency specialist Begbies Traynor, said: “Thousands of businesses have been pushed into insolvency due to a combination of interest rates at levels we haven’t seen in over a decade, pushing the cost of borrowing up, alongside inflation, weak consumer confidence and rising input costs – a perfect storm for financial distress.
+
+“With more businesses entering insolvency in 2023 than during the financial crisis, economic conditions must improve quickly, otherwise the fight for survival in 2024 might be a step too far for the battered and debt-laden businesses that managed to survive last year.”
+
+The data showed a 14% year-on-year increase in company insolvencies to 6,788 in the fourth quarter of last year – the highest since the end of 2008.
+
+This was also 9% higher than the previous quarter.
+
+While in terms of interest rates and prices the general feeling might be that the worst is over, the trading environment for businesses in the UK remains pretty onerous Mark Ford, Evelyn Partners
+
+But while overall company insolvencies were at a 30-year high in 2023, the Insolvency Service said the number of firms on the Companies House register has increased over time, so the rate of companies going insolvent compared with active companies remained much lower than a peak seen during the 2008-09 recession.
+
+There are also some signs for optimism over the year ahead, with hopes that lower inflation may see the Bank of England cut interest rates this year.
+
+However, retail and hospitality firms are set to be hit hard by an incoming increase in the national living wage, while construction firms are suffering amid a downturn in the housing market from higher interest rates.
+
+Restructuring expert Mark Ford, at professional services firm Evelyn Partners, said: “While in terms of interest rates and prices the general feeling might be that the worst is over, the trading environment for businesses in the UK remains pretty onerous.
+
+“We can expect the costs environment for some firms to become more challenging, particularly but not exclusively in construction, retail, leisure and healthcare sectors.
+
+“It also looks like the crisis in the Middle East might start to choke supply chains, lengthen lead times and possibly restrict the supply of imported materials and components.”
+
+Here is a list of the five industries with the highest number of insolvencies in 2023, according to the Insolvency Service:
+
+– Construction – 4,371
+
+– Wholesale and retail trade; repair of motor vehicles and motorcycles – 3,929
+
+– Accommodation and food service activities – 3,727
+
+– Administrative and support service activities – 2,299
+
+– Professional, scientific and technical activities – 2,001

@@ -1,0 +1,33 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Malaysia's state oil company Petroliam Nasional, or Petronas, is looking to bring back Formula One races to Malaysia in 2026, after a nine-year hiatus, according to three sources with knowledge of the matter.
+
+Malaysia hosted a leg of the F1 world championship at its Sepang International Circuit (SIC) from 1999 but staged its last race in 2017, due to declining ticket sales and the rising costs of hosting the event.
+
+Petronas, Malaysia's only Fortune 500 company, won naming rights to the SIC for three years in October last year. The circuit continues to host MotoGP races and other motorsport events.
+
+Petronas's plan to bring back the F1 race was revealed during a company town hall meeting led by the firm's president and chief executive, Tengku Muhammad Taufik Tengku Aziz, on Tuesday, the sources said, declining to be identified as they were not authorised to speak to media.
+
+The sources did not elaborate on the reasons for the return. Petronas, the SIC and the Malaysian prime minister’s office did not immediately respond to requests for comment.
+
+Last year, Malaysia’s sports minister, Hannah Yeoh, said hosting an F1 race was “very expensive”, adding, “If we could host an F1 race, we already would have done it, but for now, we can’t afford to have races.”
+
+F1 officials did not immediately reply to a request for comment.
+
+The sport’s popularity has widened globally in recent years, driven by the Formula 1: Drive to Survive Netflix TV series, and as more countries vie to host the races to raise visibility, boost tourism, and stimulate their economy. And with F1’s calendar growing in recent years it is now set for a record number of races in 2024.
+
+Max Verstappen won the last Malaysian F1 Grand Prix in 2017 while Lewis Hamilton, one of the drivers for the Mercedes-AMG Petronas F1 team, won the drivers' championship that year.
+
+Lewis Hamilton driving during practice for the Malaysia F1 Grand Prix in 2017 (Getty Images)
+
+Petronas has been a sponsor of the Mercedes team since 2010, with the partnership winning eight constructors’ and seven drivers’ world championships.
+
+The team ranked second in the constructors’ standings last year, with Hamilton in third and George Russell in eighth in the drivers’ standings.
+
+Petronas is due to announce its full-year 2023 and fourth-quarter earnings profit in early March. The company in November posted a lower third-quarter profit on the back of softer revenue due to lower average realised oil and gas prices.
+
+Max Verstappen celebrates winning the Malaysia Formula 1 Grand Prix in 2017 (Getty Images)
+
+Reuters

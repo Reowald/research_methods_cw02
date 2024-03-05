@@ -1,0 +1,61 @@
+In the Bling Zoo, a tiger wears a giant gold medallion, a monkey sports a bejeweled crown, and a turtle munches on a bowl of diamonds.
+
+Unfortunately, this fantastical destination does not exist. It's a creation of Sora, the new text-to-video artificial intelligence program from ChatGPT maker OpenAI.
+
+'Bling Zoo' was just one of a series of videos Sora created Thursday when CEO Sam Altman asked his followers on X (formerly Twitter) to submit commands that were generated into movies.
+
+The results were so ultra-realistic, they led one observer to comment: 'This one convinced me the future is here and it's going to be OK.'
+
+One user requested that Sora create, 'An instructional cooking session for homemade gnocchi hosted by a grandmother social media influencer set in a rustic Tuscan country kitchen with cinematic lighting'
+
+This prompt led to the most realistic video containing a human that Altman posted on Thursday. Users marveled at how realistic the woman's hands were - a notoriously tough subject for AI images to recreate
+
+Altman started the stunt with a tweet, saying: 'We'd like to show you what Sora can do, please reply with captions for videos you'd like to see and we'll start making some!' he wrote.
+
+'Don't hold back on the detail or difficulty!' he added in a follow-up post.
+
+The prompts quickly started coming in:
+
+'A wizard wearing a pointed hat and a blue robe with white stars casting a spell that shoots lightning from his hand and holding an old tome in his other hand,' wrote one replier.
+
+'A half duck half dragon flies through a beautiful sunset with a hamster dressed in adventure gear on its back,' wrote another.
+
+Altman delivered the results, posting some of Sora's creations, compiled in the following video:
+
+One observer likened it to Interdimensional Cable, an episode of the science fiction TV show Rick and Morty where a special cable box allowed viewers to glimpse television in alternate realities - a world where everyone is made of corn, for example.
+
+'Bling Zoo' and other videos like it were not far off from that.
+
+In response to Sora's video of 'A bicycle race on ocean with different animals as athletes riding the bicycles with drone camera view,' Sora delivered a video that led one commenter to speculate about Sora's supremacy over Dall-E, one of the existing generative AI art programs:
+
+'I have feeling that any one frame grab from Sora is better than Dalle,' they wrote.
+
+Sora created short videos of user prompts submitted over X, leading some to liken the results to a science fiction view into an alternate universe
+
+The results were eerily realistic
+
+'A bicycle race on ocean with different animals as athletes riding the bicycles with drone camera view,' requested one follower.
+
+And Sora delivered.
+
+Same when someone asked Altman to have Sora show 'Two golden retrievers podcasting on top of a mountain.'
+
+For one video, a commenter requested
+
+The resulting video showed just that, and the AI-generated woman even waved her hand around to show that she had normal fingers - which can be notoriously hard for AI. Often AI-generated people end up with too many or too few fingers.
+
+'Big flex waving those fingers around in slow-mo!' one commenter wrote. 'And there’s only 10!' replied another.
+
+Sora is initially launching to select creators, Altman wrote on X. He and OpenAI have not announced when it will be released to the general public.
+
+One particularly impressed X user concluded that 'AGI is here'.
+
+When an X user requested 'Two golden retrievers podcasting on top of a mountain,' Sora delivered
+
+The abbreviation stands for artificial general intelligence, an AI system that can operate on its own without human control, can understand itself, and can learn new skills.
+
+Such a system could be capable of solving complex math or scientific problems that might take humans years to unravel, some scientists hope.
+
+AGI is both a goal and a fear among computer scientists who work with AI, though, as some worry that such a system could view humans as a threat to be eliminated.
+
+In the case of Sora, the computing power is not going to destroying humanity, but to creating 10-second videos from people's playful prompts.

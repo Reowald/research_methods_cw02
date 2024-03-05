@@ -1,0 +1,69 @@
+He said Beijing's plan to secretly plant technology inside the US critical infrastructure has become a significant threat to national security
+
+The wars raging in Ukraine and the Middle East were the focus of the conference - but Wray urged leaders not to lose sight of a subtler menace
+
+China's cyber attacks have grown to a 'scale greater than we'd seen before', the FBI director has advised amid fears that US infrastructure is under threat.
+
+Christopher Wray gave the grave warning as intelligence chiefs and politicians met at the Munich annual security conference on Sunday, according to the Wall Street Journal.
+
+The wars raging in Ukraine and the Middle East were the focus of the conference - but Wray urged leaders not to lose sight of a subtler menace.
+
+He said Beijing's plan to secretly plant technology inside the US critical infrastructure has become a significant threat to national security.
+
+Wray cited Volt Typhoon, the moniker given to the Chinese hacking network that infiltrated the US last year, but said it's only the 'tip of the iceberg.'
+
+China's cyber attacks have grown to a 'scale greater than we'd seen before', FBI director Christopher Wray has warned amid fears that US infrastructure is under threat
+
+Analysts believe China's military has changed its strategy from intelligence-gathering to infiltration in a bid to sew chaos should war break out
+
+'It's one of many such efforts by the Chinese,' he told the conference. Wray added that China is increasingly inserting 'offensive weapons within our critical infrastructure poised to attack whenever Beijing decides the time is right.'
+
+Under 'Volt Typhoon' Beijing's military have burrowed into more than 20 major suppliers in the last year alone including a water utility in Hawaii, a major West Coast port and at least one oil and gas pipeline, analysts revealed weeks ago.
+
+They have bypassed elaborate cyber security systems by intercepting passwords and log-ins unguarded by junior employees, leaving China 'sitting on a stockpile of strategic' vulnerabilities.
+
+'It is very clear that Chinese attempts to compromise critical infrastructure are in part to pre-position themselves to be able to disrupt or destroy that critical infrastructure in the event of a conflict,' said Brandon Wales of the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency.
+
+Hiding among authorized users can leave the hackers almost invisible to authorities.
+
+'The two toughest challenges with these techniques are determining that a compromise has occurred, and then once detected, having confidence that the actor was evicted,' said Morgan Adamski of the National Security Agency.
+
+But in August the hackers were spotted trying to penetrate systems run by the Public Utility Commission of Texas and the Electric Reliability Council of Texas that provide the state's power.
+
+But Hawaii is thought to be the biggest target given the crucial role it would play for the US if conflict broke out over Taiwan.
+
+Chinese military planners intend 'network warfare' to play a crucial role in amphibious invasions with air and missile strikes coordinated alongside cyber-attacks on command networks, critical infrastructure, satellite networks and military logistics, according to Reynolds.
+
+'This is stuff they pretty clearly see as relevant to a Taiwan scenario,' he said, 'though they don't explicitly say this is how we're going to take over Taiwan.'
+
+In May, Microsoft uncovered Chinese attempts to infiltrate dozens of sectors in Guam, the closest US territory to Taiwan.
+
+Communications, manufacturing, utility, transportation, construction, maritime, government, information technology, and education organizations were targeted by Volt Typhoon.
+
+That month, the 'Five Eyes' security alliance between the US, UK, Canada, Australia and New Zealand offered new advice to companies on how to keep their systems safe.
+
+But new requirements on states to report on cyberthreats to their public water system have been withdrawn by the Environmental Protection Agency in the face of court challenges against Federal 'overreach'.
+
+Beijing has a long history of cyber warfare with the West and managed to steal critical control data from Canadian gas pipeline operator Telvent after breaching its firewall in 2012.
+
+President Joe Biden with Chinese president Xi Jinping last year
+
+China's focus on Guam is of particular concern, as the US territory is a key military base in the Pacific, and would be a major staging ground for any American response in the event of a conflict in Taiwan or the South China Sea
+
+The group's apparent focus on Guam is of particular concern, as the US territory is a key military base in the Pacific
+
+Hackers at the notorious Unit 61398 were held responsible and Five members of the unit were indicted in 2014 for hacking US companies.
+
+But officials believe the strategy has changed from one of gathering intelligence to one of wreaking havoc.
+
+And no company is too small or seemingly unimportant to escape Chinese attention.
+
+Eric Goldstein of Cybersecurity and Infrastructure Security Agency told the Washington Post that many targets are 'not necessarily those that would have an immediate relevant connection to a critical function upon which many Americans depend.
+
+'Opportunistic targeting based upon where they can gain access', is a way of establishing access to an entire industry.
+
+The National Security Agency has warned that any employee is at risk of allowing Chinese spies into their company, and has urged firms to insist on mass password resets.
+
+They want better monitoring of accounts that have high network privileges and warned that authentication which relies on a text message to a user's phone can be intercepted by foreign governments.
+
+And while the Chinese are keen to project their growing military strength, the full extent of their cyber capabilities remains a closely guarded secret.

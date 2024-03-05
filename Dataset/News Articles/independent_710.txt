@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Carlos Sainz insists he will “give his absolute best” this year after being dropped by Ferrari for Lewis Hamilton in 2025.
+
+The shock news on Thursday sees seven-time F1 world champion Hamilton leave Mercedes after 11 years in which he won six world titles.
+
+Hamilton, 39, has exercised a release clause in his two-year contract to leave the Silver Arrows and take up a “multi-year contract” with the Scuderia.
+
+It leaves Sainz, who claimed Ferrari’s only victory last year in Singapore, somewhat in the lurch and without a drive for 2025.
+
+The Spaniard said in a brief statement on Twitter/X: “Following today’s news, Scuderia Ferrari and myself will part ways at the end of 2024.
+
+Follow LIVE: F1 star explains Ferrari move for 2025 and latest reaction from Toto Wolff
+
+“We still have a long season ahead of us and, like always, I will give my absolute best for the team and for the tifosi all around the world.
+
+“News about my future will be announced in due course.”
+
+Ferrari’s short statement on Thursday, confirming the signing of Hamilton, was notable for no reference to Sainz’s future.
+
+Carlos Sainz will leave Ferrari at the end of the 2024 F1 season (Getty Images)
+
+Negotiations between Ferrari and Sainz started almost a month ago, with the 29-year-old’s current deal expiring at the end of the 2024 season.
+
+But while Charles Leclerc penned a new long-term contract, Sainz’s deal has not been extended with Ferrari president John Elkann said to be instrumental in persuading Hamilton to join the Scuderia.
+
+Sainz is a two-time race winner, having claimed his first F1 victory in his 150th race at Silverstone in July 2022.
+
+The Spaniard joined Ferrari in 2021 from McLaren. He started his career at Toro Rosso in 2015 and has also driven for Renault.

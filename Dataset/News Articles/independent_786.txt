@@ -1,0 +1,19 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+British Airways says it is going to stop using a million pieces of paper each year.
+
+At the moment, the company uses a complicated and time-consuming system of logging issues with planes, based on paper. When a fault is found with a plane and reported by flight and cabin crews, they are written down onto physical paper and given to maintenance crews – who again track their work by writing on paper.
+
+Now the airline is finally moving to a digital system. iPads on ever aircraft will replace the paper system entirely, and any problems can be reported nearly instantly.
+
+That will not only reduce the cost and waste of using vast amount of paper, but should also mean that the data is transferred to engineers within seconds, rather than requiring the complicated shuttling of paper documents.
+
+The system is called E-Logs and BA says that it could also reduce the amount of downtime for planes. The instant reporting means that new parts can be ordered more quickly, and BA says that it will be able to predict faults and fix them before they become an issue and take the plane offline entirely.
+
+BA is spending £7 billion on new technology over the next two years, its biggest ever investment. It will bring new technology including machine learning and automation, with the intention of making everything from booking to engineering more efficient.
+
+“We’re using the latest technology to help ensure we continue delivering a consistently high standard of service for our customers – always with a focus on safety,” said Andy Best, British Airways’ chief technical officer.
+
+“Our investment in innovative tools like this, means we can support our teams to identify and put solutions in place ahead of time. By replacing time-consuming manual processes with digital technology we are constantly improving the reliability of our aircraft fleet and as a result our customers’ experience.”

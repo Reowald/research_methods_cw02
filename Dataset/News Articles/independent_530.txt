@@ -1,0 +1,37 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Nasa’s Juno spacecraft has snapped new images of Jupiter’s third largest moon Io, revealing stunning details of the volcanic activity on the moon’s surface.
+
+The high-resolution images were taken last week when the Juno spacecraft made an ultra-close flyby of Io – the closest any probe has come to the Solar System’s most volcanic world in over two decades.
+
+Juno had previously come this close to Io on 30 December, 2023, when it came within about 1,500km (930miles) of Io’s surface.
+
+The latest passby happened over the southern hemisphere of Io, while Juno’s prior flybys were over the north.
+
+The only other time when any spacecraft had come this close to Io was in 2001 when Nasa’s Galileo probe came about 180 km close to Io’s south pole.
+
+“The JunoCam instrument aboard our Juno Mission acquired six images of Jupiter’s moon Io during its close encounter today. This black-and-white view was taken at an altitude of about 1,500 miles,” Nasa posted on X after the 30 December flyby.
+
+JPL cutting 8% of workforce
+
+Nasa’s new images reveal stark details of the Io’s volcanic surface, including twin active plumes, which either represent “two vents from one giant volcano, or two volcanoes near each other.”
+
+The latest images also show signs of lava lakes, some with apparent islands, on Io.
+
+“By combining data from this flyby with our previous observations, the Juno science team is studying how Io’s volcanoes vary,” Scott Bolton, Juno’s principal investigator, said in a statement.
+
+The intense volcanic activity on Io is due to the gravitational pull of Jupiter – the most massive planet in our solar system – as well as the force exerted by the planet’s other moons Europa, Ganymede and Callisto.
+
+The push and pull forces of Jupiter and its other moons on Io are so immense its surface rises and drops by extremes as much as 100 m (330 ft), researchers say.
+
+Infact, Io’s surface gets its orange and yellow hues due to the moon’s volcanoes constantly emitting sulfur and other compounds.
+
+While Io is almost the size of Earth’s Moon, scientists say the Jupiter moon may appear different every day due to constant eruptions on its surface.
+
+New images of Io may provide fresh insights into how volcanoes on the Jupiter moon work (Nasa)
+
+By analysing the new images further, astronomers hope to gain further insight into how Io’s volcanoes work, and whether there is a global magma ocean under the Jupiter moon’s rocky surface.
+
+“We are looking for how often they erupt, how bright and hot they are, how the shape of the lava flow changes, and how Io’s activity is connected to the flow of charged particles in Jupiter’s magnetosphere,” Dr Bolton added.

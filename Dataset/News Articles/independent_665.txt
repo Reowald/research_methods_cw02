@@ -1,0 +1,83 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mario Strikers: Battle League Football is one of the most anticipated Nintendo Switch games to come out this summer. After the release of Nintendo Switch Sports back in April, Nintendo is offering even more sporting goodness, albeit with a slight rule variation on traditional football games.
+
+During February’s Nintendo Direct event, fans were pleasantly surprised to see the Mario Strikers series on the Nintendo Switch’s latest line up of upcoming games. Originally released on the Gamecube in 2007, Battle League Football is a stylistic continuation of one of Mario’s most underappreciated spin-offs.
+
+As a “battle football” game, it puts emphasis on over-the-top goal-scoring, tackling and power-ups as well as competitive local multiplayer and online clubs.
+
+But does Battle League Football live up to Nintendo fans lofty expectations of its unique multiplayer and fast-paced action? While it manages to engage its players with a surprisingly robust mechanical depth, its lack of variation may not appeal to new fans of the series.
+
+For our full review, keep reading the rest of the article below.
+
+How we tested
+
+We played through several quick games as well as the different cups that were available through single player as well as offline multiplayer. Through our time with the game, we managed to unlock several customisation options for each of the ten characters available to test different playstyles. And our experience with the online multiplayer was based on a time-limited trial while game servers were open. Here’s what we made of the title overall...
+
+‘Mario Strikers: Battle League Football’: £44.99, Very.co.uk
+
+(Nintendo)
+
+Rating: 7/10
+
+7/10 Consoles: Nintendo Switch
+
+Nintendo Switch Publisher: Nintendo
+
+Nintendo Release date: 10 June 2022
+
+10 June 2022 Age rating: 7+
+
+Gameplay
+
+Mario strikers battle league football is a combat sport game that sees two teams of five battle it out on the pitch. The makeup of each team means players control four of the characters on each side with the goalie being controlled independently by Bowser minion Bam Bam.
+
+Unique characters such as Mario, Luigi, Bowser and Princess Peach can all play to their strengths, with a fair balance of characters between the initial roster. But with only ten characters to choose from in the initial line up, there’s something to be desired with the flexibility of different characters and what each of them bring.
+
+Characters that prioritise speed, such as Toad, are substantially weaker than heavy hitters like Bowser and Donkey Kong, making them useful for covering large areas as opposed to defensive play. But stronger characters can also be used to play more aggressively, having more powerful tackles and kicks that can knock the goalies back.
+
+Use items to disrupt players and maintain possession (Nintendo)
+
+There are a number of different techniques each character can employ to attack and defend; tackling, dodging, through passing and well timed two-touch plays that can lead to faster ball deliveries.
+
+Power ups, make a return and much like in Mario Kart, mushrooms can increase speed, shells knock over opponents, bananas can stagger opposition and Bob-ombs create a wide area of effect to push players away.
+
+“Hyper strikes” also make a return that see characters charge up a goal strike with a (literally) visually striking wind up. Not only does it provide the satisfaction of curling the ball with enough force to create a tornado, but if successfully scored, can reward successful players with double points, making it a worthy hail mary when the clock is running down.
+
+Hyper strikes might look cool but they can go for a bit too long (Nintendo)
+
+It’s an impressive display but after watching characters like Rosaline curve a football around a moon before hitting the back of the net a dozen times, it starts to feel like a wider mix of moves could have been thrown in to keep things interesting. This feeling is also exacerbated when certain animations take longer than others and can’t simply be skipped.
+
+Customisation
+
+What’s new with Battle League Football is customisable gear, which can enhance or decrease different stats. While it makes for fine tuning of each character, its effects are marginal but do also offer some cosmetic lifts for each character as well as accentuate some of their key performing stats at the expense of their weaknesses.
+
+Customising each combination of gear from head to toe can alter each character’s performance but often times, their standard loadout is appropriate for most game types.
+
+Characters can be kitted out in different gear (Nintendo)
+
+Roster makeups can also have a clear effect on how the opposing team plays. If they have a matchup that is well suited to technical combos, countering them with speedy characters can be more important than heavy hitters that lack the speed to keep up.
+
+While it can offer a greater degree of flexibility to different approaches, gear customisation options are still quite limited, much like the choice of playable characters.
+
+Multiplayer
+
+What seems to be the main focus for Battle League Football is its online multiplayer component where different team compositions and players can choose their favourite characters to take to the pitch against other players around the world.
+
+What makes this latest installment interesting is the introduction of online “Strikers Clubs” that can act as a league with up to twenty players all competing in tournaments for competitive rankings and while club names can be chosen, the choice of team colours, logos and characters still feels fairly limited.
+
+A lot can be happening on screen at once (Nintendo)
+
+During our testing of online play, matchmaking could occasionally be slow but once the whistle blows, it runs at a consistent pace.
+
+Computer-controlled opponents don’t put up too much of a challenge but players who are able to experiment with different moves and coordinate attacks also tend to fare well.
+
+But with up to eight players on screen at once, it can be a chaotic game to try and follow. Between items, players and power ups it can be difficult to follow the ball on occasion.
+
+The verdict: ‘Mario Strikers: Battle League Football’
+
+Mario Strikers: Battle League Football is another competitive sporting spin-off for the moustachioed plumber that’s mechanical nuance is only marred by its lack of truly compelling content.
+
+It’s clear that Nintendo is looking to expand its online multiplayer offering with a new Mario Strikers title akin to Nintendo Switch Sports and the upcoming Splatoon 3, but Battle League Football feels like it needs plenty of support and updates post-launch to make it worth investing in.

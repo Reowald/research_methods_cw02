@@ -1,0 +1,29 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mercedes will unveil their 2024 F1 car on Valentine’s Day at Silverstone as momentum builds towards the new season.
+
+The Silver Arrows endured a difficult 2023 campaign, finishing second in the constructors’ championship behind runaway leaders Red Bull but unable to win a race for the first time since 2011.
+
+Lewis Hamilton has not been victorious in more than two years and the seven-time world champion, alongside British team-mate George Russell, will be desperate for a car which can challenge Max Verstappen out in front this year.
+
+Confirmation came on Monday morning that Toto Wolff’s team will launch their 2024 challenger – the W15 – on Wednesday 14 February at Silverstone, home of the British Grand Prix.
+
+Wolff has also signed a new three-year extension with the team, taking him up until the end of the 2026 season.
+
+Hamilton, Russell, Wolff and test driver Mick Schumacher are likely to be present for the event, which will be live streamed on Mercedes’ social media channels.
+
+Wolff admitted after the final race of the 2023 season that his team have to climb “Mount Everest” in order to catch Christian Horner’s Red Bull team.
+
+“Red Bull started the new regulations in 2022 with a massive advantage and they have been able to maintain it,” Wolff said.
+
+Mercedes will launch their 2024 F1 car on Wednesday 14 February (Getty Images)
+
+“We have a lot of respect for their achievements – from the engineering side, and the driver – and beating them under the current regulations is against the odds. Mount Everest is in front of us.”
+
+Alpine also announced their car launch date on Monday, with the French team revealing their 2024 car a week earlier on Wednesday 7 February.
+
+The 2024 F1 season gets underway with the Bahrain Grand Prix on Saturday 2 March.
+
+Pre-season testing, at the same circuit in Sakhir, is from 21-23 February when onlookers will get their first real viewing of the cars in action on track and whether anyone can challenge Red Bull’s pace this year.

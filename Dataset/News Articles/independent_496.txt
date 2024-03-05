@@ -1,0 +1,235 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Valentine’s Day is just around the corner, meaning a romantic holiday will be on the minds of couples up and down the country.
+
+This may be the year for that first holiday as a couple, a once-in-a-lifetime honeymoon or babymoon trip, or a simple romantic getaway to spend some time with your significant other.
+
+With so many possible destinations promising that perfect balance of romance and excitement, it can be difficult to choose where to go. Fortunately, we’ve hand-picked a selection of some of the most romantic hotels in the world.
+
+Famously romantic places like Vienna and Rome have a slew of fairytale hotels, while further afield, destinations like Tokyo and California promise that unforgettable trip.
+
+Whether you’re planning a romantic staycation or the trip of a lifetime, we’ve used our Cupid’s arrow to track down the world’s most romantic spots for an intimate escape, ranging from a glass-walled cabin with a bathtub on the balcony to a log-fire-heated suite in a 900-year-old castle.
+
+The best romantic hotels in the world are:
+
+The Penthouse Suite at the Rome Cavalieri
+
+Rome Cavalieri’s Penthouse Suite comes with a private hot tub (Rome Cavalieri Hotel)
+
+Where: Rome, Italy
+
+Full disclosure: if you’re watching the pennies, this probably isn’t the property for you. That said, it doesn’t get more romantic than this – a palatial suite with a star-spangled, sliding ceiling which opens to reveal breathtaking views of the dome of St Peter’s – a view you can also enjoy from the hot tub you’ll find in your private rooftop garden. The suite’s artworks include masterpieces by Andy Warhol, and you can recline on furniture designed by Karl Lagerfeld. We suggest toasting your other half with something fizzy from the suite’s private wine cellar (but perhaps steer clear of the Cristal if you’re on a “budget”).
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more on Europe travel:
+
+Artist Room En, Park Hotel
+
+Park Hotel Tokyo’s En room (Park Hotel Tokyo)
+
+Where: Tokyo, Japan
+
+Themed hotel rooms in Japan are always going to be done brilliantly, and a case in point is the En room at the Park Hotel Tokyo, famous for its beautiful artist-designed rooms. “En” means “connections” or “relations” in Japanese, and artist Mariko Kobayashi has used a combination of red strings and images of nature to represent how we’re connected not only to the natural world, but to each other. You’ll find the hotel in the Shiodome area of Tokyo, close to the Shiodome City Center tower – head to its Sky Bar SPADE on the 41st floor for beautiful views over Tokyo.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Lake Cabin, Lime Wood
+
+Immerse yourself in nature at Lime Wood’s Lake Cabin (Jake Eastham)
+
+Where: New Forest, UK
+
+Proof that cabins in the woods aren’t always the stuff of horror stories comes in the form of this luxurious hideaway, which you’ll find in the New Forest. Stripped oak floors, open fires and a freestanding bathtub crank up the romance factor, and top-notch Bluetooth speakers make it easy to set the mood with some swoon-worthy tunes. Although the cabin is part of the Lime Wood hotel, it’s fully self-contained – there’s a kitchenette and a fully stocked larder, so it’s a great option for couples seeking a secluded hideaway.
+
+Cabin from £995, B&B; limewoodhotel.co.uk
+
+Read more on hotels:
+
+Schloss Schonbrunn Suite, Schloss Schonbrunn
+
+Palatial style at Schloss Schonbrunn (Vienna tourist board)
+
+Where: Vienna, Austria
+
+Castles and palaces aren’t always all they’re cracked up to be – they can be draughty and dusty, and then there are the various things that go bump in the night. Luckily, the Schloss Schonbrunn Suite is the exception – the result of a collaboration between the owners of Schloss Schonbrunn and Austria Trend Hotels, which gave the former emperor’s suite a slick makeover. Red is the dominant colour in this spectacular suite, the highlight of which is an enormous canopied bed.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Grand Royal Suites, Taj Lake Palace
+
+Room with a view at Taj Lake Palace (Taj Hotels)
+
+Where: Udaipur, India
+
+It doesn’t get more romantic than the Taj Lake Palace – a five-star hotel in a castle perched on an island in the middle of Udaipur’s Lake Pichola. Our favourite bits include the elegant courtyards (perfect for moonlit strolls) and some of the most romantic suites we’ve come across. These include the Grand Royal Suites with their crystal chandeliers, ornate mouldings and marble-clad bathrooms, and the Grand Presidential Suite, with its fantastic lake views, vast swathes of velvet, and rose-red walls.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+The 50s Suite, The Vick
+
+Retro romance at The Vick (The Vick)
+
+Where: California, US
+
+Drive-ins sound great in theory, until you consider the risk of accidental downpours, noisy neighbours, and the realisation that you’re no longer 18 and don’t have the acrobatic prowess required for back-seat shenanigans. The alternative? A (decidedly roomy) replica of an open-top car and a cinema screen, albeit in your very own love shack/hotel room. The 50s suite at Los Alamos’ The Vick hotel even has a hot tub and a fireplace, and faux love notes scrawled on the tiles in your room’s bathroom.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Splendid Suite, Argos in Cappadocia
+
+Splendid by name, splendid by nature at Argos in Cappadocia (Argos in Cappadocia)
+
+Where: Cappadocia, Turkey
+
+If you love the thought of sleeping in a cave but don’t fancy the constant dripping or the risk of a stalactite breaking off and impaling you as you sleep, consider the Splendid Suite at the Argos in Cappadocia hotel. These beautiful suites are carved from the region’s famous pale grey stone (otherwise known as “tuff”), but they’re above ground, so there’s plenty of natural light; you’ll even get your very own private garden. Notable features include the carved stone ceiling in the bedroom, closely followed by the beautiful living area, where the centrepiece is a freeform plunge pool.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Partial Lagoon View Suite, O:live Boutique Hotel
+
+The Partial Lagoon Suite (Olive Hotel)
+
+Where: San Juan, Puerto Rico
+
+First things first: like us, you’re probably wondering about the name. “Partial Lagoon View” suite doesn’t exactly scream romance, after all (if anything, it suggests a view of a lagoon partly obscured by an air conditioning unit), but we’re pleased to report that this suite is perfect for couples, who will love the Grecian-themed decor and wooden sleigh-style bed. We’re admittedly not sure what to make of the glass-walled shower in the centre of the bedroom (does anyone really want to watch their loved one rinse sand from their nether regions?), but the outdoor bath, carved out of stone and resembling something Alexander the Great might have bathed in, is a great alternative option.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Sky Barrel has phenomenal views as standard (Karen Brothers Photography)
+
+Where: Victoria, Australia
+
+For something totally different, consider this clifftop love nest perched on the slopes of an extinct volcano in the Australian state of Victoria. Step inside this circular hideaway and you’ll find a tangle of wooden beams, a bathtub, a wood-burning fire and gorgeous views over Victoria. It takes just 90 minutes to drive here from Melbourne, so it’s a great option for couples keen to mix urban adventure with a rural retreat.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+An unbeatable view of Mount Fuji at Hoshinoya (Hoshino Hotels )
+
+Where: Lake Kawaguchi, Japan
+
+Love a good volcano view? You’ll struggle to beat this one – Mount Fuji from your lakeside cabin at Hoshinoya Fuji, which is Japan’s first glamping resort. Dotted throughout a fragrant red pine forest, the cabins feel wonderfully secluded but still offer unbeatable views of Mount Fuji, and each cabin has a spacious outdoor terrace. If you’re partial to a camp fire but don’t fancy the whole fire-making thing, don’t panic, because the resort’s Glamping Master is on hand to crank up the cosiness by lighting a fire on your balcony. Alternatively, watch a film at the resort’s forest cinema (courtesy of a screen and projector deep in the woods) or watch the sunrise during a kayak tour of Lake Kawaguchi.
+
+From £635, room only; hoshinoya.com/fuji
+
+Crystal Creek Rainforest Retreat plunges guests among the trees (Crystal Creek Rainforest Retreat)
+
+Where: New South Wales, Australia
+
+This is a resort designed with romance in mind, whether it’s the glass-walled cabins that overlook the rainforest and have sunken double baths, or the Creekside spa cabins – cottage-style accommodations with log fires and low-slung beams. You’ll find the resort in the Tweed Valley, a beautiful chunk of wilderness wedged between the wildlife-filled Numinbah Nature Reserve and Springbrook National Park. Lovebirds should consider the resort’s honeymoon package, which includes rose-themed decorations in your cabin, a bottle of Moet champagne, and plenty of activities perfect for couples, including a rose petal trail through the woods. Who needs cookie crumbs?
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Arundel suite, Amberley Castle
+
+The Arundel room at Amberley Castle (Amberley Castle)
+
+Where: Sussex, UK
+
+Step behind the original portcullis at 900-year-old Amberley Castle and you’ll find 19 bedrooms, many of which are filled with original features, including twisting stone staircases and grandiose archways beneath which Oliver Cromwell is thought to have walked. We recommend Arundel, which has a huge granite fireplace and recessed seating next to the leaded windows.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read our reviews of the best hotels in Europe

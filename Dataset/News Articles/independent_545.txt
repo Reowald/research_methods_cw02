@@ -1,0 +1,17 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Watch as Nasa’s SpaceX Crew-8 astronauts hold a press conference ahead of the next launch to the International Space Station.
+
+The Crew-8 mission, targeted to launch in mid-February, will carry Nasa’s Matthew Dominick, Michael Barratt and Jeanette Epps, as well as Alexander Grebenkin of Roscosmos, to the space station.
+
+Nasa astronaut Tracy C. Dyson, scheduled to launch to the space station on the Soyuz MS-25 spacecraft on 21 March, will also participate in the crew briefing and interviews.
+
+They are speaking from the agency’s Johnson Space Center in Houston.
+
+For the Crew-8 mission, a SpaceX Falcon 9 rocket will launch the crew aboard a Dragon spacecraft from Kennedy Space Center in Florida on the company’s eighth crew rotation mission for Nasa.
+
+Dyson will launch from the Baikonur Cosmodrome in Kazakhstan.
+
+This press conference marks the final opportunity for media to speak to the Crew-8 astronauts before they travel to Kennedy Space Center for launch.

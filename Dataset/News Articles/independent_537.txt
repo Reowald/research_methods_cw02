@@ -1,0 +1,33 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A “potentially hazardous” asteroid about the size of a large skyscraper is predicted to zoom past the Earth at a distance of 1.7 million miles away from the planet on Friday, according to Nasa.
+
+The space rock ranges in size between 210m (690 ft) to 480m (1,575 ft) – or about the size of the New York Empire State Building or a football stadium, Nasa’s Center for Near Earth Object Studies said.
+
+The space rock will make a safe pass by Earth at about 7 times the distance between the planet and the Moon and at a speed of about 66,000kph (or 41,000mph), Nasa noted in a blog post.
+
+It has been classified as “potentially hazardous” due to its size and proximity to Earth.
+
+There are about 25,000 such asteroids with the potential to at least wipe out a complete city, known to astronomers so far.
+
+Experts say the asteroid, named 2008 OS7 after the year when it was discovered, will not fly past Earth again until 2032 when it is expected to have a much farther approach.
+
+It will at least be centuries before the asteroid makes another approach as close to Earth as on Friday.
+
+The Moon Is Shrinking: Challenges Ahead For Lunar Colonization
+
+The asteroid has a highly elliptical orbit, making its revolution around the Sun uneven.
+
+Running simulations of the asteroid’s future path, researchers found that it will not be as close to Earth as on Friday for at least another 300 years.
+
+Scientists are making strides in tracking and predicting the paths of asteroids.
+
+Last week, researchers successfully detected an asteroid zooming toward the Earth, only hours before it entered the planet’s atmosphere.
+
+The space rock, dubbed 2024 BXI, eventually burned up in the skies above Berlin into a harmless fireball – marking only the eighth time an asteroid has been spotted before it hit the Earth.
+
+The asteroid was captured on camera by space enthusiasts and astronomers as it appeared and quickly disappeared in the skies above Berlin around 00:33 UT.
+
+Fragments of the small asteroid dubbed 2024 BX1 were recovered around Berlin with more samples found over the weekend.

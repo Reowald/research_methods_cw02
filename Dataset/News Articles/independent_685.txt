@@ -1,0 +1,31 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Fernando Alonso fired his first shot of the season at Lewis Hamilton on Monday, saying the Brit’s “childhood dream” move to Ferrari was a “different dream two months ago.”
+
+Seven-time world champion Hamilton stunned the world of Formula 1 two weeks ago when he confirmed he would leave Mercedes at the end of the 2024 season after 12 years at the team, saying it was a “childhood dream of his to race in Ferrari red.”
+
+Veteran Spaniard driver and two-time world champion Alonso, who raced for Ferrari from 2010-2014, joked that Hamilton has changed his “childhood dream” given his past loyalties to Mercedes.
+
+“It was not his childhood dream 12 months ago, no?” said Alonso, at Aston Martin’s car launch on Monday.
+
+“Or two months ago, I guess, it was a different dream.
+
+“I hope he enjoys the experience. I think it’s a very special team. But it’s more special when you win – it’s a few years already [since] they have a very fast car and they were fighting for big things.
+
+“Maybe Lewis can bring that extra to fight for the championship because the car is there. At the end of last year, even with a very dominant Red Bull car, Ferrari [was] still able to match the lap time and to be faster than them in most of the qualifying. So I think the car should be fast enough.”
+
+Alonso, 42, has been linked with replacing Hamilton at Mercedes next year and admits he is an “attractive” option for Mercedes boss Toto Wolff.
+
+Fernando Alonso has poked fun at Lewis Hamilton after his Ferrari decision (Getty Images)
+
+Alonso, who clashed with Hamilton as team-mates during the Brit’s rookie year at McLaren in 2007, added he has not given the move “much attention” as he focuses on his second year with Aston.
+
+“Probably was a surprise, I will not lie – but not because of the change itself,” Alonso said of Hamilton’s 2025 move.
+
+“It was just because, from the outside, it seemed like he was very linked with Mercedes and very loyal to them and things like that. It was a little bit unexpected.
+
+“I don’t know the reasons behind. I don’t know anything, I don’t know the story. I didn’t pay too much attention.”
+
+Aston launched their 2024 car – the AMR24 – at Silverstone on Monday. Pre-season testing starts on 21 February, with the first race of the season in Bahrain on 2 March.

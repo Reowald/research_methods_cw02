@@ -1,0 +1,39 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Madrid will stage the Spanish Grand Prix in Formula 1 from 2026 under a new 10-year deal with a snazzy street circuit in the Spanish capital – plunging Barcelona’s involvement in the sport into serious doubt.
+
+The new 5.47km track will feature 20 corners and will have an average lap speed of 135mph, with organisers stating there are four different parts of the track where overtaking could be possible. It is set to be built around the IFEMA convention centre and Real Madrid’s training complex, with both street and non-street sections.
+
+Local promoters have agreed a 10-year deal with the sport, meaning it will host the race until 2035. The venue is expected to host more than 110,00 fans per day, with plans to expand the capacity to 140,00 per day by 2030. There will also be a premium paddock building built, with VIP hospitality and entertainment areas too.
+
+At this stage, The Independent understands Madrid’s addition does not categorically mean the end for Barcelona in F1.
+
+Barca has a contract with the sport until 2026 and discussions are ongoing as to whether the Circuit de Barcelona-Catalunya – host of the Spanish GP since 1991 and previously used as an annual base for pre-season testing – will remain on the calendar in the long-term.
+
+There could, therefore, be the possibility of Spain hosting two races, joining Italy (Imola and Monza) and the USA (Miami, Austin, Las Vegas) as a country to stage more than one grand prix.
+
+“Madrid is an incredible city with amazing sporting and cultural heritage, and today’s announcement begins an exciting new chapter for F1 in Spain,” F1 CEO Stefano Domenicali said.
+
+The new planned circuit in Madrid which will host the Spanish Grand Prix from 2026 (IFEMA Madrid)
+
+“I would like to thank the team at IFEMA MADRID, the Regional Government of Madrid and the city’s Mayor for putting together a fantastic proposal. It truly epitomises Formula 1’s vision to create a multi-day spectacle of sport and entertainment that delivers maximum value for fans and embraces innovation and sustainability.”
+
+Spain has hosted two races in a single season in the sport’s recent history. Alongside Barcelona, a street circuit in Valencia hosted the now defunct European Grand Prix from 2008-2012.
+
+The Circuito del Jarama, 20 miles north of Madrid, hosted the Spanish Grand Prix in 1981.
+
+The mayor of Madrid, Jose Luis Martínez-Almeida, added: “With the announcement of the Grand Prix, Madrid moves into the future and joins the exclusive group of cities hosting F1 today, placing us at the forefront of the world’s capitals in attracting major events.
+
+The Circuit de Barcelona-Catalunya has hosted the Spanish Grand Prix since 1991 (Getty Images)
+
+“We know that F1 is more than a race, it is an unprecedented opportunity to drive the transformation that Madrid is undergoing, and to show the world what we are capable of.
+
+“I am confident that Madrid will be up to the task, not only because we deserve a spectacle of the magnitude of F1, but also because F1 deserves a city with the energy, character, and passion of Madrid.”
+
+Madrid hosted the first-ever F1 Exhibition last year with great success, though the event has now moved on to Vienna for 2024.
+
+This year’s Spanish Grand Prix in Barcelona will be held on 21-23 June, shifting back a month from last year’s date. Max Verstappen has won the last two races in Spain, while Lewis Hamilton is a six-time winner of the race.
+
+The 2024 season, featuring a record 24 races, starts on Saturday 2 March with the Bahrain Grand Prix.

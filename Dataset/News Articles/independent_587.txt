@@ -1,0 +1,51 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The first US Moon mission since Apollo, carrying a piece of technology developed by UK scientists, has blasted off into space.
+
+The Peregrine Mission One (PM1) – built by US space company Astrobotic – is set to become the first private probe to land on the lunar surface.
+
+The spacecraft is now flying solo on its way to the Moon, where it will attempt to land on February 23.
+
+If successful, Peregrine could become the first commercial lander, and first American lander in more than 50 years, to land on the Moon.
+
+The Vulcan rocket blasted off from Cape Canaveral in Florida at 7.18am GMT.
+
+Onboard is an instrument known as the Peregrine Ion Trap Mass Spectrometer (PITMS), which was developed in the UK by scientists from The Open University (OU) and the Science and Technology Facilities Council (STFC) RAL Space – the UK’s national space lab – in collaboration with Nasa’s Goddard Space Flight Centre in Washington DC.
+
+Astrobotic chief executive John Thornton said: “Today Peregrine Mission One achieved a number of big milestones.
+
+“Peregrine powered on, acquired a signal with Earth, and is now moving through space on its way to the Moon.
+
+“These successes bring us one step closer to seven nations landing on the Moon, six of which have never been to the Moon before.”
+
+Peregrine is carrying a total of 20 payloads from seven countries and 16 commercial customers.
+
+This significant achievement also lays the groundwork for understanding how to sustain extended human presence on the Moon in the future – changing the way humankind interacts with the solar system around us forever Science and Technology Secretary Michelle Donelan
+
+They include the first lunar surface payloads from the Mexican and German space agencies, and the first lunar payloads from the UK, Hungary and Seychelles.
+
+Among these commercial payloads are items which add a touch of human creativity to space exploration, including a time capsule, a bitcoin and even a music album.
+
+A key component of PITMS, which will explore the Moon’s atmosphere by measuring water and other molecules, was developed in the UK with £14m of Government funding through the UK’s membership of the European Space Agency.
+
+The data collected will contribute to our understanding of the Moon’s potential to provide resources such as water, opening new possibilities for future human presence on the lunar surface.
+
+The UK-built component – called the Exospheric Mass Spectrometer represents the first instrument on the Moon that has been built in the UK and in Europe.
+
+As part of the PITMS, the Exospheric Mass Spectrometer allows researchers to study atoms and molecules in a gas.
+
+Science and Technology Secretary Michelle Donelan said: “The Exospheric Mass Spectrometer will be the first science component developed in the UK destined for the lunar surface, marking a historic moment for the UK space industry.
+
+“This significant achievement also lays the groundwork for understanding how to sustain extended human presence on the Moon in the future – changing the way humankind interacts with the solar system around us forever.”
+
+We are looking forward to seeing Peregrine safely on the surface and the return of important data from PITMS to help unlock the secrets of water on the moon Libby Jackson, UK Space Agency
+
+Understanding water on the Moon is an important part of the Artemis programme, to explore more of the lunar surface than ever before.
+
+Libby Jackson, head of space exploration at the UK Space Agency, said: “The Peregrine Lunar Lander will help pave the way for further exploration of our solar system.
+
+“Witnessing the first instrument from the UK, and indeed Europe, launch to the Moon is a hugely exciting moment.
+
+“We are looking forward to seeing Peregrine safely on the surface and the return of important data from PITMS to help unlock the secrets of water on the moon.”

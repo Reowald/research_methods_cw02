@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The UK is set for an increase in Northern Lights sightings over the coming weeks and months, the Met Office has forecast, as we enter a period of extreme space weather.
+
+The Northern Lights, or the aurora borealis, occur when activity on the surface of the Sun causes solar radiation to collide with the Earth’s atmosphere.
+
+Forecasters at the Met Office Space Weather Operations Centre warned that a peak in the Sun’s 11-year activity cycle, known as a solar maximum, will cause an increase of coronal mass ejections from the star’s surface.
+
+(Getty Images)
+
+“While the solar cycle doesn’t help determine specific space weather events, what it does is help our forecasters understand the context of their forecasts,” said Met Office space weather manager Simon Machin.
+
+“In its simplest terms, the solar cycle is linked to the number and intensity of sunspots that are visible on the surface of the Sun. This affects the likelihood of space weather events impacting the Earth.”
+
+The coronal mass ejection events could potentially prove damaging to terrestrial infrastructure, with the resulting geomagnetic storms causing both an increase in aurora borealis occurences, as well as disruption to satellites, electric power grids and telecommunications systems.
+
+The Met Office said the risk of blackouts could increase as auroras stretch to more southern latitudes, however predicting when they will occur has proved notoriously difficult.
+
+An illustration of solar storms (Getty Images/iStockphoto)
+
+Certain activity on the surface of the Sun can indicate when the solar maximum might occur, though space experts warn it is not possible to forecast the exact date.
+
+“One of the curious things about the solar maximum is that it’s not possible to declare it has occurred until after it has happened and when you observe that reduction in sunspot activity,” said Mr Machin.
+
+“We know that the solar maximum increases the chances of space weather events impacting the Earth, but even as you move away from it through 2024 into 2025 and beyond, the Sun will continue to emit solar flares and geomagnetic storms. This means that further auroral displays are likely, as well as an ongoing chance of potentially impactful space weather events.”
+
+Other space weather prediction centres have estimated that the solar maximum will take place at some point between February and September 2024, with researchers at the Indian Institutes of Science Education and Research publishing their forecast last month in the Monthly Notices of the Royal Astronomical Society: Letters.

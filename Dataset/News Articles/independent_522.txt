@@ -1,0 +1,43 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The planned launch of a US private Moon lander has been called off due to fuel issues.
+
+The Nova-C Odysseus lander, built by Texas-based space flight company Intuitive Machines (IM), was due to blast off on Valentine’s Day atop SpaceX’s Falcon 9 rocket from Cape Canaveral in Florida.
+
+But less than two hours before lift-off, SpaceX posted on X (formerly Twitter), to say the launch was being scrubbed due to a temperature issue with the methane fuel on the lander.
+
+The next launch window is now set for no earlier than Thursday February 15 at 6.05am UK time.
+
+Posting on X, SpaceX said: “Standing down from tonight’s attempt due to off-nominal methane temperatures prior to stepping into methane load. Now targeting Thursday, February 15 at 1:05 a.m. ET for Falcon 9’s launch of the @Int_Machines IM-1 mission from Florida.”
+
+It comes a month after another US spacecraft, Peregrine, failed to touch down following a fuel leak.
+
+The failure of Peregrine, operated by US company Astrobotic, marked the third time a private company had been unable to achieve a soft landing on the lunar surface.
+
+The Beresheet lander, built by Israel’s SpaceIL, crashed during descent in 2019, while the Hakuto-R M1 lander, from Japanese company ispace, was destroyed while attempting to land in April last year.
+
+If successful, Odysseus could become the first private mission – called IM-1 – to land intact on the lunar surface.
+
+It would also be the first US Moon landing since the final mission of the Apollo programme – Apollo 17 – more than 50 years ago.
+
+Odysseus is a hexagonal cylinder about 13ft (4m) tall and 5ft (1.57m) wide and weighs 1,488lb (675kg).
+
+It is part of Nasa’s Commercial Lunar Payload Services initiative, which aims to involve commercial companies in the exploration of the Moon as the space agency focuses on getting astronauts back there through its Artemis programme.
+
+If all goes to plan, Odysseus could still attempt a lunar landing on February 22.
+
+The landing site will be at Malapert A, a crater near the Moon’s south pole.
+
+Once it is on the surface, Odysseus will operate for roughly two weeks, or one lunar day.
+
+On board the lander are 12 payloads, which includes a Nasa instrument known as Scalpss (Stereo Cameras for Lunar Plume-Surface Studies) – a four-camera system which aims to capture Odysseus’s descent to the lunar surface.
+
+MDA UK, a Canadian space technology company with offices in Harwell, Oxfordshire, is developing landing sensors for three IM missions – the other two planned for later in the year – with funding from the UK Space Agency (UKSA).
+
+The UKSA has spent £3.4 million, spread across these three missions as part of its partnership with MDA UK.
+
+The lander will also be carrying a sculpture – called Moon Phases – by American artist Jeff Koons.
+
+Odysseus will be insulated with a lightweight fabric – a shimmery gold material that normally lines the insides of ski jackets – made by US sports apparel company Columbia Sportswear.

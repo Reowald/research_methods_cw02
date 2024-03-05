@@ -1,0 +1,25 @@
+For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Breaking News email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Mojang and Microsoft have announced Minecraft Legends, an action-strategy spin-off of the immensely popular block-based building game.
+
+Due to launch in 2023, Minecraft Legends departs from the open-world survival genre and will instead see players battling the game’s iconic piglin enemies from a third-person perspective.
+
+The spin-off was revealed at yesterday’s Xbox & Bethesda Games Showcase, where Microsoft confirmed the title would arrive on Xbox and PC within the next 12 months. Versions for the Nintendo Switch and PlayStation are also mentioned in the game’s cinematic trailer.
+
+“You will defend peaceful settlements and fight hordes of piglins to stop the spread of their Nether corruption,” says the developer. “You are the center of every battle you lead, fighting alongside your allies while giving them directions.”
+
+The strategy-focused title will feature online co-op and a competitive multiplayer mode. Not a whole let else is known about Minecraft Legends right now, with more details promised later this year.
+
+Since Microsoft bought Minecraft for $2.5 billion in 2014, the company has produced a series of ambitious spin-off titles, including the point-and-click adventure Minecraft: Story Mode and the Pokémon Go inspired Minecraft Earth.
+
+2020’s Minecraft Dungeons has been the studio’s most successful spin-off to date, a classic dungeon crawler based in the Minecraft universe and available to play on Xbox Game Pass. Minecraft itself has sold more than 200 million copies since launching.
+
+You can follow the official Minecraft Legends Twitter account to stay up to date on developments as they happen.
+
+Voucher codes
+
+For the latest discounts on the gamesh and other tech offers, try the links below:
+
+Here’s where you can buy a Nintendo Switch OLED in the UK today

@@ -1,0 +1,29 @@
+Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Scientists have developed a new material from a mineral abundant on Mars that they claim could open the door to sustainable habitation on the red planet.
+
+Researchers assessed the potential of a type of nanomaterials – ultrasmall components thousands of times smaller than a human hair – for clean energy production and building materials on Mars.
+
+The study, published in the journal Advanced Functional Materials, found that a material typically considered a waste product by Nasa can be altered to provide clean energy and sustainable electronics.
+
+On Mars, the mineral gypsum – calcium sulphate – is known to exist in large deposits, and is believed to contain most of the Red Planet’s primordial water content.
+
+Several Nasa-funded research programmes have explored the use of dehydrating gypsum to form water vapour and a waste material known as anhydrite.
+
+TODAY China-Mars/Oxygen
+
+In the research, scientists developed a new method for extracting water from gypsum on Mars in which the waste product anhydrite could be further processed to sustain and support the future colonisation of the planet.
+
+The team, including experts from the University of Sussex in the UK, processed the anhydrite into nanobelts and demonstrated these could provide clean energy and sustainable electronics.
+
+“Unexpectedly, anhydrite nanobelts have remarkable electronic properties,” with “semiconducting and insulating behaviours,” the study noted.
+
+“Our study takes what was considered waste, essentially lumps of rock, and turns it into transformative nanomaterials for a range of applications from creating clean hydrogen fuel to developing an electronic device similar to a transistor, to creating an additive to textiles to increase their robustness,” study lead author Conor Boland said in a statement.
+
+At every step of the process, researchers also showed that the water used could be continuously collected and recycled.
+
+“We are optimistic about the feasibility of this process on Mars, as it requires only naturally occurring materials – everything we used could, in theory, be replicated on the red planet. Arguably this is the most important goal in making the Martian colony sustainable from the outset,” Dr Boland said.
+
+“Mars has an abundant source of calcium sulfate minerals and in this work, it is shown that these deposits can be the basis of transformative nanomaterials to potentially support future space endeavors,” scientists wrote in the study.

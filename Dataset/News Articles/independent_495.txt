@@ -1,0 +1,255 @@
+Sign up to Simon Calder’s free travel email for expert advice and money-saving discounts Get Simon Calder’s Travel email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Simon Calder’s Travel email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Forget Paris; the Big Smoke has long been a magnet for romantics. From sunset views over the city from Parliament Hill, to declarations of love on the South Bank, à la Hugh Grant and Andie MacDowell, London is a city packed with ancient streets to amble along together, spectacular views and the best bars and restaurants to wine and dine the object of your affection.
+
+Whether you’re travelling on a long-awaited honeymoon, have a special anniversary coming up or want to celebrate a Valentine’s Day to remember, there’s no better place to celebrate than the capital.
+
+Even if you simply fancy treating your beau to a night they’ll never forget (whether that means you need to start, ahem, limbering up or just get prepped with tickets for dinner and a show in the West End), we’ve rounded up some of the best places in the capital for lovers.
+
+From sky-high stays with spectacular views across the city, to hotels with old-school charm or something a bit more fun, these are the romantic hotels we’d recommend fro a stay in London.
+
+The best romantic hotels in London are:
+
+Best hotel for history: The Rookery
+
+Neighbourhood: Clerkenwell
+
+Snuggle into the Rook’s Nest (The Rookery)
+
+Read more on London travel:
+
+The streets surrounding this Smithfield establishment are particularly rich in history, with its famous meat market dating back to the 10th century. In the Georgian period, the word “rookery” meant “criminal area”, reflecting a part of town notoriously populated by gamblers, drunks and criminals. This former slum has cleaned up considerably and is, these days, more well known for its roaring restaurant trade, but The Rookery remains as a wonderful reminder of this colourful past.
+
+The oldest sections of this collection of buildings date back to 1764 and it’s no stretch to say entering feels like stepping back in time. Period charm abounds, with Rococo cherubs, beguiling portraits, stone statues, open fires and antique furniture; aside from the mattresses, televisions, telephones, wifi and air conditioning, nothing in the hotel is later than 1900. Guests are welcome to relax with tea and cake or sample the gin honesty bar in one of three marvellously atmospheric public rooms presided over by resident cat Baghera.
+
+All 33 bedrooms are named after historical figures who lived or worked in the area, from knights to sex workers – reading about these diverse lives in the accompanying guide is a history buff’s dream – but it’s the Rook’s Nest room that really delivers. Arranged over two floors, this opulent space is simply magnificent. Downstairs, emerald walls complement a hand-painted four-poster bed with silk drapes, while a Victorian bathing machine sits on a raised plinth in the corner of the room. Upstairs, a sumptuous sitting room features an antique lawyer’s writing desk, dining room, chess set, TV, minibar, St Paul’s views and plenty of books in which to get lost. While the surrounding restaurants may appeal, this is an experience not to be rushed; order room service and laze in luxury.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Rookery here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best luxury hotel for spectacular city views: Shangri-La The Shard
+
+Neighbourhood: London Bridge
+
+A bath with a view at Shangri-La London (Shangri-La London)
+
+A hotel with the accolade of being the UK’s tallest already has a strong advantage over robust competition in the capital; couple this with the exquisite service Asian hospitality chain Shangri-La prides itself on and you’re in for a treat.
+
+Perched Thameside and occupying the 34th to 52nd floors of Renzo Piano’s iconic Shard building, this hotel’s megawatt views of the city are simply unbeatable. Plenty of foliage, bamboo trees, minimal paintings and sculptures transport you to East Asia, making it feel like a proper holiday rather than just a minute away from London Bridge station.
+
+Lean in to the luxury with a dip in the hotel’s indoor infinity pool on level 52, followed by a sauna – both come with jaw-dropping views of landmarks such as the Tower of London – before enjoying the pared-back luxury of the bedrooms. All include a pair of binoculars and city guide (suites provide telescopes), so you can sightsee to your heart’s content. Deep bathtubs are positioned by the floor-to-ceiling windows, while L’Occitane toiletries and heated washlet toilets add to the sense of occasion. Watch the city turn from day to night with a cocktail in the Gong bar, before heading to TING restaurant for delectable Asian-British fusion cuisine.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of Shangri-La The Shard, London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for design aficionados: The Standard
+
+Neighbourhood: King’s Cross
+
+Relax into a suite at The Standard (The Standard, London)
+
+The first UK outpost of this US hotel group landed in King’s Cross in 2019 and hasn’t looked back. Housed in a fantastically brutalist building, The Standard will have design-lovers drooling at the architecture before they’ve even stepped foot inside. Upon entering, geometric shapes, colour and kitsch furniture galore await in homage to this unique building’s 1970s heritage, but it’s all been done with a distinctly discerning eye; walking along the psychedelic-carpeted long corridor to reach my room felt like being in a Stanley Kubrick fever dream in the best possible way.
+
+Rooms are a little more understated, but don’t compromise on quality or style. Skip the Cosy Core rooms and head upstairs to the suites, which include floor-to-ceiling windows (perfect for exhibitionists) with superb views over St Pancras and King’s Cross; freestanding bathtubs; Bang and Olufsen Bluetooth speakers; and one of the best-stocked minibars I’ve ever seen.
+
+Kicks a bit dusty after pounding the city streets? Take advantage of The Standard’s complimentary trainer-cleaning service. Blighted by rain? Borrow one of the Stutterheim raincoats hanging in your wardrobe. And for the ultimate ménage à deux, book the Junior Suite Terrace, which boasts a roomy terrace complete with covered outdoor bathtub.
+
+Take the fun, pill-shaped red lift to the top floor and feast on Mexican-Spanish food overseen by Michelin-starred chef Peter Sanchez-Iglesias, before strolling to the side of the building to check out the secret Banksy mural on the southwest corner.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Standard London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best spa hotel: St Pancras Renaissance Hotel
+
+Neighbourhood: King’s Cross
+
+The Renaissance Hotel offers soaring gothic architecture (St Pancras Renaissance Hotel)
+
+Another architectural institution – albeit from a very different era – sits directly across the road from The Standard. Originally opened in 1873, this neo-Gothic masterpiece closed in the early 20th century, before reopening to much fanfare in 2011. It’s not hard to see why. The front entrance leads you into the cavernous Hansome Lounge, all exposed red-brick and iron girders, which was once the cobbled driveway of the original railway station.
+
+Rest weary legs with a cocktail on luxurious soft furnishings and soak up the scene; step out of the bar door and you’re literally on the St Pancras concourse. Railway stations often carry with them a frisson of excitement (although I’d give Euston a wide berth), and St Pancras is one of the best; some of the rooms at the Renaissance also enjoy this view.
+
+The Victorian design continues apace throughout this historic building, with coloured marble, gold leaf, fleur-de-lis patterns, iron balustrades, gilded cornices and exquisite stonework. Opt for a room in the historic Chambers Wing for equally impressive touches, such as solid marble bathrooms, original fireplaces, floor-to-ceiling windows with blackout curtains overlooking the rush of Euston Road and an impressive collection of artwork, including pieces by Gerald Laing and Bridget Riley to stop things getting too stuffy. But it’s the basement spa that’s a real delight, full of period tiling and dramatic arched windows – the perfect place to relax with a loved one.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of St. Pancras Renaissance Hotel London here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for Thames views: London Marriott Hotel County Hall
+
+Neighbourhood: Westminster
+
+The Balcony Suite at London Marriott Hotel County Hall (London Marriott Hotel County Hall)
+
+Situated on the South Bank with an enviable view of the Houses of Parliament, this titanic building used to be the headquarters of the London government and was opened in 1922 by King George V and Queen Mary. Its Westminster location and close proximity to top tourist attractions is a bonus, but there’s plenty to keep you occupied inside its stone walls.
+
+Boasting one of the capital’s longest swimming pools (25m), there’s also a gym, sauna and complimentary fitness classes for those who like to start their day with a workout. On the food front, Gillray’s Steakhouse and Bar offers top-notch food for carnivores and more than 100 gins in its adjoining bar, while the afternoon tea in The Library is nothing short of excellent (try the basil scone with lemon curd).
+
+A heritage aesthetic – wood-panelled walls and ornate lighting – extends to rooms, which come with marble bathrooms, while suites each contain an orange armchair in homage to the orange and red leather-upholstered seating that used to exist in the former London Council debating chamber. For the wow factor, balcony suites feature private balconies with incredible views over the Thames, Big Ben and the Houses of Parliament, while the London Eye is practically within touching distance. Service is absolutely stellar throughout, too.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for rooftop hot tubs: New Road Hotel
+
+Neighbourhood: Whitechapel
+
+Private hot tub, anyone? (New Road Hotel)
+
+Whitechapel may seem an unlikely location for a night of romance, but New Road Hotel, an independent venture housed in a former textiles factory, has cornered the market in boutique hospitality in this part of town. Visitors stepping off the tube at Whitechapel station are overwhelmed by the mouth-watering scents of south Asian food reflecting the Bengali community who have made this part of London home.
+
+Located just a four-minute walk from the station, the hotel not only welcomes guests but the local community too, with a library, Halal food and spacious open-plan eating and drinking spaces. New Road’s aesthetic sensitively merges original features, such as industrial windows and old fire doors, with contemporary, east London touches, such as exposed brickwork and soft furnishings.
+
+While all 79 bedrooms are economical on space, they include the essentials for a good night’s sleep, including king-size Hypnos beds and double-glazing, but the real romance awaits in the Loft + Hot Tub Room, which includes a private terrace and outdoor hot tub, plus some excellent vantage points from which to gaze at this underrated part of town. One direction is pure Mary Poppins-esque rooftops and chimneys, while the other is possibly one of the best places in the capital to watch the Royal London Hospital’s helicopter ambulance ascend and descend.
+
+Legendary Punjabi restaurant Tayyabs is a mere poppadom toss away, but if you can’t be bothered to venture out, Marco Pierre White’s Mr White’s English Chophouse serves up quality steaks and filling fare in the downstairs restaurant.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best hotel for couples: Mama Shelter
+
+Neighbourhood: Bethnal Green
+
+Mama London offers a ‘Sexcation package' (Mama Shelter)
+
+If your love life is in need of a jumpstart, the Sexcation package at Shoreditch’s Mama Shelter might be just the ticket. Amorous folks seeking a night of passion can enjoy a bottle of sparkling wine upon arrival, a Sexy Mama box containing massage oil, lubricant, a mini vibrator, feather tickler and more besides, plus adult movies for all sexual proclivities.
+
+Located on the cusp of Hackney and Tower Hamlets in trendy east London, there’s all the bars, shops and restaurants an aspiring hipster could hope for, but those not wanting to stray far from the bedroom are equally well served. Hotel bars have come a long way, with Mama Shelter’s being one of the better ones. In here (and the adjoining restaurant), DJs and maximalist furniture, murals and decorations compete for your attention – and if that’s not enough, there are two soundproofed Japanese-style karaoke rooms, so you can serenade your sweetheart.
+
+More muted rooms come in sizes small, medium or large, with blackout blinds, TVs and showers; there are no bath tubs or minibars, but the shower’s big enough for two and it’s hard to compete with the offerings downstairs. Night owls needn’t worry about an early start, either – the Sexcation package includes a 2pm checkout.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best boutique hotel: The Mandeville
+
+Neighbourhood: Marylebone
+
+The penthouse terrace at the Mandeville (James Balston Photography)
+
+Couples who share a love of retail therapy should consider plumping for The Mandeville Hotel. Located in the swanky neighbourhood of Marylebone village, it’s just a few minutes’ stroll from New Bond Street and Oxford Street, while the many independent shops and restaurants in the area offer plenty of opportunities to flex the plastic (not least Daunt bookshop’s flagship store, complete with Edwardian oak galleries).
+
+The designer touch continues inside this collection of red-brick boutique townhouses, with four Riviera rooms designed by French fashion designer Christian Lacroix. Romantics should opt for the spacious Terrace Suite on the fifth floor, accessed through its own private entrance and organised over two floors. The second floor comprises a salmon-pink marble bathroom complete with vanity mirror, sizeable power shower, bathtub with city views and C.O. Bigelow Apothecaries toiletries; downstairs, a king bed, couch and window seat are a pleasant place to relax. But it’s the private terrace accessed from the bedroom that’s the pièce de résistance. In a city where space is at a premium, the terrace is large, with plenty of space for a dining table – the perfect spot to share a glass of fizz as the sun goes down. And if the British weather fails to deliver, the outside heaters and canopy will keep you warm and dry.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for stargazing: Hotel 41
+
+Neighbourhood: Victoria
+
+Exclusivity is in the air at this august address, which is located opposite the Royal Mews of Buckingham Palace. Guests entering the discreet monochrome lobby may catch a whiff of the hotel’s signature scent before being swiftly whisked to the fifth floor where the hotel is situated. Here, a stately executive lounge – all mahogany panels, book-lined walls and marble busts – modelled on a private members’ club is where guests are checked-in and offered a complimentary glass of champagne. This grand room is also the home of the hotel’s pantry, which is frequently replenished with snacks and treats and overseen by charismatic butlers.
+
+There’s a rooftop terrace – an excellent suntrap on warm days – but guests looking for real romance should head to the hotel’s Conservatory Suite. Arranged over two floors with a monochrome finish, this luxurious space is full of marble fittings and velvet furnishings, including a separate lounge area with fireplace, and a bathroom complete with Jacuzzi bath and mirrored ceiling. The main bedroom, with a wood-carved bed positioned beneath a glass lantern-roof, is the crown jewel at the heart of the hotel. Gaze at the stars with your beau in comfort – and when it’s time for lights out, simply touch a button for the retractable roof to keep out the city lights.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Best for an ‘old London’ experience: The Zetter Townhouse
+
+Neighbourhood: Clerkenwell
+
+Experience quirky charm at Zetter Townhouse (Zetter Townhouse)
+
+Entering Clerkenwell’s Zetter Townhouse is much like stepping back in time to the house of a Victorian collector. Guests arrive into a living room and award-winning cocktail lounge area packed with resplendent furnishings, fixtures and ornaments from a range of eras and origins – it’s hard to know where to settle your gaze first.
+
+This spectacle for the senses extends to the 13 rooms and suites in this Georgian building – each benefits from the same thoughtful touch, with vintage furniture, such as telephones, clocks, writing desks and wooden headboards. Modern conveniences such as Marshall speakers to sync with your phone, Hypnos beds, fluffy robes and REN toiletries ensure no comfort is spared – there’s even a hot water bottle with a hand-knitted cover, to keep you cosy.
+
+We loved the Junior Suite (room 12) with its palatial freestanding bathtub pimped up with golden tiles, perfect for slipping into with a glass of fizz (and a companion). And peering out over St John’s Square – a magically peaceful part of town – makes you feel like the main character in a Dickensian novel.
+
+Rooms available from{{#price}}{{price}}per night{{/price}} {{^price}}Check availability for dates and prices{{/price}} Check availability Rates provided by Booking.com Read our full review of The Zetter Townhouse Clerkenwell here Hotel Amenities {{#amenities.foodDrink.length}} Food & Drink {{#amenities.foodDrink}} {{.}} {{/amenities.foodDrink}}
+
+{{/amenities.foodDrink.length}} {{#amenities.internet.length}} Internet Please check hotel for more information on amenities {{#amenities.internet}} {{.}} {{/amenities.internet}}
+
+{{/amenities.internet.length}} {{#amenities.services.length}} Services {{#amenities.services}} {{.}} {{/amenities.services}}
+
+{{/amenities.services.length}} {{#amenities.parking.length}} Parking Please check hotel for more information on amenities {{#amenities.parking}} {{.}} {{/amenities.parking}}
+
+{{/amenities.parking.length}} {{#amenities.health.length}} Health & Wellbeing {{#amenities.health}} {{.}} {{/amenities.health}}
+
+{{/amenities.health.length}} {{/amenities}} {{#amenities}}{{/amenities}}
+
+Read more of our UK hotel reviews:

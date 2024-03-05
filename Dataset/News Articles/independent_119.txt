@@ -1,0 +1,21 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Freya Colbert capped off Great Britain's prolific run at the World Championships with 400m individual medley gold on the final day of competition in Doha.
+
+The first individual international triumph of the 19-year-old's career came after Max Litchfield had added to GB's medal tally with silver in the men's edition of the same event.
+
+Colbert's podium-topping performance was Great Britain's seventh medal from the pool programme and 18th across all disciplines, a promising haul as the athletes now turn their attention to this summer's Paris Olympics.
+
+Colbert, who overtook Israel's Anastasia Gorbenko in the final 10 metres of the closing freestyle leg to take the title, said: "It's so amazing, I'm still in a bit of disbelief. I knew I could do it, that was probably one of the first races that I've gone into at this level with total confidence in myself and my race plan.
+
+"I just trusted that plan, not following the girls out on the butterfly, keeping true to what I know my strengths are and it really paid off at the end. I am so pleased."
+
+Freya Colbert of Britain celebrates winning the final (EPA)
+
+Litchfield found himself locked into a tight battle with New Zealand's Lewis Clareburt, who ultimately claimed gold, but was thrilled to secure the first World Championship medal of his career.
+
+The 28-year-old from Sheffield said: "The medal has been so close so many times, and it is just nice to break that. We're in February, there's a few people not here, but nonetheless, it's a great swim, I'm really happy with how I processed the race. I'm just dead chuffed and looking forward to the rest of the year now."
+
+Anna Hopkin, the other Briton in action who earlier in the week had claimed bronze as part of the mixed 4x100m relay team, finished sixth in the women's 50m freestyle final.

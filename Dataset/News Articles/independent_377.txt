@@ -1,0 +1,29 @@
+Sign up to our free sport newsletter for all the latest news on everything from cycling to boxing Sign up to our free sport email for all the latest news Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Sport email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Ben Stokes wants umpire’s call in the decision review system to be abolished after being left “bemused” by Zak Crawley’s dismissal in England’s thumping defeat to India in Rajkot.
+
+Crawley was given lbw after being rapped on the pads by Jasprit Bumrah just before tea on day four of the third Test and a review stayed with the umpire’s decision, leaving England 18 for two chasing 557.
+
+But Stokes argued the ball-tracking image – which predicts what Bumrah’s delivery would have done had it not struck Crawley – was shown to be missing, not clipping, leg stump.
+
+Stokes and Brendon McCullum took up their grievance with match referee Jeff Crowe at the conclusion of England’s 434-run defeat and were informed the decision was correct but the projection was incorrect.
+
+While making clear the incident was not to blame for England going 2-1 down in the series, Stokes has called for more a clear cut implementation of the decision review system.
+
+“I think when people are in charge of it says something has gone wrong that is enough in itself,” Stokes told talkSPORT.
+
+“You just want a level playing field. The umpires have an incredibly hard job as it is, especially in India when the ball is spinning.
+
+“My personal opinion is if the ball is hitting the stumps, it is hitting the stumps. They should take away umpire’s call, if I’m being perfectly honest.”
+
+My personal opinion is if the ball is hitting the stumps Ben Stokes
+
+This is the second successive match in which Crawley has been dismissed in controversial circumstances after DRS surprisingly overturned the on-field ‘not out’ verdict in Visakhapatnam two weeks ago.
+
+“We just wanted some clarity around Zak’s DRS when the images came back,” Stokes told reporters.
+
+“The ball is quite clearly missing the stump on the replay. So when it gets given umpire’s call and the ball’s not actually hitting the stumps, we were a bit bemused.
+
+“I don’t want to get too much into it because it sounds like we are moaning and saying that is why we lost the Test match.”

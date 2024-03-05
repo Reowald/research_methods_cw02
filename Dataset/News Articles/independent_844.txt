@@ -1,0 +1,61 @@
+Sign up to our free Living Well email for advice on living a happier, healthier and longer life Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+After a change in job role, I was recently asked by a friend whether I’d had a pay rise.
+
+“No,” I said. “But I’m much happier now. It’s less stressful and more creative. I spend all day writing instead of updating spreadsheets and replying to emails.”
+
+“Ah, I see,” he replied, nodding sagely. “You haven’t had a pay rise – you’ve had a life rise.”
+
+I adored this off-the-cuff portmanteau; nothing could have better summed up my situation. A “life rise” – that’s precisely what I’d had. And the more I thought about it, the more I realised that, given the choice, I would likely choose this measure of satisfaction rather than a salary bump nine times out of 10. This, even though the soaring costs of everyday life currently mean my savings (soon to be known as “what savings?”) are taking a hammering every month.
+
+It was a particularly welcome revelation given the news that workers in the UK are looking at smaller pay rises this year. Employers are planning the most meagre salary increases since the pandemic, according to a labour market outlook report from the Chartered Institute of Personnel and Development (CIPD).
+
+Having stayed at 5 per cent for over a year, the average pay increase is expected to fall to 4 per cent in 2024 – the first decrease since 2020. “This feels like a key moment in the UK labour market,” said Jon Boys, senior labour market economist for the CIPD. “Employer attention is shifting from helping staff weather the cost of living crisis to focusing on business sustainability and growth, which will impact headcount in some places.”
+
+It’s a worrying trend. There’s no point in pretending that money doesn’t matter; it hugely impacts our quality of life, ranging from dictating whether we can afford to put the heating on to whether we can go on holiday this year. “Poverty makes people miserable,” says Paul Dolan, behavioural scientist and author of Happiness by Design and Happy Ever After. “When you hear people glibly say that ‘money doesn’t make you happy’, it’s always people who have money. You don’t hear poor people saying that.”
+
+Physiological needs should be met before we focus on other needs (Getty)
+
+“The issue is that wages haven’t risen with prices over the last few years,” adds Bruce Daisley, best-selling author of The Joy of Work and Eat Sleep Work Repeat. “So workers who are already struggling with student loans, rising rent and escalating living costs feel like having a motivating job is a trade-off choice. This is where the Commencement Speech nonsense telling people they’ve got to ‘love what you do’ can end up making us feel like we need to trade food on the table for a sense of self-esteem in our work.”
+
+It echoes Maslow’s Hierarchy of Needs – the idea that basic needs, such as having shelter and food, need to be met before an individual can satisfy needs higher up the chain, such as creativity, confidence and achievement.
+
+But once you do reach a tipping point, the bottom line might not be as important as you think. The relationship between income and happiness is “logarithmic”, according to research – it means that if you doubled your salary from £20k to £40k, to experience the same uptick in happiness again, you’d have to double it to £80k. As well as diminishing returns, there’s also a ceiling: past £120k (this, in itself, only ever achieved by the top 1 per cent of Brits), we “no longer detect a statistically significant relationship between further money and life satisfaction”, Jan-Emmanuel De Neve, professor of economics and behavioural science at the University of Oxford, told BBC Radio 4’s Money Box.
+
+And while pay and promotions are necessary, they’re not sufficient for true happiness. “They are ‘satisfiers’ but not ‘motivators’,” says Tracy Brower, author of The Secrets to Happiness at Work. “They feed extrinsic needs, but don’t help us feel deeper levels of fulfilment or satisfaction. The elements that pay higher dividends are meaningful work, relationships and growth.”
+
+Timely, salient and authentic feedback makes people feel like their job is worthwhile Paul Dolan
+
+In fact, using money as an incentive might, somewhat counterintuitively, have a negative impact on employee wellbeing. According to research carried out by the University of East Anglia, performance-related pay is associated with the feeling that work might be too demanding or that there’s insufficient time to get work done.
+
+“Even though employees may value these earnings as a ‘good thing’, the ultimate beneficiary of their extra effort is the organisation,” said Norwich Business School’s Dr Chidiebere Ogbonnaya. “As a consequence, performance-related pay may be considered exploitative, or a management strategy that increases both earnings and work intensification.”
+
+The biggest factors in determining whether we’ll be happy in our jobs day-to-day aren’t likely to be financial, experts agree. “A lot of firms have seen what competitors offer and think happiness at work is about perks and benefits,” says Daisley. “Tech firms are a huge culprit here – they’ve thrown doughnuts at the challenge and it’s created confusion. The ‘Smoothie Delusion’ – the idea that free snacks and drinks can make people love their jobs – is misguided.”
+
+Instead, we want to be seen, adds Daisley: “Seen by bosses – 80 per cent of people who say they’ve had direct feedback about their work in the last week say they are engaged in their jobs – and seen by other people. The biggest predictor of whether we like our jobs is whether we’ve got a close friendship at work.”
+
+Relationships are key to whether we enjoy our work (Getty)
+
+Dolan agrees that it’s all about feedback and purpose: “Timely, salient and authentic feedback makes people feel like their job is worthwhile. That speaks to purpose, which is fundamental for happiness. Most people don’t go to work for fun – they want to feel like they’re doing something worthwhile. We all want to feel like our job has a point.”
+
+There are four characteristics of happiness, says Brower: dedication, immersion, vigour and mattering. “We tend to feel happy when we feel dedication to a task or responsibility – we are committed to it. In addition, we tend to feel happiest when we are immersed – we get into flow, lose track of time and become immersed in the work. We also tend to feel happy with vigour – when we are energised by our work and want to put our energy into it. And finally, we feel happy when we feel that our work really matters.”
+
+It’s obvious, but being around people you genuinely like being around makes a huge difference – as does being around people in general. For those who have a job where they work from home part of the time, Dolan recommends going into the office one day more a week than they want to. “We often mis-predict what’s best for us,” he says. “Three days a week spent at home can be quite lonely. We’re generally happier and more productive around other people – that’s even true of introverts.”
+
+While we aren’t in control of various elements at work, including the general workplace culture or whether we’ll be under the wing of a good manager, there are certain things we can do to give ourselves a “life rise” boost.
+
+Is there someone you can laugh with, gossip with and feel human again? If not, make that your next item on your to-do list Bruce Daisley
+
+“It is key to happiness to realise you can create the conditions for happiness yourself, and you don’t have to wait for things to be just right in your circumstances,” Brower agrees. “Focus on your purpose and remind yourself how your contributions matter to others – even if they are seemingly small or ordinary.” Take stock of what you’ve achieved – research suggests people are happiest at work when they feel they’ve made progress on something meaningful in the course of their day.
+
+Again, relationships are vital to our overall happiness, at work as much as outside of it, so we should “invest in relationships,” advises Brower. “Whether we are more introverted or more extroverted, we have a need for connection and belonging.” Daisley agrees, asking, “Is there someone you can laugh with, gossip with and feel human again? If not, make that your next item on your to-do list.”
+
+He also advises creating boundaries with your time at work to increase your enjoyment: “Try to commit to taking that lunch break, find a way to carve out time to have a meeting with yourself (sometimes referred to as a ‘Schultz Hour’).”
+
+Finally, those who are happier outside of work generally report being happier in it. Enrich your free time with hobbies and side passions, suggests Daisley. “When our work isn’t the entirety of our lives, we can have a degree more perspective on it.”
+
+But what if you’ve tried all of the above – being mindful of your progress, building connections, putting in boundaries, improving your life outside the 9-5 – and you’re still miserable? It might be time to call it quits. When something “is neither pleasurable or purposeful, we really should consider why we’re doing it,” says Dolan. “Consider getting out. Otherwise we get into habit loops, where we’re continually doing the same things and wondering why nothing ever changes.”
+
+As Daisley puts it: “Our jobs create the climate in our lives. If you’ve got a job you hate, then the rain clouds of doom descend on a Sunday night. Returning from holidays becomes fearful. If work is making the rest of your life miserable, you should think of long-term or short-term ways to change that relationship.”
