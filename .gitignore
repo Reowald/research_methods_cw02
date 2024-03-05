@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+Dataset/
+
 /mirror_data
 
 # Distribution / packaging
