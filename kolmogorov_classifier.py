@@ -1,10 +1,14 @@
 import os
 
+<<<<<<< HEAD
 # Function to linearize file size
 def linearize_value(value, min_value, max_value, target_range):
     # Scale the value to the target range
     scaled_value = (value - min_value) / (max_value - min_value) * target_range
     return scaled_value
+=======
+#psuedo code that roughly explains process
+>>>>>>> 73f4795a6f5a6912507600a03321ff6798349f26
 
 # Function to train the Kolmogorov model
 def kolmogorov_model_trainer(input_values):
