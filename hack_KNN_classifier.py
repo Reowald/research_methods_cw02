@@ -14,7 +14,7 @@ def extract_label(filename):
 def get_file_size(filepath):
     return os.path.getsize(filepath)
 
-data_dir = r'C:\Users\ryand\Code\Data\Dataset News Articles\News Articles\compressed'
+data_dir = "Dataset/News Articles/compressed"
 
 # List to store file sizes and corresponding labels
 file_sizes = []
@@ -57,7 +57,7 @@ for i, label in enumerate(unique_labels):
 
 plt.title('Visualization of Test Data Labels and Linearized Label Data')
 plt.xlabel('File Size')
-plt.ylabel('Label')
+#plt.ylabel('Label')
 plt.legend()
 plt.grid(True)
 plt.show()
@@ -89,7 +89,7 @@ selected_distances = distances[selected_indices]
 selected_indices_neighbors = indices[selected_indices]
 
 # Plot nearest neighbors for each selected test data point
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(8, 6))
 
 for i, idx in enumerate(selected_indices):
     plt.subplot(num_samples, 1, i+1)
@@ -98,7 +98,7 @@ for i, idx in enumerate(selected_indices):
     plt.scatter(X_train[selected_indices_neighbors[i]], y_train[selected_indices_neighbors[i]], c='green', label='Nearest Neighbors', marker='o')
     plt.title(f"Nearest Neighbors for Test Data Point {idx}")
     plt.xlabel('File Size')
-    plt.ylabel('Label')
+    #plt.ylabel('Label')
     plt.legend()
     plt.grid(True)
     
