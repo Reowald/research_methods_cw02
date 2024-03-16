@@ -49,4 +49,4 @@ class My1NN(BaseEstimator, ClassifierMixin):
 
 
 my_1nn = My1NN()
-my_1nn.fit(X_train, y_train);
+my_1nn.fit(X_train, y_train)
